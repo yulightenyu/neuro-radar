@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neuro Radar · 阿尔茨海默病知识库</title>
+<style>
+:root{
+  --paper:#f4f2ec; --card:#fbfaf6; --ink:#1c1f26; --sub:#5a6472; --faint:#8b94a3;
+  --line:#ddd8cc; --rule:#c9c3b4;
+  --clinical:#1d5e7a; --clinical-soft:#e3eef2;
+  --drug:#9c4221; --mech:#6b4593; --dx:#1d5e7a; --prev:#2f6b46;
+  --ev-rct:#2f6b46; --ev-cohort:#1d5e7a; --ev-mech:#6b4593; --ev-debate:#9c4221; --ev-obs:#8b6914;
+  --serif:'Spectral','Songti SC','Source Han Serif SC',Georgia,serif;
+  --sans:'Inter','PingFang SC','Microsoft YaHei',system-ui,sans-serif;
+  --mono:'SF Mono',ui-monospace,'JetBrains Mono',Menlo,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);
+  font-size:15px;line-height:1.65;-webkit-font-smoothing:antialiased;padding-bottom:80px}
+.wrap{max-width:880px;margin:0 auto;padding:0 22px}
+header{padding:34px 0 24px;border-bottom:2px solid var(--ink)}
+.kicker{font-family:var(--mono);font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--clinical);margin-bottom:10px}
+header h1{font-family:var(--serif);font-size:32px;font-weight:700;line-height:1.1;letter-spacing:-.01em}
+header .sub{font-family:var(--serif);font-size:16px;color:var(--sub);font-style:italic;margin-top:8px}
+.disclaimer{margin-top:18px;padding:11px 14px;background:var(--clinical-soft);
+  border-left:3px solid var(--clinical);font-size:12.5px;color:var(--sub);border-radius:0 4px 4px 0}
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 0}
+.badge{font-family:var(--mono);font-size:10px;letter-spacing:.04em;padding:2px 8px;border-radius:3px;
+  color:#fff;font-weight:600;white-space:nowrap}
+.b-rct{background:var(--ev-rct)} .b-cohort{background:var(--ev-cohort)}
+.b-mech{background:var(--ev-mech)} .b-debate{background:var(--ev-debate)} .b-obs{background:var(--ev-obs)}
+.legend .badge{opacity:.92}
+section{margin:46px 0 0}
+.sec-head{display:flex;align-items:baseline;gap:12px;margin-bottom:6px;
+  padding-bottom:8px;border-bottom:1px solid var(--rule)}
+.sec-head .ord{font-family:var(--mono);font-size:12px;color:var(--faint)}
+.sec-head h2{font-family:var(--serif);font-size:22px;font-weight:600}
+.sec-intro{font-size:14px;color:var(--sub);margin:10px 0 18px;font-style:italic;font-family:var(--serif)}
+.entry{margin:0 0 4px;padding:15px 0;border-bottom:1px solid var(--line)}
+.entry:last-child{border-bottom:none}
+.entry .top{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-bottom:7px}
+.entry h3{font-size:16px;font-weight:650;color:var(--ink)}
+.entry .body{font-size:14.5px;color:#2b3038}
+.entry .term{font-family:var(--mono);font-size:12.5px;background:#eceae2;padding:1px 5px;border-radius:3px;color:#444}
+.entry .note{margin-top:7px;font-size:13px;color:var(--sub);padding-left:12px;border-left:2px solid var(--line)}
+.feed-meta{font-family:var(--mono);font-size:11px;color:var(--faint);margin-bottom:4px}
+.live-head{display:flex;align-items:center;gap:10px;margin:60px 0 4px;
+  padding-bottom:8px;border-bottom:2px solid var(--ink)}
+.live-head h2{font-family:var(--serif);font-size:24px;font-weight:700}
+.live-dot{width:8px;height:8px;border-radius:50%;background:var(--ev-rct);
+  box-shadow:0 0 0 0 rgba(47,107,70,.5);animation:pulse 2.4s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(47,107,70,.45)}70%{box-shadow:0 0 0 7px rgba(47,107,70,0)}100%{box-shadow:0 0 0 0 rgba(47,107,70,0)}}
+.updated{font-family:var(--mono);font-size:11px;color:var(--faint);margin-left:auto}
+.feed-sec{margin:30px 0 0}
+.feed-sec .fh{display:flex;align-items:center;gap:9px;margin-bottom:12px}
+.feed-sec .tab{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.05em;
+  padding:3px 10px;border-radius:3px;color:#fff}
+.tab.drug{background:var(--drug)} .tab.mech{background:var(--mech)}
+.tab.dx{background:var(--dx)} .tab.prev{background:var(--prev)}
+.paper{padding:13px 0;border-bottom:1px solid var(--line)}
+.paper:last-child{border-bottom:none}
+.paper .zh{font-size:15px;font-weight:600;color:var(--ink);line-height:1.5}
+.paper .en{font-size:13px;color:var(--sub);margin-top:5px;line-height:1.45}
+.paper .src{font-family:var(--mono);font-size:11px;color:var(--clinical);margin-top:6px}
+.paper a{color:inherit;text-decoration:none}
+.paper a:hover .zh{text-decoration:underline;text-underline-offset:2px}
+.empty{font-family:var(--mono);font-size:12.5px;color:var(--faint);padding:16px 0}
+footer{margin-top:60px;padding-top:20px;border-top:1px solid var(--rule);
+  font-size:12px;color:var(--faint);line-height:1.7}
+footer .mono{font-family:var(--mono)}
+@media(max-width:560px){
+  header h1{font-size:26px}
+  .sec-head h2{font-size:19px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="kicker">Neuroscience Reference · Alzheimer's Disease</div>
+  <h1>阿尔茨海默病 · 硬核知识库</h1>
+  <div class="sub">从分子机制到临床争议，每条结论标注证据等级</div>
+  <div class="disclaimer">本知识库面向专业读者，呈现证据与争议而非给出诊疗建议。内容不替代执业医师的诊断与治疗。如有症状请就诊神经内科或记忆门诊。</div>
+  <div class="legend">
+    <span class="badge b-rct">RCT 随机对照</span>
+    <span class="badge b-cohort">COHORT 队列研究</span>
+    <span class="badge b-mech">MECH 机制推测</span>
+    <span class="badge b-debate">DEBATE 存在争议</span>
+    <span class="badge b-obs">OBS 观察性关联</span>
+  </div>
+</header>
+
+<section>
+  <div class="sec-head"><span class="ord">Ⅰ</span><h2>核心病理机制</h2></div>
+  <div class="sec-intro">疾病在症状出现前 10–20 年即已开始。以下是当前主流的病理框架。</div>
+  <div class="entry">
+    <div class="top"><h3>淀粉样级联假说</h3><span class="badge b-debate">DEBATE</span></div>
+    <div class="body">β-淀粉样蛋白（<span class="term">Aβ</span>）在神经元外异常聚集形成斑块，长期被视为发病的起始驱动。三十年来主导药物研发，但"清除斑块=改善认知"的因果链在临床上反复受挫，假说本身正受到质疑。</div>
+    <div class="note">关键区分：Aβ 与发病<b>相关</b>，但抗淀粉样药物的临床获益有限，说明它可能是上游标志而非唯一可干预环节。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>tau 病理与神经原纤维缠结</h3><span class="badge b-cohort">COHORT</span></div>
+    <div class="body">过度磷酸化的 <span class="term">tau</span> 蛋白在神经元内形成缠结（neurofibrillary tangles）。与淀粉样相比，<b>tau 病理的扩散程度与认知衰退速度的相关性更强</b>，因此 tau 已成为下一代药物的主要靶点。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>神经炎症与小胶质细胞</h3><span class="badge b-mech">MECH</span></div>
+    <div class="body">小胶质细胞（microglia）的慢性激活与 <span class="term">TREM2</span>、<span class="term">APOE</span> 等通路参与病程。神经炎症既可能是清除机制，也可能加速损伤，是当前机制研究的活跃前沿。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>APOE 基因型与遗传风险</h3><span class="badge b-cohort">COHORT</span></div>
+    <div class="body"><span class="term">APOE ε4</span> 等位基因是散发性 AD 最强的遗传风险因子，携带者风险显著升高且发病更早；<span class="term">APOE ε2</span> 则具保护性。基因型也影响抗淀粉样药物的 ARIA 风险。</div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="ord">Ⅱ</span><h2>诊断与生物标志物</h2></div>
+  <div class="sec-intro">领域正从"症状诊断"转向"生物标志物驱动的临床前期识别"。</div>
+  <div class="entry">
+    <div class="top"><h3>血液标志物：p-tau217</h3><span class="badge b-cohort">COHORT</span></div>
+    <div class="body">血浆 <span class="term">p-tau217</span> 是近年最重要的进展之一，可在临床前期反映 AD 病理，准确度接近 PET 而成本极低，正推动低门槛筛查的可行性。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>影像与脑脊液</h3><span class="badge b-cohort">COHORT</span></div>
+    <div class="body"><span class="term">淀粉样 PET</span> 与 <span class="term">CSF Aβ42/40、p-tau</span> 仍是确认病理的金标准，但侵入性与成本高。血液标志物正在部分替代其筛查功能。</div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="ord">Ⅲ</span><h2>药物治疗现状</h2></div>
+  <div class="sec-intro">这是本领域当前最大的张力点：获批 ≠ 临床有意义。</div>
+  <div class="entry">
+    <div class="top"><h3>抗淀粉样抗体：lecanemab / donanemab</h3><span class="badge b-debate">DEBATE</span></div>
+    <div class="body"><span class="term">Leqembi (lecanemab)</span> 与 <span class="term">Kisunla (donanemab)</span> 是首批靶向病理的获批药物，三期试验（CLARITY-AD、TRAILBLAZER-ALZ 2）显示<b>统计学上显著</b>减缓早期认知衰退。</div>
+    <div class="note"><b>争议核心</b>：2026 年 4 月 Cochrane 综述（17 项试验、20342 人）认为该类药 18 个月的认知获益按临床标准"很可能几乎没有差别"，效应"微不足道"。<b>统计显著 ≠ 患者能感知的临床获益</b>——这是理解当前争议的关键。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>ARIA：淀粉样相关影像异常</h3><span class="badge b-rct">RCT</span></div>
+    <div class="body">抗淀粉样抗体的主要安全风险是 <span class="term">ARIA</span>（脑水肿/微出血），APOE ε4 纯合子风险更高。监测已趋严格，需在特定输注节点前做 MRI。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>给药方式演进</h3><span class="badge b-rct">RCT</span></div>
+    <div class="body">Leqembi 的<b>皮下自注射</b>剂型获批，让患者可居家给药，降低静脉输注负担——这是可及性而非疗效的进步。</div>
+  </div>
+</section>
+<section>
+  <div class="sec-head"><span class="ord">Ⅳ</span><h2>在研管线方向</h2></div>
+  <div class="sec-intro">研究重心正在超越淀粉样，多通路并进。</div>
+  <div class="entry">
+    <div class="top"><h3>脑穿梭抗体：trontinemab</h3><span class="badge b-rct">RCT</span></div>
+    <div class="body">通过转铁蛋白受体"穿梭"跨越血脑屏障，理论上<b>更低剂量、更快清除、更低 ARIA</b>，已进入三期。代表抗淀粉样路线的工程优化。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>tau 靶向疗法</h3><span class="badge b-mech">MECH</span></div>
+    <div class="body">基于 tau 与衰退相关性更强，多个 tau 靶向候选（抗体、ASO 反义寡核苷酸）进入临床，是后淀粉样时代最受关注的方向。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>GLP-1 受体激动剂再利用</h3><span class="badge b-mech">MECH</span></div>
+    <div class="body">原用于糖尿病的 <span class="term">GLP-1 RA</span>（如 semaglutide）因降神经炎症、支持神经元存活的潜力，被探索用于 AD 神经保护。代表"老药新用"思路。</div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="ord">Ⅴ</span><h2>风险因素与预防</h2></div>
+  <div class="sec-intro">重要前提：以下是<b>风险关联</b>，非治疗手段。多数证据为观察性，相关不等于因果。</div>
+  <div class="entry">
+    <div class="top"><h3>结构化生活方式干预</h3><span class="badge b-rct">RCT</span></div>
+    <div class="body">U.S. POINTER 试验（2025）是少数 <b>RCT 级</b>证据：结构化的运动、饮食、认知与社交干预组合，对高危人群认知有可测量的正面影响。这是预防领域证据等级最高的一类。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>饮食模式</h3><span class="badge b-obs">OBS</span></div>
+    <div class="body">地中海饮食、MIND 饮食与<b>较低的认知下降风险相关</b>，但多为观察性队列。<b>不存在能"治疗"已确诊 AD 的食物</b>；饮食的作用在于长期风险调节。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>体育活动与认知储备</h3><span class="badge b-cohort">COHORT</span></div>
+    <div class="body">规律有氧运动、终身学习、社交参与可提升<span class="term">认知储备（cognitive reserve）</span>，延迟症状显现。机制部分明确，但因果强度仍依赖更多干预试验。</div>
+  </div>
+  <div class="entry">
+    <div class="top"><h3>可控的血管与代谢因素</h3><span class="badge b-cohort">COHORT</span></div>
+    <div class="body">中年高血压、糖尿病、肥胖、吸烟、听力损失与痴呆风险相关。Lancet 委员会估计相当比例的痴呆可通过管理可控因素而延迟或预防。</div>
+  </div>
+</section>
+
+<div class="live-head">
+  <span class="live-dot"></span>
+  <h2>前沿动态</h2>
+  <span class="updated" id="updated">载入中…</span>
+</div>
+<div class="feed-meta">实时自 PubMed 抓取最新同行评审文献，每条附中文精华，点击跳原文。</div>
+<div id="live"></div>
+
+<footer>
+  <div>Neuro Radar · 数据源 <span class="mono">PubMed (NCBI E-utilities)</span> · 中文精华由 LLM 生成，可能有误，以原文为准</div>
+  <div style="margin-top:6px">证据等级为编者依研究设计标注，非官方分级 · 本页仅供学习研究，不构成医疗建议</div>
+</footer>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const ACCENT = {drug:'drug', mech:'mech', dx:'dx', prev:'prev'};
+function renderLive(d){
+  const feeds = d.feeds || [];
+  const items = d.items || {};
+  let html = '';
+  for(const f of feeds){
+    const arr = items[f.id] || [];
+    html += `<div class="feed-sec"><div class="fh"><span class="tab ${ACCENT[f.id]||'dx'}">${f.title}</span></div>`;
+    if(!arr.length){
+      html += `<div class="empty">暂无数据（检查 fetch.py 日志或该路检索式）</div>`;
+    } else {
+      html += arr.map(it=>{
+        const dt = [it.year, it.month].filter(Boolean).join(' ');
+        return `<div class="paper"><a href="${it.link}" target="_blank" rel="noopener">
+          ${it.zh?`<div class="zh">${it.zh}</div>`:''}
+          <div class="en">${it.title}</div>
+          <div class="src">${it.journal||''}${dt?' · '+dt:''}${it.pmid?' · PMID '+it.pmid:''}</div>
+        </a></div>`;
+      }).join('');
+    }
+    html += `</div>`;
+  }
+  $("live").innerHTML = html;
+}
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{
+  const u = new Date(d.updated);
+  $("updated").textContent = '更新 '+u.toLocaleString('zh-CN',{hour12:false});
+  renderLive(d);
+}).catch(e=>{
+  $("updated").textContent = 'data.json 待生成';
+  $("live").innerHTML = '<div class="empty">尚未生成 data.json — 首次运行 fetch.py 后此处显示最新文献</div>';
+  console.error(e);
+});
+</script>
+</body>
+</html>

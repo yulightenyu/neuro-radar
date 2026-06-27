@@ -1,0 +1,35 @@
+{
+  "_comment": "四路 PubMed 检索式。改 term 即可调整每路抓取内容。retmax=每路抓几条。",
+  "feeds": [
+    {
+      "id": "drug",
+      "title": "药物 · 临床试验",
+      "term": "(lecanemab OR donanemab OR \"anti-amyloid\" OR \"tau-targeting\" OR trontinemab) AND (\"clinical trial\"[Publication Type] OR phase OR efficacy)",
+      "accent": "drug"
+    },
+    {
+      "id": "mech",
+      "title": "机制 · 基础研究",
+      "term": "(\"Alzheimer Disease\"[Mesh]) AND (amyloid OR tau OR neuroinflammation OR APOE OR microglia) AND (mechanism OR pathology OR pathogenesis)",
+      "accent": "mech"
+    },
+    {
+      "id": "dx",
+      "title": "诊断 · 生物标志物",
+      "term": "(Alzheimer) AND (\"p-tau217\" OR \"plasma biomarker\" OR \"blood biomarker\" OR \"amyloid PET\" OR \"GFAP\") AND (diagnosis OR detection OR screening)",
+      "accent": "dx"
+    },
+    {
+      "id": "prev",
+      "title": "预防 · 生活方式",
+      "term": "(Alzheimer OR dementia) AND (prevention OR diet OR exercise OR \"cognitive reserve\" OR lifestyle OR \"physical activity\") AND (cohort OR \"risk factor\" OR longitudinal)",
+      "accent": "prev"
+    }
+  ],
+  "retmax": 8,
+  "deepseek": {
+    "_comment": "DeepSeek key 走环境变量 DEEPSEEK_API_KEY，不写这里。",
+    "model": "deepseek-chat",
+    "base_url": "https://api.deepseek.com/v1/chat/completions"
+  }
+}
