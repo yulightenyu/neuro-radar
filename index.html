@@ -230,7 +230,8 @@ const $ = id => document.getElementById(id);
 const ACCENT = {drug:'drug', mech:'mech', dx:'dx', prev:'prev', intro:'intro'};
 const EV_LABEL = {META:'荟萃', RCT:'RCT', COHORT:'队列', CASE:'病例', ANIMAL:'动物', INVITRO:'体外', REVIEW:'综述', OTHER:''};
 let GLOSSARY = {}, GLOSSARY_KEYS = [];
-function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function unent(s){return String(s).replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&apos;/g,"'");}
+function esc(s){return unent(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function annotate(text){
   let safe = esc(text);
   for(const term of GLOSSARY_KEYS){
