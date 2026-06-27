@@ -66,6 +66,10 @@ section{margin:46px 0 0}
   padding:3px 10px;border-radius:3px;color:#fff}
 .tab.drug{background:var(--drug)} .tab.mech{background:var(--mech)}
 .tab.dx{background:var(--dx)} .tab.prev{background:var(--prev)} .tab.intro{background:#5a6472}
+.ev{font-family:var(--mono);font-size:9px;letter-spacing:.04em;padding:1px 6px;border-radius:3px;color:#fff;font-weight:600;vertical-align:middle;margin-right:7px}
+.ev-META{background:#1a5c3a} .ev-RCT{background:#2f6b46} .ev-COHORT{background:#1d5e7a}
+.ev-CASE{background:#8b6914} .ev-ANIMAL{background:#6b4593} .ev-INVITRO{background:#7a5a93}
+.ev-REVIEW{background:#8b94a3} .ev-OTHER{background:#a8a294}
 .paper{padding:13px 0;border-bottom:1px solid var(--line)}
 .paper:last-child{border-bottom:none}
 .paper .zh{font-size:15px;font-weight:600;color:var(--ink);line-height:1.5}
@@ -218,6 +222,7 @@ footer .mono{font-family:var(--mono)}
 <script>
 const $ = id => document.getElementById(id);
 const ACCENT = {drug:'drug', mech:'mech', dx:'dx', prev:'prev', intro:'intro'};
+const EV_LABEL = {META:'荟萃', RCT:'RCT', COHORT:'队列', CASE:'病例', ANIMAL:'动物', INVITRO:'体外', REVIEW:'综述', OTHER:''};
 function renderLive(d){
   const feeds = d.feeds || [];
   const items = d.items || {};
@@ -230,8 +235,10 @@ function renderLive(d){
     } else {
       html += arr.map(it=>{
         const dt = [it.year, it.month].filter(Boolean).join(' ');
+        const ev = it.evidence && it.evidence!=='OTHER'
+          ? `<span class="ev ev-${it.evidence}">${EV_LABEL[it.evidence]||it.evidence}</span>` : '';
         return `<div class="paper"><a href="${it.link}" target="_blank" rel="noopener">
-          ${it.zh?`<div class="zh">${it.zh}</div>`:''}
+          ${it.zh?`<div class="zh">${ev}${it.zh}</div>`:(ev?`<div class="zh">${ev}</div>`:'')}
           <div class="en">${it.title}</div>
           <div class="src">${it.journal||''}${dt?' · '+dt:''}${it.pmid?' · PMID '+it.pmid:''}</div>
         </a></div>`;

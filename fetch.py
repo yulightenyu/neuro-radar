@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Neuro Radar — 阿尔茨海默病前沿资讯
- - PubMed E-utilities 五路检索（esearch -> efetch），无需 key
- - 每条调 DeepSeek 生成中文摘要（前沿专业 / 新手村口语化）
+ - PubMed E-utilities 五路检索，无需 key
+ - DeepSeek 生成中文摘要（专业/口语）+ 自动证据分级
 环境变量：DEEPSEEK_API_KEY
 """
 import json, datetime, time, traceback, re, os
@@ -57,6 +57,47 @@ def efetch(pmids):
     return out
 
 
+def _ds_call(prompt, max_tokens=120, temperature=0.3):
+    if not DS_KEY:
+        return ""
+    body = json.dumps({
+        "model": CFG["deepseek"]["model"],
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": temperature, "max_tokens": max_tokens,
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        CFG["deepseek"]["base_url"], data=body,
+        headers={"Content-Type": "application/json",
+                 "Authorization": "Bearer " + DS_KEY})
+    try:
+        r = urllib.request.urlopen(req, timeout=40)
+        d = json.loads(r.read())
+        return " ".join(d["choices"][0]["message"]["content"].split())
+    except Exception:
+        traceback.print_exc()
+        return ""
+
+
+GRADES = {"META", "RCT", "COHORT", "CASE", "ANIMAL", "INVITRO", "REVIEW", "OTHER"}
+
+def deepseek_grade(title, abstract):
+    if not DS_KEY:
+        return ""
+    prompt = (
+        "判断下面这篇阿尔茨海默病论文属于哪种研究类型，只能从以下标签里选一个，"
+        "直接输出这个英文标签，不要任何其它字：\n"
+        "META（荟萃分析/系统综述）、RCT（随机对照试验）、COHORT（队列/前瞻观察）、"
+        "CASE（病例报告/横断面）、ANIMAL（动物实验）、INVITRO（细胞/体外）、"
+        "REVIEW（普通综述/叙述性）、OTHER（其它或无法判断）。\n\n"
+        "标题：%s\n摘要：%s" % (title, abstract[:600])
+    )
+    out = _ds_call(prompt, max_tokens=8, temperature=0).upper()
+    for g in GRADES:
+        if g in out:
+            return g
+    return "OTHER"
+
+
 def deepseek_summary(title, abstract, style="pro"):
     if not DS_KEY:
         return ""
@@ -75,22 +116,7 @@ def deepseek_summary(title, abstract, style="pro"):
             "只输出这句话，不要任何前缀、引号或解释。\n\n"
             "标题：%s\n摘要：%s" % (title, abstract[:800])
         )
-    body = json.dumps({
-        "model": CFG["deepseek"]["model"],
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.3, "max_tokens": 120,
-    }).encode("utf-8")
-    req = urllib.request.Request(
-        CFG["deepseek"]["base_url"], data=body,
-        headers={"Content-Type": "application/json",
-                 "Authorization": "Bearer " + DS_KEY})
-    try:
-        r = urllib.request.urlopen(req, timeout=40)
-        d = json.loads(r.read())
-        return " ".join(d["choices"][0]["message"]["content"].split())[:80]
-    except Exception:
-        traceback.print_exc()
-        return ""
+    return _ds_call(prompt, max_tokens=120)[:80]
 
 
 def main():
@@ -108,6 +134,7 @@ def main():
         st = feed.get("style", "pro")
         for it in items:
             it["zh"] = deepseek_summary(it["title"], it["abstract"], st)
+            it["evidence"] = deepseek_grade(it["title"], it["abstract"])
             it.pop("abstract", None)
             time.sleep(0.2)
         result[feed["id"]] = items
