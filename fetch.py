@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Neuro Radar — 阿尔茨海默病前沿资讯
- - PubMed E-utilities 四路检索（esearch -> efetch），无需 key
- - 每条调 DeepSeek 生成一句中文精华摘要（点破核心发现）
- - 输出 data.json 供前端渲染
-环境变量：DEEPSEEK_API_KEY（GitHub Secrets 注入）
+ - PubMed E-utilities 五路检索（esearch -> efetch），无需 key
+ - 每条调 DeepSeek 生成中文摘要（前沿专业 / 新手村口语化）
+环境变量：DEEPSEEK_API_KEY
 """
 import json, datetime, time, traceback, re, os
 import urllib.request, urllib.parse
@@ -58,15 +57,24 @@ def efetch(pmids):
     return out
 
 
-def deepseek_summary(title, abstract):
+def deepseek_summary(title, abstract, style="pro"):
     if not DS_KEY:
         return ""
-    prompt = (
-        "你是神经科学领域的医学编辑。下面是一篇阿尔茨海默病相关论文的标题和摘要，"
-        "请用一句话中文（20-45字）点破它的核心发现或结论，让专业读者扫一眼就能判断要不要深入读。"
-        "只输出这句话，不要任何前缀、引号或解释。\n\n"
-        "标题：%s\n摘要：%s" % (title, abstract[:800])
-    )
+    if style == "plain":
+        prompt = (
+            "你是科普作者，要把一篇阿尔茨海默病的综述讲给完全没有医学背景的普通人听。"
+            "请用一句大白话中文（25-50字）说清这篇综述在讲什么、对外行有什么用，"
+            "避免专业术语，必须出现的术语用最简单的方式带过。"
+            "只输出这句话，不要前缀、引号或解释。\n\n"
+            "标题：%s\n摘要：%s" % (title, abstract[:800])
+        )
+    else:
+        prompt = (
+            "你是神经科学领域的医学编辑。下面是一篇阿尔茨海默病相关论文的标题和摘要，"
+            "请用一句话中文（20-45字）点破它的核心发现或结论，让专业读者扫一眼就能判断要不要深入读。"
+            "只输出这句话，不要任何前缀、引号或解释。\n\n"
+            "标题：%s\n摘要：%s" % (title, abstract[:800])
+        )
     body = json.dumps({
         "model": CFG["deepseek"]["model"],
         "messages": [{"role": "user", "content": prompt}],
@@ -97,8 +105,9 @@ def main():
             time.sleep(0.4)
         except Exception:
             traceback.print_exc()
+        st = feed.get("style", "pro")
         for it in items:
-            it["zh"] = deepseek_summary(it["title"], it["abstract"])
+            it["zh"] = deepseek_summary(it["title"], it["abstract"], st)
             it.pop("abstract", None)
             time.sleep(0.2)
         result[feed["id"]] = items

@@ -45,6 +45,13 @@ section{margin:46px 0 0}
 .entry .body{font-size:14.5px;color:#2b3038}
 .entry .term{font-family:var(--mono);font-size:12.5px;background:#eceae2;padding:1px 5px;border-radius:3px;color:#444}
 .entry .note{margin-top:7px;font-size:13px;color:var(--sub);padding-left:12px;border-left:2px solid var(--line)}
+.starter{background:linear-gradient(170deg,#eef2ea,#f6f4ee);border:1px solid var(--line);border-radius:8px;padding:20px 20px 8px;margin-top:18px}
+.starter .lead{font-family:var(--serif);font-size:15px;color:var(--sub);font-style:italic;margin-bottom:16px}
+.qa{padding:13px 0;border-bottom:1px dashed var(--rule)}
+.qa:last-child{border-bottom:none}
+.qa .q{font-size:15.5px;font-weight:650;color:var(--clinical);margin-bottom:5px}
+.qa .q::before{content:"Q ";font-family:var(--mono);font-size:12px;color:var(--faint)}
+.qa .a{font-size:14.5px;color:#2b3038}
 .feed-meta{font-family:var(--mono);font-size:11px;color:var(--faint);margin-bottom:4px}
 .live-head{display:flex;align-items:center;gap:10px;margin:60px 0 4px;
   padding-bottom:8px;border-bottom:2px solid var(--ink)}
@@ -58,7 +65,7 @@ section{margin:46px 0 0}
 .feed-sec .tab{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.05em;
   padding:3px 10px;border-radius:3px;color:#fff}
 .tab.drug{background:var(--drug)} .tab.mech{background:var(--mech)}
-.tab.dx{background:var(--dx)} .tab.prev{background:var(--prev)}
+.tab.dx{background:var(--dx)} .tab.prev{background:var(--prev)} .tab.intro{background:#5a6472}
 .paper{padding:13px 0;border-bottom:1px solid var(--line)}
 .paper:last-child{border-bottom:none}
 .paper .zh{font-size:15px;font-weight:600;color:var(--ink);line-height:1.5}
@@ -91,6 +98,18 @@ footer .mono{font-family:var(--mono)}
     <span class="badge b-obs">OBS 观察性关联</span>
   </div>
 </header>
+
+<section>
+  <div class="sec-head"><span class="ord">○</span><h2>新手村 · 先搞懂这些</h2></div>
+  <div class="starter">
+    <div class="lead">没有医学背景也能看懂的最基础问题。从这里开始。</div>
+    <div class="qa"><div class="q">阿尔茨海默病到底是什么？</div><div class="a">它是最常见的一种"痴呆症"——大脑里的神经细胞逐渐受损、死亡，导致记忆、思考和生活能力一点点退化。它不是正常衰老，而是一种疾病。</div></div>
+    <div class="qa"><div class="q">大脑里到底发生了什么？</div><div class="a">两样东西出了问题：一种叫 β-淀粉样蛋白（Aβ）的物质在脑细胞外结成"斑块"，另一种叫 tau 的蛋白在脑细胞内绞成"缠结"。它们堆积起来，干扰甚至杀死神经元。</div></div>
+    <div class="qa"><div class="q">它和正常老了记性差有什么区别？</div><div class="a">偶尔忘事、想一下能记起来，是正常衰老。如果是反复忘记刚发生的事、迷路、说不出常用词、性格明显变化，且持续加重，才需要警惕——这超出了正常范围。</div></div>
+    <div class="qa"><div class="q">为什么会得？能预防吗？</div><div class="a">年龄是最大因素，遗传（如 APOE 基因）也有影响，这些没法改。但高血压、糖尿病、缺乏运动、听力损失等"可控因素"也相关——管理好它们，能降低风险或推迟发病。</div></div>
+    <div class="qa"><div class="q">现在有药能治好吗？</div><div class="a">还不能"治好"。已有的新药（如 Leqembi）能在早期略微减缓退化，但效果有多大、值不值得，学界仍在激烈争论——这正是下面"药物治疗现状"要讲的。</div></div>
+  </div>
+</section>
 
 <section>
   <div class="sec-head"><span class="ord">Ⅰ</span><h2>核心病理机制</h2></div>
@@ -198,7 +217,7 @@ footer .mono{font-family:var(--mono)}
 
 <script>
 const $ = id => document.getElementById(id);
-const ACCENT = {drug:'drug', mech:'mech', dx:'dx', prev:'prev'};
+const ACCENT = {drug:'drug', mech:'mech', dx:'dx', prev:'prev', intro:'intro'};
 function renderLive(d){
   const feeds = d.feeds || [];
   const items = d.items || {};

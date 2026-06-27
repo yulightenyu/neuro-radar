@@ -1,5 +1,5 @@
 {
-  "_comment": "四路 PubMed 检索式。改 term 即可调整每路抓取内容。retmax=每路抓几条。",
+  "_comment": "五路 PubMed 检索式。改 term 即可调整每路抓取内容。retmax=每路抓几条。",
   "feeds": [
     {
       "id": "drug",
@@ -24,6 +24,13 @@
       "title": "预防 · 生活方式",
       "term": "(Alzheimer OR dementia) AND (prevention OR diet OR exercise OR \"cognitive reserve\" OR lifestyle OR \"physical activity\") AND (cohort OR \"risk factor\" OR longitudinal)",
       "accent": "prev"
+    },
+    {
+      "id": "intro",
+      "title": "新手村 · 入门综述",
+      "term": "(\"Alzheimer Disease\"[Mesh]) AND (\"Review\"[Publication Type]) AND (overview OR introduction OR \"current understanding\" OR primer OR basics)",
+      "accent": "intro",
+      "style": "plain"
     }
   ],
   "retmax": 8,
