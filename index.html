@@ -70,6 +70,12 @@ section{margin:46px 0 0}
 .ev-META{background:#1a5c3a} .ev-RCT{background:#2f6b46} .ev-COHORT{background:#1d5e7a}
 .ev-CASE{background:#8b6914} .ev-ANIMAL{background:#6b4593} .ev-INVITRO{background:#7a5a93}
 .ev-REVIEW{background:#8b94a3} .ev-OTHER{background:#a8a294}
+.term-tip{border-bottom:1px dotted var(--clinical);cursor:help;position:relative}
+.term-tip:hover .tip-box,.term-tip:focus .tip-box{display:block}
+.tip-box{display:none;position:absolute;left:0;bottom:140%;z-index:20;width:260px;background:#1c1f26;color:#e8edf2;font-size:12.5px;line-height:1.55;font-weight:400;padding:10px 12px;border-radius:6px;box-shadow:0 6px 24px rgba(0,0,0,.25);font-family:var(--sans);white-space:normal}
+.tip-box::after{content:"";position:absolute;left:14px;top:100%;border:6px solid transparent;border-top-color:#1c1f26}
+.tip-term{font-family:var(--mono);font-weight:700;color:#7fc4e0;display:block;margin-bottom:3px}
+@media(max-width:560px){.tip-box{width:210px}}
 .paper{padding:13px 0;border-bottom:1px solid var(--line)}
 .paper:last-child{border-bottom:none}
 .paper .zh{font-size:15px;font-weight:600;color:var(--ink);line-height:1.5}
@@ -223,34 +229,43 @@ footer .mono{font-family:var(--mono)}
 const $ = id => document.getElementById(id);
 const ACCENT = {drug:'drug', mech:'mech', dx:'dx', prev:'prev', intro:'intro'};
 const EV_LABEL = {META:'荟萃', RCT:'RCT', COHORT:'队列', CASE:'病例', ANIMAL:'动物', INVITRO:'体外', REVIEW:'综述', OTHER:''};
+let GLOSSARY = {}, GLOSSARY_KEYS = [];
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function annotate(text){
+  let safe = esc(text);
+  for(const term of GLOSSARY_KEYS){
+    const g = GLOSSARY[term.toLowerCase()];
+    const re = new RegExp('(?<![\\w<])(' + term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')(?![\\w>])','gi');
+    safe = safe.replace(re, (m)=>`<span class="term-tip" tabindex="0">${m}<span class="tip-box"><span class="tip-term">${esc(g.term)}</span>${esc(g.desc)}</span></span>`);
+  }
+  return safe;
+}
 function renderLive(d){
-  const feeds = d.feeds || [];
-  const items = d.items || {};
+  const feeds = d.feeds || [], items = d.items || {};
   let html = '';
   for(const f of feeds){
     const arr = items[f.id] || [];
     html += `<div class="feed-sec"><div class="fh"><span class="tab ${ACCENT[f.id]||'dx'}">${f.title}</span></div>`;
-    if(!arr.length){
-      html += `<div class="empty">暂无数据（检查 fetch.py 日志或该路检索式）</div>`;
-    } else {
+    if(!arr.length){ html += `<div class="empty">暂无数据（检查 fetch.py 日志或该路检索式）</div>`; }
+    else {
       html += arr.map(it=>{
         const dt = [it.year, it.month].filter(Boolean).join(' ');
-        const ev = it.evidence && it.evidence!=='OTHER'
-          ? `<span class="ev ev-${it.evidence}">${EV_LABEL[it.evidence]||it.evidence}</span>` : '';
-        return `<div class="paper"><a href="${it.link}" target="_blank" rel="noopener">
-          ${it.zh?`<div class="zh">${ev}${it.zh}</div>`:(ev?`<div class="zh">${ev}</div>`:'')}
-          <div class="en">${it.title}</div>
-          <div class="src">${it.journal||''}${dt?' · '+dt:''}${it.pmid?' · PMID '+it.pmid:''}</div>
-        </a></div>`;
+        const ev = it.evidence && it.evidence!=='OTHER' ? `<span class="ev ev-${it.evidence}">${EV_LABEL[it.evidence]||it.evidence}</span>` : '';
+        return `<div class="paper"><a href="${it.link}" target="_blank" rel="noopener">${it.zh?`<div class="zh">${ev}${esc(it.zh)}</div>`:(ev?`<div class="zh">${ev}</div>`:'')}<div class="en">${annotate(it.title)}</div><div class="src">${esc(it.journal||'')}${dt?' · '+dt:''}${it.pmid?' · PMID '+it.pmid:''}</div></a></div>`;
       }).join('');
     }
     html += `</div>`;
   }
   $("live").innerHTML = html;
 }
-fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{
-  const u = new Date(d.updated);
-  $("updated").textContent = '更新 '+u.toLocaleString('zh-CN',{hour12:false});
+Promise.all([
+  fetch('glossary.json?'+Date.now()).then(r=>r.json()).catch(()=>({terms:{}})),
+  fetch('data.json?'+Date.now()).then(r=>r.json())
+]).then(([g, d])=>{
+  const t = g.terms || {};
+  for(const k in t){ if(k!=='_comment') GLOSSARY[k.toLowerCase()] = {term:k, desc:t[k]}; }
+  GLOSSARY_KEYS = Object.keys(t).filter(k=>k!=='_comment').sort((a,b)=>b.length-a.length);
+  $("updated").textContent = '更新 '+new Date(d.updated).toLocaleString('zh-CN',{hour12:false});
   renderLive(d);
 }).catch(e=>{
   $("updated").textContent = 'data.json 待生成';
