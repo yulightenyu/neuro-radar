@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:28:48.245889Z",
+  "updated": "2026-06-28T03:33:30.747478Z",
   "feeds": [
     {
       "id": "drug",
@@ -42,7 +42,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42339400/",
-        "zh": "模拟显示，仑卡奈单抗治疗可使早期阿尔茨海默病进展至重度的时间延缓约37%。",
+        "zh": "模拟显示，长期使用lecanemab可将早期阿尔茨海默病进展至重度的时间延缓约4.3-5.1年。",
         "evidence": "OTHER"
       },
       {
@@ -52,7 +52,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42338648/",
-        "zh": "FDA批准donanemab-azbt标志着阿尔茨海默病治疗从对症迈向靶向β-淀粉样蛋白的新阶段。",
+        "zh": "FDA批准donanemab-azbt标志着阿尔茨海默病治疗从对症转向靶向β-淀粉样蛋白的新阶段。",
         "evidence": "REVIEW"
       },
       {
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42337959/",
-        "zh": "阿尔茨海默病治疗转向多靶点药物与互补非药物策略，但多数证据仍处于临床前或III期结果异质。",
+        "zh": "阿尔茨海默病治疗转向多靶点药物与互补非药物策略，但多数证据仍处临床前或III期结果异质。",
         "evidence": "REVIEW"
       },
       {
@@ -82,7 +82,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42331203/",
-        "zh": "阿尔茨海默病核心病理转向神经炎症，TREM2、NLRP3等小胶质细胞通路成为关键治疗靶点。",
+        "zh": "神经炎症被确立为阿尔茨海默病核心驱动因素，TREM2与NLRP3等通路成为关键治疗靶点。",
         "evidence": "REVIEW"
       },
       {
@@ -92,7 +92,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42322185/",
-        "zh": "新兴Aβ靶向药物（如仑卡奈单抗和多奈单抗）证实减少淀粉样蛋白可轻度减缓早期阿尔茨海默病认知衰退。",
+        "zh": "新获批的Aβ单抗仅能轻度减缓早期AD认知衰退，下一代疗法聚焦脑渗透增强与症状前干预。",
         "evidence": "REVIEW"
       },
       {
@@ -102,7 +102,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42306035/",
-        "zh": "新型羟基酪醇酯通过增强稳定性和抗Aβ聚集活性，成为潜在抗阿尔茨海默病神经保护剂。",
+        "zh": "新型羟基酪醇酯类化合物通过增强稳定性与Aβ结合能力，兼具抗淀粉样蛋白和神经保护双重活性。",
         "evidence": "INVITRO"
       },
       {
@@ -112,11 +112,21 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42295086/",
-        "zh": "抗体工程优化（如Fc改造、脑穿梭技术）是突破现有抗Aβ疗法疗效瓶颈与ARIA安全风险的关键方向。",
+        "zh": "分子工程优化抗体疗法可突破阿尔茨海默病临床疗效与安全性瓶颈。",
         "evidence": "REVIEW"
       }
     ],
     "mech": [
+      {
+        "pmid": "42363974",
+        "title": "HDAC3 in Alzheimer's Disease: established evidence, unresolved questions, and translational priorities.",
+        "journal": "Molecular biology reports",
+        "year": "2026",
+        "month": "06",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42363974/",
+        "zh": "HDAC3在阿尔茨海默病中的致病角色证据不足，转化应用面临抑制剂选择性差等挑战。",
+        "evidence": "REVIEW"
+      },
       {
         "pmid": "42361163",
         "title": "Plasma GDF15 affects long-term dementia risk and alters neuroimmune signaling.",
@@ -124,7 +134,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42361163/",
-        "zh": "血浆GDF15通过激活神经免疫信号，长期增加血管性痴呆及阿尔茨海默病风险。",
+        "zh": "血浆GDF15升高通过激活神经免疫信号，增加远期痴呆风险，尤其与血管性痴呆关联更强。",
         "evidence": "COHORT"
       },
       {
@@ -144,7 +154,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42357928/",
-        "zh": "PLCγ2-R522变异通过增加斑块致密性、重塑小胶质细胞分布并保护突触，在阿尔茨海默病模型中发挥保护作用。",
+        "zh": "PLCγ2-R522变异通过增加斑块致密性、重塑小胶质细胞分布并保护突触，在APP小鼠中发挥阿尔茨海默病保护作用。",
         "evidence": "ANIMAL"
       },
       {
@@ -154,7 +164,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42357473/",
-        "zh": "天麻特异性miRNA通过抑制JNK3减轻Tau磷酸化与氧化应激，为阿尔茨海默病提供新机制。",
+        "zh": "天麻特异性miRNA通过抑制JNK3减轻Tau磷酸化与氧化应激，为AD提供跨界调控新机制。",
         "evidence": "INVITRO"
       },
       {
@@ -164,7 +174,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42357417/",
-        "zh": "五环三萜酸通过多靶点机制（降低Aβ/tau、改善线粒体功能、抑制炎症）发挥阿尔茨海默病神经保护作用。",
+        "zh": "五环三萜酸通过多靶点机制（降低Aβ/tau、改善线粒体功能、抑制炎症）在阿尔茨海默病中发挥神经保护作用。",
         "evidence": "REVIEW"
       },
       {
@@ -184,18 +194,8 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42356271/",
-        "zh": "APP/PS1小鼠慢性合生元干预揭示肠道Aβ的多重功能及菌群调控作用。",
+        "zh": "APP/PS1小鼠慢性合生元干预揭示肠道Aβ具有多重功能且受菌群调控。",
         "evidence": "ANIMAL"
-      },
-      {
-        "pmid": "42353831",
-        "title": "From Genes to Imaging Phenotypes: Radiomics and Machine Learning as Tools to Decode Molecular Pathways in Alzheimer's Disease.",
-        "journal": "Genes",
-        "year": "2026",
-        "month": "06",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42353831/",
-        "zh": "影像组学与机器学习可解码阿尔茨海默病基因-分子-影像通路，为临床生物标志物转化提供新工具。",
-        "evidence": "REVIEW"
       }
     ],
     "dx": [
@@ -206,7 +206,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42360503/",
-        "zh": "血浆p-tau217在主观认知下降中比p-tau181和NfL更早、更准确地预测认知轨迹。",
+        "zh": "血浆p-tau217在主观认知下降人群中预测早期纵向认知变化的能力优于p-tau181和NfL。",
         "evidence": "COHORT"
       },
       {
@@ -216,7 +216,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42360329/",
-        "zh": "早发型与晚发型阿尔茨海默病tau蛋白沉积模式不同，且血浆p-tau217与PET、萎缩及认知均显著相关。",
+        "zh": "早发型与晚发型阿尔茨海默病tau PET沉积模式差异显著，且均与血浆p-tau217及认知衰退强相关。",
         "evidence": "COHORT"
       },
       {
@@ -226,7 +226,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42353247/",
-        "zh": "血浆蛋白质组学结合机器学习筛选出5种蛋白组合，可有效区分脑内β-淀粉样蛋白PET阳性与阴性个体。",
+        "zh": "基于血浆蛋白质组学与机器学习，发现5种蛋白组合可有效识别脑内淀粉样蛋白PET阳性状态。",
         "evidence": "COHORT"
       },
       {
@@ -236,7 +236,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42351427/",
-        "zh": "自动化HISCL血浆Aβ42/40比值在真实世界中对AD连续谱诊断性能良好，优于Simoa。",
+        "zh": "自动化血浆Aβ42/40比值在真实世界中对AD连续谱诊断性能良好，优于部分其他生物标志物。",
         "evidence": "COHORT"
       },
       {
@@ -246,7 +246,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42351415/",
-        "zh": "重复嵌套交叉验证表明，融合血浆生物标志物与临床量表的多分类模型存在标签循环偏差，其性能提升主要源于临床特征而非生物学信号。",
+        "zh": "血浆生物标志物与临床量表融合的多分类增益主要源于标签循环性，而非独立生物学信号。",
         "evidence": "COHORT"
       },
       {
@@ -256,7 +256,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42348207/",
-        "zh": "高饮食质量可降低阿尔茨海默病理阳性老年人的痴呆风险，且不受p-tau217、NFL和GFAP生物标志物水平影响。",
+        "zh": "高饮食质量可降低阿尔茨海默病理阳性老年人的痴呆风险，但无法抵消高水平p-tau217或GFAP带来的风险。",
         "evidence": "COHORT"
       },
       {
@@ -266,7 +266,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42343890/",
-        "zh": "血浆Aβ42/p-Tau217比值与p-Tau217在巴西混合人群中独立预测脑脊液定义的阿尔茨海默病病理。",
+        "zh": "血浆Aβ42/p-Tau217比值与p-Tau217在巴西混合队列中独立预测脑脊液定义的阿尔茨海默病病理。",
         "evidence": "COHORT"
       },
       {
@@ -276,11 +276,31 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42340458/",
-        "zh": "SIMOA血浆p-Tau217和GFAP可有效区分阿尔茨海默病全程，优于传统Aβ42/40比值。",
+        "zh": "基于SIMOA技术的血浆p-Tau217和GFAP是区分阿尔茨海默病全病程阶段最稳定的生物标志物。",
         "evidence": "META"
       }
     ],
     "prev": [
+      {
+        "pmid": "42363839",
+        "title": "Do ecosystem improvements enhance the cognitive function of older adults: quasi-Experimental evidence from China.",
+        "journal": "Aging &amp; mental health",
+        "year": "2026",
+        "month": "06",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42363839/",
+        "zh": "中国生态功能区建设显著提升老年人认知功能，机制涉及空气污染与炎症水平下降。",
+        "evidence": "COHORT"
+      },
+      {
+        "pmid": "42363808",
+        "title": "Relationship between new-onset falls and neuroimaging markers of Alzheimer's disease in the UK Biobank.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "06",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42363808/",
+        "zh": "新发跌倒与阿尔茨海默病脑影像标志物显著相关，提示跌倒或为早期预警指标。",
+        "evidence": "COHORT"
+      },
       {
         "pmid": "42363277",
         "title": "Altered brain glucose metabolism and connectivity in young adults with obstructive sleep apnea.",
@@ -288,7 +308,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42363277/",
-        "zh": "年轻阻塞性睡眠呼吸暂停患者已出现类似阿尔茨海默病的前额叶-顶叶葡萄糖代谢减低及小脑代谢增高。",
+        "zh": "阻塞性睡眠呼吸暂停青年患者已出现类似阿尔茨海默病早期的大脑糖代谢异常及连接改变。",
         "evidence": "COHORT"
       },
       {
@@ -298,7 +318,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42362170/",
-        "zh": "房颤前期亚类（Pre-AF 1-3）随异常参数增多，主要不良心血管事件风险递增。",
+        "zh": "房颤前状态亚型（Pre-AF 1-3）与主要不良心血管事件风险呈分级递增关联。",
         "evidence": "COHORT"
       },
       {
@@ -308,7 +328,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42361163/",
-        "zh": "血浆GDF15通过神经免疫信号增加痴呆风险，尤其与血管性痴呆关联强于阿尔茨海默病。",
+        "zh": "血浆GDF15升高通过激活神经免疫信号，长期增加血管性痴呆及阿尔茨海默病风险。",
         "evidence": "COHORT"
       },
       {
@@ -318,7 +338,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42358626/",
-        "zh": "可穿戴设备测量显示，低日间高夜间光照暴露显著增加痴呆风险，昼夜节律紊乱为中介机制。",
+        "zh": "可穿戴设备监测显示，低日间高夜间光照暴露显著增加痴呆风险，昼夜节律紊乱为中介机制。",
         "evidence": "COHORT"
       },
       {
@@ -328,7 +348,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42356119/",
-        "zh": "双胞胎研究揭示，轻度认知障碍者肠道中毛螺菌科丰度显著降低，提示其与认知衰退相关。",
+        "zh": "双胞胎研究揭示，轻度认知障碍患者肠道中毛螺菌科丰度显著降低。",
         "evidence": "COHORT"
       },
       {
@@ -338,31 +358,21 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42352655/",
-        "zh": "ADHD病史显著增加全因痴呆及阿尔茨海默病风险，HR约2.5-3.0。",
-        "evidence": "META"
-      },
-      {
-        "pmid": "42352386",
-        "title": "Polyphenols Suppress Intracellular Zinc Deficiency-Induced ROS Production and NLRP3 Inflammasome Activation in Microglial and Neuronal Cells.",
-        "journal": "Biomolecules",
-        "year": "2026",
-        "month": "06",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42352386/",
-        "zh": "多酚通过抑制胞内锌缺乏诱发的ROS和NLRP3炎症小体激活，保护小胶质与神经元细胞。",
-        "evidence": "INVITRO"
-      },
-      {
-        "pmid": "42349867",
-        "title": "Use of Wearable Technology for Measuring and Characterizing Sedentary Behavior in People With Mild Cognitive Impairment and Dementia: Systematic Review.",
-        "journal": "JMIR aging",
-        "year": "2026",
-        "month": "06",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42349867/",
-        "zh": "可穿戴设备可精准量化轻度认知障碍与痴呆患者的久坐行为模式。",
+        "zh": "ADHD病史使全因痴呆风险显著增加，尤其阿尔茨海默病风险更高。",
         "evidence": "META"
       }
     ],
     "intro": [
+      {
+        "pmid": "42363974",
+        "title": "HDAC3 in Alzheimer's Disease: established evidence, unresolved questions, and translational priorities.",
+        "journal": "Molecular biology reports",
+        "year": "2026",
+        "month": "06",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42363974/",
+        "zh": "这篇综述讲的是大脑里一种叫HDAC3的蛋白跟老年痴呆的关系，帮普通人看懂这个蛋白到底是不是治病的靶点。",
+        "evidence": "REVIEW"
+      },
       {
         "pmid": "42353204",
         "title": "From Tradition to Translation: A Critical Appraisal of Bacopa monnieri for Neuroprotection from Preclinical and Clinical Perspectives and Challenges in Utilization.",
@@ -370,7 +380,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42353204/",
-        "zh": "这篇综述讲的是用一种叫“假马齿苋”的草药能否保护大脑、对抗老年痴呆，帮普通人了解它到底有没有用。",
+        "zh": "这篇综述讲的是草药“假马齿苋”能否保护大脑、延缓老年痴呆，对外行的用处是帮你了解这种天然补品到底有没有用。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +390,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42346137/",
-        "zh": "这篇综述对比了老年痴呆和脑癌中大脑发炎的相同与不同，帮普通人理解这两种病的新治疗思路。",
+        "zh": "这篇综述对比了老年痴呆和脑癌中大脑发炎的相同与不同，帮普通人理解炎症如何影响这两种病，以及未来可能的治疗方向。",
         "evidence": "REVIEW"
       },
       {
@@ -390,7 +400,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42345513/",
-        "zh": "这篇综述告诉你，迷迭香里的一种天然成分能保护大脑，可能帮助延缓阿尔茨海默病和帕金森病。",
+        "zh": "这篇综述讲的是从迷迭香里提取的一种天然物质，可能帮大脑抵抗老化、预防记性变差和手抖，对想护脑的人有参考价值。",
         "evidence": "REVIEW"
       },
       {
@@ -400,7 +410,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42322365/",
-        "zh": "这篇综述讲的是大脑里一种叫“IL-4”的免疫信号物质，在阿尔茨海默病中既可能帮忙也可能添乱，帮你看懂它到底有什么用。",
+        "zh": "这篇综述讲的是大脑里一种叫IL-4的免疫信号物质，对阿尔茨海默病到底是有益还是有害，帮你看懂这个矛盾的研究。",
         "evidence": "REVIEW"
       },
       {
@@ -410,7 +420,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42300978/",
-        "zh": "这篇综述讲的是用鼻子喷药的方式，把治老年痴呆的药直接送进大脑，避开血液屏障，让治疗更有效。",
+        "zh": "这篇综述讲的是通过鼻子喷药绕过大脑屏障来治阿尔茨海默病的新方法，对普通人来说，未来可能不用打针吃药就能更有效治疗这种病。",
         "evidence": "REVIEW"
       },
       {
@@ -420,7 +430,7 @@
         "year": "2026",
         "month": "06",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42283223/",
-        "zh": "这篇综述告诉你，大脑里胆固醇乱了套会加速老年痴呆，搞懂它就能帮我们找到预防或延缓病情的新思路。",
+        "zh": "这篇综述讲的是大脑里的胆固醇乱了会加速老年痴呆，看懂它就能知道未来可能从哪入手预防或延缓病情。",
         "evidence": "REVIEW"
       },
       {
@@ -430,17 +440,7 @@
         "year": "2026",
         "month": "05",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42214359/",
-        "zh": "这篇综述讲了老人痴呆症治疗的新进展，包括新药和日常护理方法，能帮普通人了解怎么延缓病情、改善生活。",
-        "evidence": "REVIEW"
-      },
-      {
-        "pmid": "42196628",
-        "title": "Molecular Mechanisms Underlying Alzheimer's Disease Pathogenesis: Comprehensive Overview.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "06",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42196628/",
-        "zh": "这篇综述讲的是老年痴呆是怎么一步步变严重的，能帮你明白哪些生活习惯可能让脑子老得更快。",
+        "zh": "这篇综述讲了老年痴呆症治疗的新进展，特别是两种新药能延缓早期病情，对刚出现记性变差的人最有用。",
         "evidence": "REVIEW"
       }
     ]
