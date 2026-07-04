@@ -41,7 +41,7 @@ def efetch(pmids):
             m = re.search(r"<%s[^>]*>(.*?)</%s>" % (name, name), blk, re.S)
             return re.sub(r"<[^>]+>", "", m.group(1)).strip() if m else ""
         pmid = tag("PMID")
-        title = " ".join(tag("ArticleTitle").split())
+        import html as _html; title = _html.unescape(" ".join(tag("ArticleTitle").split()))
         abst = " ".join(re.sub(r"<[^>]+>", " ",
                        " ".join(re.findall(r"<AbstractText[^>]*>(.*?)</AbstractText>", blk, re.S))).split())
         journal = tag("Title") or tag("ISOAbbreviation")
