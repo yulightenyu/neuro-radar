@@ -253,7 +253,7 @@ function renderLive(d){
       html += arr.map(it=>{
         const dt = [it.year, it.month].filter(Boolean).join(' ');
         const ev = it.evidence && it.evidence!=='OTHER' ? `<span class="ev ev-${it.evidence}">${EV_LABEL[it.evidence]||it.evidence}</span>` : '';
-        return `<div class="paper"><a href="${it.link}" target="_blank" rel="noopener">${it.zh?`<div class="zh">${ev}${esc(it.zh)}</div>`:(ev?`<div class="zh">${ev}</div>`:'')}<div class="en">${annotate(it.title)}</div><div class="src">${esc(it.journal||'')}${dt?' · '+dt:''}${it.pmid?' · PMID '+it.pmid:''}</div></a></div>`;
+        return `<div class="paper"><a href="${it.link}" target="_blank" rel="noopener">${it.zh?`<div class="zh">${ev}${esc(unent(it.zh))}</div>`:(ev?`<div class="zh">${ev}</div>`:'')}<div class="en">${annotate(unent(it.title))}</div><div class="src">${esc(it.journal||'')}${dt?' · '+dt:''}${it.pmid?' · PMID '+it.pmid:''}</div></a></div>`;
       }).join('');
     }
     html += `</div>`;
