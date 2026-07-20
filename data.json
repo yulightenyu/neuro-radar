@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T02:42:12.459722Z",
+  "updated": "2026-07-20T14:00:48.448409Z",
   "feeds": [
     {
       "id": "drug",
@@ -52,7 +52,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42467046/",
-        "zh": "在日本医保体系下，仑卡奈单抗的经济可行性显著优于多奈单抗，门诊边际收益和盈亏平衡病例量更具优势。",
+        "zh": "在日本医保体系下，仑卡奈单抗的经济可行性显著优于多奈单抗，主要受门诊输注利润率和盈亏平衡病例量驱动。",
         "evidence": "OTHER"
       },
       {
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42462378/",
-        "zh": "荷兰全国数据揭示，女性痴呆患者入住护理机构风险更高，但生存期更长，且医疗与长期护理总费用显著高于男性。",
+        "zh": "荷兰全国数据显示，女性痴呆患者入住养老院风险更高，但男性患者生存期更短且临终医疗成本更高。",
         "evidence": "COHORT"
       },
       {
@@ -72,7 +72,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42458104/",
-        "zh": "Tau蛋白介导的病理机制是阿尔茨海默病发病的核心环节，靶向Tau或为治疗新方向。",
+        "zh": "Tau蛋白介导的神经毒性机制是阿尔茨海默病认知衰退的关键驱动因素。",
         "evidence": "REVIEW"
       },
       {
@@ -92,7 +92,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42436821/",
-        "zh": "提出基于疾病进展曲线面积计算节省时间的闭合方差公式，解决统计推断难题。",
+        "zh": "基于疾病进展曲线面积推导出节省时间的闭合方差，实现阿尔茨海默病疗效评估的统计推断。",
         "evidence": "OTHER"
       },
       {
@@ -112,11 +112,21 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42430964/",
-        "zh": "接受抗淀粉样蛋白治疗的早期阿尔茨海默病患者，对脑健康生活方式的依从性普遍不足。",
+        "zh": "接受抗淀粉样蛋白治疗的早期阿尔茨海默病患者，对共识性大脑健康建议的依从性普遍不足。",
         "evidence": "CASE"
       }
     ],
     "mech": [
+      {
+        "pmid": "42472733",
+        "title": "Blood-based multimodal biomarker models for differentiating early-onset Alzheimer's disease from frontotemporal dementia: a longitudinal study of early-onset dementia and family members (LEAF) study.",
+        "journal": "Journal of neurology",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42472733/",
+        "zh": "血浆p-tau217和p-tau181可有效区分早发型阿尔茨海默病与额颞叶痴呆，诊断性能无显著差异。",
+        "evidence": "COHORT"
+      },
       {
         "pmid": "42465741",
         "title": "Exercise-conditioned extracellular vesicles in Alzheimer's disease: a multi-organ signaling network linking peripheral adaptation to brain pathology.",
@@ -134,7 +144,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42464289/",
-        "zh": "被动Aβ免疫疗法通过多细胞清除系统发挥超越斑块清除的阿尔茨海默病治疗作用。",
+        "zh": "被动Aβ免疫疗法通过多细胞清除网络而非仅移除斑块发挥阿尔茨海默病疗效。",
         "evidence": "REVIEW"
       },
       {
@@ -144,7 +154,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42463907/",
-        "zh": "运动通过抑制CTSS（组织蛋白酶S）经抗炎、抗衰老和代谢调节通路发挥阿尔茨海默病神经保护作用。",
+        "zh": "运动通过抑制CTSS（组织蛋白酶S）发挥抗炎、抗衰老和代谢调节作用，构成阿尔茨海默病神经保护新机制。",
         "evidence": "REVIEW"
       },
       {
@@ -154,7 +164,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42463666/",
-        "zh": "小胶质细胞反应在AD等模型中异质性显著，而血管转录程序保持稳定。",
+        "zh": "小胶质细胞反应在AD、CADASIL和脑外伤模型中高度异质，而血管转录程序保持稳定。",
         "evidence": "ANIMAL"
       },
       {
@@ -164,7 +174,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42463411/",
-        "zh": "三环化合物凭借多靶点调控与结构可调性，成为阿尔茨海默病治疗的新兴候选骨架。",
+        "zh": "三环类化合物凭借多靶点调控优势，为阿尔茨海默病治疗提供了突破性候选骨架。",
         "evidence": "REVIEW"
       },
       {
@@ -174,7 +184,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42461334/",
-        "zh": "口腔菌群胞外囊泡通过牙周-脑轴介导神经炎症与Aβ/tau病理，是阿尔茨海默病的新型致病因子。",
+        "zh": "口腔微生物胞外囊泡通过牙周-脑轴介导神经炎症与Aβ/tau病理，是阿尔茨海默病的新型致病因子。",
         "evidence": "REVIEW"
       },
       {
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42460734/",
         "zh": "PHA可诱导神经炎症，构建阿尔茨海默病体外与体内模型。",
         "evidence": "ANIMAL"
-      },
-      {
-        "pmid": "42458104",
-        "title": "Tau-mediated Mechanisms in Alzheimer's Disease Pathogenesis.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42458104/",
-        "zh": "Tau蛋白介导的神经退行性机制是阿尔茨海默病发病的核心，而非Aβ。",
-        "evidence": "REVIEW"
       }
     ],
     "dx": [
+      {
+        "pmid": "42472733",
+        "title": "Blood-based multimodal biomarker models for differentiating early-onset Alzheimer's disease from frontotemporal dementia: a longitudinal study of early-onset dementia and family members (LEAF) study.",
+        "journal": "Journal of neurology",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42472733/",
+        "zh": "血浆p-tau217与p-tau181在鉴别早发型阿尔茨海默病与额颞叶痴呆中均具高诊断效能，二者无显著差异。",
+        "evidence": "COHORT"
+      },
       {
         "pmid": "42463545",
         "title": "Predictive value of plasma p-tau217 for Alzheimer's dementia compared to other blood-based biomarkers.",
@@ -206,7 +216,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42463545/",
-        "zh": "血浆p-tau217在9年内预测阿尔茨海默病痴呆优于p-tau181、NfL和GFAP。",
+        "zh": "血浆p-tau217在9年内预测阿尔茨海默病痴呆的准确性优于p-tau181、NfL和GFAP。",
         "evidence": "COHORT"
       },
       {
@@ -216,7 +226,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42462634/",
-        "zh": "基于类淀粉样纳米膜抗污场效应晶体管生物传感器阵列实现多种tau蛋白超灵敏同时检测，显著提升阿尔茨海默病诊断准确性。",
+        "zh": "类淀粉样纳米膜修饰抗污场效应晶体管阵列实现多种tau蛋白超灵敏同步检测，提升阿尔茨海默病诊断准确性。",
         "evidence": "INVITRO"
       },
       {
@@ -226,7 +236,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42450618/",
-        "zh": "通过CA1区定向注射AAV递送人三突变APP，成功构建了具有Aβ病理和认知缺陷的树鼩阿尔茨海默病模型。",
+        "zh": "立体定向CA1区注射AAV递送人三突变APP可在树鼩中建立持续6个月的Aβ相关AD样模型。",
         "evidence": "ANIMAL"
       },
       {
@@ -236,7 +246,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42449771/",
-        "zh": "Centiloid量表标准化淀粉样蛋白PET量化，为AD诊断、抗淀粉样蛋白治疗筛选及疗效监测提供统一阈值。",
+        "zh": "Centiloid量表标准化了淀粉样蛋白PET定量，为AD诊断、抗淀粉样蛋白治疗筛选及疗效监测提供了统一阈值。",
         "evidence": "REVIEW"
       },
       {
@@ -246,7 +256,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42449193/",
-        "zh": "唐氏综合征患者丘脑体积随年龄加速萎缩，与阿尔茨海默病血浆生物标志物升高显著相关。",
+        "zh": "唐氏综合征患者丘脑体积随年龄加速萎缩，与阿尔茨海默病血浆标志物升高显著相关。",
         "evidence": "COHORT"
       },
       {
@@ -256,7 +266,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42449130/",
-        "zh": "阿尔茨海默病tau蛋白扩散范围在低负荷区更敏感，而负荷指标在高负荷区更有效。",
+        "zh": "阿尔茨海默病tau蛋白的扩散范围在低负荷区域更敏感，而负荷强度在高负荷区域更能反映进展。",
         "evidence": "COHORT"
       },
       {
@@ -266,21 +276,31 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42442917/",
-        "zh": "胶质细胞分子特征可作为阿尔茨海默病液体活检新标志物，优于传统蛋白指标。",
+        "zh": "胶质细胞分子特征可作为阿尔茨海默病诊断的新型液体活检标志物。",
         "evidence": "REVIEW"
-      },
-      {
-        "pmid": "42441927",
-        "title": "Performance of Alzheimer Disease Plasma Biomarkers in Patients With Prion Diseases.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42441927/",
-        "zh": "血浆p-tau217等AD生物标志物在朊病毒病中显著升高，无法可靠区分阿尔茨海默病与朊病毒病。",
-        "evidence": "COHORT"
       }
     ],
     "prev": [
+      {
+        "pmid": "42473546",
+        "title": "Diversity and inclusivity in Australian dementia prevention research: A mixed methods review.",
+        "journal": "Alzheimer's &amp; dementia (New York, N.",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42473546/",
+        "zh": "澳大利亚痴呆预防研究中少数群体代表性严重不足，亟需提升多样性与包容性。",
+        "evidence": "REVIEW"
+      },
+      {
+        "pmid": "42473227",
+        "title": "Cardiovascular Comorbidities with Alzheimer's Disease: A Systematic Review and Meta-analysis.",
+        "journal": "Current Alzheimer research",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42473227/",
+        "zh": "心血管合并症显著增加阿尔茨海默病的发病风险，且影响疾病进展。",
+        "evidence": "META"
+      },
       {
         "pmid": "42470860",
         "title": "Cardiovascular risks in psychiatric disorders and psychiatric risks in cardiovascular disorders: implications for prevention and clinical management - a large-scale umbrella review encompassing 76 meta-analyses.",
@@ -288,7 +308,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42470860/",
-        "zh": "精神与心血管疾病双向风险关联显著，阿尔茨海默病需纳入共病管理。",
+        "zh": "心血管与精神疾病双向增加风险，阿尔茨海默病等认知障碍需纳入共病管理。",
         "evidence": "REVIEW"
       },
       {
@@ -298,7 +318,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42470526/",
-        "zh": "低胰岛素敏感性指标eGDR与全因痴呆、阿尔茨海默病及血管性痴呆风险显著相关，且可修饰AD遗传易感性。",
+        "zh": "低胰岛素敏感性标志物eGDR显著增加全因痴呆、阿尔茨海默病及血管性痴呆风险，并修饰AD遗传易感性。",
         "evidence": "COHORT"
       },
       {
@@ -308,7 +328,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42469999/",
-        "zh": "膳食抗氧化质量评分越高，老年人认知障碍风险越低。",
+        "zh": "高膳食抗氧化质量评分与老年人认知功能呈正相关，可能降低认知障碍风险。",
         "evidence": "CASE"
       },
       {
@@ -328,7 +348,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42468803/",
-        "zh": "该研究通过大规模血浆蛋白质组学分析，揭示了衰弱相关蛋白特征可预测新发痴呆及其亚型风险。",
+        "zh": "血浆蛋白质组学揭示衰弱相关新发痴呆的关键蛋白标志物及亚型差异。",
         "evidence": "COHORT"
       },
       {
@@ -338,27 +358,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42468111/",
-        "zh": "PSEN1 E280A突变携带者基线及安慰剂组生物标志物与认知数据揭示无症状期AD病理变化。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42466706",
-        "title": "The relationship between low-sodium salt substitutes and cognitive function among middle-aged and older adults: The Chinese Square Dance Cohort.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42466706/",
-        "zh": "中国中老年人群使用低钠盐替代品与更好的认知功能和更低的轻度认知障碍风险显著相关。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42466407",
-        "title": "Determinants of fractal motor activity regulation: insights from a large community-dwelling multi-ethnic population.",
-        "journal": "Research square",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42466407/",
-        "zh": "社区老年人分形运动调节受年龄、性别、种族及体力活动显著影响，提示其作为阿尔茨海默病早期标志物需考虑这些混杂因素。",
+        "zh": "无症状PSEN1 E280A突变携带者基线及安慰剂组生物标志物与认知无显著变化。",
         "evidence": "COHORT"
       }
     ],
@@ -370,7 +370,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42461334/",
-        "zh": "这篇综述讲的是嘴里牙周炎的细菌会释放微小颗粒，可能通过血液进入大脑，引发炎症，从而增加老年痴呆的风险。",
+        "zh": "这篇综述告诉你，嘴里牙周炎的细菌会释放微小颗粒进入大脑，可能引发老年痴呆，所以护牙也许能护脑。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +380,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42450256/",
-        "zh": "这篇综述讲的是科学家发现血液和大脑里一种叫“微小RNA”的小分子能帮助更早发现阿尔茨海默病，但男女和不同身体部位的结果有差别，提醒大家别盲目相信单一检测。",
+        "zh": "这篇综述讲的是科学家发现血液和大脑里的一些微小分子能帮助更早发现阿尔茨海默病，但男女和不同组织间的差异让检测还不完全可靠。",
         "evidence": "REVIEW"
       },
       {
@@ -390,7 +390,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42450004/",
-        "zh": "这篇综述总结了一类老药（胆碱酯酶抑制剂）对阿尔茨海默病的效果，帮普通人判断这类药到底值不值得用。",
+        "zh": "这篇综述讲的是阿尔茨海默病常用药的效果，帮普通人了解这类药到底能不能改善记忆和日常生活。",
         "evidence": "REVIEW"
       },
       {
@@ -400,7 +400,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42442914/",
-        "zh": "这篇综述讲的是阿尔茨海默病其实是大脑“没电了”，搞懂这个能帮普通人明白为什么预防要关注饮食和运动，而不是只盯着记性变差。",
+        "zh": "这篇综述讲的是阿尔茨海默病其实是大脑“没电了”，并解释了能量出问题的原因，能帮普通人理解为啥预防要关注血糖和大脑营养。",
         "evidence": "REVIEW"
       },
       {
@@ -410,7 +410,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42421969/",
-        "zh": "这篇综述讲的是骨头和大脑之间如何通过免疫系统互相影响，帮普通人理解为什么骨质疏松可能和记性变差有关。",
+        "zh": "这篇综述告诉你，骨头变脆和脑子变糊涂可能有关联，弄懂这个能帮老人提前预防或延缓痴呆。",
         "evidence": "REVIEW"
       },
       {
@@ -420,7 +420,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42418295/",
-        "zh": "这篇综述讲的是大脑细胞里的能量工厂坏了会加速老年痴呆，看懂它有助于普通人从保护能量入手预防大脑衰老。",
+        "zh": "这篇综述讲的是，大脑细胞里的能量工厂“线粒体”坏了，会加速老年痴呆，看懂这个能帮我们找到预防的新思路。",
         "evidence": "REVIEW"
       },
       {
@@ -430,7 +430,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42415281/",
-        "zh": "这篇综述讲的是大脑里一种叫“化学信使”的小分子，在老年痴呆早期保护大脑、晚期却帮倒忙，还受性别和感染影响，帮普通人看懂病因和预防方向。",
+        "zh": "这篇综述讲的是大脑里一种叫“趋化因子”的小信号分子，在老年痴呆早期保护大脑、晚期却帮倒忙，还受性别和感染影响，帮普通人理解病情为何男女有别。",
         "evidence": "REVIEW"
       },
       {
@@ -440,7 +440,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42392701/",
-        "zh": "这篇综述讲的是细胞里一种清理垃圾的机制出问题会加速老年痴呆，并介绍了中药如何帮忙修复这个机制。",
+        "zh": "这篇综述讲的是细胞里清理坏零件的过程出问题会加速老年痴呆，并介绍了中药如何帮忙修复这个清理功能，对预防和延缓病情有启发。",
         "evidence": "REVIEW"
       }
     ]
