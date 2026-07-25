@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T02:24:14.902781Z",
+  "updated": "2026-07-25T13:18:17.583108Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42500646",
+        "title": "Association between Alzheimer's disease and MHC-I antigen processing and presentation pathway: a narrative review.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42500646/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42499153",
+        "title": "Neuropathology in a diverse cohort of oldest-old: The LifeAfter90 study.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42499153/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42498669",
+        "title": "Sustaining Drug Discovery Amid the Limits of Alzheimer's Disease Immunotherapies.",
+        "journal": "eNeuro",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42498669/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42496889",
         "title": "Systems pharmacology and targeted transcriptional profiling suggest the putative neuroprotective role of Leuconostoc mesenteroides in an in vitro Alzheimer's disease model.",
         "journal": "Molecular biology reports",
@@ -166,39 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42493137/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42490036",
-        "title": "Considerations in Alzheimer's Disease in Women.",
-        "journal": "Current neurology and neuroscience repor",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42490036/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42489215",
-        "title": "Prolonged systemic inflammation worsens impairments to astrocyte Ca2+ and functional hyperemia in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42489215/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42484938",
-        "title": "The Clearance-Centered Bottleneck in Alzheimer's Disease: From Coupled Glymphatic-Lymphatic Circuits to Therapeutic Opportunities.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42484938/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42500553",
+        "title": "The ILLUMINATE natural history study in colony-stimulating factor 1 receptor-related adult-onset leukoencephalopathy with axonal spheroids and pigmented glia.",
+        "journal": "Brain communications",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42500553/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42497445",
         "title": "Amyloid-β-Related Cortical Susceptibility Alterations in Individuals Under Assessment for Alzheimer's Disease: A χ-Separation Study.",
@@ -268,19 +278,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42486687/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42483984",
-        "title": "Prognostic value of plasma %p-tau217 in cognitively unimpaired older adults.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42483984/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42499998",
+        "title": "Neuroinflammation as a failure of allostatic integrity: a hierarchical-circular model of biological memory for pathogenesis in neurodegenerative and neuropsychiatric diseases.",
+        "journal": "Frontiers in systems neuroscience",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42499998/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42499412",
+        "title": "A community-based model for multimodal brain-health screening and Alzheimer's disease and related dementia risk prediction in mid-sized cities and surrounding rural communities: a mixed-methods evaluation.",
+        "journal": "Innovation in aging",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42499412/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42499147",
+        "title": "Theoretical and practical challenges for capturing reserve and resilience in aging and Alzheimer's disease: A narrative review.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42499147/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42498936",
+        "title": "Inhibition of Soluble TNF Mitigates Traumatic Brain Injury as a Risk Factor for the Development of Amyloidogenic Proteins and Functional Deficits in 3xTg-AD Mice.",
+        "journal": "Journal of neurotrauma",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42498936/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42498782",
+        "title": "Associations of general and specific psychopathology factors by age 35 with dementia after age 50: a Swedish population-based sibling comparison study.",
+        "journal": "Molecular psychiatry",
+        "year": "2026",
+        "month": "07",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42498782/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42497097",
         "title": "Incidence and characteristics of poisonings in older adults with and without dementia: a matched cohort study using Swedish registry data.",
@@ -308,56 +358,6 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42495266/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42495159",
-        "title": "Persistent financial adversity and cognitive aging: a life course investigation.",
-        "journal": "Innovation in aging",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42495159/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42494493",
-        "title": "Strenuous physical activity is associated with a younger age of amyotrophic lateral sclerosis onset in two independent cohorts.",
-        "journal": "Brain communications",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42494493/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42493810",
-        "title": "SuperAging is not the inverse of common-variant Alzheimer's risk: evidence across genetic ancestries.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42493810/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42492485",
-        "title": "Usability of the Coach-Supported Dementia Prevention App ENHANCE (Tailored Intervention for Brain Health and Cognitive Enrichment) in Older Adults: 1-Week Mixed Methods Study.",
-        "journal": "JMIR aging",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42492485/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42491583",
-        "title": "Nonlinear L-shaped association between composite dietary antioxidant index and risk of dementia: a prospective cohort study.",
-        "journal": "Frontiers in public health",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42491583/",
         "zh": "",
         "evidence": "OTHER"
       }
