@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T14:33:33.281642Z",
+  "updated": "2026-08-04T02:12:20.006656Z",
   "feeds": [
     {
       "id": "drug",
@@ -42,7 +42,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42533677/",
-        "zh": "基于MRI和淀粉样PET特征构建的机器学习模型可有效分类淀粉样阳性人群的tau状态。",
+        "zh": "",
         "evidence": "OTHER"
       },
       {
@@ -50,9 +50,9 @@
         "title": "Cognitive-enhancing drugs in Phase II clinical trials for Alzheimer's disease: emerging therapeutic candidates.",
         "journal": "Expert opinion on investigational drugs",
         "year": "2026",
-        "month": "07",
+        "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42530559/",
-        "zh": "II期促智药试验多数认知改善有限，亟需更精准的靶点与试验设计。",
+        "zh": "II期促智药试验多数认知改善有限，亟需优化靶点与试验设计。",
         "evidence": "REVIEW"
       },
       {
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42522305/",
-        "zh": "查尔酮母核经卤代或三氟甲基修饰可增强AD多靶点抑制活性，为MTDLs设计提供SAR依据。",
+        "zh": "",
         "evidence": "REVIEW"
       },
       {
@@ -72,7 +72,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42506306/",
-        "zh": "抗淀粉样单抗对早期AD疗效与安全性差异显著，临床决策需个体化权衡。",
+        "zh": "抗淀粉样单抗对早期AD疗效有限且安全性差异显著，临床获益需谨慎权衡。",
         "evidence": "META"
       },
       {
@@ -82,7 +82,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42495050/",
-        "zh": "数字时钟与回忆测试结合机器学习可高效预测MMSE评分，简化AD疗法资格筛查。",
+        "zh": "",
         "evidence": "OTHER"
       },
       {
@@ -92,8 +92,8 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42490986/",
-        "zh": "真实世界数据证实仑卡奈单抗在轻度认知障碍期降淀粉样蛋白效果优于痴呆期。",
-        "evidence": "COHORT"
+        "zh": "",
+        "evidence": "OTHER"
       },
       {
         "pmid": "42484938",
@@ -102,7 +102,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42484938/",
-        "zh": "提出以清除为中心的新框架，揭示类淋巴-淋巴耦合回路三节点失效是AD核心瓶颈。",
+        "zh": "",
         "evidence": "REVIEW"
       },
       {
@@ -112,11 +112,21 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42469568/",
-        "zh": "纳米药物可精准调控神经炎症通路，为阿尔茨海默病治疗开辟新前沿。",
-        "evidence": "REVIEW"
+        "zh": "",
+        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42546232",
+        "title": "Diagnostic Accuracy of the Boston Criteria v2.0 in Memory Clinic Patients: An MRI-Neuropathology Validation Study.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42546232/",
+        "zh": "",
+        "evidence": "COHORT"
+      },
       {
         "pmid": "42543274",
         "title": "[Research progress on active ingredients of Astragali Radix and Acori Tatarinowii Rhizoma and mechanism of their herb pair against Alzheimer's disease].",
@@ -134,7 +144,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42543199/",
-        "zh": "步态障碍与AD病理（淀粉样蛋白、tau、海马萎缩）存在机制关联，或为早期临床标志。",
+        "zh": "步态障碍与AD病理（淀粉样蛋白、tau及海马萎缩）存在机制关联，或为早期临床标志。",
         "evidence": "REVIEW"
       },
       {
@@ -144,7 +154,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42542447/",
-        "zh": "PART与AD的神经原纤维缠结蛋白组差异揭示Aβ病理改变Tau聚集构成。",
+        "zh": "PART、早中期及晚期AD海马神经原纤维缠结蛋白组差异揭示Aβ共病理改变缠结组成。",
         "evidence": "OTHER"
       },
       {
@@ -154,8 +164,8 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42541636/",
-        "zh": "胶质自噬-溶酶体-炎症轴是连接阿尔茨海默病多种病理改变的统一机制框架。",
-        "evidence": "REVIEW"
+        "zh": "胶质自噬-溶酶体通路受损驱动神经炎症，是阿尔茨海默病统一机制框架。",
+        "evidence": "OTHER"
       },
       {
         "pmid": "42538752",
@@ -164,7 +174,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42538752/",
-        "zh": "比利时专家共识：AD诊疗须以生物标志物确诊淀粉样病理，并重构医疗体系以适配DMT时代。",
+        "zh": "比利时专家共识：AD诊疗须以生物标志物确诊淀粉样病变，并需系统改造以保障DMT安全公平实施。",
         "evidence": "OTHER"
       },
       {
@@ -174,7 +184,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42535978/",
-        "zh": "发现九个基因的十六个变异位点同时关联阿尔茨海默病及其关键风险因素，其中APOE、ABCA1和TOMM40关联最强。",
+        "zh": "发现九个基因的十六个变异位点共同影响阿尔茨海默病及其关键风险因素，其中APOE、ABCA1和TOMM40关联最强。",
         "evidence": "OTHER"
       },
       {
@@ -184,21 +194,21 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42535261/",
-        "zh": "血浆生物标志物基线值比其变化率更能预测AD关键结局的进展速度。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42533677",
-        "title": "Classification of tau status with machine learning models in amyloid-positive cohorts.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42533677/",
-        "zh": "基于MRI和淀粉样PET特征构建的机器学习模型可有效分类淀粉样阳性人群的tau病理状态。",
+        "zh": "血浆生物标志物基线值较其变化率更能预测AD关键结局的进展速度。",
         "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42545715",
+        "title": "Serum Glial Fibrillary Acidic Protein Dynamics, Disease Progression, and Therapy Response in Multiple Sclerosis.",
+        "journal": "JAMA neurology",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42545715/",
+        "zh": "血清GFAP动态变化可预测多发性硬化疾病进展及治疗应答。",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42543123",
         "title": "Brain aging clocks: From methodological advances to cellular mechanisms.",
@@ -206,7 +216,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42543123/",
-        "zh": "脑衰老时钟已从全局指标发展为多模态、细胞级工具，可量化区域异质性与衰老速率。",
+        "zh": "脑老化时钟已从全局指标发展为多模态、细胞级工具，可量化区域异质性与衰老速率。",
         "evidence": "REVIEW"
       },
       {
@@ -216,7 +226,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42538752/",
-        "zh": "比利时专家共识：AD诊疗须以生物标志物确诊淀粉样病变，并重构医疗体系以适配疾病修饰疗法。",
+        "zh": "比利时专家共识：AD诊疗须以生物标志物确诊淀粉样病变，并需系统性调整以保障DMT安全公平应用。",
         "evidence": "OTHER"
       },
       {
@@ -236,7 +246,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42535261/",
-        "zh": "血浆生物标志物基线值较其变化率更能预测AD关键结局的进展速度。",
+        "zh": "血浆生物标志物基线值较其变化率更能预测AD关键结局的进展速率。",
         "evidence": "COHORT"
       },
       {
@@ -246,7 +256,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42534839/",
-        "zh": "贫血与铁缺乏需作为独立表型解读，显著影响AD血液生物标志物及痴呆风险分层。",
+        "zh": "贫血与铁缺乏需作为独立造血营养表型，显著影响AD血液生物标志物解读及痴呆风险分层。",
         "evidence": "OTHER"
       },
       {
@@ -256,7 +266,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42533677/",
-        "zh": "基于MRI和淀粉样PET特征构建的机器学习模型可有效预测淀粉样阳性人群的tau病理状态。",
+        "zh": "机器学习模型可基于MRI和淀粉样PET特征准确分类淀粉样阳性人群的tau状态。",
         "evidence": "OTHER"
       },
       {
@@ -266,21 +276,21 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42531948/",
-        "zh": "机器学习结合血浆标志物、ApoE4与CDR可低成本预测脑内β-淀粉样蛋白沉积。",
+        "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42530254",
-        "title": "Peripheral Administration of isoD7-Aβ Exacerbates Motor Deficits and Tau Pathology in P301S Mice.",
-        "journal": "Frontiers in bioscience (Landmark editio",
-        "year": "2026",
-        "month": "07",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42530254/",
-        "zh": "外周注射isoD7-Aβ经Akt/GSK-3β通路加剧P301S小鼠运动障碍与tau病理。",
-        "evidence": "ANIMAL"
       }
     ],
     "prev": [
+      {
+        "pmid": "42545733",
+        "title": "COVID-19 Impact on Health Behaviors and Survey Engagement in Older African Americans: Longitudinal Cohort Study.",
+        "journal": "JMIR formative research",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42545733/",
+        "zh": "新冠疫情使老年非裔美国人身体活动与睡眠时长显著下降，但问卷参与度未减。",
+        "evidence": "COHORT"
+      },
       {
         "pmid": "42544344",
         "title": "Reducing Dementia Risk with the BrainSpan Program: : A Public Health Practice Vignette.",
@@ -288,7 +298,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42544344/",
-        "zh": "“脑Span项目”通过多领域生活方式干预，可降低老年人群痴呆风险。",
+        "zh": "“脑Span项目通过多领域生活方式干预，可降低老年人群痴呆风险约45%。”",
         "evidence": "OTHER"
       },
       {
@@ -298,7 +308,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42543123/",
-        "zh": "脑衰老时钟已从全局指标发展为多模态、区域化及细胞级解析，可精准量化脑老化速率与异质性。",
+        "zh": "",
         "evidence": "REVIEW"
       },
       {
@@ -310,16 +320,6 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42541313/",
         "zh": "长新冠患者存在多器官结构与功能缺陷，且与感染及症状持续时间显著相关。",
         "evidence": "COHORT"
-      },
-      {
-        "pmid": "42540987",
-        "title": "Hospital Electronic Health Records as a research resource: data linkage, national scale-up, and five-year Impact of the National Centre for Healthy Ageing Data Platform.",
-        "journal": "International journal of population data",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42540987/",
-        "zh": "澳大利亚建成百万人级医院电子病历研究平台，实现数据联动与AI快速提取。",
-        "evidence": "OTHER"
       },
       {
         "pmid": "42540732",
@@ -348,7 +348,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42540082/",
-        "zh": "该研究提示，快速进食或不吃早餐通过肥胖及代谢异常的中介作用，显著增加2型糖尿病发病风险。",
+        "zh": "该研究揭示代谢异常在不良饮食习惯与2型糖尿病关联中起关键中介作用。",
         "evidence": "COHORT"
       },
       {
@@ -358,7 +358,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42539876/",
-        "zh": "牙周炎通过口腔-大脑轴驱动全身炎症与菌群失调，成为阿尔茨海默病和帕金森病的可干预风险因素。",
+        "zh": "牙周炎通过口腔-大脑轴驱动神经炎症，成为阿尔茨海默病和帕金森病的可干预风险因素。",
         "evidence": "REVIEW"
       }
     ],
@@ -370,7 +370,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42522048/",
-        "zh": "大脑发炎会加速老年痴呆和帕金森病，看懂这个能帮你早点留意信号，别等病重才后悔。",
+        "zh": "大脑发炎会加速老年痴呆和帕金森病，这篇综述讲清了原因，并提示未来可能从抗炎入手延缓病情。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +380,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42509738/",
-        "zh": "这篇综述把老年痴呆等脑病看作一张互相牵连的“坏网”，告诉你治病不能只盯一个点，得从整体下手。",
+        "zh": "",
         "evidence": "REVIEW"
       },
       {
@@ -390,7 +390,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42507235/",
-        "zh": "这篇综述讲的是，在阿尔茨海默病早期查出和用药时，人容易焦虑，而心理医生能帮上忙；对普通人来说，就是提醒你早查早治别太慌。",
+        "zh": "这篇综述讲的是：早查出老年痴呆后，人容易焦虑，而焦虑又会加重病情，所以心理医生得提前介入，帮病人稳住心态。",
         "evidence": "REVIEW"
       },
       {
@@ -400,7 +400,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42506306/",
-        "zh": "这药能清掉大脑里的“垃圾蛋白”，但效果因人而异，还可能带来脑肿胀风险，得看准了再用。",
+        "zh": "这篇文章讲的是几种治早期老年痴呆的新药效果和风险不一样，帮您看懂哪种更适合、值不值得用。",
         "evidence": "META"
       },
       {
@@ -410,7 +410,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42493137/",
-        "zh": "这篇综述讲的是用糖类聚合物拦住大脑里导致老年痴呆的坏蛋白，帮普通人了解这类新药离治病还有多远。",
+        "zh": "这篇综述讲的是用糖类聚合物拦住大脑里堆积的“坏蛋白”，帮普通人看懂这类新药研究离治阿尔茨海默病还有多远。",
         "evidence": "OTHER"
       },
       {
@@ -420,7 +420,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42461334/",
-        "zh": "这篇综述讲的是牙周炎细菌释放的微小“快递包”可能钻进大脑，诱发老年痴呆，所以好好刷牙、护好牙龈，或许能帮大脑防老痴。",
+        "zh": "这篇综述讲的是：牙周炎细菌释放的微小“快递包”可能钻进大脑，引发老年痴呆，所以好好刷牙、护好牙周，或许能帮大脑防老痴。",
         "evidence": "REVIEW"
       },
       {
@@ -430,7 +430,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42450256/",
-        "zh": "这项研究想通过抽血查一种叫“小分子RNA”的微小物质，来更早发现老年痴呆，并提醒男女患者身体变化可能不一样。",
+        "zh": "简单说，这篇研究在找一种能靠抽血早期发现老年痴呆的办法，但发现男女和身体部位测出的结果不一样，得小心用。",
         "evidence": "OTHER"
       },
       {
@@ -440,8 +440,8 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42450004/",
-        "zh": "这文章就是讲治老年痴呆的常用药到底管不管用，让家属知道吃药能帮到啥、别指望啥。",
-        "evidence": "REVIEW"
+        "zh": "这文章就是讲一种治老年痴呆的老药到底管不管用，看完能让家属心里有底，知道该不该期待它。",
+        "evidence": "OTHER"
       }
     ]
   }
