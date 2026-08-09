@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T12:41:29.752357Z",
+  "updated": "2026-08-09T01:25:14.901526Z",
   "feeds": [
     {
       "id": "drug",
@@ -42,7 +42,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42565262/",
-        "zh": "血浆p-tau217难以可靠监测多奈单抗治疗后的淀粉样蛋白清除。",
+        "zh": "血浆p-tau217难以可靠监测donanemab治疗后的淀粉样蛋白清除。",
         "evidence": "RCT"
       },
       {
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42557932/",
-        "zh": "中国患者使用仑卡奈单抗12个月CDR-SB无显著变化，安全性可控但停药率高。",
+        "zh": "中国患者使用仑卡奈单抗12个月CDR-SB无显著变化，ARIA发生率7.87%，停药主因经济负担。",
         "evidence": "COHORT"
       },
       {
@@ -72,7 +72,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42555876/",
-        "zh": "非遗忘型不典型阿尔茨海默病表型患者多数不符合抗淀粉样蛋白疗法的临床试验入组标准。",
+        "zh": "非遗忘型不典型阿尔茨海默病多数符合抗淀粉样蛋白治疗入组标准，但需警惕排除性条件。",
         "evidence": "OTHER"
       },
       {
@@ -82,7 +82,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42533677/",
-        "zh": "基于MRI和淀粉样PET特征构建的机器学习模型可有效分类淀粉样阳性人群的tau病理状态。",
+        "zh": "基于MRI和淀粉样PET特征构建的机器学习模型可有效分类淀粉样阳性人群的tau状态。",
         "evidence": "OTHER"
       },
       {
@@ -92,7 +92,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42530559/",
-        "zh": "II期促智药试验多因靶点或设计缺陷疗效有限，亟需更精准策略。",
+        "zh": "II期促智药试验多因靶点或设计缺陷疗效有限，亟需精准生物标志物与认知终点优化。",
         "evidence": "REVIEW"
       },
       {
@@ -102,7 +102,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42522305/",
-        "zh": "查尔酮衍生物通过多靶点调控与特定取代基优化，为阿尔茨海默病治疗提供新策略。",
+        "zh": "查尔酮母核经卤代或杂环修饰可同时抑制Aβ聚集、氧化应激及胆碱酯酶，为多靶点抗AD药物设计提供构效依据。",
         "evidence": "REVIEW"
       },
       {
@@ -112,11 +112,21 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42506306/",
-        "zh": "抗淀粉样单抗治疗早期AD的获益-风险谱存在显著药物间异质性，临床决策需个体化权衡。",
+        "zh": "抗淀粉样单抗对早期AD疗效与安全性差异显著，临床决策需个体化权衡。",
         "evidence": "META"
       }
     ],
     "mech": [
+      {
+        "pmid": "42568438",
+        "title": "Aerobic exercise combined with FK866 ameliorates Alzheimer's disease-like pathology in APP/PS1 mice with NAMPT abnormality.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42568438/",
+        "zh": "有氧运动联合FK866通过纠正NAMPT细胞特异性异常，改善APP/PS1小鼠AD样病理。",
+        "evidence": "ANIMAL"
+      },
       {
         "pmid": "42567574",
         "title": "Ultrasensitive detection of blood-based p-tau217 for Alzheimer's disease integrated antibody-oligonucleotide conjugates and RCA/Cas12a system.",
@@ -124,7 +134,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42567574/",
-        "zh": "基于抗体-寡核苷酸偶联物与RCA/Cas12a系统，实现血液p-tau217超灵敏检测，灵敏度达1 fg/mL。",
+        "zh": "基于抗体-寡核苷酸偶联与RCA/Cas12a系统，实现血液p-tau217超灵敏检测至1 fg/mL。",
         "evidence": "INVITRO"
       },
       {
@@ -134,7 +144,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42565396/",
-        "zh": "簇集蛋白通过调控炎症、凋亡及Aβ清除等多机制参与AD发病，是潜在生物标志物。",
+        "zh": "簇集蛋白通过调控炎症、凋亡及Aβ清除等多机制参与AD病理，或为潜在生物标志物。",
         "evidence": "REVIEW"
       },
       {
@@ -144,7 +154,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42565246/",
-        "zh": "中缝背核tau蛋白病理经5-HT与非5-HT神经元差异性破坏睡眠结构，且呈性别依赖效应。",
+        "zh": "中缝背核tau蛋白病理性破坏睡眠结构，且呈性别依赖性差异。",
         "evidence": "ANIMAL"
       },
       {
@@ -154,7 +164,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42550989/",
-        "zh": "晚发性颞叶癫痫认知与脑脊液标志物提示非阿尔茨海默病性神经退行机制。",
+        "zh": "晚发性颞叶癫痫认知与脑脊液标志物谱提示其核心机制或非阿尔茨海默病。",
         "evidence": "COHORT"
       },
       {
@@ -164,7 +174,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42560134/",
-        "zh": "综述揭示神经炎症作为AD第三大病理支柱，其双相阶段依赖作用及外周-中枢互作机制。",
+        "zh": "综述揭示神经炎症在AD中呈阶段依赖性双刃剑作用，并整合其机制、生物标志物与治疗策略。",
         "evidence": "REVIEW"
       },
       {
@@ -186,16 +196,6 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42557955/",
         "zh": "脑源性p-tau217可精准预测连续淀粉样蛋白水平，优于传统p-tau217。",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42556319",
-        "title": "When less is more and when it isn't: Microglial Spi1 and the limits of what we know.",
-        "journal": "Neuron",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42556319/",
-        "zh": "小鼠小胶质细胞Spi1缺失经Syk/Lyn/Fcgr1通路损害Aβ清除，加剧淀粉样病理。",
-        "evidence": "REVIEW"
       }
     ],
     "dx": [
@@ -206,7 +206,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42568064/",
-        "zh": "血浆AD生物标志物与白质高信号协同加速非痴呆人群认知衰退及痴呆进展。",
+        "zh": "血浆AD生物标志物与白质高信号协同加速非痴呆人群认知衰退及痴呆转化。",
         "evidence": "COHORT"
       },
       {
@@ -216,7 +216,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42567574/",
-        "zh": "基于抗体-寡核苷酸偶联与RCA/Cas12a系统，实现血液p-tau217超灵敏检测，灵敏度达1 fg/mL。",
+        "zh": "基于抗体-寡核苷酸偶联与RCA/Cas12a系统，实现血液p-tau217超灵敏检测（达1 fg/mL）。",
         "evidence": "INVITRO"
       },
       {
@@ -226,7 +226,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42567350/",
-        "zh": "缬氨酸与APOE ε4交互作用影响AD风险，或为ε4携带者提供营养干预靶点。",
+        "zh": "缬氨酸可调节APOE ε4携带者的阿尔茨海默病风险，或为干预靶点。",
         "evidence": "COHORT"
       },
       {
@@ -236,7 +236,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42566983/",
-        "zh": "血浆AD生物标志物间表型关联受遗传调控，p-tau181与GFAP关联最弱，与p-tau217最强。",
+        "zh": "血浆AD生物标志物间关联受遗传调控，p-tau181与GFAP相关性最弱，与p-tau217最强。",
         "evidence": "OTHER"
       },
       {
@@ -246,7 +246,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42566137/",
-        "zh": "犬类认知功能障碍的Aβ42及比值呈分期非线性变化，与人类AD早期代偿相似。",
+        "zh": "犬类认知功能障碍生物标志物研究揭示Aβ42动态变化与人类AD早期阶段高度相似。",
         "evidence": "REVIEW"
       },
       {
@@ -256,7 +256,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42565262/",
-        "zh": "血浆p-tau217无法可靠监测donanemab治疗后淀粉样蛋白清除。",
+        "zh": "血浆p-tau217难以可靠监测donanemab治疗后的淀粉样蛋白清除。",
         "evidence": "RCT"
       },
       {
@@ -276,11 +276,31 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42558640/",
-        "zh": "1型糖尿病显著升高神经退行及神经炎症血浆生物标志物水平。",
+        "zh": "1型糖尿病显著升高血浆神经退行性及神经炎症生物标志物水平。",
         "evidence": "COHORT"
       }
     ],
     "prev": [
+      {
+        "pmid": "42568706",
+        "title": "Effect of increasing cognitive activity participation via calligraphy practice on salient network and central executive network in older adults with subjective cognitive decline: a secondary analysis of a randomized controlled trial.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42568706/",
+        "zh": "练习书法增强主观认知下降老年人突显及中央执行网络功能连接。",
+        "evidence": "RCT"
+      },
+      {
+        "pmid": "42568537",
+        "title": "Creating cognitive normative data for rural Indian population.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42568537/",
+        "zh": "印度农村老人认知常模按教育分层，可提升早期认知损伤识别能力。",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42568043",
         "title": "Effects of Physical Activity on Brain White Matter Integrity Are Region-, Dose-, and Age-Dependent: Findings From the Population-Based Rhineland Study.",
@@ -288,7 +308,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42568043/",
-        "zh": "运动改善脑白质完整性，效果因脑区、运动量和年龄而异。",
+        "zh": "运动对脑白质完整性的益处呈区域、剂量及年龄依赖性。",
         "evidence": "COHORT"
       },
       {
@@ -318,7 +338,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42567350/",
-        "zh": "缬氨酸与APOE ε4交互作用影响AD风险，或为ε4携带者提供干预靶点。",
+        "zh": "缬氨酸通过代谢-APOE ε4交互作用调节阿尔茨海默病风险，或为营养干预靶点。",
         "evidence": "COHORT"
       },
       {
@@ -328,7 +348,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42567320/",
-        "zh": "低碳水或低脂饮食均不显著改变痴呆风险，且不受遗传易感性影响。",
+        "zh": "低碳水或低脂饮食均不显著改变痴呆风险，遗传易感性亦无修饰效应。",
         "evidence": "COHORT"
       },
       {
@@ -338,27 +358,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42567210/",
-        "zh": "乐观可缓冲压力事件对老年人抑郁的诱发，悲观则加剧该风险。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42567093",
-        "title": "Cardiorespiratory Fitness, Coronary Artery Calcium, and Risk of Later-Life Dementia: The Cooper Center Longitudinal Study.",
-        "journal": "JACC. Advances",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42567093/",
-        "zh": "中年心肺适能高者痴呆风险低，且不受冠脉钙化影响。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42566699",
-        "title": "Secondary prevention of myocardial infarction in people with dementia: a multi-jurisdictional retrospective cohort study in Asia, Europe and the USA.",
-        "journal": "Age and ageing",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42566699/",
-        "zh": "痴呆患者心梗后联合使用他汀、RASI及β阻滞剂可显著降低死亡与心血管风险。",
+        "zh": "乐观可缓冲压力事件对老年人抑郁的影响，悲观则加剧该风险。",
         "evidence": "COHORT"
       }
     ],
@@ -370,7 +370,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42560134/",
-        "zh": "大脑发炎是痴呆症的重要推手，看懂这篇能帮你分清真假预防方法，少花冤枉钱。",
+        "zh": "大脑发炎是痴呆症的关键推手，这篇综述讲清了它的来龙去脉，帮你明白未来怎么早发现、早干预。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +380,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42552749/",
-        "zh": "这篇综述用最新数据回答了“抗淀粉样蛋白药到底值不值得用”的问题，帮普通人判断这类新药是否安全有效。",
+        "zh": "这篇综述说的是，美国医保要不要继续为阿尔茨海默病新药买单，新数据证明药效持续、风险可控，帮普通人看懂这类药到底值不值得用。",
         "evidence": "OTHER"
       },
       {
@@ -390,7 +390,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42552045/",
-        "zh": "这篇综述讲的是大脑“没电”会让人记性变差、动作变慢，看懂它就能明白为啥要护好大脑能量，提前防老痴和帕金森。",
+        "zh": "这篇综述讲的是大脑“没电”会让人记性变差、反应变慢，看懂它就能明白为啥要护好脑子，提前防痴呆。",
         "evidence": "OTHER"
       },
       {
@@ -400,7 +400,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42552040/",
-        "zh": "这篇综述讲的是，科学家在找能管住大脑里两种“捣乱酶”的药，用来缓解老年痴呆症状，帮病人多留住一些记忆和自理能力。",
+        "zh": "这篇综述讲的是，科学家正研究怎么用药物拦住阿尔茨海默病里破坏记忆的“捣乱分子”，帮病人延缓脑子变糊涂的速度。",
         "evidence": "REVIEW"
       },
       {
@@ -410,7 +410,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42552038/",
-        "zh": "这篇综述告诉你，老年痴呆可能和大脑“吃不饱饭”有关，了解这点，或许能帮我们更早预防或延缓它。",
+        "zh": "这篇综述讲的是，老年痴呆可能和大脑“缺能量”有关，了解这点，或许能帮我们提前预防或延缓记性变差。",
         "evidence": "REVIEW"
       },
       {
@@ -420,7 +420,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42522048/",
-        "zh": "大脑发炎会加重老年痴呆和帕金森病，看懂这个，能帮你更早留意身体信号，别等病重才后悔。",
+        "zh": "大脑发炎会加重老年痴呆和帕金森病，这篇综述帮你看懂病根在哪，以及未来药能往哪儿使劲。",
         "evidence": "REVIEW"
       },
       {
@@ -430,7 +430,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42509738/",
-        "zh": "这篇综述讲的是老年痴呆等脑病其实是多种身体毛病互相“抱团”搞破坏，看懂这个规律，普通人就能更早预防、少走弯路。",
+        "zh": "这篇综述把老年痴呆等脑病看成一张互相影响的“坏网”，告诉我们治病不能只盯一个点，得从整体下手。",
         "evidence": "REVIEW"
       },
       {
@@ -440,7 +440,7 @@
         "year": "2026",
         "month": "07",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42507235/",
-        "zh": "这篇综述讲的是：查出早期老年痴呆后，人容易焦虑，而焦虑又会加重病情，所以心理医生得提前介入帮患者稳住心态。",
+        "zh": "这篇综述讲的是：早查出老年痴呆后，心里害怕和焦虑怎么办，以及这些情绪会不会影响病情，帮普通人提前心里有数。",
         "evidence": "REVIEW"
       }
     ]
