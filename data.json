@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T01:06:18.625490Z",
+  "updated": "2026-08-24T12:43:24.164499Z",
   "feeds": [
     {
       "id": "drug",
@@ -42,7 +42,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42608285/",
-        "zh": "靶向病理tau而非全面降低，是tau蛋白病治疗策略的关键转向。",
+        "zh": "靶向病理tau而非全面降低，是tau蛋白病治疗策略优化的关键方向。",
         "evidence": "REVIEW"
       },
       {
@@ -52,7 +52,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42602524/",
-        "zh": "双盲与开放标签阶段斜率差异提示，仑卡奈单抗及多奈单抗长期获益或被历史对照偏倚高估。",
+        "zh": "双盲与开放标签阶段斜率差异提示仑卡奈单抗长期获益或含安慰剂及选择偏倚。",
         "evidence": "OTHER"
       },
       {
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42598748/",
-        "zh": "gantenerumab致脑实质容积减少主要源于淀粉样蛋白清除，而非ARIA。",
+        "zh": "仑卡奈单抗治疗中脑实质体积减少与ARIA无关，而与淀粉样蛋白清除相关。",
         "evidence": "RCT"
       },
       {
@@ -72,7 +72,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42591325/",
-        "zh": "韩国真实世界数据显示仑卡奈单抗输注相关反应常见但ARIA风险可控，早期治疗耐受性良好。",
+        "zh": "韩国真实世界数据显示仑卡奈单抗安全性可控，ARIA发生率低，认知获益与临床试验一致。",
         "evidence": "COHORT"
       },
       {
@@ -82,7 +82,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42565262/",
-        "zh": "血浆p-tau217无法可靠监测donanemab治疗后淀粉样蛋白清除。",
+        "zh": "血浆p-tau217难以可靠监测donanemab治疗后淀粉样蛋白清除。",
         "evidence": "RCT"
       },
       {
@@ -102,7 +102,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42557932/",
-        "zh": "中国患者使用仑卡奈单抗12个月未显著改善CDR-SB，安全性可控但停药率高。",
+        "zh": "中国患者使用仑卡奈单抗12个月CDR-SB无显著变化，ARIA发生率7.87%，停药主因经济负担。",
         "evidence": "COHORT"
       },
       {
@@ -112,11 +112,21 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42555876/",
-        "zh": "非遗忘型不典型阿尔茨海默病多数符合抗淀粉样蛋白治疗入组标准，但需关注认知评估差异。",
+        "zh": "非遗忘型不典型阿尔茨海默病多数符合抗淀粉样蛋白治疗入组标准。",
         "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42634158",
+        "title": "Multi-omics identification of haptoglobin as a novel target for increased Alzheimer's disease risk associated with obesity through inhibiting the phagocytosis of Aβ by disease-associated microglia.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42634158/",
+        "zh": "肥胖通过触珠蛋白抑制疾病相关小胶质细胞吞噬Aβ，从而增加阿尔茨海默病风险。",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42631698",
         "title": "Tau-Targeted PROTACs Degrade Pathology-Associated Tau and Improve Memory in Alzheimer's Disease Models.",
@@ -124,7 +134,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42631698/",
-        "zh": "靶向tau的PROTAC降解病理性tau并改善AD小鼠记忆，提供新治疗策略。",
+        "zh": "靶向tau蛋白的PROTAC降解病理性tau并改善阿尔茨海默病模型小鼠记忆。",
         "evidence": "ANIMAL"
       },
       {
@@ -134,7 +144,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42631411/",
-        "zh": "多层硅基壳聚糖纳米粒共递送他莫昔芬与槲皮素，缓解LPS诱导的AD样神经病理改变。",
+        "zh": "多层硅基壳聚糖纳米粒共递送他莫昔芬与槲皮素，缓解LPS诱导的AD样神经病变。",
         "evidence": "ANIMAL"
       },
       {
@@ -144,7 +154,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42630799/",
-        "zh": "提出“肠-类淋巴轴”假说，揭示IBD通过菌群及代谢物加剧AD神经病理。",
+        "zh": "炎症性肠病或经肠-类淋巴轴通路加剧阿尔茨海默病病理。",
         "evidence": "REVIEW"
       },
       {
@@ -154,7 +164,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42630134/",
-        "zh": "基于NULISA的脑细胞特异性胞外囊泡蛋白质组学揭示MCI阶段即出现神经保护、炎症及血管通路的早期失调。",
+        "zh": "利用脑细胞特异性细胞外囊泡NULISA蛋白组学，揭示MCI早期神经保护、炎症及血管通路失调。",
         "evidence": "OTHER"
       },
       {
@@ -164,7 +174,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42630093/",
-        "zh": "SORL1 Y1816C突变致内体APP错误分选及轴突运输障碍，揭示其致病机制。",
+        "zh": "SORL1 p.Y1816C突变致SORLA成熟障碍，引发内体增大、APP错误分选及轴突运输缺陷。",
         "evidence": "INVITRO"
       },
       {
@@ -174,7 +184,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42630074/",
-        "zh": "人脑海马苔藓纤维异常重组与缠结、斑块形成及线粒体能量代谢改变密切相关。",
+        "zh": "人脑海马苔藓纤维异常重组与缠结、斑块形成及线粒体能量代谢改变整合关联。",
         "evidence": "OTHER"
       },
       {
@@ -184,21 +194,21 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42629135/",
-        "zh": "CX3CR1通过调控小胶质细胞对Aβ与Tau的交互作用，成为AD潜在治疗靶点。",
+        "zh": "CX3CR1通过调控小胶质细胞对Tau与Aβ的交互作用，影响AD病理进程。",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42629128",
-        "title": "Microglia in Alzheimer's disease: Insights into disease progression and therapy.",
-        "journal": "Advances in immunology",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42629128/",
-        "zh": "小胶质细胞代谢失调驱动AD进展，TREM2通路成关键治疗靶点。",
-        "evidence": "REVIEW"
       }
     ],
     "dx": [
+      {
+        "pmid": "42633973",
+        "title": "Head-to-head comparison of plasma biomarker assays across platforms for amyloid pathology in a multicenter cohort.",
+        "journal": "Science bulletin",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42633973/",
+        "zh": "多中心头对头比较显示，p-tau217检测平台间性能差异显著，含Aβ42比值者诊断淀粉样病变更优。",
+        "evidence": "COHORT"
+      },
       {
         "pmid": "42631776",
         "title": "Emerging diagnostic biomarkers and therapeutic targets in Alzheimer's disease.",
@@ -206,7 +216,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42631776/",
-        "zh": "综述AD病理机制、新兴生物标志物及治疗靶点，强调需加速精准诊疗。",
+        "zh": "综述AD病理机制，梳理新兴诊断标志物与治疗靶点及递送方案。",
         "evidence": "REVIEW"
       },
       {
@@ -216,7 +226,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42631717/",
-        "zh": "血液p-tau亚型检测对AD进展及Aβ病理诊断价值存在差异，需按亚型分层解读。",
+        "zh": "血液p-tau亚型检测对AD进展及Aβ病理诊断价值存在差异，p-tau217表现最优。",
         "evidence": "META"
       },
       {
@@ -226,7 +236,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42630088/",
-        "zh": "超90岁老人中，血浆GFAP升高经血管及淀粉样通路加剧记忆损伤。",
+        "zh": "超90岁老人中，血浆GFAP升高经血管病与淀粉样病理双重途径加剧记忆衰退。",
         "evidence": "OTHER"
       },
       {
@@ -236,7 +246,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42627571/",
-        "zh": "CT1812经σ-2受体复合物调控减轻老龄小鼠术后认知损伤及海马应激。",
+        "zh": "CT1812通过调控TMEM97/PGRMC1通路减轻老龄小鼠术后认知损伤。",
         "evidence": "ANIMAL"
       },
       {
@@ -256,7 +266,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42620814/",
-        "zh": "语言增强生成模型可仅凭MRI和血液指标合成高质量淀粉样PET，辅助AD诊断。",
+        "zh": "语言增强生成模型可仅凭MRI和血液指标合成高保真Aβ-PET图像，辅助AD诊断。",
         "evidence": "OTHER"
       },
       {
@@ -268,16 +278,6 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42620201/",
         "zh": "社区样本中脑源性p-tau217等血浆标志物可反映脑内淀粉样沉积，且受肾功能影响。",
         "evidence": "COHORT"
-      },
-      {
-        "pmid": "42620184",
-        "title": "Determining the metabolic profile measured using ultra-high pressure liquid chromatography associated with Beta Amyloid burden in the brain in individuals with mild cognitive impairment.",
-        "journal": "Research square",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42620184/",
-        "zh": "UPLC代谢谱可预测MCI患者脑内β-淀粉样蛋白负荷，或为AD早期生物标志物。",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
@@ -288,7 +288,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42630821/",
-        "zh": "该综述揭示主要非传染性疾病生命历程表型轨迹数据存在显著缺口，且现有数据零散、缺乏系统性整合。",
+        "zh": "该综述揭示主要非传染性疾病在生命历程表型轨迹研究中存在显著数据空白，亟需前瞻性队列填补。",
         "evidence": "OTHER"
       },
       {
@@ -298,7 +298,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42630088/",
-        "zh": "超90岁老人中，血浆GFAP升高经血管及淀粉样通路加剧记忆损伤。",
+        "zh": "超90岁老人中，血浆GFAP升高经血管病及Aβ通路介导内侧颞叶萎缩与记忆损害。",
         "evidence": "OTHER"
       },
       {
@@ -308,7 +308,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42628699/",
-        "zh": "晚发不明原因癫痫患者认知衰退与痴呆风险显著升高，或为阿尔茨海默病早期标志。",
+        "zh": "晚发不明原因癫痫患者认知网络异常与β-淀粉样蛋白及tau病理相关，提示其痴呆高风险。",
         "evidence": "OTHER"
       },
       {
@@ -328,7 +328,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42625505/",
-        "zh": "韩国国家认知筛查提高了痴呆诊疗率，但未减少相关住院。",
+        "zh": "韩国国家认知筛查显著提升痴呆诊疗率，但未降低相关住院风险。",
         "evidence": "COHORT"
       },
       {
@@ -348,7 +348,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42625121/",
-        "zh": "中老年听力受损者中，长期坚持中高强度体力活动可显著降低认知障碍风险。",
+        "zh": "中国45岁以上自报听力损失成人中，长期规律运动可显著降低认知障碍风险。",
         "evidence": "COHORT"
       },
       {
@@ -358,7 +358,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42622974/",
-        "zh": "外泌体源性蛋白及非编码RNA可作为卒中、帕金森病和阿尔茨海默病的无创生物标志物。",
+        "zh": "外泌体源性蛋白及非编码RNA可作为卒中、帕金森病和阿尔茨海默病的无创诊断标志物。",
         "evidence": "REVIEW"
       }
     ],
@@ -370,7 +370,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42629128/",
-        "zh": "大脑里的清洁工一旦罢工，病就加重；搞懂它们罢工的原因，才能找到延缓老年痴呆的新药。",
+        "zh": "大脑里的清洁工一旦罢工，病就加重；看懂这个，就知道新药为啥瞄准它。",
         "evidence": "REVIEW"
       },
       {
@@ -380,8 +380,8 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42619312/",
-        "zh": "更年期睡不好可能增加将来得老年痴呆的风险，但抓住这个阶段调理好睡眠，就是保护大脑的省钱机会。",
-        "evidence": "REVIEW"
+        "zh": "更年期睡不好可能增加老了得痴呆的风险，这篇讲怎么抓住这个阶段提前干预，帮女性护住脑子。",
+        "evidence": "OTHER"
       },
       {
         "pmid": "42613627",
@@ -390,7 +390,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42613627/",
-        "zh": "这篇综述讲的是用干细胞治疗老年痴呆等脑部疾病，目前看安全可行，但效果还在验证中，普通人了解个大概就行。",
+        "zh": "这篇综述讲的是用干细胞治疗老年痴呆等脑部疾病的研究进展，对普通人来说，就是看看这招到底安不安全、有没有用。",
         "evidence": "REVIEW"
       },
       {
@@ -400,7 +400,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42605139/",
-        "zh": "这药想清掉大脑里的“垃圾蛋白”来延缓早期痴呆，但新数据说效果一般，帮您判断值不值得期待。",
+        "zh": "这药想清理大脑里的“垃圾蛋白”来延缓痴呆，但新数据说效果一般，别指望它能治好，早发现早干预才是关键。",
         "evidence": "META"
       },
       {
@@ -410,7 +410,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42588443/",
-        "zh": "这篇综述讲的是，从植物里提取的“木脂素”能多管齐下对付老年痴呆，对普通人来说，就是将来可能靠它延缓脑子老化。",
+        "zh": "这篇综述讲的是植物里的木脂素成分，能多管齐下对付老年痴呆，帮咱们看懂哪些天然食物可能护脑。",
         "evidence": "REVIEW"
       },
       {
@@ -420,7 +420,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42588059/",
-        "zh": "这篇综述讲的是：脑子生病和日常吃的东西有关，吃对食物可能帮老人防痴呆，但别指望靠吃治好病。",
+        "zh": "人老了脑子生病，可能跟吃的东西有关，选对食物或许能帮大脑抗老防糊涂。",
         "evidence": "REVIEW"
       },
       {
@@ -430,7 +430,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42585605/",
-        "zh": "抽血查阿尔茨海默病听着很美，但社区医生拿到结果后该咋办、准不准，目前还没整明白，所以别急着当体检项目。",
+        "zh": "抽血查阿尔茨海默病听着很美，但光靠化验单不够，得先想清楚查完怎么用，不然对普通人可能帮倒忙。",
         "evidence": "REVIEW"
       },
       {
@@ -440,7 +440,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42582058/",
-        "zh": "这篇文章讲的是身体里一个叫TREM2的“免疫开关”如何影响大脑和癌症，看懂它，能帮你明白未来新药为啥这么治。",
+        "zh": "这篇综述讲的是免疫系统里一个叫TREM2的“开关”如何影响大脑和肿瘤，看懂它，能帮你理解未来相关新药为什么有效。",
         "evidence": "REVIEW"
       }
     ]
