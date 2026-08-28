@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T08:57:10.703983Z",
+  "updated": "2026-08-28T21:43:34.813397Z",
   "feeds": [
     {
       "id": "drug",
@@ -42,7 +42,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42654386/",
-        "zh": "系统性和脑脆弱性决定抗淀粉样疗法疗效与风险，应纳入治疗决策框架。",
+        "zh": "系统性和脑衰弱决定抗淀粉样治疗获益，应纳入阿尔茨海默病疗效评估框架。",
         "evidence": "REVIEW"
       },
       {
@@ -52,7 +52,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42651806/",
-        "zh": "外泌体疗法凭借血脑屏障穿透力与多靶点递送优势，或成阿尔茨海默病超越现有疗法的关键策略。",
+        "zh": "外泌体疗法凭借血脑屏障穿透力与多靶点递送优势，有望突破现有AD治疗瓶颈。",
         "evidence": "REVIEW"
       },
       {
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42648539/",
-        "zh": "仑卡奈单抗疗效受白质损伤动态影响，Aβ负荷可预测其进展。",
+        "zh": "仑卡奈单抗疗效受基线白质损伤影响，Aβ负荷可预测WMH进展。",
         "evidence": "COHORT"
       },
       {
@@ -72,7 +72,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42646285/",
-        "zh": "代谢组学筛选出内源性代谢物可抑制IAPP聚集，为T2DM治疗提供新靶点。",
+        "zh": "代谢组学揭示内源性代谢物可抑制IAPP聚集，为糖尿病相关淀粉样病变提供新干预靶点。",
         "evidence": "OTHER"
       },
       {
@@ -82,7 +82,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42644303/",
-        "zh": "英国适用人群中，多奈单抗对APOE ε4非携带者及杂合子早期症状性AD患者安全有效。",
+        "zh": "英国适用人群使用多奈单抗治疗早期症状性AD，APOE ε4非携带者及杂合子中安全性可控且疗效显著。",
         "evidence": "OTHER"
       },
       {
@@ -102,7 +102,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42608285/",
-        "zh": "靶向病理tau亚型而非泛tau清除，是tau蛋白病治疗策略优化的关键方向。",
+        "zh": "靶向病理tau亚型而非泛tau清除，是提高疗效并规避生理功能损伤的关键。",
         "evidence": "REVIEW"
       },
       {
@@ -112,11 +112,51 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42602524/",
-        "zh": "双盲与开放标签阶段斜率差异提示，仑卡奈单抗和多奈单抗的长期疗效或被高估。",
+        "zh": "双盲与开放标签阶段斜率差异提示，仑卡奈单抗长期获益或被高估。",
         "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42661225",
+        "title": "HSPA8 orchestrates SNARE complex assembly to drive extracellular vesicle-mediated spread of p-tau217 in Alzheimer's disease.",
+        "journal": "Translational neurodegeneration",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42661225/",
+        "zh": "HSPA8驱动SNARE复合物组装，促进p-tau217经细胞外囊泡传播，是AD潜在治疗靶点。",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42661181",
+        "title": "Nutritional modulation of neuroinflammation in Alzheimer's disease and mild cognitive impairment: a systematic review of clinical and preclinical evidence.",
+        "journal": "BMC geriatrics",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42661181/",
+        "zh": "系统综述显示营养干预调节神经炎症的证据不足，尚难支持临床推荐。",
+        "evidence": "META"
+      },
+      {
+        "pmid": "42661118",
+        "title": "From viral epigenetic reprogramming to neuroinflammation: Mechanisms driving neurodegeneration.",
+        "journal": "Journal of neurovirology",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42661118/",
+        "zh": "病毒借表观遗传重编程促神经炎症，驱动阿尔茨海默等神经退行病变。",
+        "evidence": "REVIEW"
+      },
+      {
+        "pmid": "42660828",
+        "title": "Traditional Chinese Herbal Formula YA3D3 Ameliorates Alzheimer's Disease-Like Pathology and Cognitive Impairment in APP/PS1 Transgenic Mice.",
+        "journal": "Zhongguo yi xue ke xue yuan xue bao. Act",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42660828/",
+        "zh": "中药复方YA3D3通过上调ATG14促进自噬，减轻APP/PS1小鼠Aβ沉积与认知障碍。",
+        "evidence": "ANIMAL"
+      },
       {
         "pmid": "42658102",
         "title": "From Periodontal Pocket to Systemic Diseases: Mechanistic Insights Into the Role of Porphyromonas gingivalis in Host Pathology.",
@@ -124,7 +164,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42658102/",
-        "zh": "牙龈卟啉单胞菌通过毒力因子破坏远端器官，桥接牙周炎与阿尔茨海默病等系统性疾病。",
+        "zh": "牙龈卟啉单胞菌通过牙龈蛋白酶等毒力因子破坏远端器官靶点，桥接牙周炎与阿尔茨海默病等系统性疾病。",
         "evidence": "REVIEW"
       },
       {
@@ -138,67 +178,47 @@
         "evidence": "ANIMAL"
       },
       {
-        "pmid": "42653915",
-        "title": "Novel Insights into the Pleiotropic Neuroprotective Action of Synthetic Halogen Free Thyronamine-like Analogues.",
-        "journal": "Molecules (Basel, Switzerland)",
+        "pmid": "42654386",
+        "title": "Beyond Amyloid: Systemic and Brain Frailty as Determinants of Response to Anti-Amyloid Therapy in Alzheimer's Disease-A Conceptual Review.",
+        "journal": "Medicina (Kaunas, Lithuania)",
         "year": "2026",
         "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42653915/",
-        "zh": "新型无卤甲状腺胺类似物SG-22/SG-23通过多靶点机制在AD模型中发挥神经保护作用。",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42653402",
-        "title": "Glycyrrhizin Ameliorates Learning and Memory Impairment via Inhibition of Neuroinflammation in an Alzheimer's Disease Mouse Model SAMP8.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42653402/",
-        "zh": "甘草酸通过抑制神经炎症改善SAMP8小鼠学习记忆损伤。",
-        "evidence": "ANIMAL"
-      },
-      {
-        "pmid": "42653368",
-        "title": "Human Stem Cell-Derived Models of the Alzheimer's Disease Neuroimmune System.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42653368/",
-        "zh": "人源干细胞模型可系统再现阿尔茨海默病神经免疫紊乱，助力机制研究与药物筛选。",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42654386/",
+        "zh": "系统性与脑衰弱决定抗淀粉样治疗获益，超越淀粉样蛋白本身。",
         "evidence": "REVIEW"
       },
       {
-        "pmid": "42653355",
-        "title": "Cerebral Intramural Cells: A Missing Cellular Link Between Vascular Aging and Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
+        "pmid": "42654172",
+        "title": "Dietary Patterns and Cognitive Decline in Older Adults: Findings from the Western Australia Memory Study.",
+        "journal": "Nutrients",
         "year": "2026",
         "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42653355/",
-        "zh": "脑内壁细胞连接血管老化与Aβ清除障碍，或为AD关键机制。",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42653267",
-        "title": "Putative Modulation of OATP1A2 and P-gp Expression at the Blood-Brain Barrier by Nrf2-PXR: An Associative Hypothesis for Amyloid-β Transport in Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42653267/",
-        "zh": "提出Nrf2-PXR互作调控血脑屏障Aβ转运蛋白的关联假说。",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42653081",
-        "title": "MALDI Mass Spectrometry Imaging in Alzheimer's Disease Lipidomics: Matrix Selection, Spatial Lipid Pathology and Emerging Analytical Strategies.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42653081/",
-        "zh": "MALDI质谱成像揭示AD脂质重塑呈区域及病变特异性，选对基质与极性是关键。",
-        "evidence": "REVIEW"
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42654172/",
+        "zh": "西澳老年队列显示，特定膳食模式与认知衰退关联受APOE基因型调节。",
+        "evidence": "COHORT"
       }
     ],
     "dx": [
+      {
+        "pmid": "42662502",
+        "title": "Clinical impact of amyloid PET in memory clinic: A 2-year longitudinal real-world study in Taiwan.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42662502/",
+        "zh": "台湾记忆门诊队列证实淀粉样蛋白PET可显著改变诊断并预测两年预后。",
+        "evidence": "COHORT"
+      },
+      {
+        "pmid": "42661952",
+        "title": "A Scoping Review of Machine Learning-Based Prediction of Alzheimer's Disease Using Blood Biomarkers.",
+        "journal": "Biomedical engineering and computational",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42661952/",
+        "zh": "血液生物标志物结合机器学习可提升阿尔茨海默病早期预测准确性，但面临数据异质性等挑战。",
+        "evidence": "REVIEW"
+      },
       {
         "pmid": "42649434",
         "title": "Diagnostic accuracy of plasma p-tau217 against amyloid PET: A meta-analysis of technical platform variability and ratio versus single marker comparisons.",
@@ -206,7 +226,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42649434/",
-        "zh": "血浆p-tau217诊断淀粉样病变准确率高，但平台间差异显著，联合Aβ42比值未显著提升效能。",
+        "zh": "血浆p-tau217诊断淀粉样病理总体准确，平台间差异显著，联合Aβ42比值未显著提升效能。",
         "evidence": "META"
       },
       {
@@ -216,7 +236,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42648826/",
-        "zh": "单宁酸稳定的八通道EDL-FET生物传感器可同时检测血浆及全血中p-Tau217与Aβ42/Aβ40，助力卒中患者AD早筛。",
+        "zh": "单宁酸稳定的八通道EDL-FET传感器可同时检测血浆及全血中p-Tau217与Aβ42/Aβ40，实现卒中患者AD风险床旁快速评估。",
         "evidence": "OTHER"
       },
       {
@@ -226,8 +246,18 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42645044/",
-        "zh": "血液蛋白标志物电化学生物传感器有望实现阿尔茨海默病低成本无创早筛。",
+        "zh": "电化学与电学生物传感器可低成本无创检测血液蛋白标志物，助力阿尔茨海默病早筛。",
         "evidence": "REVIEW"
+      },
+      {
+        "pmid": "42639646",
+        "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE ε4 and cognitive decline in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42639646/",
+        "zh": "视网膜微血管稀疏与类淋巴功能障碍共同介导APOE ε4对认知衰退的促进作用。",
+        "evidence": "COHORT"
       },
       {
         "pmid": "42638803",
@@ -236,7 +266,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42638803/",
-        "zh": "血浆p-tau217/Aβ42阳性AD的神经退行性“震中”锚定默认网络及边缘系统，并可由网络脆弱指数实现个体化预后预测。",
+        "zh": "血浆p-tau217/Aβ42阳性AD的神经变性“震中”锚定默认网络及边缘轴，并可用网络脆弱指数实现个体化预后预测。",
         "evidence": "OTHER"
       },
       {
@@ -248,39 +278,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42633973/",
         "zh": "多中心头对头比较显示，p-tau217检测平台间性能差异显著，含Aβ42比值者诊断效能更优。",
         "evidence": "COHORT"
-      },
-      {
-        "pmid": "42631776",
-        "title": "Emerging diagnostic biomarkers and therapeutic targets in Alzheimer's disease.",
-        "journal": "Inflammopharmacology",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42631776/",
-        "zh": "综述AD病理机制，聚焦新兴诊断标志物与治疗靶点及递送策略。",
-        "evidence": "REVIEW"
-      },
-      {
-        "pmid": "42631717",
-        "title": "Diagnostic value of blood p-tau subtypes in Alzheimer's disease progression and pathology: systematic review and meta-analysis.",
-        "journal": "European archives of psychiatry and clin",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42631717/",
-        "zh": "血液p-tau亚型对AD进展及Aβ病理诊断价值存在差异，p-tau217表现最优。",
-        "evidence": "META"
-      },
-      {
-        "pmid": "42627571",
-        "title": "CT1812 Attenuates Surgery-Induced Cognitive Impairment and Modulates TMEM97- and PGRMC1-Associated Hippocampal Stress Responses in Aged Mice.",
-        "journal": "Neurochemical research",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42627571/",
-        "zh": "CT1812通过调节TMEM97/PGRMC1通路减轻老龄小鼠术后认知损伤。",
-        "evidence": "ANIMAL"
       }
     ],
     "prev": [
+      {
+        "pmid": "42663443",
+        "title": "APOE ε4 and peripheral metabolic network architecture in older adults.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42663443/",
+        "zh": "APOE ε4基因型显著改变老年人外周代谢网络的连接结构。",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42663119",
+        "title": "Age-Dependent and APOE-Modified Associations Between Vascular Risk Factor Patterns and Cognitive Function: A Latent Class Analysis of 44,879 NACC Participants.",
+        "journal": "Alzheimer disease and associated disorde",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42663119/",
+        "zh": "血管危险因素模式与认知的关联随年龄和APOE基因型显著改变，且呈模式特异性。",
+        "evidence": "COHORT"
+      },
+      {
+        "pmid": "42662874",
+        "title": "Transcriptomic analysis reveals and validates lipid raft-associated biomarkers and functional networks in Alzheimer's disease.",
+        "journal": "IBRO neuroscience reports",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42662874/",
+        "zh": "脂筏相关基因网络及八项生物标志物可作为阿尔茨海默病诊断与机制研究的关键靶点。",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42662352",
+        "title": "Tobacco use and cognitive impairment: A bibliometric analysis of research trends and knowledge structure.",
+        "journal": "Tobacco induced diseases",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42662352/",
+        "zh": "吸烟与认知障碍研究40年文献计量揭示知识结构及尼古丁悖论等争议前沿。",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42662191",
+        "title": "Interim analysis of an international multi-site prospective natural history study evaluating the clinical presentation and progression of Leigh syndrome spectrum disorders.",
+        "journal": "Therapeutic advances in rare disease",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42662191/",
+        "zh": "国际多中心前瞻性研究揭示Leigh综合征谱系临床表型与进展规律。",
+        "evidence": "COHORT"
+      },
+      {
+        "pmid": "42662127",
+        "title": "Diagnostic and treatment strategies in a memory clinic for older adults in a region with a predominantly low-income population.",
+        "journal": "Frontiers in dementia",
+        "year": "2026",
+        "month": "08",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42662127/",
+        "zh": "低收入地区记忆门诊证实可行，简易流程可有效诊断并管理阿尔茨海默病。",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42658656",
         "title": "Lifestyle activities and risk of incident dementia from linked insurance claims in the Baltimore Experience Corps Study.",
@@ -288,7 +348,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42658656/",
-        "zh": "晚年活动多样性与频率均降低痴呆风险，基于15年保险数据。",
+        "zh": "晚年参与多种活动可显著降低痴呆风险，且效果在黑人群体中持续15年。",
         "evidence": "COHORT"
       },
       {
@@ -300,66 +360,6 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42657258/",
         "zh": "七种必需微量元素联合暴露与阿尔茨海默病及全因痴呆风险显著相关。",
         "evidence": "COHORT"
-      },
-      {
-        "pmid": "42656799",
-        "title": "HIV-1 Tat and gp120 as key drivers of neurodegeneration in the central nervous system.",
-        "journal": "Frontiers in microbiology",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42656799/",
-        "zh": "HIV-1 Tat和gp120蛋白在抗病毒治疗下仍持续驱动中枢神经退行性病变，是HAND发病的核心机制。",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42656626",
-        "title": "Cognitive Screening as a Gateway to Cerebral Microbleed Detection in Atrial Fibrillation: The DAME Study.",
-        "journal": "The Neurohospitalist",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42656626/",
-        "zh": "房颤患者认知筛查可预警脑微出血，辅助抗凝决策。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42654172",
-        "title": "Dietary Patterns and Cognitive Decline in Older Adults: Findings from the Western Australia Memory Study.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42654172/",
-        "zh": "西澳老年人研究提示，特定饮食模式与认知衰退关联受APOE基因型影响。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42653252",
-        "title": "The Brain-Muscle Axis in Neurodegeneration: Linking Dementia, Sarcopenia, and Exercise-Mediated Neuroprotection.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42653252/",
-        "zh": "综述揭示痴呆与肌少症互为因果，运动可通过脑-肌轴双向缓解。",
-        "evidence": "REVIEW"
-      },
-      {
-        "pmid": "42651144",
-        "title": "An Integrated Model Based on Gut Microbiota and APOE Genotype for Predicting Dementia Risk.",
-        "journal": "Brain sciences",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42651144/",
-        "zh": "整合肠道菌群与APOE基因型可精准预测痴呆风险，优于单一指标。",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42650275",
-        "title": "Reduced Serum PON1 Lactonase Activity Is Associated with Mild Cognitive Impairment and Mixed Dementia.",
-        "journal": "Antioxidants (Basel, Switzerland)",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42650275/",
-        "zh": "血清PON1内酯酶活性降低与轻度认知障碍及混合性痴呆显著相关。",
-        "evidence": "COHORT"
       }
     ],
     "intro": [
@@ -370,7 +370,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42653368/",
-        "zh": "这篇综述讲的是用干细胞造出迷你人脑模型，帮我们看清老年痴呆时脑内免疫细胞怎么捣乱，好为未来找药指路。",
+        "zh": "这篇综述讲的是用干细胞造出迷你人脑模型，帮我们看清老年痴呆时脑内免疫细胞怎么捣乱，从而找新药。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +380,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42645044/",
-        "zh": "这篇综述讲的是用一滴血测阿尔茨海默病早期信号的新方法，比现在抽脊髓液或做脑扫描更便宜、更轻松，将来普通人体检就能早发现。",
+        "zh": "这篇综述讲的是用一滴血测几个关键蛋白，就能提前发现老年痴呆，比现在又贵又受罪的检查简单便宜多了。",
         "evidence": "REVIEW"
       },
       {
@@ -390,7 +390,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42629128/",
-        "zh": "大脑里的清洁工一旦罢工，病就加重；搞懂它们罢工的原因，才能找到延缓老年痴呆的新药。",
+        "zh": "大脑里的清洁工（小胶质细胞）从旁观者变成主角，搞懂它们为啥罢工，才能找到延缓老年痴呆的新药方向。",
         "evidence": "REVIEW"
       },
       {
@@ -400,8 +400,8 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42619312/",
-        "zh": "更年期睡不好可能增加将来得老年痴呆的风险，但睡好了就能降低这个风险，所以女性要重视改善睡眠。",
-        "evidence": "OTHER"
+        "zh": "女性更年期睡不好，可能增加以后得老年痴呆的风险，但睡好觉能提前预防，这篇文章讲的就是怎么抓住这个关键期。",
+        "evidence": "REVIEW"
       },
       {
         "pmid": "42613627",
@@ -410,7 +410,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42613627/",
-        "zh": "这篇综述讲的是用干细胞治疗老年痴呆等脑部疾病的最新进展，对普通人来说，就是了解未来可能多一种延缓病情的新希望。",
+        "zh": "这篇综述讲的是用干细胞治疗老年痴呆等脑部疾病的最新进展，对普通人来说，就是了解这种新疗法靠不靠谱、有没有用。",
         "evidence": "REVIEW"
       },
       {
@@ -420,7 +420,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42605139/",
-        "zh": "这药想清掉大脑里的垃圾蛋白来延缓早期痴呆，但新数据说效果一般，别指望它能治好。",
+        "zh": "这药想清掉大脑里的“垃圾蛋白”来延缓早期痴呆，但新数据说效果一般，别指望它能逆转病情。",
         "evidence": "META"
       },
       {
@@ -430,7 +430,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42595198/",
-        "zh": "这篇综述讲的是大脑里负责记忆的“信号开关”出了问题会得老年痴呆，科学家正研究怎么精准修好它，帮患者延缓记忆衰退。",
+        "zh": "这篇综述讲的是大脑里负责记忆的“信号开关”出了问题会得老年痴呆，并介绍了未来可能修复这个开关、延缓病情的新药方向。",
         "evidence": "OTHER"
       },
       {
@@ -440,7 +440,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42595185/",
-        "zh": "这篇综述讲的是，一种叫“过氧亚硝酸盐”的坏分子在老年痴呆里捣乱，科学家正研究怎么抓住它来治病，对咱们普通人来说，就是未来可能多一种防痴呆的办法。",
+        "zh": "这篇综述讲的是，一种叫“过氧亚硝酸盐”的坏分子在老年痴呆里捣乱，科学家正研究怎么拦住它，可能帮上未来的治疗。",
         "evidence": "REVIEW"
       }
     ]
