@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T15:44:21.178536Z",
+  "updated": "2026-09-05T02:50:57.754318Z",
   "feeds": [
     {
       "id": "drug",
@@ -42,7 +42,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42688139/",
-        "zh": "抗淀粉样抗体治疗在合并脑血管病变的AD患者中需警惕ARIA并重新权衡卒中与抗栓策略。",
+        "zh": "抗淀粉样抗体治疗重塑脑血管病诊疗决策，需警惕ARIA并评估血管共病风险。",
         "evidence": "REVIEW"
       },
       {
@@ -53,7 +53,7 @@
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42679549/",
         "zh": "镧掺杂碳点通过非催化位点结合溶菌酶，抑制其淀粉样纤维化并重塑构象。",
-        "evidence": "INVITRO"
+        "evidence": "OTHER"
       },
       {
         "pmid": "42671152",
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42671152/",
-        "zh": "日本患者对仑卡奈单抗的获益期望高于实际疗效，临床需全程管理该差距。",
+        "zh": "日本患者对仑卡奈单抗的获益期望高于实际疗效，临床路径需嵌入期望管理。",
         "evidence": "OTHER"
       },
       {
@@ -72,7 +72,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42665238/",
-        "zh": "α-突触核蛋白与tau免疫治疗失败揭示四大教训，指明AD需生物标志物分层联合用药。",
+        "zh": "α-突触核蛋白与tau免疫治疗失败揭示四大教训，指明AD需生物标志物分层与联合免疫策略。",
         "evidence": "OTHER"
       },
       {
@@ -82,7 +82,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42654386/",
-        "zh": "系统性和脑部衰弱状态显著影响抗淀粉样蛋白治疗的疗效与安全性。",
+        "zh": "系统性与脑衰弱决定抗淀粉样治疗获益，超越淀粉样蛋白单一靶点。",
         "evidence": "REVIEW"
       },
       {
@@ -92,8 +92,8 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42651806/",
-        "zh": "外泌体兼具穿血脑屏障与多靶点递送优势，或成超越现有抗淀粉样抗体的AD治疗新平台。",
-        "evidence": "OTHER"
+        "zh": "外泌体疗法凭借血脑屏障穿透力与多靶点递送优势，或成超越抗淀粉样抗体的AD新策略。",
+        "evidence": "REVIEW"
       },
       {
         "pmid": "42648539",
@@ -102,7 +102,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42648539/",
-        "zh": "仑卡奈单抗疗效受基线白质损伤影响，Aβ负荷经特定通路驱动白质高信号进展。",
+        "zh": "仑卡奈单抗疗效受基线脑白质损伤影响，Aβ负荷经特定通路驱动白质病变进展。",
         "evidence": "COHORT"
       },
       {
@@ -112,11 +112,31 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42646285/",
-        "zh": "基于代谢组学策略发现内源性代谢物可抑制IAPP聚集，为T2DM治疗提供新靶点。",
+        "zh": "代谢组学揭示内源性代谢物可抑制IAPP聚集，为糖尿病相关淀粉样病变提供新干预靶点。",
         "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42695591",
+        "title": "Quantitative Assessment of Cerebrospinal Fluid-Vascular Association in Alzheimer's Disease Using Phase-Contrast and 4D-Flow Magnetic Resonance Imaging.",
+        "journal": "Journal of visualized experiments : JoVE",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42695591/",
+        "zh": "相控阵与4D血流MRI证实AD患者脑脊液-血管耦合功能显著受损，支持类淋巴清除障碍假说。",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42695408",
+        "title": "Effect of MALT1 inhibition by MI‑2 on the microglial phenotype switch, inflammatory cytokine secretion, neuronal loss and oxidative stress in Alzheimer's disease.",
+        "journal": "International journal of molecular medic",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42695408/",
+        "zh": "MI-2抑制MALT1可逆转AD小胶质细胞促炎表型、减轻神经元损伤与氧化应激。",
+        "evidence": "INVITRO"
+      },
       {
         "pmid": "42694564",
         "title": "Synergistic Regulation of Alzheimer's Disease and Intestinal Microbiota Metabolism Mediated by the Gut-Brain Axis: A Comprehensive Analysis from a Multidisciplinary Perspective.",
@@ -124,7 +144,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42694564/",
-        "zh": "肠道菌群经肠脑轴双向调控代谢与免疫，其失衡或为阿尔茨海默病核心病理环节。",
+        "zh": "肠道菌群经肠脑轴双向调控神经功能，其代谢失衡或为AD核心病理机制。",
         "evidence": "REVIEW"
       },
       {
@@ -144,7 +164,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42694488/",
-        "zh": "IL11是前列腺癌与阿尔茨海默病共病的关键分子枢纽，可作为共同治疗靶点。",
+        "zh": "整合多组学与机器学习，锁定IL-11为前列腺癌与阿尔茨海默病共病风险因子。",
         "evidence": "OTHER"
       },
       {
@@ -164,7 +184,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42693483/",
-        "zh": "第三代双表位抗tau抗体NIDB-3101以亚纳摩尔亲和力广谱结合并抑制AD脑提取物诱导的胞内tau聚集。",
+        "zh": "第三代双特异抗tau抗体NIDB-3101以亚纳摩尔亲和力高效抑制AD脑提取物诱导的细胞内tau聚集。",
         "evidence": "OTHER"
       },
       {
@@ -174,27 +194,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42693124/",
-        "zh": "血浆pTau217在巴西和阿根廷混血人群中仍能准确识别阿尔茨海默病淀粉样病理。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42692750",
-        "title": "Lysine methylation is an endogenous post-translational modifications of tau protein in human brain and a modulator of aggregation propensity.",
-        "journal": "Methods in enzymology",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42692750/",
-        "zh": "人脑tau蛋白存在赖氨酸甲基化修饰，且该修饰可调控tau蛋白聚集倾向。",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42690719",
-        "title": "Protein Aggregates as Drivers of Receptor Clustering and Pathological Signaling: A Framework Linking Extracellular Amyloid-β to Tau Dysregulation.",
-        "journal": "ACS chemical neuroscience",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42690719/",
-        "zh": "细胞外Aβ聚集体通过受体簇化启动并维持独立于淀粉样蛋白的tau病理信号。",
+        "zh": "血浆pTau217在巴西和阿根廷混血人群中准确识别阿尔茨海默病淀粉样病理，双切点法提升诊断效能。",
         "evidence": "OTHER"
       }
     ],
@@ -206,7 +206,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42694243/",
-        "zh": "本研究首次在非洲人群队列中证实血浆p-tau217、NfL和GFAP水平随认知衰退阶梯性升高，支持其跨种族诊断适用性。",
+        "zh": "非洲人群血浆p-tau217、NfL、GFAP随认知恶化阶梯性升高，支持AD血液标志物跨种族适用性。",
         "evidence": "COHORT"
       },
       {
@@ -216,7 +216,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42690731/",
-        "zh": "基线白质高信号及纵向轨迹可预测认知正常及轻度认知障碍人群的转归、认知与Aβ沉积。",
+        "zh": "基线白质高信号轨迹可独立预测认知正常及轻度认知障碍者的诊断转归、认知衰退与Aβ沉积风险。",
         "evidence": "COHORT"
       },
       {
@@ -236,7 +236,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42683384/",
-        "zh": "多模态影像联合血浆标志物可精准实现AD早期诊断与分期。",
+        "zh": "多模态影像联合血浆标志物可精准实现阿尔茨海默病早期诊断与分期。",
         "evidence": "REVIEW"
       },
       {
@@ -246,7 +246,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42679336/",
-        "zh": "唐氏综合征阿尔茨海默病血浆蛋白纵向轨迹揭示疾病进展与认知衰退关联。",
+        "zh": "唐氏综合征阿尔茨海默病血浆蛋白纵向轨迹揭示疾病进展及认知衰退关联。",
         "evidence": "COHORT"
       },
       {
@@ -256,7 +256,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42678680/",
-        "zh": "ALPS指数异常介于血浆Aβ42/40改变与淀粉样PET阳性之间，早于tau病理。",
+        "zh": "ALPS指数异常介于血浆Aβ42/40改变与淀粉样PET阳性之间，早于tau相关生物标志物。",
         "evidence": "OTHER"
       },
       {
@@ -266,7 +266,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42677463/",
-        "zh": "脑源性p-tau217较总p-tau217动态范围更宽，更精准反映AD神经病理改变。",
+        "zh": "脑源性血浆p-tau217动态范围更宽，可更精准反映AD神经病理改变。",
         "evidence": "OTHER"
       },
       {
@@ -288,7 +288,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42693469/",
-        "zh": "肥胖通过脂肪组织加剧术后神经认知障碍，干预脂肪或可缓解。",
+        "zh": "肥胖通过脂肪组织加重术后神经认知障碍，切除脂肪或抗炎可缓解。",
         "evidence": "COHORT"
       },
       {
@@ -298,7 +298,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42692040/",
-        "zh": "唐氏综合征患者癫痫多在阿尔茨海默病症状出现后发生，且显著加速认知与功能衰退。",
+        "zh": "唐氏综合征成人癫痫多发生于阿尔茨海默病症状期，提示预后更差。",
         "evidence": "COHORT"
       },
       {
@@ -308,7 +308,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42691074/",
-        "zh": "衰老是记忆系统从海马向皮层适应性重组的发展延续，而非衰退代偿。",
+        "zh": "该假说提出衰老是记忆系统从海马向皮层可塑性转移的适应性发育延续，而非衰退补偿。",
         "evidence": "REVIEW"
       },
       {
@@ -318,7 +318,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42688218/",
-        "zh": "印度成人中AD风险基因变异与血液神经退行性生物标志物显著关联。",
+        "zh": "印度成人中阿尔茨海默病风险基因变异与血液神经退行性生物标志物显著关联。",
         "evidence": "OTHER"
       },
       {
@@ -338,7 +338,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42686911/",
-        "zh": "这项大规模跨族裔荟萃分析发现人格遗传关联具有稳健性，但家庭内分析显示其效应可能受人口分层等混杂因素影响。",
+        "zh": "这项大规模跨族裔荟萃分析发现人格遗传关联的稳健性有限，且家庭内分析揭示其受社会人口混杂影响。",
         "evidence": "OTHER"
       },
       {
@@ -348,7 +348,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42686671/",
-        "zh": "该文反驳将痴呆患者心理困扰分类为“间歇性”的做法，认为该分类掩盖而非揭示其本质。",
+        "zh": "该文反驳将痴呆患者心理困扰分类为“间歇性”的做法，认为此分类掩盖而非揭示真相。",
         "evidence": "OTHER"
       },
       {
@@ -358,7 +358,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42684984/",
-        "zh": "黑人血浆43种炎症因子聚类模式与认知评分显著关联，提示炎症网络协同影响认知。",
+        "zh": "黑人群组中43种血浆炎症因子经因子与网络分析，揭示特定炎症模式与认知表现显著关联。",
         "evidence": "OTHER"
       }
     ],
@@ -370,7 +370,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42693696/",
-        "zh": "糖尿病和老年痴呆可能同根同源，管好血糖、护好大脑，对中老年人预防痴呆有实际参考价值。",
+        "zh": "糖尿病和老年痴呆看着不搭边，其实体内是同一个“胰岛素失灵”的根子在捣乱，看懂这点能帮你提前防着点。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +380,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42688139/",
-        "zh": "这文章讲的是治老年痴呆的新药，提醒大家：血管有毛病的人用这药，得先防脑出血风险。",
+        "zh": "这文章讲的是治老年痴呆的新药，提醒大家这类药可能增加脑出血风险，有血管问题的人用药前得先查清楚。",
         "evidence": "REVIEW"
       },
       {
@@ -390,8 +390,8 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42653368/",
-        "zh": "科学家用干细胞造出“迷你人脑”来研究老年痴呆，帮我们搞清大脑发炎咋回事，为将来治这病找新路子。",
-        "evidence": "OTHER"
+        "zh": "科学家用干细胞造出迷你人脑模型，来研究老年痴呆怎么发病，好帮咱们提前找药和治法。",
+        "evidence": "REVIEW"
       },
       {
         "pmid": "42645044",
@@ -400,7 +400,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42645044/",
-        "zh": "这篇综述讲的是用一滴血查几个关键蛋白，提前发现老年痴呆风险，比抽脊髓液和脑扫描更便宜、更简单，方便普通人早做筛查。",
+        "zh": "这篇综述讲的是用一滴血查几个关键蛋白，提前发现老年痴呆风险，让普通人不用做腰穿和贵价脑扫描就能早筛查。",
         "evidence": "REVIEW"
       },
       {
@@ -410,7 +410,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42629128/",
-        "zh": "大脑里的清洁工（小胶质细胞）一旦吃油吃出毛病，就会加速老年痴呆，搞懂它就能帮我们找新药、拖慢病情。",
+        "zh": "大脑里的清洁工一旦吃太油干不动活儿，就会加速老年痴呆，管住这点或许能拖慢病情。",
         "evidence": "REVIEW"
       },
       {
@@ -420,8 +420,8 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42619312/",
-        "zh": "更年期睡不好可能增加将来得老年痴呆的风险，这篇研究告诉咱们：抓住这个阶段好好调理睡眠，就是给大脑提前上保险。",
-        "evidence": "REVIEW"
+        "zh": "更年期睡不好可能增加将来得老年痴呆的风险，这篇文章教你怎么抓住这个关键期，用改善睡眠的办法提前护住大脑。",
+        "evidence": "OTHER"
       },
       {
         "pmid": "42613627",
@@ -430,7 +430,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42613627/",
-        "zh": "这篇综述讲的是用干细胞治疗老年痴呆等脑部疾病的最新尝试，对普通人来说，就是了解这招安不安全、有没有用。",
+        "zh": "这篇综述讲的是用干细胞治疗老年痴呆等脑部疾病的最新进展，对普通人来说，就是看看这招到底管不管用、安不安全。",
         "evidence": "REVIEW"
       },
       {
@@ -440,7 +440,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42605139/",
-        "zh": "一种叫“甘特单抗”的新药，对早期老年痴呆效果还不确定，这篇研究帮大家看清它到底有没有用、安不安全。",
+        "zh": "一种叫“甘特单抗”的新药，对早期老年痴呆效果好坏参半，这篇研究帮大家看清它到底值不值得用。",
         "evidence": "META"
       }
     ]
