@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T16:12:13.170040Z",
+  "updated": "2026-09-16T03:14:23.621624Z",
   "feeds": [
     {
       "id": "drug",
@@ -36,6 +36,16 @@
   "items": {
     "drug": [
       {
+        "pmid": "42742914",
+        "title": "From Proof of Principle to Therapeutic Discipline: Strategies to Improve the Benefit/Risk Profile of Amyloid-Targeting Treatments for Alzheimer's Disease.",
+        "journal": "CNS drugs",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42742914/",
+        "zh": "抗淀粉样蛋白治疗已确立疾病修饰地位，但获益风险比窄，需优化策略以提升临床净获益。",
+        "evidence": "REVIEW"
+      },
+      {
         "pmid": "42739787",
         "title": "Anti-Amyloid Antibodies in the Treatment of Alzheimer's Disease: An Umbrella Review.",
         "journal": "Journal of clinical medicine",
@@ -53,7 +63,7 @@
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42736378/",
         "zh": "按APOE基因型分层全基因组关联分析，揭示AD遗传病因及ε4/ε2效应机制。",
-        "evidence": "OTHER"
+        "evidence": "COHORT"
       },
       {
         "pmid": "42727484",
@@ -62,7 +72,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42727484/",
-        "zh": "多病因痴呆需血管危险控制与抗淀粉样蛋白等神经退行性修饰疗法联合，单通路治疗已不足。",
+        "zh": "多病因痴呆需血管危险控制与抗淀粉样蛋白等神经退行性修饰治疗联合，单通路试验模式已不足。",
         "evidence": "REVIEW"
       },
       {
@@ -72,7 +82,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42712875/",
-        "zh": "基线血浆C1q和C3可预测早期阿尔茨海默病中lecanemab的疗效与ARIA风险。",
+        "zh": "基线血浆C1q和C3可预测早期阿尔茨海默病中lecanemab的疗效及ARIA风险。",
         "evidence": "COHORT"
       },
       {
@@ -82,7 +92,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42709901/",
-        "zh": "皮下注射仑卡奈单抗可作为阿尔茨海默病起始治疗，疗效与静脉给药相当。",
+        "zh": "皮下仑卡奈单抗用于阿尔茨海默病初始治疗，疗效与静脉给药相当且更便捷。",
         "evidence": "OTHER"
       },
       {
@@ -92,7 +102,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42688139/",
-        "zh": "抗淀粉样蛋白治疗需权衡脑淀粉样血管病等脑血管病变患者的卒中诊疗与ARIA风险。",
+        "zh": "抗淀粉样蛋白治疗需警惕脑淀粉样血管病等脑血管共病，试验筛选偏倚限制其真实世界适用性。",
         "evidence": "REVIEW"
       },
       {
@@ -102,18 +112,8 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42679549/",
-        "zh": "镧掺杂红碳点以氢键和范德华力结合溶菌酶非催化口袋，抑制其淀粉样纤维化。",
+        "zh": "镧掺杂红碳点通过氢键和范德华力结合溶菌酶非催化表面口袋，抑制其淀粉样纤维化。",
         "evidence": "INVITRO"
-      },
-      {
-        "pmid": "42671152",
-        "title": "From public preferences to clinical tasks in anti-amyloid therapy for Alzheimer's disease.",
-        "journal": "Psychiatry and clinical neurosciences",
-        "year": "2026",
-        "month": "08",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42671152/",
-        "zh": "日本受访者对抗淀粉样蛋白治疗的最小 worthwhile 获益期望高于实际疗效，需将这一期望-疗效差距转化为具体临床任务。",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
@@ -124,7 +124,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42741981/",
-        "zh": "CTSH的rs2289702变异经cis调控提升其表达，与更好认知和更少淀粉样斑块相关，支持其神经保护作用。",
+        "zh": "CTSH的rs2289702变异通过顺式调控升高其表达，与更好认知和更少淀粉样斑块相关，支持其神经保护作用。",
         "evidence": "COHORT"
       },
       {
@@ -134,7 +134,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42738893/",
-        "zh": "抗Aβ抗体仅轻度延缓早期AD，提示需以衰老八标志为框架转向多靶点联合干预。",
+        "zh": "抗Aβ抗体仅轻度延缓早期AD，提示需以衰老八标志为框架联合靶向tau与胶质反应。",
         "evidence": "REVIEW"
       },
       {
@@ -144,7 +144,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42738892/",
-        "zh": "低剂量DHQ在APP/PS1与FUS[1-359]两种神经退行模型中均显示疗效，提示其具跨疾病抗氧化治疗潜力。",
+        "zh": "低剂量DHQ虽改善APP/PS1小鼠行为并减少淀粉样斑块，但在FUS[1-359]模型中无效。",
         "evidence": "ANIMAL"
       },
       {
@@ -154,7 +154,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42738884/",
-        "zh": "眼表微生物组与AD的关联尚属假说，其经眼-脑轴参与AD病理的可能性亟待严格验证。",
+        "zh": "眼表微生物组与AD的关联尚属假说，其经眼-脑轴参与AD病理的可能有待严格验证。",
         "evidence": "REVIEW"
       },
       {
@@ -164,7 +164,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737733/",
-        "zh": "808 nm光生物调节通过修复Aβ暴露神经元的线粒体网络完整性，恢复ROS、ATP及膜电位稳态。",
+        "zh": "808 nm光生物调节通过修复Aβ暴露神经元的线粒体完整性并恢复正常ROS、ATP及膜电位发挥神经保护作用。",
         "evidence": "INVITRO"
       },
       {
@@ -174,7 +174,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
-        "zh": "线虫模型证实植物活性物经SKN-1/Nrf2通路缓解AD氧化应激，但向人类治疗转化仍待验证。",
+        "zh": "线虫模型证实植物活性物经SKN-1/Nrf2通路抗阿尔茨海默病氧化应激，具转化潜力。",
         "evidence": "REVIEW"
       },
       {
@@ -184,7 +184,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737681/",
-        "zh": "AD伴脑淀粉样血管病以易损脑区HIF-2α缺失、HIF-1α过表达为特征，且海马与ACC的HIF反应模式截然不同。",
+        "zh": "AD伴CAA者海马易损区HIF-2α缺失、HIF-1α过表达，而ACC区HIF调控相对保留。",
         "evidence": "CASE"
       },
       {
@@ -206,7 +206,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42741980/",
-        "zh": "数字认知表型可分四簇，在淀粉样蛋白阳性者中识别出认知衰退高风险亚群，提升临床前AD风险分层精度。",
+        "zh": "在Aβ阳性临床前AD中，数字认知表型可分四类，显著提升近端认知下降与CDR进展的风险分层。",
         "evidence": "COHORT"
       },
       {
@@ -226,7 +226,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42739134/",
-        "zh": "血浆p-Tau217与SPECT eZIS在MCI中显著一致，且经淀粉样PET亚组验证。",
+        "zh": "血浆p-Tau217与eZIS在MCI中显著一致，且经淀粉样PET亚组验证。",
         "evidence": "COHORT"
       },
       {
@@ -236,7 +236,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42729372/",
-        "zh": "真实世界三例抗淀粉样蛋白治疗显示，超越传统症状人群的早期用药临床与生物标志物轨迹异质。",
+        "zh": "真实世界三例抗淀粉样蛋白治疗显示，临床与生物标志物轨迹因基线特征和治疗时机而异。",
         "evidence": "CASE"
       },
       {
@@ -246,7 +246,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42727643/",
-        "zh": "pE79-αSyn在PD与AD小鼠模型中由相同酶生成却源于不同细胞类型。",
+        "zh": "PD与AD小鼠模型中pE79-αSyn的酶促生成机制相似，但细胞来源不同。",
         "evidence": "ANIMAL"
       },
       {
@@ -256,7 +256,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42726307/",
-        "zh": "慢性肾病通过脉络丛重塑和类淋巴功能障碍驱动认知衰退，并干扰阿尔茨海默病生物标志物判读。",
+        "zh": "慢性肾病认知障碍源于脉络丛重塑与类淋巴功能障碍，并干扰阿尔茨海默病生物标志物解读。",
         "evidence": "REVIEW"
       },
       {
@@ -276,7 +276,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42722299/",
-        "zh": "血p-tau217诊断AD的研究人群多集中于记忆门诊和高度选择样本，社会人口学多样性不足且报告不一致，临床推广前需警惕代表性偏倚。",
+        "zh": "血p-tau217诊断AD的研究人群多集中于记忆门诊和高度选择样本，社会人口学与临床特征报告不足，代表性存疑。",
         "evidence": "META"
       }
     ],
@@ -288,7 +288,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42742523/",
-        "zh": "APOE4携带状态调节睡眠障碍与脑淀粉样负荷的关联，但不影响其与临床转化的关系。",
+        "zh": "APOE4携带者中睡眠障碍与脑淀粉样负荷相关，但不影响临床转化。",
         "evidence": "COHORT"
       },
       {
@@ -298,7 +298,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42742085/",
-        "zh": "亚马逊原住民队列痴呆年发病率仅7.4/千，患病率持续低于2%，远低于工业化人群。",
+        "zh": "玻利维亚亚马逊原住民队列痴呆发病率仅7.4/1000人年，患病率持续低于2%，且APOE ε4等风险因素作用有限。",
         "evidence": "COHORT"
       },
       {
@@ -308,7 +308,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42741981/",
-        "zh": "CTSH的rs2289702变异通过顺式调控其表达，T等位基因提升CTSH水平并减轻认知衰退与淀粉样斑块负荷。",
+        "zh": "CTSH的rs2289702变异通过上调溶酶体蛋白酶表达，与更好认知和更少淀粉样斑块相关，支持其神经保护作用。",
         "evidence": "COHORT"
       },
       {
@@ -318,7 +318,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42739074/",
-        "zh": "维生素D与百余种健康结局的关联需以观察性证据结合Hill标准判定因果，而非套用药物式RCT。",
+        "zh": "维生素D作为营养素不宜套用药物RCT范式，长期前瞻性队列与生态学研究结合Hill标准可确立其慢性病预防的因果证据。",
         "evidence": "REVIEW"
       },
       {
@@ -328,7 +328,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42736892/",
-        "zh": "2023年BRFSS数据显示，老年照护者中体力活动达标与心理困扰及不良心理健康天数显著负相关。",
+        "zh": "2023年BRFSS数据显示，从事体育活动的老年照护者心理困扰和不良心理健康天数显著更少。",
         "evidence": "CASE"
       },
       {
@@ -338,7 +338,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42736863/",
-        "zh": "感觉剥夺与环境不稳定可独立于急性医学诱因，反复触发晚期阿尔茨海默病患者的谵妄乃至精神病性症状。",
+        "zh": "感觉剥夺与环境不稳定可独立于急性医学诱因，反复触发晚期阿尔茨海默病患者的谵妄乃至精神病。",
         "evidence": "OTHER"
       },
       {
@@ -348,7 +348,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42736787/",
-        "zh": "基于CHARLS数据，恐惧状态与认知障碍独立正相关，提示情绪干预或为预防切入点。",
+        "zh": "基于CHARLS数据，恐惧状态是中老年人认知障碍的独立相关因素。",
         "evidence": "CASE"
       },
       {
@@ -358,11 +358,21 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42735909/",
-        "zh": "阅读作为一种低成本可塑性生活方式，与更好的脑健康、认知表现及心理健康相关，并可能降低认知衰退风险。",
+        "zh": "终身阅读爱好可提升认知储备、改善脑健康与心理健康，并降低认知衰退风险。",
         "evidence": "REVIEW"
       }
     ],
     "intro": [
+      {
+        "pmid": "42742642",
+        "title": "A new era of genome-wide association studies in the field of Alzheimer's disease and overlapping co-pathologies: lessons learned from a neuropathology-centered approach.",
+        "journal": "Acta neuropathologica",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42742642/",
+        "zh": "科学家正用大脑解剖代替看病诊断来找出更多老年痴呆相关基因，帮我们更早看清病因、找到新药方向。",
+        "evidence": "REVIEW"
+      },
       {
         "pmid": "42737730",
         "title": "Caenorhabditis elegans as a Model for Studying Nrf2/SKN-1 Activation in Alzheimer's Disease: Plant Bioactive Compounds and Therapeutic Translation.",
@@ -370,7 +380,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
-        "zh": "这篇综述讲的是：科学家用线虫这种小虫子，来研究植物里的天然成分能不能激活人体的抗氧化开关，从而帮我们对抗老年痴呆。",
+        "zh": "这篇综述讲的是科学家用线虫这种小虫子来测试植物里的天然成分能不能激活人体的抗氧化开关，从而帮我们对抗老年痴呆。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +390,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42713877/",
-        "zh": "抽血查几个指标就能提前筛出大脑里还没症状的阿尔茨海默病，帮新药试验少走弯路、更快找到合适的人。",
+        "zh": "抽血查几个指标就能提前筛出大脑里还没症状的阿尔茨海默病风险，帮新药试验更快找到合适的人。",
         "evidence": "OTHER"
       },
       {
@@ -400,7 +410,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42688139/",
-        "zh": "治阿尔茨海默病的新药虽能清脑内坏蛋白，却可能让脑血管变脆、引发脑水肿或出血，这篇综述告诉普通人用药前要查脑血管、用药后防中风。",
+        "zh": "治阿尔茨海默病的新药虽能清脑内斑块，却可能让脑血管变脆、引发脑水肿或出血，这篇综述告诉普通人用药前要查脑血管、用药后防中风。",
         "evidence": "REVIEW"
       },
       {
@@ -410,7 +420,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42653368/",
-        "zh": "科学家用人的干细胞在培养皿里造出迷你脑，专门研究大脑里的“保安细胞”怎么在老年痴呆中帮倒忙，帮我们找新药。",
+        "zh": "科学家用人的干细胞在培养皿里造出迷你大脑，专门研究大脑里的“保安细胞”怎么在老年痴呆中帮倒忙，帮我们找新药。",
         "evidence": "REVIEW"
       },
       {
@@ -420,7 +430,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42645044/",
-        "zh": "这篇综述讲的是抽血查阿尔茨海默病的新方法，比腰穿和脑扫描更便宜、少遭罪，有望让普通人早发现早干预。",
+        "zh": "这篇综述讲的是抽血查阿尔茨海默病的新方法，比腰穿和脑扫描更便宜、少受罪，有望让普通人早发现早干预。",
         "evidence": "REVIEW"
       },
       {
@@ -430,17 +440,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42629128/",
-        "zh": "这篇综述讲的是大脑里的“清道夫”细胞失灵后会加速老年痴呆，帮普通人看懂未来新药可能从哪儿下手。",
-        "evidence": "REVIEW"
-      },
-      {
-        "pmid": "42624102",
-        "title": "Brain organoids in Alzheimer disease and related tauopathies: Challenges and opportunities for translational readiness.",
-        "journal": "Stem cell reports",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42624102/",
-        "zh": "科学家正想办法用迷你人脑试药来治老年痴呆，好让新药别再老在人体试验里失败。",
+        "zh": "这篇综述讲的是大脑里的“清洁工”细胞在阿尔茨海默病中会变坏、引发慢性炎症，并梳理了针对它的新疗法思路，帮普通人看懂这病为何难治、新药在往哪走。",
         "evidence": "REVIEW"
       }
     ]
