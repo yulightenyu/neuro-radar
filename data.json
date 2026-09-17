@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T03:19:06.752445Z",
+  "updated": "2026-09-17T16:12:32.750825Z",
   "feeds": [
     {
       "id": "drug",
@@ -42,7 +42,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42746606/",
-        "zh": "真实世界用lecanemab的早期AD患者中，ARIA发生率及严重不良事件与12个月认知变化如何。",
+        "zh": "真实世界用lecanemab的早期AD患者中，ARIA发生率及严重不良事件与12个月认知变化被系统评估。",
         "evidence": "COHORT"
       },
       {
@@ -52,7 +52,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42742914/",
-        "zh": "抗淀粉样蛋白治疗已确立疾病修饰地位，但获益风险比窄，需通过治疗规范化优化患者选择与安全管理。",
+        "zh": "抗淀粉样蛋白治疗已确立疾病修饰地位，但获益/风险窗口狭窄，需通过治疗纪律优化患者选择与安全管理。",
         "evidence": "REVIEW"
       },
       {
@@ -62,7 +62,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42739787/",
-        "zh": "Lecanemab与donanemab可减缓认知衰退并清除β淀粉样蛋白，但ARIA风险不容忽视。",
+        "zh": "Lecanemab与donanemab可延缓认知衰退并清除β淀粉样蛋白，但ARIA风险需权衡。",
         "evidence": "META"
       },
       {
@@ -82,7 +82,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42727484/",
-        "zh": "多病因痴呆需血管危险控制与神经退行性病修饰治疗联合，单通路疗法已不足。",
+        "zh": "多病因痴呆需血管危险控制与抗淀粉样蛋白等神经退行性病修饰治疗联合，单通路研发模式已到尽头。",
         "evidence": "REVIEW"
       },
       {
@@ -102,7 +102,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42709901/",
-        "zh": "皮下注射仑卡奈单抗获准用于阿尔茨海默病初始治疗，提供静脉给药外的替代方案。",
+        "zh": "皮下仑卡奈单抗用于阿尔茨海默病初始治疗，疗效与静脉给药相当且安全性可控。",
         "evidence": "OTHER"
       },
       {
@@ -112,11 +112,51 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42688139/",
-        "zh": "抗淀粉样蛋白治疗重塑阿尔茨海默病合并脑淀粉样血管病患者的卒中诊疗与抗栓决策。",
+        "zh": "抗淀粉样蛋白治疗需警惕脑淀粉样血管病等脑血管共病，其影像异常可模拟卒中并影响再灌注与抗栓决策。",
         "evidence": "REVIEW"
       }
     ],
     "mech": [
+      {
+        "pmid": "42750203",
+        "title": "Rethinking tau-targeted therapy in Alzheimer's disease: Toward a dual biomarker strategy.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42750203/",
+        "zh": "可溶性p-tau下降未必反映tau靶向治疗有效，需结合p-tau262等特定位点与神经纤维缠结负荷的双生物标志物策略评估。",
+        "evidence": "REVIEW"
+      },
+      {
+        "pmid": "42750195",
+        "title": "Operationalizing Alzheimer's disease trials in the era of targeted therapies.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42750195/",
+        "zh": "抗淀粉样蛋白单抗时代需在试验与队列中记录药物类型、剂量、清除程度及神经退行性下游效应以解读结局。",
+        "evidence": "REVIEW"
+      },
+      {
+        "pmid": "42749735",
+        "title": "APOE genotypes differentially remodel the astrocytic lipid droplet proteome to shape lipid droplet dynamics.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42749735/",
+        "zh": "APOE2/3/4通过重塑星形胶质细胞脂滴蛋白组与脂质组，差异调控脂滴降解动力学。",
+        "evidence": "INVITRO"
+      },
+      {
+        "pmid": "42749965",
+        "title": "Quercetin-Based Nanotherapeutics for Targeted Drug Delivery in Alzheimer's Disease: Comparative Insights into Molecular Mechanisms, Blood-Brain Barrier Targeting and Therapeutic Perspectives.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42749965/",
+        "zh": "槲皮素纳米递送系统通过多靶点调控AD病理并跨越血脑屏障，可显著改善其脑内生物利用度与治疗潜力。",
+        "evidence": "REVIEW"
+      },
       {
         "pmid": "42748320",
         "title": "Emerging therapeutic targets beyond amyloid and tau in Alzheimer's Disease: Implications for lifestyle, metabolism and preventive medicine.",
@@ -124,7 +164,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42748320/",
-        "zh": "AD是多因素疾病，靶向神经炎症、线粒体、自噬及脂代谢等非淀粉样蛋白通路或成防治新方向。",
+        "zh": "AD是多因素疾病，靶向神经炎症、线粒体、自噬及脂代谢等非淀粉样蛋白机制或成防治新方向。",
         "evidence": "REVIEW"
       },
       {
@@ -144,7 +184,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42745402/",
-        "zh": "8年追踪显示，淀粉样蛋白阳性与阴性者的情景记忆、工作记忆、加工速度和推理衰退无显著差异。",
+        "zh": "8年追踪显示， Aβ阳性与阴性者的情景记忆、工作记忆、加工速度和推理衰退无显著差异，不支持Aβ单独驱动认知下降。",
         "evidence": "COHORT"
       },
       {
@@ -154,51 +194,21 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42745326/",
-        "zh": "PREDEM初级保健研究证实，联合数字认知测试与血液标志物对痴呆高危者靶向筛查可行，可提升早期AD检出。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42744775",
-        "title": "Regional juxtacortical microstructural changes and gene expression provide insights into neurodegeneration in Alzheimer's disease.",
-        "journal": "Translational psychiatry",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42744775/",
-        "zh": "AD患者近皮层白质自由水升高，其区域差异与特定基因表达和细胞类型相关。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42744633",
-        "title": "[Effect of moxibustion-induced deqi on hippocampal autophagy function in APPswe/PSEN1dE9 transgenic Alzheimer's disease mice].",
-        "journal": "Zhongguo zhen jiu = Chinese acupuncture ",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42744633/",
-        "zh": "艾灸诱导得气可通过调控海马自噬改善AD小鼠病理，得气与否决定疗效差异。",
-        "evidence": "ANIMAL"
-      },
-      {
-        "pmid": "42741981",
-        "title": "Genetic and molecular evidence linking CTSH to Alzheimer's disease pathophysiology.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42741981/",
-        "zh": "CTSH的rs2289702变异通过顺式调控升高其表达，与更好认知和更少淀粉样斑块相关，支持其神经保护作用。",
-        "evidence": "COHORT"
-      },
-      {
-        "pmid": "42738893",
-        "title": "Alzheimer's Disease in the Era of Geroscience: Mechanisms, Biomarkers, and Therapeutic Prospects.",
-        "journal": "Cells",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42738893/",
-        "zh": "抗Aβ抗体仅轻度延缓早期AD，提示需以衰老八标志整合下游tau与胶质靶点。",
-        "evidence": "REVIEW"
+        "zh": "PREDEM初级保健研究证实，联合数字认知测试与血液标志物靶向筛查高危人群，在基层早期检出阿尔茨海默病可行。",
+        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42750203",
+        "title": "Rethinking tau-targeted therapy in Alzheimer's disease: Toward a dual biomarker strategy.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42750203/",
+        "zh": "可溶性p-tau下降未必反映tau靶向治疗有效，需结合p-tau262等特定位点与神经纤维缠结负荷的双生物标志物策略评估。",
+        "evidence": "REVIEW"
+      },
       {
         "pmid": "42746979",
         "title": "Validation of plasma core biomarkers of Alzheimer's disease: A multicenter study in usual practice conditions.",
@@ -206,7 +216,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42746979/",
-        "zh": "血浆p-tau217及p-tau217/Aβ42在真实临床条件下诊断AD的效能最优，且受共病与用药影响小。",
+        "zh": "真实临床条件下血浆p-tau217/Aβ42诊断AD的效能最优，且受共病与用药影响小。",
         "evidence": "CASE"
       },
       {
@@ -217,7 +227,7 @@
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42745326/",
         "zh": "PREDEM初级保健研究证实，联合数字认知测试与血液标志物靶向筛查高风险人群，在基层早期检出阿尔茨海默病可行。",
-        "evidence": "COHORT"
+        "evidence": "OTHER"
       },
       {
         "pmid": "42744775",
@@ -226,7 +236,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42744775/",
-        "zh": "AD患者近皮层自由水升高区域与特定基因表达及神经退行通路空间关联。",
+        "zh": "AD患者近皮层自由水升高与特定基因表达及胶质细胞富集区域的空间对应揭示白质微结构退变的分子基础。",
         "evidence": "COHORT"
       },
       {
@@ -236,7 +246,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42741980/",
-        "zh": "在Aβ阳性临床前人群中，数字认知表型可分四型并显著提升近端认知衰退与CDR进展的风险分层精度。",
+        "zh": "数字认知表型可分四型，在Aβ阳性者中识别出认知衰退高风险亚群，提升临床前AD风险分层精度。",
         "evidence": "COHORT"
       },
       {
@@ -246,7 +256,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42739194/",
-        "zh": "在认知正常但具阿尔茨海默病家族或遗传风险者中，血浆GFAP和NfL越高，视网膜微血管灌注与血管密度越低。",
+        "zh": "认知正常但具阿尔茨海默病家族或遗传风险者中，血浆GFAP和NfL越高，视网膜微血管灌注与血管密度越低。",
         "evidence": "COHORT"
       },
       {
@@ -256,7 +266,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42739134/",
-        "zh": "MCI患者血浆p-Tau217与eZIS灌注异常显著相关，并在淀粉样蛋白PET亚组中得到验证。",
+        "zh": "血浆p-Tau217与eZIS在MCI中显著相关，且淀粉样PET亚组验证支持其反映AD病理。",
         "evidence": "COHORT"
       },
       {
@@ -266,21 +276,21 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42729372/",
-        "zh": "真实世界三例抗淀粉样蛋白治疗显示，临床轨迹因生物标志物谱和治疗阶段而异。",
+        "zh": "真实世界三例抗淀粉样蛋白治疗显示，临床与生物标志物轨迹因基线特征及治疗时机而异。",
         "evidence": "CASE"
-      },
-      {
-        "pmid": "42727643",
-        "title": "Evidence for similar enzymatic but different cellular generation of pE79-modified α-synuclein in PD and AD mouse models.",
-        "journal": "Neurochemistry international",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42727643/",
-        "zh": "PD与AD小鼠模型中pE79-αSyn由相同酶生成却源于不同细胞类型。",
-        "evidence": "ANIMAL"
       }
     ],
     "prev": [
+      {
+        "pmid": "42749199",
+        "title": "β-Amyloid and Glutathione Dysregulation Cooperatively Drive Lipid Peroxidation and Ferroptosis in Neuron-Like Cells.",
+        "journal": "Free radical biology &amp; medicine",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42749199/",
+        "zh": "Aβ与谷胱甘肽耗竭协同驱动神经元样细胞脂质过氧化和铁死亡。",
+        "evidence": "INVITRO"
+      },
       {
         "pmid": "42747296",
         "title": "Adiposity and Cognitive Performance in Older Men and Women from the Study of Muscle, Mobility and Aging (SOMMA).",
@@ -288,7 +298,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42747296/",
-        "zh": "健康老年人内脏脂肪越高，执行功能与处理速度等认知表现越差。",
+        "zh": "健康老年人内脏脂肪越高，处理速度与执行功能越差，但整体认知筛查无显著关联。",
         "evidence": "CASE"
       },
       {
@@ -298,7 +308,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42746372/",
-        "zh": "拉丁美洲FTLD相关综合征诊断延迟平均超3年，行为变异型耗时最长。",
+        "zh": "拉丁美洲FTLD患者平均确诊延迟约3年，行为变异型及低教育水平者延迟更长。",
         "evidence": "COHORT"
       },
       {
@@ -308,7 +318,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42746159/",
-        "zh": "中老年高血压患者认知管理非药物干预证据分散，运动、生活方式、睡眠及心理支持等或可兼顾降压与认知保护。",
+        "zh": "现有证据提示运动、生活方式、睡眠及认知康复等非药物干预或可同时改善中年及老年高血压患者的血压与认知功能，但证据仍待充实。",
         "evidence": "REVIEW"
       },
       {
@@ -318,8 +328,8 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42746141/",
-        "zh": "长期补充维生素D3和omega-3未能显著改变ADRD相关血浆生物标志物的纵向变化。",
-        "evidence": "OTHER"
+        "zh": "长期补充维生素D3和omega-3均未显著改变NT1、Aβ40:42、NfL或GFAP等ADRD血液生物标志物的纵向变化。",
+        "evidence": "COHORT"
       },
       {
         "pmid": "42746101",
@@ -328,7 +338,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42746101/",
-        "zh": "症状前APOE ε4携带者补充胆碱可改善脂质代谢相关生物标志物，提示或延缓阿尔茨海默病发病。",
+        "zh": "症状前APOE ε4携带者补充胆碱可改善脂代谢相关生物标志物，但尚需更大规模验证。",
         "evidence": "OTHER"
       },
       {
@@ -338,7 +348,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42745552/",
-        "zh": "指尖采血微采样中DPS和UAD检测pTau-217、NfL、GFAP与静脉血浆或脑脊液相关性良好，有望用于神经退行性疾病筛查与监测。",
+        "zh": "指尖采血微样本（DPS/UAD）检测pTau-217、NfL和GFAP与静脉血浆或脑脊液高度相关，有望用于神经退行性疾病的筛查与监测。",
         "evidence": "REVIEW"
       },
       {
@@ -348,18 +358,8 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42745402/",
-        "zh": "8年追踪显示， Aβ阳性与阴性者的情景记忆、工作记忆、加工速度和推理衰退无显著差异。",
+        "zh": "8年追踪显示，淀粉样蛋白阳性与阴性者的情景记忆、工作记忆、加工速度和推理衰退无显著差异。",
         "evidence": "COHORT"
-      },
-      {
-        "pmid": "42743907",
-        "title": "Autopsy findings in Alzheimer's disease clinical trial participants demonstrate a high frequency of off-target coexisting pathologic features.",
-        "journal": "The journal of prevention of Alzheimer's",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42743907/",
-        "zh": "AD/ADRD临床试验参与者尸检中普遍存在靶外共病病理，混合病理高发可干扰靶向单一机制的干预试验结果。",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
@@ -370,7 +370,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42748401/",
-        "zh": "这篇综述讲一种叫靛红的小分子怎么帮阿尔茨海默病和肌无力患者保住大脑和肌肉里的“传话员”，让外行明白这类新药为啥有希望。",
+        "zh": "这篇综述讲一种叫靛红的小分子可能帮阿尔茨海默病人保住大脑里传递记忆的化学信使，让外行知道它或许能变成新药方向。",
         "evidence": "REVIEW"
       },
       {
@@ -380,7 +380,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42742642/",
-        "zh": "这篇综述说，查基因能帮我们搞清老年痴呆是怎么来的，以后医生或许能靠它更早发现、更准治疗。",
+        "zh": "这篇综述说，科学家正用大脑尸检的病理结果代替临床诊断来做基因研究，帮我们更准地找到老年痴呆的真正病因，推动新药研发。",
         "evidence": "REVIEW"
       },
       {
@@ -390,7 +390,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
-        "zh": "这篇综述说的是：科学家用线虫这种小虫子来研究老年痴呆里大脑“生锈”的问题，看看植物里的天然成分能不能激活身体的“抗氧化开关”来保护脑细胞，帮我们找新药。",
+        "zh": "这篇综述讲的是：科学家用一种叫线虫的小虫子，研究某些植物里的天然成分能不能激活人体自身的抗氧化开关，从而帮我们对抗老年痴呆。",
         "evidence": "REVIEW"
       },
       {
@@ -400,7 +400,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42713877/",
-        "zh": "抽血查几个指标就能提前挑出适合参加阿尔茨海默病新药试验的人，省去昂贵扫描和无效折腾。",
+        "zh": "抽血用电脑算一算，就能提前挑出脑子里已悄悄长斑块、适合参加阿尔茨海默病新药试验的人，省去昂贵扫描和腰穿。",
         "evidence": "OTHER"
       },
       {
@@ -420,7 +420,7 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42688139/",
-        "zh": "治阿尔茨海默病的新药虽能清脑内斑块，却可能让脑血管变脆、引发脑水肿或出血，这篇综述提醒普通人：有中风风险的人用前得格外小心。",
+        "zh": "治阿尔茨海默病的新药虽能清脑内淀粉样蛋白，却可能让脑血管变脆、引发脑水肿或微出血，这篇综述提醒普通人：有脑血管问题的人用这类药要格外小心。",
         "evidence": "REVIEW"
       },
       {
@@ -430,7 +430,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42653368/",
-        "zh": "科学家用人的干细胞在培养皿里造出迷你大脑模型，专门研究大脑里的“保安细胞”怎么闹脾气、帮倒忙，好帮我们找治老年痴呆的新办法。",
+        "zh": "科学家用人的干细胞在培养皿里养出脑内免疫细胞，想弄清它们怎么把阿尔茨海默病越搞越糟，帮我们找新药。",
         "evidence": "REVIEW"
       },
       {
@@ -440,7 +440,7 @@
         "year": "2026",
         "month": "08",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42645044/",
-        "zh": "这篇综述讲的是抽血查阿尔茨海默病的新方法，比腰穿和脑扫描更便宜、更方便，有望让普通人早发现早治疗。",
+        "zh": "抽血查几种脑相关蛋白，用简易电子传感器就能早期发现阿尔茨海默病，便宜又不遭罪，方便大伙儿筛查。",
         "evidence": "REVIEW"
       }
     ]
