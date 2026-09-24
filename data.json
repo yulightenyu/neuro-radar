@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:03:22.846536Z",
+  "updated": "2026-09-24T03:02:36.682658Z",
   "feeds": [
     {
       "id": "drug",
@@ -108,6 +108,36 @@
     ],
     "mech": [
       {
+        "pmid": "42777042",
+        "title": "Ultrasound-enhanced exosome secretion and antibody-free SERS profiling for Alzheimer's disease via iPSC-derived cortical organoids.",
+        "journal": "Science advances",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42777042/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42777020",
+        "title": "Beyond statistical thresholds: Mapping sequential ATN cascade transitions via brain structural topography in Alzheimer's disease.",
+        "journal": "Science advances",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42777020/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42776415",
+        "title": "Restoration of Normal Occlusion Suppresses the Risk of Dementia.",
+        "journal": "Neurochemical research",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42776415/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42772840",
         "title": "Matrix metalloproteinases (MMPs) in neurodegenerative diseases, an updated overview of the role of MT1-MMP and MT5-MMP in Alzheimer's disease.",
         "journal": "The Enzymes",
@@ -154,36 +184,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42768868/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42768866",
-        "title": "Unmasking preclinical Alzheimer's pathology: auditory distraction cost and occupational reserve jointly discriminate amyloid positivity in subjective cognitive decline.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42768866/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42768846",
-        "title": "Do amyloid trajectories reach a ceiling? Evidence from iterative approximation and simulation.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42768846/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42766053",
-        "title": "T1 mapping in Alzheimer's disease: a quantitative MRI study with amyloid-PET correlation.",
-        "journal": "European radiology experimental",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42766053/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -272,6 +272,26 @@
     ],
     "prev": [
       {
+        "pmid": "42777184",
+        "title": "Long-Term Risk of Dementia After TIA: A Population-Wide Matched Cohort Study.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42777184/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42776539",
+        "title": "Multidimensional Aging Trajectories Preceding Cardiovascular Events.",
+        "journal": "JAMA cardiology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42776539/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42774984",
         "title": "Amyloid-beta relates to default and attention network connectivity during working memory retrieval.",
         "journal": "Brain communications",
@@ -328,26 +348,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42769999/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42769274",
-        "title": "Dementia progression with GLP-1 receptor agonists in people with mild cognitive impairment and type 2 diabetes: target-trial emulation study.",
-        "journal": "Alzheimer's &amp; dementia (New York, N.",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42769274/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42766942",
-        "title": "Bilingualism modulates baseline brain-cognition relationships in aging: Evidence from the HABS-HD cohort.",
-        "journal": "Neurobiology of aging",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42766942/",
         "zh": "",
         "evidence": "OTHER"
       }
