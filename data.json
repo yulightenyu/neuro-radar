@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T03:02:36.682658Z",
+  "updated": "2026-09-24T16:28:07.007851Z",
   "feeds": [
     {
       "id": "drug",
@@ -108,6 +108,26 @@
     ],
     "mech": [
       {
+        "pmid": "42779398",
+        "title": "[Electroacupuncture improves glycolysis in Alzheimer's disease model mice via regulating HIF-1α/PFKFB3 signaling pathway].",
+        "journal": "Zhen ci yan jiu = Acupuncture research",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42779398/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42779047",
+        "title": "Distinct single-nucleus RNA-seq changes among non-neuronal cells in ADNC, LATE-NC, and mixed pathologies.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42779047/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42777042",
         "title": "Ultrasound-enhanced exosome secretion and antibody-free SERS profiling for Alzheimer's disease via iPSC-derived cortical organoids.",
         "journal": "Science advances",
@@ -166,29 +186,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42768912/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42768871",
-        "title": "The Diagnostic Role of FDG-PET in Dementias Presenting with Language and Behavioral Symptom.",
-        "journal": "Turk psikiyatri dergisi = Turkish journa",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42768871/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42768868",
-        "title": "Changes in serum β-synuclein precede blood biomarkers of Alzheimer pathology in Down syndrome.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42768868/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42778810",
+        "title": "Hybrid CNN-Transformer Framework for Molecular Imaging-based Early Alzheimer's Disease Detection.",
+        "journal": "Molecular imaging and biology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42778810/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42775784",
         "title": "Clinic-based real-world analysis of amyloid PET positivity and MRI markers across subjective cognitive decline, mild cognitive impairment, and early Alzheimer's disease.",
@@ -258,19 +268,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42766053/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42765453",
-        "title": "Lysosomal Expression Profile in Plasma Associates with Disease Severity in Parkinson's Disease.",
-        "journal": "Movement disorders : official journal of",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42765453/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42778253",
+        "title": "Alzheimer's disease and related dementias in South and Southeast Asia: a systematic review and meta-analysis of epidemiology and associated factors.",
+        "journal": "BMJ open",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42778253/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42777184",
         "title": "Long-Term Risk of Dementia After TIA: A Population-Wide Matched Cohort Study.",
@@ -338,16 +348,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42770545/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42769999",
-        "title": "Functional and Social Vulnerability in Patients With Chronic Obstructive Pulmonary Disease (COPD) Managed in Primary Care: A Population-Based Cohort Study.",
-        "journal": "Cureus",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42769999/",
         "zh": "",
         "evidence": "OTHER"
       }
