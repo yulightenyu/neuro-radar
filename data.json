@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T16:28:44.574006Z",
+  "updated": "2026-09-26T03:24:12.474791Z",
   "feeds": [
     {
       "id": "drug",
@@ -108,6 +108,26 @@
     ],
     "mech": [
       {
+        "pmid": "42789205",
+        "title": "The Interplay of Metabolic Dysfunction, Neuroinflammation, and Mitochondrial Dysfunction in Balance Impairment: Insights from Type 2 Diabetes Mellitus and Alzheimer's Disease.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42789205/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42789105",
+        "title": "High-intensity interval training modulates APP expression and reduces neuronal apoptosis in a β-amyloid-induced model of Alzheimer's disease: hippocampal evidence.",
+        "journal": "Experimental brain research",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42789105/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42786742",
         "title": "TMEM59 regulates microglial Aβ phagocytosis in a TREM2-dependent manner and acts as a potential therapeutic target for Aβ amyloidosis.",
         "journal": "Alzheimer's &amp; dementia : the journal",
@@ -164,26 +184,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42785900/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42785897",
-        "title": "Blood biomarkers of oxidative stress and mitochondrial dysfunction in Parkinson's disease and Alzheimer's disease.",
-        "journal": "International review of neurobiology",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42785897/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42785896",
-        "title": "Blood-based biomarkers in Alzheimer's and Parkinson's disease: From molecular pathology to therapeutic potential.",
-        "journal": "International review of neurobiology",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42785896/",
         "zh": "",
         "evidence": "OTHER"
       }
