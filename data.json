@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T03:31:31.016913Z",
+  "updated": "2026-09-27T16:21:49.280654Z",
   "feeds": [
     {
       "id": "drug",
@@ -34,10 +34,415 @@
     }
   ],
   "items": {
-    "drug": [],
-    "mech": [],
-    "dx": [],
-    "prev": [],
-    "intro": []
+    "drug": [
+      {
+        "pmid": "42798750",
+        "title": "Real-world implementation of lecanemab in Alzheimer's disease: A Japanese cohort.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42784125",
+        "title": "Anti-Amyloid Monoclonal Antibodies in Early Alzheimer Disease: Lecanemab and Donanemab.",
+        "journal": "Neurology international",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42784125/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42779834",
+        "title": "A self-limiting, TREM2-dependent anabolic program confers microglial resilience in Alzheimer's disease.",
+        "journal": "bioRxiv : the preprint server for biolog",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42779834/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42764107",
+        "title": "Unlocking the blood-brain barrier: Can low-intensity focused ultrasound enable effective delivery of anti-amyloid and anti-tau antibodies in Alzheimer's disease?",
+        "journal": "Ageing research reviews",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42764107/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42746606",
+        "title": "Clinical Practice Outcomes With Lecanemab for Alzheimer Disease.",
+        "journal": "Neurology open access",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42746606/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42742914",
+        "title": "From Proof of Principle to Therapeutic Discipline: Strategies to Improve the Benefit/Risk Profile of Amyloid-Targeting Treatments for Alzheimer's Disease.",
+        "journal": "CNS drugs",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42742914/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42739787",
+        "title": "Anti-Amyloid Antibodies in the Treatment of Alzheimer's Disease: An Umbrella Review.",
+        "journal": "Journal of clinical medicine",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42739787/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42736378",
+        "title": "APOE-stratified genome-wide association analyses provide insights into the genetic etiology of Alzheimers's disease.",
+        "journal": "Nature genetics",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42736378/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "mech": [
+      {
+        "pmid": "42801246",
+        "title": "Alzheimer's Disease: From Molecular Pathogenesis to Disease-Modifying Therapies and Clinical Implementation in Aging Populations.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42801246/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42799957",
+        "title": "Long Non-Coding RNA PART1 in Alzheimer's Disease: Clinical Value and Improvement of Neurotoxicity and Apoptosis via miR-770-5p.",
+        "journal": "Neurochemical research",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42799957/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42797041",
+        "title": "Multi-Component Xinjiang Basil Essential Oil Mitigates Alzheimer's Disease-like Pathology Through Amyloid and Neuroinflammatory Modulation.",
+        "journal": "Nutrients",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42797041/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42796561",
+        "title": "Small-Molecule NANT Therapeutics Targeting the Brain-Immune Axis in Alzheimer's Disease: Mechanisms, Clinical Progress, and Translational Challenges.",
+        "journal": "Molecules (Basel, Switzerland)",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42796561/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42796440",
+        "title": "Erinacine C Attenuates Alzheimer's-like Pathology: A Study in APP/PS1 Mice and PC12 Cells.",
+        "journal": "Molecules (Basel, Switzerland)",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42796440/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42796281",
+        "title": "Computational Repurposing of Janus Kinase Inhibitors as Potential Therapeutic Candidates for Alzheimer's Disease.",
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42796281/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42794852",
+        "title": "Mechanisms of Brain Aging and Their Links to Alzheimer's and Parkinson's Disease Pathology.",
+        "journal": "International journal of molecular scien",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42794852/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42794721",
+        "title": "Reframing Alzheimer's Disease Through a Redox-Metabolic Framework.",
+        "journal": "International journal of molecular scien",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42794721/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "dx": [
+      {
+        "pmid": "42801323",
+        "title": "Longitudinal Awake Mouse Brain Imaging Using Functional Ultrasound and Functional Ultrasound Localization Microscopy.",
+        "journal": "Advanced science (Weinheim, Baden-Wurtte",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42801323/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42800042",
+        "title": "Blood-based biomarkers in the anti-amyloid era of Alzheimer's disease: clinical utility, implementation challenges, and future directions.",
+        "journal": "Neurodegenerative disease management",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42800042/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42799937",
+        "title": "Motor speech markers of Alzheimer's risk.",
+        "journal": "GeroScience",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42799937/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42798633",
+        "title": "Explanatory limitations of CSF, plasma, and MRI biomarkers for inflammation and blood-brain barrier disruption in dementia.",
+        "journal": "Frontiers in aging",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42798633/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42794698",
+        "title": "Sleep Disturbance Correlates with Cognitive Impairment Partly via Plasma p-Tau217: ADNI Cross-Sectional Evidence and P301L Mouse Mechanistic Observations.",
+        "journal": "International journal of molecular scien",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42794698/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42791560",
+        "title": "Dynamic [18F]PI-2620 recording facilitates prediction of β-amyloid positivity and simultaneous staging of tau and neurodegeneration.",
+        "journal": "Molecular neurodegeneration",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42791560/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42787809",
+        "title": "Clinical utility of LUMIPULSE plasma p-tau217 to identify amyloid positivity among candidates for amyloid-targeting treatments in a real-world cohort.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42787809/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42786404",
+        "title": "CSF neuroinflammatory biomarkers are associated with amyloid-β42/40, tau pathology, and cognitive impairment across the Alzheimer's disease spectrum.",
+        "journal": "Immunologic research",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42786404/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "prev": [
+      {
+        "pmid": "42801246",
+        "title": "Alzheimer's Disease: From Molecular Pathogenesis to Disease-Modifying Therapies and Clinical Implementation in Aging Populations.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42801246/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42801054",
+        "title": "Severity and progression of visual impairment and risk of dementia.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42801054/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42798750",
+        "title": "Real-world implementation of lecanemab in Alzheimer's disease: A Japanese cohort.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42798118",
+        "title": "Association between balance ability and memory function in community-dwelling older adults: A cross-sectional study.",
+        "journal": "Medicine",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42798118/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42797547",
+        "title": "Association Between Respiratory Vaccines and Risk of Cognitive Impairment, Dementia and Alzheimer's Disease: A Scoping Review.",
+        "journal": "Vaccines",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42797547/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42797008",
+        "title": "Dietary Patterns, Micronutrient Adequacy, and Metabolic Vulnerability in Alzheimer's Disease: A Critical Narrative Review.",
+        "journal": "Nutrients",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42797008/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42796052",
+        "title": "Relationship Between Cognitive Performance and Anthropometric Status, Dietary Diversity, and Diet Quality in Older Turkish Adults: A Cross-Sectional Study.",
+        "journal": "Journal of clinical medicine",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42796052/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42793811",
+        "title": "Potential Indicators of Transition to Cognitive Decline in Older Men: A Longitudinal Analysis of Multiple Sensory, Balance, and Gait Changes.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42793811/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "intro": [
+      {
+        "pmid": "42785906",
+        "title": "Circulating biochemical signatures of neurodegeneration in Alzheimer's disease.",
+        "journal": "International review of neurobiology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42785906/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42785896",
+        "title": "Blood-based biomarkers in Alzheimer's and Parkinson's disease: From molecular pathology to therapeutic potential.",
+        "journal": "International review of neurobiology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42785896/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42781504",
+        "title": "A cell-type-resolved meta-analysis reveals glial DNA methylation changes associated with aging and Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42781504/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42772840",
+        "title": "Matrix metalloproteinases (MMPs) in neurodegenerative diseases, an updated overview of the role of MT1-MMP and MT5-MMP in Alzheimer's disease.",
+        "journal": "The Enzymes",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42772840/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42748401",
+        "title": "Unlocking the Potential of Isatin Scaffolds in Acetylcholinesterase Inhibition.",
+        "journal": "Archiv der Pharmazie",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42748401/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42742642",
+        "title": "A new era of genome-wide association studies in the field of Alzheimer's disease and overlapping co-pathologies: lessons learned from a neuropathology-centered approach.",
+        "journal": "Acta neuropathologica",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42742642/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42737730",
+        "title": "Caenorhabditis elegans as a Model for Studying Nrf2/SKN-1 Activation in Alzheimer's Disease: Plant Bioactive Compounds and Therapeutic Translation.",
+        "journal": "International journal of molecular scien",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42713877",
+        "title": "More efficient screening for preclinical Alzheimer's clinical trials using mixture of experts.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42713877/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ]
   }
 }
