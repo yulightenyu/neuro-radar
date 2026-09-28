@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T03:30:34.839559Z",
+  "updated": "2026-09-28T19:12:55.603536Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42803728",
+        "title": "Efficacy and safety of aducanumab, lecanemab, and donanemab in Alzheimer's disease: A meta-analysis of randomized controlled trials.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42803728/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42798750",
         "title": "Real-world implementation of lecanemab in Alzheimer's disease: A Japanese cohort.",
@@ -102,16 +112,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42739787/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42736378",
-        "title": "APOE-stratified genome-wide association analyses provide insights into the genetic etiology of Alzheimers's disease.",
-        "journal": "Nature genetics",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42736378/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,56 @@
     ],
     "prev": [
       {
+        "pmid": "42803718",
+        "title": "Age-dependent associations between physical activity and cognitive function in adults aged 70-100: A cross-sectional and longitudinal study.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42803718/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42803715",
+        "title": "Edentulism and cognitive transitions: A multi-state analysis.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42803715/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42803712",
+        "title": "Associations of social isolation and its subdomains with cognition and cerebrospinal fluid amyloid pathologies in non-demented adults: The CABLE study.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42803712/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42803710",
+        "title": "Lithium exposure and risk of dementia and Alzheimer's disease: A systematic review and meta-analysis.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42803710/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42802142",
+        "title": "Associations Between Kidney Function and Risk of Cognitive Impairment Among Chinese Older Adults.",
+        "journal": "Geriatrics &amp; gerontology internation",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42802142/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42801246",
         "title": "Alzheimer's Disease: From Molecular Pathogenesis to Disease-Modifying Therapies and Clinical Implementation in Aging Populations.",
         "journal": "Clinical interventions in aging",
@@ -308,56 +358,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42798118",
-        "title": "Association between balance ability and memory function in community-dwelling older adults: A cross-sectional study.",
-        "journal": "Medicine",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42798118/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42797547",
-        "title": "Association Between Respiratory Vaccines and Risk of Cognitive Impairment, Dementia and Alzheimer's Disease: A Scoping Review.",
-        "journal": "Vaccines",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42797547/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42797008",
-        "title": "Dietary Patterns, Micronutrient Adequacy, and Metabolic Vulnerability in Alzheimer's Disease: A Critical Narrative Review.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42797008/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42796052",
-        "title": "Relationship Between Cognitive Performance and Anthropometric Status, Dietary Diversity, and Diet Quality in Older Turkish Adults: A Cross-Sectional Study.",
-        "journal": "Journal of clinical medicine",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42796052/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42793811",
-        "title": "Potential Indicators of Transition to Cognitive Decline in Older Men: A Longitudinal Analysis of Multiple Sensory, Balance, and Gait Changes.",
-        "journal": "Diagnostics (Basel, Switzerland)",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42793811/",
         "zh": "",
         "evidence": "OTHER"
       }
