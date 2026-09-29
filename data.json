@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T04:06:21.331218Z",
+  "updated": "2026-09-29T17:35:22.055067Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42807723",
+        "title": "Potential Role of Red Yeast Rice in the Prevention and Treatment of Alzheimer's Disease.",
+        "journal": "International journal of medical science",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42807723/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42805946",
+        "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42805926",
+        "title": "Tau-PET correlates of mild behavioral impairment in preclinical and prodromal Alzheimer's disease: A head-to-head comparison of Flortaucipir and MK6240.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42805926/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42804638",
         "title": "BAG3 coordinates astrocytic proteostasis of Alzheimer's disease-linked proteins via proteasome, autophagy, and retromer interactions.",
         "journal": "Proceedings of the National Academy of S",
@@ -166,39 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42799957/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42797041",
-        "title": "Multi-Component Xinjiang Basil Essential Oil Mitigates Alzheimer's Disease-like Pathology Through Amyloid and Neuroinflammatory Modulation.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42797041/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42796561",
-        "title": "Small-Molecule NANT Therapeutics Targeting the Brain-Immune Axis in Alzheimer's Disease: Mechanisms, Clinical Progress, and Translational Challenges.",
-        "journal": "Molecules (Basel, Switzerland)",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42796561/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42796440",
-        "title": "Erinacine C Attenuates Alzheimer's-like Pathology: A Study in APP/PS1 Mice and PC12 Cells.",
-        "journal": "Molecules (Basel, Switzerland)",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42796440/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42805946",
+        "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42801323",
         "title": "Longitudinal Awake Mouse Brain Imaging Using Functional Ultrasound and Functional Ultrasound Localization Microscopy.",
@@ -268,19 +278,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42787809/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42786404",
-        "title": "CSF neuroinflammatory biomarkers are associated with amyloid-β42/40, tau pathology, and cognitive impairment across the Alzheimer's disease spectrum.",
-        "journal": "Immunologic research",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42786404/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42808497",
+        "title": "Age-frailty status jointly modifies the nonlinear association between systolic blood pressure and annual cognitive aging rate: A community-based cohort study.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42808497/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42808495",
+        "title": "Accelerated biological aging in the association between early-life tobacco smoke exposure and dementia risk: An exploratory mediation analysis.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42808495/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42808454",
+        "title": "Changing Comorbidity Clusters in Patients With Congenital Heart Disease Across the Lifespan.",
+        "journal": "Journal of the American Heart Associatio",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42808454/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42807347",
+        "title": "APOE and amyloid-tau pathology in cognitively unimpaired older adults.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42807347/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42807198",
+        "title": "Unsupervised discovery of public health subgroups associated with cognitive health vulnerability in adults: an analysis of BRFSS 2024.",
+        "journal": "Frontiers in public health",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42807198/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42805945",
+        "title": "World Trade Center neurotoxicant exposure severity is associated with cortical thinning and regional brain atrophy: a neuroimaging study of general responders at midlife.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42805945/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42803718",
         "title": "Age-dependent associations between physical activity and cognitive function in adults aged 70-100: A cross-sectional and longitudinal study.",
@@ -298,66 +358,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42803715/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42803712",
-        "title": "Associations of social isolation and its subdomains with cognition and cerebrospinal fluid amyloid pathologies in non-demented adults: The CABLE study.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42803712/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42803710",
-        "title": "Lithium exposure and risk of dementia and Alzheimer's disease: A systematic review and meta-analysis.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42803710/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42802142",
-        "title": "Associations Between Kidney Function and Risk of Cognitive Impairment Among Chinese Older Adults.",
-        "journal": "Geriatrics &amp; gerontology internation",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42802142/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42801246",
-        "title": "Alzheimer's Disease: From Molecular Pathogenesis to Disease-Modifying Therapies and Clinical Implementation in Aging Populations.",
-        "journal": "Clinical interventions in aging",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42801246/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42801054",
-        "title": "Severity and progression of visual impairment and risk of dementia.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42801054/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42798750",
-        "title": "Real-world implementation of lecanemab in Alzheimer's disease: A Japanese cohort.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
         "zh": "",
         "evidence": "OTHER"
       }
