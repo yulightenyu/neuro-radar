@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:12:55.603536Z",
+  "updated": "2026-09-29T04:06:21.331218Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42804638",
+        "title": "BAG3 coordinates astrocytic proteostasis of Alzheimer's disease-linked proteins via proteasome, autophagy, and retromer interactions.",
+        "journal": "Proceedings of the National Academy of S",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42804638/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42804599",
+        "title": "Personalized whole-body modeling links gut microbiota to metabolic perturbations in Alzheimer's disease.",
+        "journal": "Gut microbes",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42804599/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42803875",
+        "title": "mTORC1 Activation Links Chronic Stress to Meso-Circuit Desynchronization and Accelerated Amyloid Pathology via Autophagic Dysfunction.",
+        "journal": "CNS neuroscience &amp; therapeutics",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42803875/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42801246",
         "title": "Alzheimer's Disease: From Molecular Pathogenesis to Disease-Modifying Therapies and Clinical Implementation in Aging Populations.",
         "journal": "Clinical interventions in aging",
@@ -164,36 +194,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42796440/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42796281",
-        "title": "Computational Repurposing of Janus Kinase Inhibitors as Potential Therapeutic Candidates for Alzheimer's Disease.",
-        "journal": "Medicina (Kaunas, Lithuania)",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42796281/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42794852",
-        "title": "Mechanisms of Brain Aging and Their Links to Alzheimer's and Parkinson's Disease Pathology.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42794852/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42794721",
-        "title": "Reframing Alzheimer's Disease Through a Redox-Metabolic Framework.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42794721/",
         "zh": "",
         "evidence": "OTHER"
       }
