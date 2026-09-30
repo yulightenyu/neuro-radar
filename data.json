@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:35:22.055067Z",
+  "updated": "2026-09-30T03:52:52.715127Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42809590",
+        "title": "Targeting Microglial Transcriptional Reprogramming as a Therapy Strategy for Alzheimer's Disease.",
+        "journal": "BioEssays : news and reviews in molecula",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42809590/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42807723",
         "title": "Potential Role of Red Yeast Rice in the Prevention and Treatment of Alzheimer's Disease.",
         "journal": "International journal of medical science",
@@ -186,19 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42801246/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42799957",
-        "title": "Long Non-Coding RNA PART1 in Alzheimer's Disease: Clinical Value and Improvement of Neurotoxicity and Apoptosis via miR-770-5p.",
-        "journal": "Neurochemical research",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42799957/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42809165",
+        "title": "Analysis of the off-target interaction of amyloid PET tracers with human brain sulfotransferases.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42809165/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42809041",
+        "title": "Dementia risk factors and biomarkers in subjective cognitive decline: real world evidence from the monza brain health service.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42809041/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42805946",
         "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
@@ -258,29 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42794698/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42791560",
-        "title": "Dynamic [18F]PI-2620 recording facilitates prediction of β-amyloid positivity and simultaneous staging of tau and neurodegeneration.",
-        "journal": "Molecular neurodegeneration",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42791560/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42787809",
-        "title": "Clinical utility of LUMIPULSE plasma p-tau217 to identify amyloid positivity among candidates for amyloid-targeting treatments in a real-world cohort.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42787809/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42809949",
+        "title": "Genetic architecture of ultra-processed food consumption links neurodevelopmental and metabolic pathways to habitual diet.",
+        "journal": "Clinical nutrition (Edinburgh, Scotland)",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42809949/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42809041",
+        "title": "Dementia risk factors and biomarkers in subjective cognitive decline: real world evidence from the monza brain health service.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42809041/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42808497",
         "title": "Age-frailty status jointly modifies the nonlinear association between systolic blood pressure and annual cognitive aging rate: A community-based cohort study.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42805945/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42803718",
-        "title": "Age-dependent associations between physical activity and cognitive function in adults aged 70-100: A cross-sectional and longitudinal study.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42803718/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42803715",
-        "title": "Edentulism and cognitive transitions: A multi-state analysis.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42803715/",
         "zh": "",
         "evidence": "OTHER"
       }
