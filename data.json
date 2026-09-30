@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T03:52:52.715127Z",
+  "updated": "2026-09-30T17:34:46.079207Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42812519",
+        "title": "Longitudinal patterns of regional cerebral blood flow during anti-amyloid therapy in mild cognitive impairment: a pilot ASL MRI case series.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42812519/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42803728",
         "title": "Efficacy and safety of aducanumab, lecanemab, and donanemab in Alzheimer's disease: A meta-analysis of randomized controlled trials.",
@@ -104,19 +114,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42742914/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42739787",
-        "title": "Anti-Amyloid Antibodies in the Treatment of Alzheimer's Disease: An Umbrella Review.",
-        "journal": "Journal of clinical medicine",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42739787/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42812986",
+        "title": "Gray matter atrophy mediates the association between cerebral hypometabolism and cognitive impairment in Alzheimer's disease.",
+        "journal": "Frontiers in neurology",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42812986/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42811946",
+        "title": "Excitation-inhibition imbalance links amyloid pathophysiology to cognition in non-demented individuals.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42811946/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42811779",
+        "title": "Exposome-wide association study and predictive risk score for incident Alzheimer's disease and related dementias.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42811779/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42811373",
+        "title": "Impaired peptide amidation and risk of incident dementia in the Malmoe preventive project cohort.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42811373/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42809590",
         "title": "Targeting Microglial Transcriptional Reprogramming as a Therapy Strategy for Alzheimer's Disease.",
@@ -156,49 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42805926/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42804638",
-        "title": "BAG3 coordinates astrocytic proteostasis of Alzheimer's disease-linked proteins via proteasome, autophagy, and retromer interactions.",
-        "journal": "Proceedings of the National Academy of S",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42804638/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42804599",
-        "title": "Personalized whole-body modeling links gut microbiota to metabolic perturbations in Alzheimer's disease.",
-        "journal": "Gut microbes",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42804599/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42803875",
-        "title": "mTORC1 Activation Links Chronic Stress to Meso-Circuit Desynchronization and Accelerated Amyloid Pathology via Autophagic Dysfunction.",
-        "journal": "CNS neuroscience &amp; therapeutics",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42803875/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42801246",
-        "title": "Alzheimer's Disease: From Molecular Pathogenesis to Disease-Modifying Therapies and Clinical Implementation in Aging Populations.",
-        "journal": "Clinical interventions in aging",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42801246/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42811946",
+        "title": "Excitation-inhibition imbalance links amyloid pathophysiology to cognition in non-demented individuals.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42811946/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42809165",
         "title": "Analysis of the off-target interaction of amyloid PET tracers with human brain sulfotransferases.",
@@ -268,19 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42798633/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42794698",
-        "title": "Sleep Disturbance Correlates with Cognitive Impairment Partly via Plasma p-Tau217: ADNI Cross-Sectional Evidence and P301L Mouse Mechanistic Observations.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42794698/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42812323",
+        "title": "Association between physical activity and incident dementia among individuals with hypertension.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42812323/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42811905",
+        "title": "Crossing the Bar of 'Self'-A Hypothesis-Generating Value-Based Framework for Dementia Risk and Resilience.",
+        "journal": "Journal of integrative neuroscience",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42811905/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42811373",
+        "title": "Impaired peptide amidation and risk of incident dementia in the Malmoe preventive project cohort.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42811373/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42809949",
         "title": "Genetic architecture of ultra-processed food consumption links neurodevelopmental and metabolic pathways to habitual diet.",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42808454/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42807347",
-        "title": "APOE and amyloid-tau pathology in cognitively unimpaired older adults.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42807347/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42807198",
-        "title": "Unsupervised discovery of public health subgroups associated with cognitive health vulnerability in adults: an analysis of BRFSS 2024.",
-        "journal": "Frontiers in public health",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42807198/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42805945",
-        "title": "World Trade Center neurotoxicant exposure severity is associated with cortical thinning and regional brain atrophy: a neuroimaging study of general responders at midlife.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42805945/",
         "zh": "",
         "evidence": "OTHER"
       }
