@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:01:12.225786Z",
+  "updated": "2026-10-01T17:58:38.297187Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "42816862",
+        "title": "Microglia-derived extracellular vesicle content as a biomarker for early detection of Alzheimer's disease.",
+        "journal": "Translational neurodegeneration",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42816862/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42816467",
+        "title": "The default mode network exhibits circuit-specific selective vulnerability despite widespread amyloid burden in an animal model of Alzheimer's disease.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42816467/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42816032",
         "title": "Icariin enhances PINK1-associated mitophagy to attenuate NLRP3/GSDMD-related microglial pyroptosis and cognitive impairment in Alzheimer's disease.",
         "journal": "Chinese journal of natural medicines",
@@ -176,29 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42809590/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42807723",
-        "title": "Potential Role of Red Yeast Rice in the Prevention and Treatment of Alzheimer's Disease.",
-        "journal": "International journal of medical science",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42807723/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42805946",
-        "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42818410",
+        "title": "Diagnostic accuracy of remote self-administered digital cognitive assessment by clinical diagnosis and Alzheimer's disease PET imaging biomarkers.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818410/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42814823",
         "title": "Speech clocks decode dementia phenotypes, social exposome, and biological aging.",
@@ -268,96 +278,86 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42800042/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42799937",
-        "title": "Motor speech markers of Alzheimer's risk.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42799937/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
       {
-        "pmid": "42814411",
-        "title": "Associations of plasma HDL subclasses with incident dementia risk in older adults.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "42818649",
+        "title": "Longitudinal changes in control energy of brain networks in older adults at familial risk for Alzheimers disease.",
+        "journal": "bioRxiv : the preprint server for biolog",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42814411/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818649/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42812323",
-        "title": "Association between physical activity and incident dementia among individuals with hypertension.",
-        "journal": "Frontiers in aging neuroscience",
+        "pmid": "42818421",
+        "title": "Education and Alzheimer Disease Genetic Risk in Associations of GLP-1 Receptor Agonists With Dementia Among Adults With Type 2 Diabetes.",
+        "journal": "medRxiv : the preprint server for health",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42812323/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818421/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42811905",
-        "title": "Crossing the Bar of 'Self'-A Hypothesis-Generating Value-Based Framework for Dementia Risk and Resilience.",
-        "journal": "Journal of integrative neuroscience",
+        "pmid": "42818413",
+        "title": "Predicting Conversion from SCD to MCI: A Machine Learning Study.",
+        "journal": "medRxiv : the preprint server for health",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42811905/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818413/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42811373",
-        "title": "Impaired peptide amidation and risk of incident dementia in the Malmoe preventive project cohort.",
-        "journal": "Alzheimer's research &amp; therapy",
+        "pmid": "42818396",
+        "title": "Progressive behavioral and cognitive decline in Drosophila harboring AD- associated APOE4 variants.",
+        "journal": "bioRxiv : the preprint server for biolog",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42811373/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818396/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42809949",
-        "title": "Genetic architecture of ultra-processed food consumption links neurodevelopmental and metabolic pathways to habitual diet.",
-        "journal": "Clinical nutrition (Edinburgh, Scotland)",
+        "pmid": "42818124",
+        "title": "The United States CADASIL Consortium: Baseline Findings from a Natural History Study.",
+        "journal": "medRxiv : the preprint server for health",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42809949/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818124/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42809041",
-        "title": "Dementia risk factors and biomarkers in subjective cognitive decline: real world evidence from the monza brain health service.",
-        "journal": "Neurological sciences : official journal",
+        "pmid": "42817634",
+        "title": "Cellular and systemic modifiers of alpha-synuclein proteostasis.",
+        "journal": "Philosophical transactions of the Royal ",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42809041/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42817634/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42808497",
-        "title": "Age-frailty status jointly modifies the nonlinear association between systolic blood pressure and annual cognitive aging rate: A community-based cohort study.",
+        "pmid": "42816923",
+        "title": "APOE4 is associated with lower adiposity independent of total energy intake in cognitively normal older adults.",
         "journal": "Journal of Alzheimer's disease : JAD",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42808497/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42816923/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42808495",
-        "title": "Accelerated biological aging in the association between early-life tobacco smoke exposure and dementia risk: An exploratory mediation analysis.",
+        "pmid": "42816819",
+        "title": "Religious order membership and cognitive function: Evidence for slower late-life decline despite higher incident dementia.",
         "journal": "Journal of Alzheimer's disease : JAD",
         "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42808495/",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42816819/",
         "zh": "",
         "evidence": "OTHER"
       }
