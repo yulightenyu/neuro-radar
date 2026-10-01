@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:34:46.079207Z",
+  "updated": "2026-10-01T04:01:12.225786Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42816032",
+        "title": "Icariin enhances PINK1-associated mitophagy to attenuate NLRP3/GSDMD-related microglial pyroptosis and cognitive impairment in Alzheimer's disease.",
+        "journal": "Chinese journal of natural medicines",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42816032/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42812986",
         "title": "Gray matter atrophy mediates the association between cerebral hypometabolism and cognitive impairment in Alzheimer's disease.",
         "journal": "Frontiers in neurology",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42805926",
-        "title": "Tau-PET correlates of mild behavioral impairment in preclinical and prodromal Alzheimer's disease: A head-to-head comparison of Flortaucipir and MK6240.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42805926/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42814823",
+        "title": "Speech clocks decode dementia phenotypes, social exposome, and biological aging.",
+        "journal": "Science advances",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42814823/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42811946",
         "title": "Excitation-inhibition imbalance links amyloid pathophysiology to cognition in non-demented individuals.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42799937/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42798633",
-        "title": "Explanatory limitations of CSF, plasma, and MRI biomarkers for inflammation and blood-brain barrier disruption in dementia.",
-        "journal": "Frontiers in aging",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42798633/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42814411",
+        "title": "Associations of plasma HDL subclasses with incident dementia risk in older adults.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42814411/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42812323",
         "title": "Association between physical activity and incident dementia among individuals with hypertension.",
@@ -350,19 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42808495/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42808454",
-        "title": "Changing Comorbidity Clusters in Patients With Congenital Heart Disease Across the Lifespan.",
-        "journal": "Journal of the American Heart Associatio",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42808454/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42816035",
+        "title": "Data mining and multi-omics profiling to reveal the mechanisms of cold/hot property of traditional Chinese medicine in Alzheimer's disease treatment.",
+        "journal": "Chinese journal of natural medicines",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42816035/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42785906",
         "title": "Circulating biochemical signatures of neurodegeneration in Alzheimer's disease.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42713877",
-        "title": "More efficient screening for preclinical Alzheimer's clinical trials using mixture of experts.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42713877/",
         "zh": "",
         "evidence": "OTHER"
       }
