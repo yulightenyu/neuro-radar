@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:58:38.297187Z",
+  "updated": "2026-10-02T03:57:27.611282Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42821845",
+        "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42816862",
         "title": "Microglia-derived extracellular vesicle content as a biomarker for early detection of Alzheimer's disease.",
         "journal": "Translational neurodegeneration",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42811373/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42809590",
-        "title": "Targeting Microglial Transcriptional Reprogramming as a Therapy Strategy for Alzheimer's Disease.",
-        "journal": "BioEssays : news and reviews in molecula",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42809590/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42821845",
+        "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42818410",
         "title": "Diagnostic accuracy of remote self-administered digital cognitive assessment by clinical diagnosis and Alzheimer's disease PET imaging biomarkers.",
@@ -268,19 +278,79 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42801323/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42800042",
-        "title": "Blood-based biomarkers in the anti-amyloid era of Alzheimer's disease: clinical utility, implementation challenges, and future directions.",
-        "journal": "Neurodegenerative disease management",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42800042/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42822752",
+        "title": "Gut bacterial isolates from individuals with Alzheimer's disease induce strain-specific intestinal, inflammatory, and neurobehavioral phenotypes in mice.",
+        "journal": "Brain research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42822752/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42821881",
+        "title": "Physical inactivity attributable burden of disease on morbidity and mortality across Swiss language regions: a population-based modelling study.",
+        "journal": "Swiss medical weekly",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42821881/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42821850",
+        "title": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42821850/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42821820",
+        "title": "Life-Course Timing of Family Bereavement and Cognitive Impairment in Midlife to Later Life.",
+        "journal": "American journal of public health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42821820/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42821655",
+        "title": "Sex-specific multimorbidity clusters and all-cause mortality among community-dwelling older adults: findings from the ASPREE cohort.",
+        "journal": "The journals of gerontology. Series A, B",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42821655/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42818865",
+        "title": "Data-driven subtypes of Alzheimer's Disease: A multicohort study.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818865/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42818802",
+        "title": "Cerebral Small Vessel Disease and Risk of Cardiovascular Events and All-Cause Mortality: The Framingham Heart Study.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42818802/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42818649",
         "title": "Longitudinal changes in control energy of brain networks in older adults at familial risk for Alzheimers disease.",
@@ -290,89 +360,9 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42818649/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818421",
-        "title": "Education and Alzheimer Disease Genetic Risk in Associations of GLP-1 Receptor Agonists With Dementia Among Adults With Type 2 Diabetes.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818421/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818413",
-        "title": "Predicting Conversion from SCD to MCI: A Machine Learning Study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818413/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818396",
-        "title": "Progressive behavioral and cognitive decline in Drosophila harboring AD- associated APOE4 variants.",
-        "journal": "bioRxiv : the preprint server for biolog",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818396/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818124",
-        "title": "The United States CADASIL Consortium: Baseline Findings from a Natural History Study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818124/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42817634",
-        "title": "Cellular and systemic modifiers of alpha-synuclein proteostasis.",
-        "journal": "Philosophical transactions of the Royal ",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42817634/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42816923",
-        "title": "APOE4 is associated with lower adiposity independent of total energy intake in cognitively normal older adults.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42816923/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42816819",
-        "title": "Religious order membership and cognitive function: Evidence for slower late-life decline despite higher incident dementia.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42816819/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
-      {
-        "pmid": "42816035",
-        "title": "Data mining and multi-omics profiling to reveal the mechanisms of cold/hot property of traditional Chinese medicine in Alzheimer's disease treatment.",
-        "journal": "Chinese journal of natural medicines",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42816035/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
       {
         "pmid": "42785906",
         "title": "Circulating biochemical signatures of neurodegeneration in Alzheimer's disease.",
@@ -440,6 +430,16 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42713877",
+        "title": "More efficient screening for preclinical Alzheimer's clinical trials using mixture of experts.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "09",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42713877/",
         "zh": "",
         "evidence": "OTHER"
       }
