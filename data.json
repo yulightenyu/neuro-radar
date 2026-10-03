@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:25:46.966544Z",
+  "updated": "2026-10-03T03:42:12.960336Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42825842",
+        "title": "Incidence, severity, and associated risk factors for amyloid-related imaging abnormalities in anti-amyloid monoclonal antibody therapy for early Alzheimer's disease: a systematic review and meta-analysis.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42825842/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42812519",
         "title": "Longitudinal patterns of regional cerebral blood flow during anti-amyloid therapy in mild cognitive impairment: a pilot ASL MRI case series.",
@@ -104,19 +114,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42746606/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42742914",
-        "title": "From Proof of Principle to Therapeutic Discipline: Strategies to Improve the Benefit/Risk Profile of Amyloid-Targeting Treatments for Alzheimer's Disease.",
-        "journal": "CNS drugs",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42742914/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42825974",
+        "title": "Bisphenol A Exposure Perturbs the Immune Microenvironment in Alzheimer's Disease: Insights from Network Toxicology and Single-Cell Transcriptomics.",
+        "journal": "Journal of molecular neuroscience : MN",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42825974/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42825842",
+        "title": "Incidence, severity, and associated risk factors for amyloid-related imaging abnormalities in anti-amyloid monoclonal antibody therapy for early Alzheimer's disease: a systematic review and meta-analysis.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42825842/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42825521",
+        "title": "AMPK Activator MK-8722 Improves Spatial Memory Deficit and Alters Metabolome in APP/PS1 AD Mouse Model.",
+        "journal": "Journal of neurochemistry",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42825521/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42821845",
         "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
@@ -166,39 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42812986/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42811946",
-        "title": "Excitation-inhibition imbalance links amyloid pathophysiology to cognition in non-demented individuals.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42811946/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42811779",
-        "title": "Exposome-wide association study and predictive risk score for incident Alzheimer's disease and related dementias.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42811779/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42811373",
-        "title": "Impaired peptide amidation and risk of incident dementia in the Malmoe preventive project cohort.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42811373/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42824090",
+        "title": "Evaluation of plasma neurofilament and glial fibrillary acidic protein to predict or detect amyloid related imaging abnormalities.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42824090/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42821845",
         "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
@@ -266,16 +276,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42801323",
-        "title": "Longitudinal Awake Mouse Brain Imaging Using Functional Ultrasound and Functional Ultrasound Localization Microscopy.",
-        "journal": "Advanced science (Weinheim, Baden-Wurtte",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42801323/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -394,6 +394,16 @@
         "evidence": "OTHER"
       },
       {
+        "pmid": "42779194",
+        "title": "The complexities of diagnosing young-onset Alzheimer's dementia and the need for swift identification.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42779194/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42772840",
         "title": "Matrix metalloproteinases (MMPs) in neurodegenerative diseases, an updated overview of the role of MT1-MMP and MT5-MMP in Alzheimer's disease.",
         "journal": "The Enzymes",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42713877",
-        "title": "More efficient screening for preclinical Alzheimer's clinical trials using mixture of experts.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42713877/",
         "zh": "",
         "evidence": "OTHER"
       }
