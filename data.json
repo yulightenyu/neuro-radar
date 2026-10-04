@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:12:38.066936Z",
+  "updated": "2026-10-04T16:25:05.515010Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "42828605",
+        "title": "The Therapeutic Potential of MicroRNAs Delivered By Mesenchymal Stem Cells in Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review of Preclinical Studies.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42828605/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42828019",
+        "title": "Exploratory effects of coffee-derived exosome-like nanoparticles in a fibrillar amyloid-beta 1-42-induced neurodegenerative rat model: evidence from fluorodeoxyglucose positron emission tomography and phosphorylated tau/amyloid precursor protein expression.",
+        "journal": "PeerJ",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42828019/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42825974",
         "title": "Bisphenol A Exposure Perturbs the Immune Microenvironment in Alzheimer's Disease: Insights from Network Toxicology and Single-Cell Transcriptomics.",
         "journal": "Journal of molecular neuroscience : MN",
@@ -176,29 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42816467/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42816032",
-        "title": "Icariin enhances PINK1-associated mitophagy to attenuate NLRP3/GSDMD-related microglial pyroptosis and cognitive impairment in Alzheimer's disease.",
-        "journal": "Chinese journal of natural medicines",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42816032/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42812986",
-        "title": "Gray matter atrophy mediates the association between cerebral hypometabolism and cognitive impairment in Alzheimer's disease.",
-        "journal": "Frontiers in neurology",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42812986/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42828695",
+        "title": "Multimodal neuroimaging in dementia and neurodegenerative disorders: complementary roles of clinically available nuclear medicine and MRI in the era of disease-modifying therapies.",
+        "journal": "Japanese journal of radiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42828695/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42828568",
+        "title": "Exploring the role of glymphatic system in Alzheimer's disease with insights from MRI-based studies: a systematic review.",
+        "journal": "Neuroradiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42828568/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42824090",
         "title": "Evaluation of plasma neurofilament and glial fibrillary acidic protein to predict or detect amyloid related imaging abnormalities.",
@@ -258,29 +278,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42809165/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42809041",
-        "title": "Dementia risk factors and biomarkers in subjective cognitive decline: real world evidence from the monza brain health service.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42809041/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42805946",
-        "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42829617",
+        "title": "Modifiable Risk Factors for Dementia in Older Patients Receiving Primary Care: A Retrospective Observational Study.",
+        "journal": "Cureus",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42829617/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42829430",
+        "title": "Should I drink water or wine? Impacts of online nutritional counseling on the alcohol consumption of elderly individuals with mild cognitive impairment : Secondary Data Analysis from the RCT \"BrainFit-Nutrition\".",
+        "journal": "BMC public health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42829430/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42829244",
+        "title": "A wearable accelerometry landscape of human health and disease.",
+        "journal": "Science bulletin",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42829244/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42828991",
+        "title": "Exercise, Glucose and Lactate Metabolism in Mild Cognitive Impairment: A Narrative Review.",
+        "journal": "International journal of sports medicine",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42828991/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42828519",
+        "title": "Return of Research Results to Participants in Longitudinal Cohort Studies in Health Research: Findings From 24 Cohorts of the Amsterdam Cohort Hub.",
+        "journal": "Health expectations : an international j",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42828519/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42828138",
+        "title": "Severe infections, domain-specific cognitive vulnerability, and future infection risk in older adults.",
+        "journal": "Brain, behavior, &amp; immunity - health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42828138/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42822752",
         "title": "Gut bacterial isolates from individuals with Alzheimer's disease induce strain-specific intestinal, inflammatory, and neurobehavioral phenotypes in mice.",
@@ -298,66 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42821881/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42821850",
-        "title": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42821850/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42821820",
-        "title": "Life-Course Timing of Family Bereavement and Cognitive Impairment in Midlife to Later Life.",
-        "journal": "American journal of public health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42821820/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42821655",
-        "title": "Sex-specific multimorbidity clusters and all-cause mortality among community-dwelling older adults: findings from the ASPREE cohort.",
-        "journal": "The journals of gerontology. Series A, B",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42821655/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818865",
-        "title": "Data-driven subtypes of Alzheimer's Disease: A multicohort study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818865/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818802",
-        "title": "Cerebral Small Vessel Disease and Risk of Cardiovascular Events and All-Cause Mortality: The Framingham Heart Study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818802/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818649",
-        "title": "Longitudinal changes in control energy of brain networks in older adults at familial risk for Alzheimers disease.",
-        "journal": "bioRxiv : the preprint server for biolog",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818649/",
         "zh": "",
         "evidence": "OTHER"
       }
