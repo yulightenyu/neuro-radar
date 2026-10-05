@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T03:56:19.039816Z",
+  "updated": "2026-10-05T20:20:53.986177Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42831470",
+        "title": "Structural compression and entorhinal vulnerability: Linking tentorial adjacency to tau burden and dementia progression.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42831470/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42828605",
         "title": "The Therapeutic Potential of MicroRNAs Delivered By Mesenchymal Stem Cells in Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review of Preclinical Studies.",
         "journal": "Molecular neurobiology",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42816862/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42816467",
-        "title": "The default mode network exhibits circuit-specific selective vulnerability despite widespread amyloid burden in an animal model of Alzheimer's disease.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42816467/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "42831701",
+        "title": "Emerging therapeutic strategies to target APOE4 in Alzheimer's disease.",
+        "journal": "The FEBS journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42831701/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42829617",
         "title": "Modifiable Risk Factors for Dementia in Older Patients Receiving Primary Care: A Retrospective Observational Study.",
         "journal": "Cureus",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42822752/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42821881",
-        "title": "Physical inactivity attributable burden of disease on morbidity and mortality across Swiss language regions: a population-based modelling study.",
-        "journal": "Swiss medical weekly",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42821881/",
         "zh": "",
         "evidence": "OTHER"
       }
