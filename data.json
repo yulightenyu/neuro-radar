@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T04:45:05.431957Z",
+  "updated": "2026-10-06T17:53:48.256387Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,82 +118,82 @@
     ],
     "mech": [
       {
-        "pmid": "42832125",
-        "title": "STZ‑induced sporadic Alzheimer's in rats: behavioral, histopathological, and MiRNA profiles.",
-        "journal": "Journal of molecular histology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42832125/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42831470",
-        "title": "Structural compression and entorhinal vulnerability: Linking tentorial adjacency to tau burden and dementia progression.",
+        "pmid": "42836759",
+        "title": "A murine model of amyloid enhanced tauopathy: progressive changes in tau pathology and behavior.",
         "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42831470/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42836759/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42828605",
-        "title": "The Therapeutic Potential of MicroRNAs Delivered By Mesenchymal Stem Cells in Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review of Preclinical Studies.",
-        "journal": "Molecular neurobiology",
+        "pmid": "42836738",
+        "title": "Cell-based polygenic risk scores predict clinical progression and prioritize network-based therapeutic targets in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42828605/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42836738/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42828019",
-        "title": "Exploratory effects of coffee-derived exosome-like nanoparticles in a fibrillar amyloid-beta 1-42-induced neurodegenerative rat model: evidence from fluorodeoxyglucose positron emission tomography and phosphorylated tau/amyloid precursor protein expression.",
-        "journal": "PeerJ",
+        "pmid": "42836734",
+        "title": "Clusterin is enriched in plaque-associated astrocytes and localizes to synapses in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42828019/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42836734/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42825974",
-        "title": "Bisphenol A Exposure Perturbs the Immune Microenvironment in Alzheimer's Disease: Insights from Network Toxicology and Single-Cell Transcriptomics.",
-        "journal": "Journal of molecular neuroscience : MN",
+        "pmid": "42836717",
+        "title": "Exploratory Analysis of APOE ε4-Stratified Associations Between Plasma Alzheimer's Biomarkers and Retinal Imaging Metrics in Cognitively Normal Adults.",
+        "journal": "Translational vision science &amp; techn",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42825974/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42836717/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42825842",
-        "title": "Incidence, severity, and associated risk factors for amyloid-related imaging abnormalities in anti-amyloid monoclonal antibody therapy for early Alzheimer's disease: a systematic review and meta-analysis.",
-        "journal": "Neurological sciences : official journal",
+        "pmid": "42835465",
+        "title": "Exploring the role of infectious pathogens in Alzheimer's disease neuroinflammation.",
+        "journal": "Frontiers in cellular and infection micr",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42825842/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42835465/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42825521",
-        "title": "AMPK Activator MK-8722 Improves Spatial Memory Deficit and Alters Metabolome in APP/PS1 AD Mouse Model.",
-        "journal": "Journal of neurochemistry",
+        "pmid": "42835017",
+        "title": "REV-ERBs as regulators of circadian rhythm, neuroinflammation, and glial lipid homeostasis in Alzheimer's disease. A narrative review.",
+        "journal": "British journal of biomedical science",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42825521/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42835017/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42821845",
-        "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
-        "journal": "Neurology",
+        "pmid": "42834920",
+        "title": "Associations between obstructive sleep apnea and Alzheimer's disease-related biomarkers (amyloid-β and tau) in blood and cerebrospinal fluid: a systematic review and meta-analysis.",
+        "journal": "Frontiers in neurology",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42834920/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42834737",
+        "title": "Genetic and Pharmacological Targeting of Hsp72 Overexpression/Induction in an Alzheimer's Disease Mouse Model With Combined Amyloid and Tau Pathology.",
+        "journal": "Journal of neuroscience research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42834737/",
         "zh": "",
         "evidence": "OTHER"
       }
