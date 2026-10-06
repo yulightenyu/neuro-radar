@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T20:20:53.986177Z",
+  "updated": "2026-10-06T04:45:05.431957Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42832125",
+        "title": "STZ‑induced sporadic Alzheimer's in rats: behavioral, histopathological, and MiRNA profiles.",
+        "journal": "Journal of molecular histology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42832125/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42831470",
         "title": "Structural compression and entorhinal vulnerability: Linking tentorial adjacency to tau burden and dementia progression.",
         "journal": "Alzheimer's &amp; dementia : the journal",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42816862",
-        "title": "Microglia-derived extracellular vesicle content as a biomarker for early detection of Alzheimer's disease.",
-        "journal": "Translational neurodegeneration",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42816862/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42832237",
+        "title": "Earlier Disclosure of Blood-Based Biomarkers, Diagnostic Certainty, and Clinical Management: A Randomized Clinical Trial.",
+        "journal": "JAMA neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42832237/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42828695",
         "title": "Multimodal neuroimaging in dementia and neurodegenerative disorders: complementary roles of clinically available nuclear medicine and MRI in the era of disease-modifying therapies.",
@@ -268,19 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42811946/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42809165",
-        "title": "Analysis of the off-target interaction of amyloid PET tracers with human brain sulfotransferases.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42809165/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42833623",
+        "title": "Physical Performance Moderates the Association Between Age and Executive Function in Older Adults at Elevated Risk of Dementia: Cross-Sectional Analysis From the CITA GO-ON Trial.",
+        "journal": "Journal of cachexia, sarcopenia and musc",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42833623/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42832563",
+        "title": "Marital status and incident screen-positive cognitive impairment in a Taiwanese longitudinal cohort (2005-2016): Associations vary by cognitive screening instrument.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42832563/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42831953",
+        "title": "Anti-osteoporosis medications in persons with and without Parkinson disease in Finland.",
+        "journal": "Archives of osteoporosis",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42831953/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42831701",
         "title": "Emerging therapeutic strategies to target APOE4 in Alzheimer's disease.",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42828991/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42828519",
-        "title": "Return of Research Results to Participants in Longitudinal Cohort Studies in Health Research: Findings From 24 Cohorts of the Amsterdam Cohort Hub.",
-        "journal": "Health expectations : an international j",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42828519/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42828138",
-        "title": "Severe infections, domain-specific cognitive vulnerability, and future infection risk in older adults.",
-        "journal": "Brain, behavior, &amp; immunity - health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42828138/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42822752",
-        "title": "Gut bacterial isolates from individuals with Alzheimer's disease induce strain-specific intestinal, inflammatory, and neurobehavioral phenotypes in mice.",
-        "journal": "Brain research",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42822752/",
         "zh": "",
         "evidence": "OTHER"
       }
