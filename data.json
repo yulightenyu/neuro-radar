@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T04:11:14.701507Z",
+  "updated": "2026-10-07T18:24:33.059725Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,46 @@
     ],
     "mech": [
       {
+        "pmid": "42840967",
+        "title": "Ionizing radiation and Alzheimer's disease: epidemiology, mechanisms, and eCIRP-mediated tau pathology.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42840967/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42840727",
+        "title": "Dysregulated mRNA Translation in Alzheimer's Disease: Mechanisms, Therapeutic Opportunities, and Challenges for Clinical Translation.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42840727/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42840584",
+        "title": "Integrating network medicine and foundation models reveals cell-type-specific regulatory alterations in Alzheimer's disease.",
+        "journal": "NAR genomics and bioinformatics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42840584/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42839194",
+        "title": "Cortical thickness signature of early-onset Alzheimer's disease across clinical stages and A/T1 biomarker profiles.",
+        "journal": "Journal of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42839194/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42837647",
         "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
         "journal": "Neurology",
@@ -154,46 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42836734/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42836717",
-        "title": "Exploratory Analysis of APOE ε4-Stratified Associations Between Plasma Alzheimer's Biomarkers and Retinal Imaging Metrics in Cognitively Normal Adults.",
-        "journal": "Translational vision science &amp; techn",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42836717/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42835465",
-        "title": "Exploring the role of infectious pathogens in Alzheimer's disease neuroinflammation.",
-        "journal": "Frontiers in cellular and infection micr",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42835465/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42835017",
-        "title": "REV-ERBs as regulators of circadian rhythm, neuroinflammation, and glial lipid homeostasis in Alzheimer's disease. A narrative review.",
-        "journal": "British journal of biomedical science",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42835017/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42834920",
-        "title": "Associations between obstructive sleep apnea and Alzheimer's disease-related biomarkers (amyloid-β and tau) in blood and cerebrospinal fluid: a systematic review and meta-analysis.",
-        "journal": "Frontiers in neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42834920/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,36 @@
     ],
     "prev": [
       {
+        "pmid": "42840968",
+        "title": "Effects of acute sleep deprivation on individuals across different APOE genotypes: a randomized controlled trial protocol.",
+        "journal": "Frontiers in neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42840968/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42840967",
+        "title": "Ionizing radiation and Alzheimer's disease: epidemiology, mechanisms, and eCIRP-mediated tau pathology.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42840967/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42840793",
+        "title": "Vascular cognitive impairment in China: Epidemiology, risk factors, healthcare system, management challenges, therapeutic modalities, and prevention strategies.",
+        "journal": "Cerebral circulation - cognition and beh",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42840793/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42838606",
         "title": "Cognitive reserve and risk of poststroke cognitive impairment in acute ischaemic stroke: post hoc analysis of CATIS-2.",
         "journal": "Stroke and vascular neurology",
@@ -330,39 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42831701/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42829617",
-        "title": "Modifiable Risk Factors for Dementia in Older Patients Receiving Primary Care: A Retrospective Observational Study.",
-        "journal": "Cureus",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42829617/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42829430",
-        "title": "Should I drink water or wine? Impacts of online nutritional counseling on the alcohol consumption of elderly individuals with mild cognitive impairment : Secondary Data Analysis from the RCT \"BrainFit-Nutrition\".",
-        "journal": "BMC public health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42829430/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42829244",
-        "title": "A wearable accelerometry landscape of human health and disease.",
-        "journal": "Science bulletin",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42829244/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42840727",
+        "title": "Dysregulated mRNA Translation in Alzheimer's Disease: Mechanisms, Therapeutic Opportunities, and Challenges for Clinical Translation.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42840727/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42785906",
         "title": "Circulating biochemical signatures of neurodegeneration in Alzheimer's disease.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42742642/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42737730",
-        "title": "Caenorhabditis elegans as a Model for Studying Nrf2/SKN-1 Activation in Alzheimer's Disease: Plant Bioactive Compounds and Therapeutic Translation.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42737730/",
         "zh": "",
         "evidence": "OTHER"
       }
