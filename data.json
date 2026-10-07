@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:53:48.256387Z",
+  "updated": "2026-10-07T04:11:14.701507Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42837647",
+        "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42837647/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42836759",
         "title": "A murine model of amyloid enhanced tauopathy: progressive changes in tau pathology and behavior.",
         "journal": "Alzheimer's &amp; dementia : the journal",
@@ -186,19 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42834920/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42834737",
-        "title": "Genetic and Pharmacological Targeting of Hsp72 Overexpression/Induction in an Alzheimer's Disease Mouse Model With Combined Amyloid and Tau Pathology.",
-        "journal": "Journal of neuroscience research",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42834737/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42838413",
+        "title": "Suppression of ER Stress Underlies Montelukast's Neuroprotective Actions in D-Gal/AlCl3-Induced Alzheimer's Disease in Rats.",
+        "journal": "Neuropharmacology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42838413/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42837090",
+        "title": "Deep Learning-based Synthesis of Amyloid PET Images from Structural MRI in Alzheimer's Disease.",
+        "journal": "Molecular imaging and biology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42837090/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42832237",
         "title": "Earlier Disclosure of Blood-Based Biomarkers, Diagnostic Certainty, and Clinical Management: A Randomized Clinical Trial.",
@@ -258,29 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42818410/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42814823",
-        "title": "Speech clocks decode dementia phenotypes, social exposome, and biological aging.",
-        "journal": "Science advances",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42814823/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42811946",
-        "title": "Excitation-inhibition imbalance links amyloid pathophysiology to cognition in non-demented individuals.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42811946/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42838606",
+        "title": "Cognitive reserve and risk of poststroke cognitive impairment in acute ischaemic stroke: post hoc analysis of CATIS-2.",
+        "journal": "Stroke and vascular neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42838606/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42833623",
         "title": "Physical Performance Moderates the Association Between Age and Executive Function in Older Adults at Elevated Risk of Dementia: Cross-Sectional Analysis From the CITA GO-ON Trial.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42829244/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42828991",
-        "title": "Exercise, Glucose and Lactate Metabolism in Mild Cognitive Impairment: A Narrative Review.",
-        "journal": "International journal of sports medicine",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42828991/",
         "zh": "",
         "evidence": "OTHER"
       }
