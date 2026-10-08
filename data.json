@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T04:23:33.756955Z",
+  "updated": "2026-10-08T18:24:05.791216Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42844635",
+        "title": "Forced treadmill running and ladder climbing physical activity attenuates cognitive decline and protein aggregates in aged 3xTg-AD mice.",
+        "journal": "Molecular brain",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42844635/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42842336",
         "title": "Network-dependent remote effects and local tau burden jointly shape neuronal dysfunction in Alzheimer's disease.",
         "journal": "Alzheimer's &amp; dementia : the journal",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42840967/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42840727",
-        "title": "Dysregulated mRNA Translation in Alzheimer's Disease: Mechanisms, Therapeutic Opportunities, and Challenges for Clinical Translation.",
-        "journal": "Clinical interventions in aging",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42840727/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42845405",
+        "title": "A New Frontier in CWD Detection: Antemortem Plasma Biomarkers and Behavioral Profiling in Transgenic Mouse Models.",
+        "journal": "bioRxiv : the preprint server for biolog",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42845405/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42843155",
         "title": "Histopathological investigation in Glycine receptor antibody positive progressive encephalomyelitis with rigidity and myoclonus (PERM): A case report.",
@@ -268,19 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42824090/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42821845",
-        "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42846079",
+        "title": "Efficacy of anticoagulation therapy in elderly patients with clinically diagnosed Alzheimer's disease and atrial fibrillation: a clinical outcomes study.",
+        "journal": "Frontiers in cellular neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42846079/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42844259",
+        "title": "Associations between lifestyle, genetic liability for severe mental illness and risk of incident somatic illnesses.",
+        "journal": "Translational psychiatry",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42844259/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42843620",
         "title": "Impact of dementia and its progression on mortality in heart failure with preserved ejection fraction -insight from the KUNIUMI registry chronic cohort.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42840967/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42840793",
-        "title": "Vascular cognitive impairment in China: Epidemiology, risk factors, healthcare system, management challenges, therapeutic modalities, and prevention strategies.",
-        "journal": "Cerebral circulation - cognition and beh",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42840793/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42838606",
-        "title": "Cognitive reserve and risk of poststroke cognitive impairment in acute ischaemic stroke: post hoc analysis of CATIS-2.",
-        "journal": "Stroke and vascular neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42838606/",
         "zh": "",
         "evidence": "OTHER"
       }
