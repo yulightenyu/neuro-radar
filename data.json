@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:24:33.059725Z",
+  "updated": "2026-10-08T04:23:33.756955Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42841310",
+        "title": "Longitudinal clinical outcomes after amyloid clearance in aducanumab phase 3 studies.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42841310/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42825842",
         "title": "Incidence, severity, and associated risk factors for amyloid-related imaging abnormalities in anti-amyloid monoclonal antibody therapy for early Alzheimer's disease: a systematic review and meta-analysis.",
@@ -104,19 +114,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42764107/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42746606",
-        "title": "Clinical Practice Outcomes With Lecanemab for Alzheimer Disease.",
-        "journal": "Neurology open access",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42746606/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42842336",
+        "title": "Network-dependent remote effects and local tau burden jointly shape neuronal dysfunction in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42842336/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42842141",
+        "title": "Advances in Extracellular Vesicle-Based Innovative Drugs Targeting Alzheimer's Disease.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42842141/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42841982",
+        "title": "Amyloid-β plaque diversity across brain regions in Alzheimer's disease and its relation to major clinicopathological traits.",
+        "journal": "Acta neuropathologica",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42841982/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42841458",
+        "title": "Natural Products Targeting Alzheimer's Disease via NF-κB Pathway: A Review.",
+        "journal": "CNS &amp; neurological disorders drug ta",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42841458/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42841315",
+        "title": "Genetic evidence supports a cortical neuroprotective role of GLP-1 receptor activation in Alzheimer's disease: A drug-target Mendelian randomization study.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42841315/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42841306",
+        "title": "miR-214-3p and NCKAP1: A microglial functional dimension of Alzheimer's progression.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42841306/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42840967",
         "title": "Ionizing radiation and Alzheimer's disease: epidemiology, mechanisms, and eCIRP-mediated tau pathology.",
@@ -136,69 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42840727/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42840584",
-        "title": "Integrating network medicine and foundation models reveals cell-type-specific regulatory alterations in Alzheimer's disease.",
-        "journal": "NAR genomics and bioinformatics",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42840584/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42839194",
-        "title": "Cortical thickness signature of early-onset Alzheimer's disease across clinical stages and A/T1 biomarker profiles.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42839194/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42837647",
-        "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42837647/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42836759",
-        "title": "A murine model of amyloid enhanced tauopathy: progressive changes in tau pathology and behavior.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42836759/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42836738",
-        "title": "Cell-based polygenic risk scores predict clinical progression and prioritize network-based therapeutic targets in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42836738/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42836734",
-        "title": "Clusterin is enriched in plaque-associated astrocytes and localizes to synapses in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42836734/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42843155",
+        "title": "Histopathological investigation in Glycine receptor antibody positive progressive encephalomyelitis with rigidity and myoclonus (PERM): A case report.",
+        "journal": "Journal of neuroimmunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42843155/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42838413",
         "title": "Suppression of ER Stress Underlies Montelukast's Neuroprotective Actions in D-Gal/AlCl3-Induced Alzheimer's Disease in Rats.",
@@ -268,19 +278,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42818410",
-        "title": "Diagnostic accuracy of remote self-administered digital cognitive assessment by clinical diagnosis and Alzheimer's disease PET imaging biomarkers.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42818410/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42843620",
+        "title": "Impact of dementia and its progression on mortality in heart failure with preserved ejection fraction -insight from the KUNIUMI registry chronic cohort.",
+        "journal": "Journal of cardiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42843620/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42843071",
+        "title": "Suicide occurrence within the first year after an initial dementia diagnosis: A Nationwide cohort study in Taiwan.",
+        "journal": "General hospital psychiatry",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42843071/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42842075",
+        "title": "Dietary preference, biological aging, and incident dementia: a prospective cohort study.",
+        "journal": "GeroScience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42842075/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42841812",
+        "title": "Evolving Mechanisms on Mortality in Atrial Fibrillation: A 25-Year National Death-Certificate Analysis.",
+        "journal": "Journal of cardiovascular electrophysiol",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42841812/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42840968",
         "title": "Effects of acute sleep deprivation on individuals across different APOE genotypes: a randomized controlled trial protocol.",
@@ -318,46 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42838606/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42833623",
-        "title": "Physical Performance Moderates the Association Between Age and Executive Function in Older Adults at Elevated Risk of Dementia: Cross-Sectional Analysis From the CITA GO-ON Trial.",
-        "journal": "Journal of cachexia, sarcopenia and musc",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42833623/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42832563",
-        "title": "Marital status and incident screen-positive cognitive impairment in a Taiwanese longitudinal cohort (2005-2016): Associations vary by cognitive screening instrument.",
-        "journal": "PloS one",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42832563/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42831953",
-        "title": "Anti-osteoporosis medications in persons with and without Parkinson disease in Finland.",
-        "journal": "Archives of osteoporosis",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42831953/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42831701",
-        "title": "Emerging therapeutic strategies to target APOE4 in Alzheimer's disease.",
-        "journal": "The FEBS journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42831701/",
         "zh": "",
         "evidence": "OTHER"
       }
