@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T18:24:05.791216Z",
+  "updated": "2026-10-09T04:28:00.886402Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42847291",
+        "title": "PET-based evaluation of short-term amyloid-β clearance and predictive factors in real-world Alzheimer's disease patients treated with lecanemab.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42847291/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42841310",
         "title": "Longitudinal clinical outcomes after amyloid clearance in aducanumab phase 3 studies.",
@@ -104,19 +114,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42779834/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42764107",
-        "title": "Unlocking the blood-brain barrier: Can low-intensity focused ultrasound enable effective delivery of anti-amyloid and anti-tau antibodies in Alzheimer's disease?",
-        "journal": "Ageing research reviews",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42764107/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42847994",
+        "title": "Disrupted synaptic vacuolar H+-ATPase renders synaptic vulnerability to Alzheimer's disease.",
+        "journal": "JCI insight",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42847994/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42847459",
+        "title": "A Hierarchical Framework for In Vitro Models of Alzheimer's Disease.",
+        "journal": "WIREs mechanisms of disease",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42847459/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42846294",
+        "title": "Targeting glymphatic-associated pathways for Alzheimer's disease: a review of non-invasive modulation strategies, mechanisms, and emerging evidence.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42846294/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42844635",
         "title": "Forced treadmill running and ladder climbing physical activity attenuates cognitive decline and protein aggregates in aged 3xTg-AD mice.",
@@ -166,39 +196,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42841458/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42841315",
-        "title": "Genetic evidence supports a cortical neuroprotective role of GLP-1 receptor activation in Alzheimer's disease: A drug-target Mendelian randomization study.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42841315/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42841306",
-        "title": "miR-214-3p and NCKAP1: A microglial functional dimension of Alzheimer's progression.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42841306/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42840967",
-        "title": "Ionizing radiation and Alzheimer's disease: epidemiology, mechanisms, and eCIRP-mediated tau pathology.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42840967/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42847330",
+        "title": "Greater amyloid burden in cognitive networks in preclinical Alzheimer's disease.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42847330/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42847291",
+        "title": "PET-based evaluation of short-term amyloid-β clearance and predictive factors in real-world Alzheimer's disease patients treated with lecanemab.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42847291/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42846288",
+        "title": "Blood biomarkers and artificial intelligence: toward precision medicine in Alzheimer's disease.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42846288/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42845405",
         "title": "A New Frontier in CWD Detection: Antemortem Plasma Biomarkers and Behavioral Profiling in Transgenic Mouse Models.",
@@ -248,39 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42832237/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42828695",
-        "title": "Multimodal neuroimaging in dementia and neurodegenerative disorders: complementary roles of clinically available nuclear medicine and MRI in the era of disease-modifying therapies.",
-        "journal": "Japanese journal of radiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42828695/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42828568",
-        "title": "Exploring the role of glymphatic system in Alzheimer's disease with insights from MRI-based studies: a systematic review.",
-        "journal": "Neuroradiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42828568/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42824090",
-        "title": "Evaluation of plasma neurofilament and glial fibrillary acidic protein to predict or detect amyloid related imaging abnormalities.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42824090/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42847329",
+        "title": "Multisystem aging discordance and cognitive decline in Chinese older adults: A longitudinal study from CHARLS.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42847329/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42847220",
+        "title": "Aldosterone, the brain, and the blood pressure ceiling: a neurological case for aldosterone synthase inhibitors in resistant hypertension.",
+        "journal": "American journal of hypertension",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42847220/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42846493",
+        "title": "Computational gait analysis in the 3xTg-AD mouse model: evidence of progressive alterations in locomotor coordination.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42846493/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42846079",
         "title": "Efficacy of anticoagulation therapy in elderly patients with clinically diagnosed Alzheimer's disease and atrial fibrillation: a clinical outcomes study.",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42842075/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42841812",
-        "title": "Evolving Mechanisms on Mortality in Atrial Fibrillation: A 25-Year National Death-Certificate Analysis.",
-        "journal": "Journal of cardiovascular electrophysiol",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42841812/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42840968",
-        "title": "Effects of acute sleep deprivation on individuals across different APOE genotypes: a randomized controlled trial protocol.",
-        "journal": "Frontiers in neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42840968/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42840967",
-        "title": "Ionizing radiation and Alzheimer's disease: epidemiology, mechanisms, and eCIRP-mediated tau pathology.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42840967/",
         "zh": "",
         "evidence": "OTHER"
       }
