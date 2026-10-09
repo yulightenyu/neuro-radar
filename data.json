@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T04:28:00.886402Z",
+  "updated": "2026-10-09T17:57:02.352917Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,76 @@
     ],
     "mech": [
       {
+        "pmid": "42851246",
+        "title": "Associations between plasma biomarker levels and quantitative postmortem neuropathologic measures in Alzheimer's disease and related dementias.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851246/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851168",
+        "title": "Plasma eMTBR-tau243 as a disease biomarker across Alzheimer's disease clinical phenotypes.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851168/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851167",
+        "title": "Spatiotemporal heterogeneity and dynamic evolution of microglial glucose metabolic reprogramming in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851167/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851145",
+        "title": "Proteomic dysregulation associated with cerebral amyloid angiopathy.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851145/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851120",
+        "title": "Diffusion MRI reveals amyloid plaque-associated cellular signatures through spatial transcriptomic integration.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851120/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851117",
+        "title": "Association between early-life farming exposure and Alzheimer's disease neuropathological burden.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851117/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851057",
+        "title": "[Research progress on the correlation mechanism between innate immune imbalance and Alzheimer's disease based on Drosophila model].",
+        "journal": "Xi bao yu fen zi mian yi xue za zhi = Ch",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851057/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42847994",
         "title": "Disrupted synaptic vacuolar H+-ATPase renders synaptic vulnerability to Alzheimer's disease.",
         "journal": "JCI insight",
@@ -126,79 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42847994/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42847459",
-        "title": "A Hierarchical Framework for In Vitro Models of Alzheimer's Disease.",
-        "journal": "WIREs mechanisms of disease",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42847459/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42846294",
-        "title": "Targeting glymphatic-associated pathways for Alzheimer's disease: a review of non-invasive modulation strategies, mechanisms, and emerging evidence.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42846294/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42844635",
-        "title": "Forced treadmill running and ladder climbing physical activity attenuates cognitive decline and protein aggregates in aged 3xTg-AD mice.",
-        "journal": "Molecular brain",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42844635/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42842336",
-        "title": "Network-dependent remote effects and local tau burden jointly shape neuronal dysfunction in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42842336/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42842141",
-        "title": "Advances in Extracellular Vesicle-Based Innovative Drugs Targeting Alzheimer's Disease.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42842141/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42841982",
-        "title": "Amyloid-β plaque diversity across brain regions in Alzheimer's disease and its relation to major clinicopathological traits.",
-        "journal": "Acta neuropathologica",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42841982/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42841458",
-        "title": "Natural Products Targeting Alzheimer's Disease via NF-κB Pathway: A Review.",
-        "journal": "CNS &amp; neurological disorders drug ta",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42841458/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42851246",
+        "title": "Associations between plasma biomarker levels and quantitative postmortem neuropathologic measures in Alzheimer's disease and related dementias.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851246/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851168",
+        "title": "Plasma eMTBR-tau243 as a disease biomarker across Alzheimer's disease clinical phenotypes.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851168/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42847330",
         "title": "Greater amyloid burden in cognitive networks in preclinical Alzheimer's disease.",
@@ -258,29 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42838413/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42837090",
-        "title": "Deep Learning-based Synthesis of Amyloid PET Images from Structural MRI in Alzheimer's Disease.",
-        "journal": "Molecular imaging and biology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42837090/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42832237",
-        "title": "Earlier Disclosure of Blood-Based Biomarkers, Diagnostic Certainty, and Clinical Management: A Randomized Clinical Trial.",
-        "journal": "JAMA neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42832237/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42851777",
+        "title": "SCAPIS 2 spectrum: rationale, objectives and design of a microvascular dysfunction sub-study within the Swedish CArdioPulmonary bioImage study.",
+        "journal": "Frontiers in cardiovascular medicine",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851777/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42851102",
+        "title": "Mini-Mental State Examination Changes and Prediction of Cognitive Recovery after Stroke Following Cognitive-Motor Intervention.",
+        "journal": "Journal of the College of Physicians and",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42851102/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42850246",
+        "title": "Real-world alcohol cue exposure and drinking risk in alcohol use disorder.",
+        "journal": "Translational psychiatry",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42850246/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42847329",
         "title": "Multisystem aging discordance and cognitive decline in Chinese older adults: A longitudinal study from CHARLS.",
@@ -330,39 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42844259/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42843620",
-        "title": "Impact of dementia and its progression on mortality in heart failure with preserved ejection fraction -insight from the KUNIUMI registry chronic cohort.",
-        "journal": "Journal of cardiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42843620/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42843071",
-        "title": "Suicide occurrence within the first year after an initial dementia diagnosis: A Nationwide cohort study in Taiwan.",
-        "journal": "General hospital psychiatry",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42843071/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42842075",
-        "title": "Dietary preference, biological aging, and incident dementia: a prospective cohort study.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42842075/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42850455",
+        "title": "Organizing healthcare delivery in the era of disease-modifying therapies for Alzheimer's Disease: an Italian RAND/UCLA consensus.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42850455/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42840727",
         "title": "Dysregulated mRNA Translation in Alzheimer's Disease: Mechanisms, Therapeutic Opportunities, and Challenges for Clinical Translation.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42748401/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42742642",
-        "title": "A new era of genome-wide association studies in the field of Alzheimer's disease and overlapping co-pathologies: lessons learned from a neuropathology-centered approach.",
-        "journal": "Acta neuropathologica",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42742642/",
         "zh": "",
         "evidence": "OTHER"
       }
