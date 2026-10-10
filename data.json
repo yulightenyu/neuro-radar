@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:13:15.130078Z",
+  "updated": "2026-10-10T16:56:07.757063Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42855813",
+        "title": "Centrum Semiovale Perivascular Spaces Predict First Hemorrhagic Lesion in Asymptomatic Amyloid-Positive Individuals.",
+        "journal": "Annals of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42855813/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42854182",
         "title": "Clinical Meaningfulness of Donanemab in Early Symptomatic Alzheimer Disease: Data From the Randomized Phase 3 TRAILBLAZER-ALZ 2 Trial.",
@@ -102,16 +112,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42784125",
-        "title": "Anti-Amyloid Monoclonal Antibodies in Early Alzheimer Disease: Lecanemab and Donanemab.",
-        "journal": "Neurology international",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42784125/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "42855813",
+        "title": "Centrum Semiovale Perivascular Spaces Predict First Hemorrhagic Lesion in Asymptomatic Amyloid-Positive Individuals.",
+        "journal": "Annals of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42855813/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42854795",
         "title": "Scavenger receptors associate with Alzheimer's pathology, cholesterol metabolism and synaptic dysfunction.",
         "journal": "Neurobiology of disease",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42847220/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42846493",
-        "title": "Computational gait analysis in the 3xTg-AD mouse model: evidence of progressive alterations in locomotor coordination.",
-        "journal": "Frontiers in aging neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42846493/",
         "zh": "",
         "evidence": "OTHER"
       }
