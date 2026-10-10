@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:57:02.352917Z",
+  "updated": "2026-10-10T04:13:15.130078Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42854182",
+        "title": "Clinical Meaningfulness of Donanemab in Early Symptomatic Alzheimer Disease: Data From the Randomized Phase 3 TRAILBLAZER-ALZ 2 Trial.",
+        "journal": "Neurology. Clinical practice",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42854182/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42847291",
         "title": "PET-based evaluation of short-term amyloid-β clearance and predictive factors in real-world Alzheimer's disease patients treated with lecanemab.",
@@ -104,19 +114,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42784125/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42779834",
-        "title": "A self-limiting, TREM2-dependent anabolic program confers microglial resilience in Alzheimer's disease.",
-        "journal": "bioRxiv : the preprint server for biolog",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42779834/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42855152",
+        "title": "Plasma p-tau217 as a biomarker for Alzheimer's disease: diagnostic and prognostic value in clinical and population-based studies.",
+        "journal": "Arquivos de neuro-psiquiatria",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42855152/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42853420",
+        "title": "Global and regional amyloid-β in explaining APOE-ε4 and sex associations with medial temporal tau: a neuropathology study.",
+        "journal": "Acta neuropathologica",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42853420/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42851246",
         "title": "Associations between plasma biomarker levels and quantitative postmortem neuropathologic measures in Alzheimer's disease and related dementias.",
@@ -176,29 +196,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42851117/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851057",
-        "title": "[Research progress on the correlation mechanism between innate immune imbalance and Alzheimer's disease based on Drosophila model].",
-        "journal": "Xi bao yu fen zi mian yi xue za zhi = Ch",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851057/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42847994",
-        "title": "Disrupted synaptic vacuolar H+-ATPase renders synaptic vulnerability to Alzheimer's disease.",
-        "journal": "JCI insight",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42847994/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42855152",
+        "title": "Plasma p-tau217 as a biomarker for Alzheimer's disease: diagnostic and prognostic value in clinical and population-based studies.",
+        "journal": "Arquivos de neuro-psiquiatria",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42855152/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42853714",
+        "title": "Informant Presence Fails to Enhance Alzheimer's Diagnosis in Complex Veteran Cases.",
+        "journal": "Dementia and geriatric cognitive disorde",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42853714/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42853396",
+        "title": "[Anti-amyloid antibodies against Alzheimer's disease : Lecanemab and donanemab in practice-Clinical importance, patient selection and safety management].",
+        "journal": "Der Nervenarzt",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42853396/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42851246",
         "title": "Associations between plasma biomarker levels and quantitative postmortem neuropathologic measures in Alzheimer's disease and related dementias.",
@@ -248,39 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42846288/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42845405",
-        "title": "A New Frontier in CWD Detection: Antemortem Plasma Biomarkers and Behavioral Profiling in Transgenic Mouse Models.",
-        "journal": "bioRxiv : the preprint server for biolog",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42845405/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42843155",
-        "title": "Histopathological investigation in Glycine receptor antibody positive progressive encephalomyelitis with rigidity and myoclonus (PERM): A case report.",
-        "journal": "Journal of neuroimmunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42843155/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42838413",
-        "title": "Suppression of ER Stress Underlies Montelukast's Neuroprotective Actions in D-Gal/AlCl3-Induced Alzheimer's Disease in Rats.",
-        "journal": "Neuropharmacology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42838413/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42854795",
+        "title": "Scavenger receptors associate with Alzheimer's pathology, cholesterol metabolism and synaptic dysfunction.",
+        "journal": "Neurobiology of disease",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42854795/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42853264",
+        "title": "Associations of long-term exposure to source-specific PM2.5, lifestyle, and genetic susceptibility with dementia risk: a prospective cohort study.",
+        "journal": "European archives of psychiatry and clin",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42853264/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42851777",
         "title": "SCAPIS 2 spectrum: rationale, objectives and design of a microvascular dysfunction sub-study within the Swedish CArdioPulmonary bioImage study.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42846493/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42846079",
-        "title": "Efficacy of anticoagulation therapy in elderly patients with clinically diagnosed Alzheimer's disease and atrial fibrillation: a clinical outcomes study.",
-        "journal": "Frontiers in cellular neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42846079/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42844259",
-        "title": "Associations between lifestyle, genetic liability for severe mental illness and risk of incident somatic illnesses.",
-        "journal": "Translational psychiatry",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42844259/",
         "zh": "",
         "evidence": "OTHER"
       }
