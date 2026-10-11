@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T03:51:12.470940Z",
+  "updated": "2026-10-11T17:18:05.070202Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42859261",
+        "title": "Integrative Transcriptomic and Interactome Analyses Prioritize Candidate Genes for Alzheimer's Disease.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42859261/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42855152",
         "title": "Plasma p-tau217 as a biomarker for Alzheimer's disease: diagnostic and prognostic value in clinical and population-based studies.",
         "journal": "Arquivos de neuro-psiquiatria",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42851120/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851117",
-        "title": "Association between early-life farming exposure and Alzheimer's disease neuropathological burden.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851117/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42857419",
+        "title": "Regional amyloid-PET clearance dynamics and anti-Aβ monoclonal antibody therapy: a preliminary real-world study.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42857419/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42855152",
         "title": "Plasma p-tau217 as a biomarker for Alzheimer's disease: diagnostic and prognostic value in clinical and population-based studies.",
@@ -268,19 +278,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42847291/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42846288",
-        "title": "Blood biomarkers and artificial intelligence: toward precision medicine in Alzheimer's disease.",
-        "journal": "Frontiers in aging neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42846288/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42859279",
+        "title": "Characterizing hippocampal activation during pattern separation with multi-echo fMRI in cognitively normal older adults.",
+        "journal": "Brain imaging and behavior",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42859279/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42856661",
+        "title": "Clinically Recognised Alcohol Use Disorder and Risk of Dementia Subtypes in 1.3 Million Women: A Prospective Cohort Study.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42856661/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42856660",
+        "title": "Data-driven subtypes of mild cognitive impairment and their modifiable determinants: latent profile analysis of the BIOCIS cohort.",
+        "journal": "NPJ dementia",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42856660/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42856593",
+        "title": "Tau-PET subtype modifies the association between plasma p-tau217 and memory in Alzheimer's disease.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42856593/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42856517",
+        "title": "Normative Modeling of Molecular-Enriched Functional Connectivity for Detecting Deviations from Healthy Brain Aging.",
+        "journal": "bioRxiv : the preprint server for biolog",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42856517/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42856376",
+        "title": "Age-dependent associations of sleep duration and insomnia symptoms with cognitive decline across five decades of adult life: a multi-cohort longitudinal study.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42856376/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42855813",
         "title": "Centrum Semiovale Perivascular Spaces Predict First Hemorrhagic Lesion in Asymptomatic Amyloid-Positive Individuals.",
@@ -298,66 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42854795/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42853264",
-        "title": "Associations of long-term exposure to source-specific PM2.5, lifestyle, and genetic susceptibility with dementia risk: a prospective cohort study.",
-        "journal": "European archives of psychiatry and clin",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42853264/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851777",
-        "title": "SCAPIS 2 spectrum: rationale, objectives and design of a microvascular dysfunction sub-study within the Swedish CArdioPulmonary bioImage study.",
-        "journal": "Frontiers in cardiovascular medicine",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851777/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851102",
-        "title": "Mini-Mental State Examination Changes and Prediction of Cognitive Recovery after Stroke Following Cognitive-Motor Intervention.",
-        "journal": "Journal of the College of Physicians and",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851102/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42850246",
-        "title": "Real-world alcohol cue exposure and drinking risk in alcohol use disorder.",
-        "journal": "Translational psychiatry",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42850246/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42847329",
-        "title": "Multisystem aging discordance and cognitive decline in Chinese older adults: A longitudinal study from CHARLS.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42847329/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42847220",
-        "title": "Aldosterone, the brain, and the blood pressure ceiling: a neurological case for aldosterone synthase inhibitors in resistant hypertension.",
-        "journal": "American journal of hypertension",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42847220/",
         "zh": "",
         "evidence": "OTHER"
       }
