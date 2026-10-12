@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T04:12:50.545685Z",
+  "updated": "2026-10-12T20:52:55.685090Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42861699",
+        "title": "Dementia with Lewy bodies and amyloid pathology: Eligible for anti-amyloid treatment or not?",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42861699/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42855813",
         "title": "Centrum Semiovale Perivascular Spaces Predict First Hemorrhagic Lesion in Asymptomatic Amyloid-Positive Individuals.",
@@ -104,19 +114,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42803728/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42798750",
-        "title": "Real-world implementation of lecanemab in Alzheimer's disease: A Japanese cohort.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42862019",
+        "title": "Progressive Amyloid-Related Imaging Abnormalities After Discontinuation of Lecanemab in Early Alzheimer Disease in an APOE ε2/ε4 Carrier.",
+        "journal": "European journal of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42862019/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42861699",
+        "title": "Dementia with Lewy bodies and amyloid pathology: Eligible for anti-amyloid treatment or not?",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42861699/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42861684",
+        "title": "Vascular brain injury modifies the relationship between sleep duration, cognition, and white matter hyperintensity burden in the Alzheimer's disease continuum.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42861684/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42860522",
+        "title": "ApoE lipidation state directs immunometabolic reprogramming of human microglia.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42860522/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42859261",
         "title": "Integrative Transcriptomic and Interactome Analyses Prioritize Candidate Genes for Alzheimer's Disease.",
@@ -156,49 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42851246/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851168",
-        "title": "Plasma eMTBR-tau243 as a disease biomarker across Alzheimer's disease clinical phenotypes.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851168/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851167",
-        "title": "Spatiotemporal heterogeneity and dynamic evolution of microglial glucose metabolic reprogramming in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851167/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851145",
-        "title": "Proteomic dysregulation associated with cerebral amyloid angiopathy.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851145/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851120",
-        "title": "Diffusion MRI reveals amyloid plaque-associated cellular signatures through spatial transcriptomic integration.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851120/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42862138",
+        "title": "Psychological impact of the use of blood-based biomarkers for mild cognitive impairment in primary care.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42862138/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42857419",
         "title": "Regional amyloid-PET clearance dynamics and anti-Aβ monoclonal antibody therapy: a preliminary real-world study.",
@@ -268,19 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42847330/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42847291",
-        "title": "PET-based evaluation of short-term amyloid-β clearance and predictive factors in real-world Alzheimer's disease patients treated with lecanemab.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42847291/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42861096",
+        "title": "The DentoNeural Axis: A Piezo channel-mediated mechanosensory pathway linking tooth loss to cognitive decline.",
+        "journal": "Aging brain",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42861096/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42860384",
+        "title": "Data‑driven cognitive composites predict Aβ‑related decline and progression to MCI: the ADOPIC study.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42860384/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42859279",
         "title": "Characterizing hippocampal activation during pattern separation with multi-echo fMRI in cognitively normal older adults.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42856376/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42855813",
-        "title": "Centrum Semiovale Perivascular Spaces Predict First Hemorrhagic Lesion in Asymptomatic Amyloid-Positive Individuals.",
-        "journal": "Annals of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42855813/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42854795",
-        "title": "Scavenger receptors associate with Alzheimer's pathology, cholesterol metabolism and synaptic dysfunction.",
-        "journal": "Neurobiology of disease",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42854795/",
         "zh": "",
         "evidence": "OTHER"
       }
