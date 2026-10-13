@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:22:07.878112Z",
+  "updated": "2026-10-13T18:51:09.075106Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42865480",
+        "title": "Efficacy and safety of lecanemab monoclonal antibody in the treatment of mild to moderate Alzheimer's disease: a systematic review and meta-analysis.",
+        "journal": "Frontiers in pharmacology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42865480/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42861699",
         "title": "Dementia with Lewy bodies and amyloid pathology: Eligible for anti-amyloid treatment or not?",
@@ -104,19 +114,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42812519/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42803728",
-        "title": "Efficacy and safety of aducanumab, lecanemab, and donanemab in Alzheimer's disease: A meta-analysis of randomized controlled trials.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42803728/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42865340",
+        "title": "Protective Role of Holothuria leucospilota Extract Against Amyloid-β Toxicity via Autophagy and Antioxidant Mechanisms in Caenorhabditis elegans Model.",
+        "journal": "Oxidative medicine and cellular longevit",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42865340/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42865229",
+        "title": "MAFG as a Redox-Sensitive Node Linking Peripheral Immune Reprogramming to Cognitive Risk in the Sepsis-to-Alzheimer's Disease Continuum: Single-Cell Dissection and Adoptive-Transfer Validation.",
+        "journal": "CNS neuroscience &amp; therapeutics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42865229/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42863052",
         "title": "Shedding light on left hippocampal mGlu5 in Alzheimer's disease.",
@@ -174,26 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42859261/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42855152",
-        "title": "Plasma p-tau217 as a biomarker for Alzheimer's disease: diagnostic and prognostic value in clinical and population-based studies.",
-        "journal": "Arquivos de neuro-psiquiatria",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42855152/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42853420",
-        "title": "Global and regional amyloid-β in explaining APOE-ε4 and sex associations with medial temporal tau: a neuropathology study.",
-        "journal": "Acta neuropathologica",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42853420/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,56 @@
     ],
     "prev": [
       {
+        "pmid": "42865774",
+        "title": "Physical activity and combinations with modifiable factors and risk of cognitive impairment: the Whitehall II study.",
+        "journal": "Alzheimer's &amp; dementia (New York, N.",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42865774/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42865713",
+        "title": "Longitudinal associations between physical activity and cognition post-stroke: the Nor-COAST study.",
+        "journal": "Brain communications",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42865713/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42865655",
+        "title": "Plasma p-tau181 moderates the association between ten-year atherosclerotic cardiovascular disease risk and mild cognitive impairment - HABS-HD.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42865655/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42865136",
+        "title": "Measurement of subjective cognitive decline and prediction of longitudinal clinical outcomes in older adults: a systematic review.",
+        "journal": "Journal of clinical and experimental neu",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42865136/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42864582",
+        "title": "Adding the Short Physical Performance Battery to a Fall Risk Score for Time-Dependent Prediction of Falls in Older Inpatients: A Retrospective Observational Study.",
+        "journal": "Geriatrics &amp; gerontology internation",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42864582/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42862582",
         "title": "Global Incidence of All-Cause Dementia: A Meta-Analysis.",
         "journal": "JAMA neurology",
@@ -308,56 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42860384/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42859279",
-        "title": "Characterizing hippocampal activation during pattern separation with multi-echo fMRI in cognitively normal older adults.",
-        "journal": "Brain imaging and behavior",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42859279/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42856661",
-        "title": "Clinically Recognised Alcohol Use Disorder and Risk of Dementia Subtypes in 1.3 Million Women: A Prospective Cohort Study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42856661/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42856660",
-        "title": "Data-driven subtypes of mild cognitive impairment and their modifiable determinants: latent profile analysis of the BIOCIS cohort.",
-        "journal": "NPJ dementia",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42856660/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42856593",
-        "title": "Tau-PET subtype modifies the association between plasma p-tau217 and memory in Alzheimer's disease.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42856593/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42856517",
-        "title": "Normative Modeling of Molecular-Enriched Functional Connectivity for Detecting Deviations from Healthy Brain Aging.",
-        "journal": "bioRxiv : the preprint server for biolog",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42856517/",
         "zh": "",
         "evidence": "OTHER"
       }
