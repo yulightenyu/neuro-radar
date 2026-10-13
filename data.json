@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:52:55.685090Z",
+  "updated": "2026-10-13T05:22:07.878112Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42863052",
+        "title": "Shedding light on left hippocampal mGlu5 in Alzheimer's disease.",
+        "journal": "Proceedings of the National Academy of S",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42863052/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42862019",
         "title": "Progressive Amyloid-Related Imaging Abnormalities After Discontinuation of Lecanemab in Early Alzheimer Disease in an APOE ε2/ε4 Carrier.",
         "journal": "European journal of neurology",
@@ -186,19 +196,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42853420/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851246",
-        "title": "Associations between plasma biomarker levels and quantitative postmortem neuropathologic measures in Alzheimer's disease and related dementias.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851246/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42862762",
+        "title": "Symptom-Guided Blood Biomarker Testing for Alzheimer's Disease.",
+        "journal": "Dementia and geriatric cognitive disorde",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42862762/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42862590",
+        "title": "Plasma Phosphorylated Tau 217 Percentage by Race and Ethnicity in Preclinical Alzheimer Disease.",
+        "journal": "JAMA neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42862590/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42862512",
+        "title": "Plasma p-tau217 and neurodegeneration-related biomarkers predict incident cognitive impairment in obstructive sleep apnea: a prospective cohort study.",
+        "journal": "Sleep &amp; breathing = Schlaf &amp; Atm",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42862512/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42862138",
         "title": "Psychological impact of the use of blood-based biomarkers for mild cognitive impairment in primary care.",
@@ -248,39 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42853396/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851246",
-        "title": "Associations between plasma biomarker levels and quantitative postmortem neuropathologic measures in Alzheimer's disease and related dementias.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851246/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42851168",
-        "title": "Plasma eMTBR-tau243 as a disease biomarker across Alzheimer's disease clinical phenotypes.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42851168/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42847330",
-        "title": "Greater amyloid burden in cognitive networks in preclinical Alzheimer's disease.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42847330/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42862582",
+        "title": "Global Incidence of All-Cause Dementia: A Meta-Analysis.",
+        "journal": "JAMA neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42862582/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42861096",
         "title": "The DentoNeural Axis: A Piezo channel-mediated mechanosensory pathway linking tooth loss to cognitive decline.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42856517/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42856376",
-        "title": "Age-dependent associations of sleep duration and insomnia symptoms with cognitive decline across five decades of adult life: a multi-cohort longitudinal study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42856376/",
         "zh": "",
         "evidence": "OTHER"
       }
