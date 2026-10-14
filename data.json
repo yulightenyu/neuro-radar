@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:51:09.075106Z",
+  "updated": "2026-10-14T03:26:35.186884Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42866370",
+        "title": "Remodeling of the brain immune microenvironment in Alzheimer's disease: interactions among microglia, astrocytes, complement, and the neurovascular unit.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42866370/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42865340",
         "title": "Protective Role of Holothuria leucospilota Extract Against Amyloid-β Toxicity via Autophagy and Antioxidant Mechanisms in Caenorhabditis elegans Model.",
         "journal": "Oxidative medicine and cellular longevit",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42860522/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42859261",
-        "title": "Integrative Transcriptomic and Interactome Analyses Prioritize Candidate Genes for Alzheimer's Disease.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42859261/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42866775",
+        "title": "A positive Alzheimer's blood biomarker is not a diagnosis: the presence-primacy-permission framework for plasma p-tau217.",
+        "journal": "Annals of medicine and surgery (2012)",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42866775/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42862762",
         "title": "Symptom-Guided Blood Biomarker Testing for Alzheimer's Disease.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42853714/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42853396",
-        "title": "[Anti-amyloid antibodies against Alzheimer's disease : Lecanemab and donanemab in practice-Clinical importance, patient selection and safety management].",
-        "journal": "Der Nervenarzt",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42853396/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42867075",
+        "title": "Structured exercise, cognitive-social engagement, and cognitive impairment-free life expectancy across four longitudinal aging cohorts.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42867075/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42865774",
         "title": "Physical activity and combinations with modifiable factors and risk of cognitive impairment: the Whitehall II study.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42861096/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42860384",
-        "title": "Data‑driven cognitive composites predict Aβ‑related decline and progression to MCI: the ADOPIC study.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42860384/",
         "zh": "",
         "evidence": "OTHER"
       }
