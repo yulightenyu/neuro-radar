@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T03:26:35.186884Z",
+  "updated": "2026-10-14T16:29:03.511509Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,87 +118,117 @@
     ],
     "mech": [
       {
-        "pmid": "42866370",
-        "title": "Remodeling of the brain immune microenvironment in Alzheimer's disease: interactions among microglia, astrocytes, complement, and the neurovascular unit.",
-        "journal": "Frontiers in immunology",
+        "pmid": "42870221",
+        "title": "The Receptor for Advanced Glycation End Products: Regulation and Implications in Metabolic Diseases.",
+        "journal": "IUBMB life",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42866370/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42870221/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42865340",
-        "title": "Protective Role of Holothuria leucospilota Extract Against Amyloid-β Toxicity via Autophagy and Antioxidant Mechanisms in Caenorhabditis elegans Model.",
-        "journal": "Oxidative medicine and cellular longevit",
+        "pmid": "42869903",
+        "title": "Global brain activity links subcortical degeneration to cortical tau progressively across Braak regions over early Alzheimer's disease stages.",
+        "journal": "Nature communications",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42865340/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42869903/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42865229",
-        "title": "MAFG as a Redox-Sensitive Node Linking Peripheral Immune Reprogramming to Cognitive Risk in the Sepsis-to-Alzheimer's Disease Continuum: Single-Cell Dissection and Adoptive-Transfer Validation.",
-        "journal": "CNS neuroscience &amp; therapeutics",
+        "pmid": "42869898",
+        "title": "Single-cell, spatial, and machine learning analyses identify ANKIB1 as an oligodendrocyte-anchored palmitoylation-associated candidate biomarker of Alzheimer's disease.",
+        "journal": "Translational psychiatry",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42865229/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42869898/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42863052",
-        "title": "Shedding light on left hippocampal mGlu5 in Alzheimer's disease.",
-        "journal": "Proceedings of the National Academy of S",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42863052/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42862019",
-        "title": "Progressive Amyloid-Related Imaging Abnormalities After Discontinuation of Lecanemab in Early Alzheimer Disease in an APOE ε2/ε4 Carrier.",
-        "journal": "European journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42862019/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42861699",
-        "title": "Dementia with Lewy bodies and amyloid pathology: Eligible for anti-amyloid treatment or not?",
+        "pmid": "42869853",
+        "title": "Sphingolipid and ceramide associations with tau pathology vary across diverse ethnoracial groups in postmortem brain tissue.",
         "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42861699/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42869853/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42861684",
-        "title": "Vascular brain injury modifies the relationship between sleep duration, cognition, and white matter hyperintensity burden in the Alzheimer's disease continuum.",
+        "pmid": "42869850",
+        "title": "Brain microstructure mediates the relationship between Alzheimer's proteinopathies and memory.",
         "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42861684/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42869850/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42860522",
-        "title": "ApoE lipidation state directs immunometabolic reprogramming of human microglia.",
+        "pmid": "42869847",
+        "title": "Sex-specific brain reserve and progression from mild cognitive impairment to Alzheimer's disease dementia.",
         "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42860522/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42869847/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42868585",
+        "title": "JMJD6 Inhibits the Ferroptosis of Neurons in Alzheimer's Disease through Driving H4R3 Symmetrical Dimethylation of GPX4.",
+        "journal": "Critical reviews in eukaryotic gene expr",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42868585/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42868172",
+        "title": "Operant House: A versatile open-source platform for automated operant conditioning testing of mice in home cages.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42868172/",
         "zh": "",
         "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42871474",
+        "title": "Global research trends and hotspots in blood-based biomarkers for Alzheimer's disease: a bibliometric analysis.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42871474/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42871154",
+        "title": "Multimodal neuroimaging and electrophysiological signatures in amnestic mild cognitive impairment with different amyloid-β deposition status: correlations with cognitive function and diagnostic value.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42871154/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42868894",
+        "title": "Multifunctional SERS substrate of PDMS@UiO-66-NH2@Ag for direct detection of p-tau217 protein in different biofluids.",
+        "journal": "Colloids and surfaces. B, Biointerfaces",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42868894/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42866775",
         "title": "A positive Alzheimer's blood biomarker is not a diagnosis: the presence-primacy-permission framework for plasma p-tau217.",
@@ -248,39 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42862138/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42857419",
-        "title": "Regional amyloid-PET clearance dynamics and anti-Aβ monoclonal antibody therapy: a preliminary real-world study.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42857419/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42855152",
-        "title": "Plasma p-tau217 as a biomarker for Alzheimer's disease: diagnostic and prognostic value in clinical and population-based studies.",
-        "journal": "Arquivos de neuro-psiquiatria",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42855152/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42853714",
-        "title": "Informant Presence Fails to Enhance Alzheimer's Diagnosis in Complex Veteran Cases.",
-        "journal": "Dementia and geriatric cognitive disorde",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42853714/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42868033",
+        "title": "Education as a proxy for cognitive reserve, and its moderating role in the amyloid-cognition relationship across the Alzheimer's disease continuum: A systematic review and meta-analysis.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42868033/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42867611",
+        "title": "Regional oxygen extraction fraction is higher in older adults with type 2 diabetes and obesity: associations with cognition and metabolic markers.",
+        "journal": "GeroScience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42867611/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42867481",
+        "title": "Sleeve Gastrectomy Improves Metabolic Health, Cognition, and Alzheimer's Disease Pathology in 3xTG Mice.",
+        "journal": "Aging cell",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42867481/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42867075",
         "title": "Structured exercise, cognitive-social engagement, and cognitive impairment-free life expectancy across four longitudinal aging cohorts.",
@@ -330,39 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42865136/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42864582",
-        "title": "Adding the Short Physical Performance Battery to a Fall Risk Score for Time-Dependent Prediction of Falls in Older Inpatients: A Retrospective Observational Study.",
-        "journal": "Geriatrics &amp; gerontology internation",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42864582/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42862582",
-        "title": "Global Incidence of All-Cause Dementia: A Meta-Analysis.",
-        "journal": "JAMA neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42862582/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42861096",
-        "title": "The DentoNeural Axis: A Piezo channel-mediated mechanosensory pathway linking tooth loss to cognitive decline.",
-        "journal": "Aging brain",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42861096/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42867762",
+        "title": "Blood-based multiplex nanobiosensing of Alzheimer's disease biomarkers: from nanoengineered ınterfaces to clinical translation.",
+        "journal": "Metabolic brain disease",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42867762/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42850455",
         "title": "Organizing healthcare delivery in the era of disease-modifying therapies for Alzheimer's Disease: an Italian RAND/UCLA consensus.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "09",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42772840/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42748401",
-        "title": "Unlocking the Potential of Isatin Scaffolds in Acetylcholinesterase Inhibition.",
-        "journal": "Archiv der Pharmazie",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42748401/",
         "zh": "",
         "evidence": "OTHER"
       }
