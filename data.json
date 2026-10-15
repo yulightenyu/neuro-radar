@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T03:05:34.279568Z",
+  "updated": "2026-10-15T16:16:39.790741Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42875639",
+        "title": "Targeting the P2X7 receptor in Alzheimer's disease: mechanistic insights and emerging therapeutic strategies.",
+        "journal": "Purinergic signalling",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42875639/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42872652",
         "title": "Transitioning from Clinical Trial to Clinical Practice for Long-Term Lecanemab Treatment in Early Alzheimer's Disease: Perspectives from a Cohort Study from the Alzheimer's Research and Treatment Center.",
@@ -104,19 +114,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42841310/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42825842",
-        "title": "Incidence, severity, and associated risk factors for amyloid-related imaging abnormalities in anti-amyloid monoclonal antibody therapy for early Alzheimer's disease: a systematic review and meta-analysis.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42825842/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42875788",
+        "title": "Microglial dynamics associate with the spatial pattern of tau deposition in early Alzheimer's disease.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42875788/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42875639",
+        "title": "Targeting the P2X7 receptor in Alzheimer's disease: mechanistic insights and emerging therapeutic strategies.",
+        "journal": "Purinergic signalling",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42875639/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42875638",
+        "title": "HuR modulates disease-relevant alternative splicing of MAPT and other Alzheimer's disease-related genes.",
+        "journal": "Molecular genetics and genomics : MGG",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42875638/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42875627",
+        "title": "Intracranial metastasis as a mimic of amyloid-related imaging abnormalities.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42875627/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42873892",
         "title": "Preclinical and first-in-human evaluation of VG-3927/SAR448851, an oral small-molecule TREM2 agonist for Alzheimer's disease.",
@@ -156,49 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42870221/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42869903",
-        "title": "Global brain activity links subcortical degeneration to cortical tau progressively across Braak regions over early Alzheimer's disease stages.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42869903/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42869898",
-        "title": "Single-cell, spatial, and machine learning analyses identify ANKIB1 as an oligodendrocyte-anchored palmitoylation-associated candidate biomarker of Alzheimer's disease.",
-        "journal": "Translational psychiatry",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42869898/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42869853",
-        "title": "Sphingolipid and ceramide associations with tau pathology vary across diverse ethnoracial groups in postmortem brain tissue.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42869853/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42869850",
-        "title": "Brain microstructure mediates the relationship between Alzheimer's proteinopathies and memory.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42869850/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42875788",
+        "title": "Microglial dynamics associate with the spatial pattern of tau deposition in early Alzheimer's disease.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42875788/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42873606",
         "title": "Hemispheric Asymmetry of Neuroimaging Biomarkers in Early Onset Alzheimer's Disease: Clinical and Cognitive Outcomes.",
@@ -268,19 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42862762/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42862590",
-        "title": "Plasma Phosphorylated Tau 217 Percentage by Race and Ethnicity in Preclinical Alzheimer Disease.",
-        "journal": "JAMA neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42862590/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42876073",
+        "title": "GCH1 p.Ser80Asn Confers Risk for Parkinson's Disease in East Asian Populations.",
+        "journal": "Movement disorders : official journal of",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42876073/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42875268",
+        "title": "Comparative Evaluation of Open-Weight Large Language Models for Pathological Brain MRI Reports Classification: From Prompts to a Fine-Tuned Model.",
+        "journal": "Academic radiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42875268/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42874809",
+        "title": "Turning Back the Ageing Clock? Brain Age in Neuroprotective and Clinical Interventions.",
+        "journal": "Ageing research reviews",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42874809/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42874008",
         "title": "Association Between Epilepsy and Young-Onset Dementia: Nationwide Data From France and Sweden.",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42873497/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42873451",
-        "title": "Plasma biomarkers of neurodegeneration and physical performance in older adults.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42873451/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42868033",
-        "title": "Education as a proxy for cognitive reserve, and its moderating role in the amyloid-cognition relationship across the Alzheimer's disease continuum: A systematic review and meta-analysis.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42868033/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42867611",
-        "title": "Regional oxygen extraction fraction is higher in older adults with type 2 diabetes and obesity: associations with cognition and metabolic markers.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42867611/",
         "zh": "",
         "evidence": "OTHER"
       }
