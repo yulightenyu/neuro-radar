@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:29:03.511509Z",
+  "updated": "2026-10-15T03:05:34.279568Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42872652",
+        "title": "Transitioning from Clinical Trial to Clinical Practice for Long-Term Lecanemab Treatment in Early Alzheimer's Disease: Perspectives from a Cohort Study from the Alzheimer's Research and Treatment Center.",
+        "journal": "Current Alzheimer research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42872652/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42865480",
         "title": "Efficacy and safety of lecanemab monoclonal antibody in the treatment of mild to moderate Alzheimer's disease: a systematic review and meta-analysis.",
@@ -104,19 +114,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42825842/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42812519",
-        "title": "Longitudinal patterns of regional cerebral blood flow during anti-amyloid therapy in mild cognitive impairment: a pilot ASL MRI case series.",
-        "journal": "Frontiers in aging neuroscience",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42812519/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42873892",
+        "title": "Preclinical and first-in-human evaluation of VG-3927/SAR448851, an oral small-molecule TREM2 agonist for Alzheimer's disease.",
+        "journal": "Science translational medicine",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873892/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873864",
+        "title": "Mitochondrial carbonic anhydrase-VB inhibition rescues brain endothelial stress and memory in Alzheimer's disease models.",
+        "journal": "Science advances",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873864/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873408",
+        "title": "\"Morphological, Functional, and Molecular Progression of Blood-Brain Barrier Dysfunction in Alzheimer's Disease\".",
+        "journal": "Journal of molecular neuroscience : MN",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873408/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42870221",
         "title": "The Receptor for Advanced Glycation End Products: Regulation and Implications in Metabolic Diseases.",
@@ -166,39 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42869850/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42869847",
-        "title": "Sex-specific brain reserve and progression from mild cognitive impairment to Alzheimer's disease dementia.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42869847/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42868585",
-        "title": "JMJD6 Inhibits the Ferroptosis of Neurons in Alzheimer's Disease through Driving H4R3 Symmetrical Dimethylation of GPX4.",
-        "journal": "Critical reviews in eukaryotic gene expr",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42868585/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42868172",
-        "title": "Operant House: A versatile open-source platform for automated operant conditioning testing of mice in home cages.",
-        "journal": "PloS one",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42868172/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42873606",
+        "title": "Hemispheric Asymmetry of Neuroimaging Biomarkers in Early Onset Alzheimer's Disease: Clinical and Cognitive Outcomes.",
+        "journal": "Annals of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873606/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873092",
+        "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part I: Blood biomarkers transitioning to clinical practice].",
+        "journal": "Annales de biologie clinique",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873092/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42871474",
         "title": "Global research trends and hotspots in blood-based biomarkers for Alzheimer's disease: a bibliometric analysis.",
@@ -258,29 +278,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42862590/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42862512",
-        "title": "Plasma p-tau217 and neurodegeneration-related biomarkers predict incident cognitive impairment in obstructive sleep apnea: a prospective cohort study.",
-        "journal": "Sleep &amp; breathing = Schlaf &amp; Atm",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42862512/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42862138",
-        "title": "Psychological impact of the use of blood-based biomarkers for mild cognitive impairment in primary care.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42862138/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42874008",
+        "title": "Association Between Epilepsy and Young-Onset Dementia: Nationwide Data From France and Sweden.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42874008/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873658",
+        "title": "Identifying drugs associated with Alzheimer's disease risk using machine learning-assisted signal detection.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873658/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873601",
+        "title": "Mild Amyloid Burden in the Brains of Cognitively Unimpaired Individuals is Associated with Long-Term Cognitive Impairment.",
+        "journal": "Annals of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873601/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873521",
+        "title": "Acute Delirium Management in Hospice and Palliative Care.",
+        "journal": "Journal of hospice and palliative nursin",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873521/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873497",
+        "title": "Cultural Engagement and Hospital-Treated Mental Disorders in Older Adults.",
+        "journal": "JAMA network open",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873497/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42873451",
+        "title": "Plasma biomarkers of neurodegeneration and physical performance in older adults.",
+        "journal": "GeroScience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42873451/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42868033",
         "title": "Education as a proxy for cognitive reserve, and its moderating role in the amyloid-cognition relationship across the Alzheimer's disease continuum: A systematic review and meta-analysis.",
@@ -298,66 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42867611/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42867481",
-        "title": "Sleeve Gastrectomy Improves Metabolic Health, Cognition, and Alzheimer's Disease Pathology in 3xTG Mice.",
-        "journal": "Aging cell",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42867481/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42867075",
-        "title": "Structured exercise, cognitive-social engagement, and cognitive impairment-free life expectancy across four longitudinal aging cohorts.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42867075/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42865774",
-        "title": "Physical activity and combinations with modifiable factors and risk of cognitive impairment: the Whitehall II study.",
-        "journal": "Alzheimer's &amp; dementia (New York, N.",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42865774/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42865713",
-        "title": "Longitudinal associations between physical activity and cognition post-stroke: the Nor-COAST study.",
-        "journal": "Brain communications",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42865713/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42865655",
-        "title": "Plasma p-tau181 moderates the association between ten-year atherosclerotic cardiovascular disease risk and mild cognitive impairment - HABS-HD.",
-        "journal": "Frontiers in aging neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42865655/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42865136",
-        "title": "Measurement of subjective cognitive decline and prediction of longitudinal clinical outcomes in older adults: a systematic review.",
-        "journal": "Journal of clinical and experimental neu",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42865136/",
         "zh": "",
         "evidence": "OTHER"
       }
