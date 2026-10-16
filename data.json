@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:16:39.790741Z",
+  "updated": "2026-10-16T03:01:58.998166Z",
   "feeds": [
     {
       "id": "drug",
@@ -200,6 +200,36 @@
     ],
     "dx": [
       {
+        "pmid": "42877495",
+        "title": "Current use and perspectives of PET imaging in Alzheimer's disease: A Spanish national survey.",
+        "journal": "Journal of Alzheimer's disease reports",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42877495/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42877469",
+        "title": "A multivariate plasma pathology-cognition axis reveals biologically anchored residual cognitive heterogeneity across the Alzheimer's disease clinical spectrum.",
+        "journal": "Journal of Alzheimer's disease reports",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42877469/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42876856",
+        "title": "Plasma p-tau217 for detecting Aβ-PET positivity and tracking early amyloid accumulation in cognitively unimpaired ADNI participants.",
+        "journal": "Journal of Alzheimer's disease reports",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42876856/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42875788",
         "title": "Microglial dynamics associate with the spatial pattern of tau deposition in early Alzheimer's disease.",
         "journal": "Alzheimer's research &amp; therapy",
@@ -248,116 +278,86 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42871154/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42868894",
-        "title": "Multifunctional SERS substrate of PDMS@UiO-66-NH2@Ag for direct detection of p-tau217 protein in different biofluids.",
-        "journal": "Colloids and surfaces. B, Biointerfaces",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42868894/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42866775",
-        "title": "A positive Alzheimer's blood biomarker is not a diagnosis: the presence-primacy-permission framework for plasma p-tau217.",
-        "journal": "Annals of medicine and surgery (2012)",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42866775/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42862762",
-        "title": "Symptom-Guided Blood Biomarker Testing for Alzheimer's Disease.",
-        "journal": "Dementia and geriatric cognitive disorde",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42862762/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
       {
-        "pmid": "42876073",
-        "title": "GCH1 p.Ser80Asn Confers Risk for Parkinson's Disease in East Asian Populations.",
-        "journal": "Movement disorders : official journal of",
+        "pmid": "42877708",
+        "title": "Lifestyle, APOE ε4, amyloid burden, and race/ethnicity differences in cognition, mood, and anxiety among cognitively unimpaired older adults.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42876073/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42877708/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42875268",
-        "title": "Comparative Evaluation of Open-Weight Large Language Models for Pathological Brain MRI Reports Classification: From Prompts to a Fine-Tuned Model.",
-        "journal": "Academic radiology",
+        "pmid": "42877648",
+        "title": "A study exploring the effects of exercise on cuproptosis targets in Alzheimer's disease brains based on large-scale data.",
+        "journal": "Archives of medical science : AMS",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42875268/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42877648/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42874809",
-        "title": "Turning Back the Ageing Clock? Brain Age in Neuroprotective and Clinical Interventions.",
-        "journal": "Ageing research reviews",
+        "pmid": "42877475",
+        "title": "Association of early-life caregiver mental health and education with incidence of mild cognitive impairment among the Chinese population: A longitudinal observational study.",
+        "journal": "Journal of Alzheimer's disease reports",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42874809/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42877475/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42874008",
-        "title": "Association Between Epilepsy and Young-Onset Dementia: Nationwide Data From France and Sweden.",
-        "journal": "Neurology",
+        "pmid": "42877443",
+        "title": "Uptake and safety profile of anti-amyloid immunotherapies in routine clinical practice.",
+        "journal": "Journal of Alzheimer's disease reports",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42874008/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42877443/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42873658",
-        "title": "Identifying drugs associated with Alzheimer's disease risk using machine learning-assisted signal detection.",
-        "journal": "Journal of Alzheimer's disease : JAD",
+        "pmid": "42877399",
+        "title": "Age specification matters? A multi-cohort evaluation of age specification and follow-up duration in the performance of midlife dementia risk scores.",
+        "journal": "Journal of Alzheimer's disease reports",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42873658/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42877399/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42873601",
-        "title": "Mild Amyloid Burden in the Brains of Cognitively Unimpaired Individuals is Associated with Long-Term Cognitive Impairment.",
-        "journal": "Annals of neurology",
+        "pmid": "42876926",
+        "title": "Association between Gompertz law-based biological age (GOLD BioAge) and incident mild cognitive impairment: Modifying role of social activeness.",
+        "journal": "Journal of Alzheimer's disease reports",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42873601/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42876926/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42873521",
-        "title": "Acute Delirium Management in Hospice and Palliative Care.",
-        "journal": "Journal of hospice and palliative nursin",
+        "pmid": "42876856",
+        "title": "Plasma p-tau217 for detecting Aβ-PET positivity and tracking early amyloid accumulation in cognitively unimpaired ADNI participants.",
+        "journal": "Journal of Alzheimer's disease reports",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42873521/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42876856/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42873497",
-        "title": "Cultural Engagement and Hospital-Treated Mental Disorders in Older Adults.",
-        "journal": "JAMA network open",
+        "pmid": "42876453",
+        "title": "The bidirectional relationship between depression and cognitive function in older adults: evidence from a psychosocial intervention on late-life depression.",
+        "journal": "Innovation in aging",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42873497/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42876453/",
         "zh": "",
         "evidence": "OTHER"
       }
