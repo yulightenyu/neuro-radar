@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:02:24.795000Z",
+  "updated": "2026-10-17T02:54:27.663879Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "42886878",
+        "title": "Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42886878/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42886876",
+        "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42885984",
         "title": "Multimodal Retinal Imaging Correlates With Brain Atrophy and Plasma Biomarkers in Alzheimer's Disease.",
         "journal": "Translational vision science &amp; techn",
@@ -176,29 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42884019/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42883945",
-        "title": "Effect of Rhodiola rosea L. Extract on Alzheimer's Disease-like Symptoms in Caenorhabditis elegans.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42883945/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42883925",
-        "title": "HMGB1 in Amyloid-Beta Pathology: Mechanistic Insights and Therapeutic Implications for Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42883925/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42886878",
+        "title": "Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42886878/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42885984",
         "title": "Multimodal Retinal Imaging Correlates With Brain Atrophy and Plasma Biomarkers in Alzheimer's Disease.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42873606/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42873092",
-        "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part I: Blood biomarkers transitioning to clinical practice].",
-        "journal": "Annales de biologie clinique",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42873092/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42886876",
+        "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42885682",
         "title": "Association between late-life blood pressure and incident dementia in older men: The Kuakini Honolulu-Asia aging study.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42884597/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884593",
-        "title": "Association of Nut Consumption with Dementia and Alzheimer's Disease.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884593/",
         "zh": "",
         "evidence": "OTHER"
       }
