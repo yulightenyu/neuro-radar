@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T02:54:27.663879Z",
+  "updated": "2026-10-17T14:55:34.722294Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42887030",
+        "title": "Amyloid-β Immunotherapy in Alzheimer's Disease: Challenges and Opportunities.",
+        "journal": "Annual review of pathology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42887030/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42885691",
         "title": "The critical role of PET-based assessment of cerebrovascular disease in the management of patients with cognitive impairment and dementias.",
@@ -104,19 +114,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42855813/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42854182",
-        "title": "Clinical Meaningfulness of Donanemab in Early Symptomatic Alzheimer Disease: Data From the Randomized Phase 3 TRAILBLAZER-ALZ 2 Trial.",
-        "journal": "Neurology. Clinical practice",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42854182/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42888346",
+        "title": "A genome-wide association study of cognitive impairment in a Chinese cohort of 1,040 individuals.",
+        "journal": "Human genetics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42888346/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42886878",
         "title": "Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42884062/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884019",
-        "title": "The Adult Neurogenesis Theory of Alzheimer's Disease Predicts Where Tauopathy Develops in the Brain.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884019/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,36 @@
     ],
     "prev": [
       {
+        "pmid": "42888868",
+        "title": "Habitual Diet, Gut Microbiome Dysbiosis, and α-Synucleinopathy Conversion in Isolated Rapid Eye Movement (REM) Sleep Behavior Disorder.",
+        "journal": "Movement disorders : official journal of",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42888868/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42888346",
+        "title": "A genome-wide association study of cognitive impairment in a Chinese cohort of 1,040 individuals.",
+        "journal": "Human genetics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42888346/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42887694",
+        "title": "Associations of Dietary Patterns with Dementia Burden and Environmental Footprints among Older Adults: A Country-Level Longitudinal Ecological Analysis of 185 Countries and Territories, 1990-2018.",
+        "journal": "The American journal of clinical nutriti",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42887694/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42886876",
         "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
         "journal": "Neurology",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42884726/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884681",
-        "title": "Interaction Between COMT Genotype and MIND Diet, Cognitive Decline, and Incident Dementia: A Prospective Cohort Study.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884681/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884668",
-        "title": "Nutritional Status and Cognition in Older Adults: Modification by Apolipoprotein E ε4.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884668/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884597",
-        "title": "Gut Microbiome-Mediated Neuroprotective Effect of the Mediterranean Diet: A Narrative Review of Cognitive Aging, Alzheimer's Disease, and Parkinson's Disease.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884597/",
         "zh": "",
         "evidence": "OTHER"
       }
