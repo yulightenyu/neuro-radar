@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:56:03.774846Z",
+  "updated": "2026-10-18T15:21:01.844506Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,36 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42890838",
+        "title": "GLP-1 receptor agonists in Alzheimer's disease and MCI: a meta-analysis.",
+        "journal": "Alzheimer's &amp; dementia (New York, N.",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42890838/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42890315",
+        "title": "Lecanemab-Monoclonal Antibodies for the Treatment of Early Alzheimer's Disease.",
+        "journal": "The Journal of pharmacy technology : jPT",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42890315/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42890205",
+        "title": "Safety of lecanemab in real-world patients with Alzheimer's disease: a prospective, observational case series supported by FAERS signal analysis.",
+        "journal": "Frontiers in neuroinformatics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42890205/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42887030",
         "title": "Amyloid-β Immunotherapy in Alzheimer's Disease: Challenges and Opportunities.",
@@ -84,39 +114,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42872652/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42865480",
-        "title": "Efficacy and safety of lecanemab monoclonal antibody in the treatment of mild to moderate Alzheimer's disease: a systematic review and meta-analysis.",
-        "journal": "Frontiers in pharmacology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42865480/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42861699",
-        "title": "Dementia with Lewy bodies and amyloid pathology: Eligible for anti-amyloid treatment or not?",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42861699/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42855813",
-        "title": "Centrum Semiovale Perivascular Spaces Predict First Hemorrhagic Lesion in Asymptomatic Amyloid-Positive Individuals.",
-        "journal": "Annals of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42855813/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42891822",
+        "title": "miR‑660‑5p ameliorates neuronal damage in Alzheimer's disease via targeting APP.",
+        "journal": "Neurogenetics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42891822/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42890501",
+        "title": "Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42890501/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42889642",
+        "title": "Should ApoE4 gene editing therapy be approached with caution when AD is accompanied by retinal neurodegenerative diseases?",
+        "journal": "Frontiers in neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42889642/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42889352",
+        "title": "CD8+ t cell-mediated regulation of synaptic integrity in Alzheimer's disease.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42889352/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42888952",
+        "title": "Integration of neuroimaging signatures of aging and Alzheimer's with fluid biomarkers.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42888952/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42888346",
         "title": "A genome-wide association study of cognitive impairment in a Chinese cohort of 1,040 individuals.",
@@ -146,59 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42885984",
-        "title": "Multimodal Retinal Imaging Correlates With Brain Atrophy and Plasma Biomarkers in Alzheimer's Disease.",
-        "journal": "Translational vision science &amp; techn",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42885984/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42885145",
-        "title": "The right temperature at the right time: A framework for understanding thermoregulatory pathophysiology in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42885145/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884722",
-        "title": "Multidimensional Neuroprotective Effects of Combined Ubisol-Q10 and Ashwagandha (Withania somnifera) in Male and Female 5XFAD Mice.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884722/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884597",
-        "title": "Gut Microbiome-Mediated Neuroprotective Effect of the Mediterranean Diet: A Narrative Review of Cognitive Aging, Alzheimer's Disease, and Parkinson's Disease.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884597/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884062",
-        "title": "Combined Effects of Chlamydia pneumoniae Infection and Hypoxia on Glial Metabolism and Alzheimer's Disease-Related Pathways.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884062/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42889489",
+        "title": "Comparison of brain-derived versus conventional pTau biomarkers in CSF and plasma for detecting Alzheimer's disease.",
+        "journal": "Brain communications",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42889489/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42886878",
         "title": "Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.",
@@ -268,19 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42875788/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42873606",
-        "title": "Hemispheric Asymmetry of Neuroimaging Biomarkers in Early Onset Alzheimer's Disease: Clinical and Cognitive Outcomes.",
-        "journal": "Annals of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42873606/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42889296",
+        "title": "Cardiorespiratory fitness is associated with cerebral oxygen extraction in Alzheimer's disease.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42889296/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42889034",
+        "title": "Development of a multimodal health education module for dementia prevention in at-risk rural Indian elders: a SMRUTHI INDIA initiative.",
+        "journal": "Frontiers in dementia",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42889034/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42888868",
         "title": "Habitual Diet, Gut Microbiome Dysbiosis, and α-Synucleinopathy Conversion in Isolated Rapid Eye Movement (REM) Sleep Behavior Disorder.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42885680/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42885249",
-        "title": "Machine Learning in Dementia Research: Trends, Biomarkers, Prediction Goals, and Data Modalities.",
-        "journal": "Brain and behavior",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42885249/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42884726",
-        "title": "Planetary Health Diet and the Gut-Liver-Brain Axis: Implications for MASLD and Cognitive Aging.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42884726/",
         "zh": "",
         "evidence": "OTHER"
       }
