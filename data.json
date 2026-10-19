@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T03:09:21.489098Z",
+  "updated": "2026-10-19T18:18:43.481493Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42894231",
+        "title": "SPRY1 suppresses microglial fatty acid oxidation by retaining FATP3 on the endoplasmic reticulum in Alzheimer's disease.",
+        "journal": "Journal of neuroinflammation",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42894231/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42891822",
         "title": "miR‑660‑5p ameliorates neuronal damage in Alzheimer's disease via targeting APP.",
         "journal": "Neurogenetics",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42886878/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42886876",
-        "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "42894627",
+        "title": "Timing matters: a life-course review of midlife type 2 diabetes, exposure duration, and late-life dementia risk.",
+        "journal": "Journal of diabetes and metabolic disord",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42894627/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42889296",
         "title": "Cardiorespiratory fitness is associated with cerebral oxygen extraction in Alzheimer's disease.",
         "journal": "Frontiers in aging neuroscience",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42885682/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42885680",
-        "title": "Evening chronotype and incidence of all-cause dementia and subtypes after accounting for other sleep traits: A prospective cohort study.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42885680/",
         "zh": "",
         "evidence": "OTHER"
       }
