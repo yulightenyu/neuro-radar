@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:18:43.481493Z",
+  "updated": "2026-10-20T03:17:58.170384Z",
   "feeds": [
     {
       "id": "drug",
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "42895713",
+        "title": "Comparing operational definitions of screening-based cognitive impairment in the Tohoku Medical Megabank cohort: Focus on digital engagement.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42895713/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42894627",
         "title": "Timing matters: a life-course review of midlife type 2 diabetes, exposure duration, and late-life dementia risk.",
         "journal": "Journal of diabetes and metabolic disord",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42885682",
-        "title": "Association between late-life blood pressure and incident dementia in older men: The Kuakini Honolulu-Asia aging study.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42885682/",
         "zh": "",
         "evidence": "OTHER"
       }
