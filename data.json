@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T03:17:58.170384Z",
+  "updated": "2026-10-20T16:19:25.621707Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42898005",
+        "title": "Real-World Patient Eligibility for Alzheimer's Disease Anti-Amyloid Therapy in Seven Swedish Memory Clinics.",
+        "journal": "European journal of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42898005/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42897618",
+        "title": "De novo formation of familial Alzheimer's disease-relevant Aβ strains occurs exclusively in the human brain.",
+        "journal": "Acta neuropathologica communications",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42897618/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42897611",
+        "title": "Exercise promotes lipophagy and mitigates cognitive impairment in Alzheimer's disease through downregulating microglial TMEM9.",
+        "journal": "Translational neurodegeneration",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42897611/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42894231",
         "title": "SPRY1 suppresses microglial fatty acid oxidation by retaining FATP3 on the endoplasmic reticulum in Alzheimer's disease.",
         "journal": "Journal of neuroinflammation",
@@ -166,39 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42889352/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42888952",
-        "title": "Integration of neuroimaging signatures of aging and Alzheimer's with fluid biomarkers.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42888952/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42888346",
-        "title": "A genome-wide association study of cognitive impairment in a Chinese cohort of 1,040 individuals.",
-        "journal": "Human genetics",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42888346/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42886878",
-        "title": "Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42886878/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42897700",
+        "title": "A Two-Stage Plasma Biomarker Algorithm Reduces Amyloid PET Use and the p-Tau217 Gray Zone.",
+        "journal": "Annals of clinical and translational neu",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42897700/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42897611",
+        "title": "Exercise promotes lipophagy and mitigates cognitive impairment in Alzheimer's disease through downregulating microglial TMEM9.",
+        "journal": "Translational neurodegeneration",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42897611/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42889489",
         "title": "Comparison of brain-derived versus conventional pTau biomarkers in CSF and plasma for detecting Alzheimer's disease.",
@@ -258,29 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42877469/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42876856",
-        "title": "Plasma p-tau217 for detecting Aβ-PET positivity and tracking early amyloid accumulation in cognitively unimpaired ADNI participants.",
-        "journal": "Journal of Alzheimer's disease reports",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42876856/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42875788",
-        "title": "Microglial dynamics associate with the spatial pattern of tau deposition in early Alzheimer's disease.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42875788/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42896464",
+        "title": "The association of seven dietary patterns and the risk of dementia: a systematic review and meta-analysis of prospective cohort studies.",
+        "journal": "Psychiatry research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42896464/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42896306",
+        "title": "Cerebral microhemorrhage and cognition in preclinical Alzheimer's disease.",
+        "journal": "The journal of prevention of Alzheimer's",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42896306/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42895713",
         "title": "Comparing operational definitions of screening-based cognitive impairment in the Tohoku Medical Megabank cohort: Focus on digital engagement.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42888346/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42887694",
-        "title": "Associations of Dietary Patterns with Dementia Burden and Environmental Footprints among Older Adults: A Country-Level Longitudinal Ecological Analysis of 185 Countries and Territories, 1990-2018.",
-        "journal": "The American journal of clinical nutriti",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42887694/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42886876",
-        "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
         "zh": "",
         "evidence": "OTHER"
       }
