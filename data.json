@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:13:12.741557Z",
+  "updated": "2026-10-21T16:34:47.254280Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "42902513",
+        "title": "Skeletal muscle fatigue resistance is differentially affected in 8-month-old male and female hAβ-KI mice.",
+        "journal": "Physiological reports",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42902513/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42902292",
+        "title": "Single cell RNA sequencing and emerging transcriptomic technologies in Alzheimer's disease cerebral organoids: a mini review.",
+        "journal": "Molecular brain",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42902292/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42900230",
         "title": "Comment on \"High-intensity interval training modulates APP expression and reduces neuronal apoptosis in a β-amyloid-induced model of Alzheimer's disease: hippocampal evidence\".",
         "journal": "Experimental brain research",
@@ -176,29 +196,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42897618/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42897611",
-        "title": "Exercise promotes lipophagy and mitigates cognitive impairment in Alzheimer's disease through downregulating microglial TMEM9.",
-        "journal": "Translational neurodegeneration",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42897611/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42894231",
-        "title": "SPRY1 suppresses microglial fatty acid oxidation by retaining FATP3 on the endoplasmic reticulum in Alzheimer's disease.",
-        "journal": "Journal of neuroinflammation",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42894231/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42902436",
+        "title": "Direction-specific biomarker profiles and clinical significance of plasma p-tau217/amyloid PET discordance in cognitively normal adults.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42902436/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42901819",
+        "title": "Cerebrospinal fluid amyloid and neurodegeneration biomarkers in the diagnosis and prognosis of amyotrophic lateral sclerosis: a multicohort observational study.",
+        "journal": "EBioMedicine",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42901819/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42901167",
+        "title": "More than just accuracy: A pathway-level framework for implementing blood and digital biomarkers for Alzheimer's disease care.",
+        "journal": "Neuron",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42901167/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42899313",
         "title": "Plasma Phosphorylated Tau 217 Reshapes Diagnostic Classification in a Real-World Memory Clinic Cohort.",
@@ -248,39 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42886878/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42885984",
-        "title": "Multimodal Retinal Imaging Correlates With Brain Atrophy and Plasma Biomarkers in Alzheimer's Disease.",
-        "journal": "Translational vision science &amp; techn",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42885984/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42883821",
-        "title": "Plasma Neurofilament Light Chain as a Complementary Biomarker for Alzheimer's Disease and Mild Cognitive Impairment: A Systematic Review and Meta-Analysis.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42883821/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42877495",
-        "title": "Current use and perspectives of PET imaging in Alzheimer's disease: A Spanish national survey.",
-        "journal": "Journal of Alzheimer's disease reports",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42877495/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42902204",
+        "title": "Independent, joint, and temporal associations of social, intellectual, and physical leisure activities with cognitive decline in older Chinese adults: a longitudinal analysis from CHARLS.",
+        "journal": "BMC geriatrics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42902204/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42901262",
+        "title": "Sex-divergent neurovascular and cognitive effects of chronic cerebral hypoperfusion.",
+        "journal": "Experimental neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42901262/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42900430",
         "title": "Opioid and Gabapentinoid Prescribing in Older Adults with Dementia Before and After the 2016 CDC Opioid Prescribing Guideline.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42889296/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42889034",
-        "title": "Development of a multimodal health education module for dementia prevention in at-risk rural Indian elders: a SMRUTHI INDIA initiative.",
-        "journal": "Frontiers in dementia",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42889034/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42888868",
-        "title": "Habitual Diet, Gut Microbiome Dysbiosis, and α-Synucleinopathy Conversion in Isolated Rapid Eye Movement (REM) Sleep Behavior Disorder.",
-        "journal": "Movement disorders : official journal of",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42888868/",
         "zh": "",
         "evidence": "OTHER"
       }
