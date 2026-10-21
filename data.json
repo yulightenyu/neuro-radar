@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:19:25.621707Z",
+  "updated": "2026-10-21T03:13:12.741557Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,46 @@
     ],
     "mech": [
       {
+        "pmid": "42900230",
+        "title": "Comment on \"High-intensity interval training modulates APP expression and reduces neuronal apoptosis in a β-amyloid-induced model of Alzheimer's disease: hippocampal evidence\".",
+        "journal": "Experimental brain research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42900230/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42899911",
+        "title": "[Astrocytes as a key structural and functional component in the development of mixed dementia].",
+        "journal": "Zhurnal nevrologii i psikhiatrii imeni S",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42899911/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42899506",
+        "title": "Amyloid-Induced Network Resilience and Collapse in Alzheimer's Disease: Insights From Computational Modeling.",
+        "journal": "The European journal of neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42899506/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42899469",
+        "title": "An integrated human forebrain organoid reveals microglia-mediated CD8+ T cell recruitment and neuroimmune dysfunction in Alzheimer's disease pathology.",
+        "journal": "eLife",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42899469/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42898005",
         "title": "Real-World Patient Eligibility for Alzheimer's Disease Anti-Amyloid Therapy in Seven Swedish Memory Clinics.",
         "journal": "European journal of neurology",
@@ -156,49 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42894231/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42891822",
-        "title": "miR‑660‑5p ameliorates neuronal damage in Alzheimer's disease via targeting APP.",
-        "journal": "Neurogenetics",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42891822/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42890501",
-        "title": "Effects of West Nile Virus on behavioral and cognitive performance, circadian body temperatures, cortical Aβ and p-tau pathology, and immune measures in human apoE and human amyloid precursor protein NL-G-F/human apoE mice.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42890501/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42889642",
-        "title": "Should ApoE4 gene editing therapy be approached with caution when AD is accompanied by retinal neurodegenerative diseases?",
-        "journal": "Frontiers in neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42889642/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42889352",
-        "title": "CD8+ t cell-mediated regulation of synaptic integrity in Alzheimer's disease.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42889352/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42899313",
+        "title": "Plasma Phosphorylated Tau 217 Reshapes Diagnostic Classification in a Real-World Memory Clinic Cohort.",
+        "journal": "Alzheimer disease and associated disorde",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42899313/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42897700",
         "title": "A Two-Stage Plasma Biomarker Algorithm Reduces Amyloid PET Use and the p-Tau217 Gray Zone.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42877495/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42877469",
-        "title": "A multivariate plasma pathology-cognition axis reveals biologically anchored residual cognitive heterogeneity across the Alzheimer's disease clinical spectrum.",
-        "journal": "Journal of Alzheimer's disease reports",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42877469/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42900430",
+        "title": "Opioid and Gabapentinoid Prescribing in Older Adults with Dementia Before and After the 2016 CDC Opioid Prescribing Guideline.",
+        "journal": "Journal of general internal medicine",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42900430/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42896464",
         "title": "The association of seven dietary patterns and the risk of dementia: a systematic review and meta-analysis of prospective cohort studies.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42888868/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42888346",
-        "title": "A genome-wide association study of cognitive impairment in a Chinese cohort of 1,040 individuals.",
-        "journal": "Human genetics",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42888346/",
         "zh": "",
         "evidence": "OTHER"
       }
