@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:36:07.789873Z",
+  "updated": "2026-10-23T03:17:18.187347Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "42904643",
+        "title": "Indolizine-Based Small-Molecule Fluorescent Probes for Ex Vivo Imaging of Amyloid-β Plaques.",
+        "journal": "ACS chemical neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42904643/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42904641",
+        "title": "Aβ-42 Side Chain Deamidation at Q15 or N27 Modulates Protein Aggregation and Alters Microglial Cytokines and CD68.",
+        "journal": "ACS chemical neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42904641/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42902513",
         "title": "Skeletal muscle fatigue resistance is differentially affected in 8-month-old male and female hAβ-KI mice.",
         "journal": "Physiological reports",
@@ -174,26 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42899469/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42898005",
-        "title": "Real-World Patient Eligibility for Alzheimer's Disease Anti-Amyloid Therapy in Seven Swedish Memory Clinics.",
-        "journal": "European journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42898005/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42897618",
-        "title": "De novo formation of familial Alzheimer's disease-relevant Aβ strains occurs exclusively in the human brain.",
-        "journal": "Acta neuropathologica communications",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42897618/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,26 @@
     ],
     "prev": [
       {
+        "pmid": "42904574",
+        "title": "Accelerated Epigenetic Aging in Frontotemporal Dementia Highlights Smoking, Inflammation, and Metabolic Signals.",
+        "journal": "Annals of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42904574/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42903540",
+        "title": "Vitamin D deficiency and oral health in the Middle East and North Africa (MENA): A public health perspective.",
+        "journal": "Journal of Taibah University Medical Sci",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42903540/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42902204",
         "title": "Independent, joint, and temporal associations of social, intellectual, and physical leisure activities with cognitive decline in older Chinese adults: a longitudinal analysis from CHARLS.",
         "journal": "BMC geriatrics",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42895713/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42894627",
-        "title": "Timing matters: a life-course review of midlife type 2 diabetes, exposure duration, and late-life dementia risk.",
-        "journal": "Journal of diabetes and metabolic disord",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42894627/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42889296",
-        "title": "Cardiorespiratory fitness is associated with cerebral oxygen extraction in Alzheimer's disease.",
-        "journal": "Frontiers in aging neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42889296/",
         "zh": "",
         "evidence": "OTHER"
       }
