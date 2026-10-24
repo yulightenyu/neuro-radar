@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:25:56.782253Z",
+  "updated": "2026-10-24T03:10:56.557376Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,76 @@
     ],
     "mech": [
       {
+        "pmid": "42911467",
+        "title": "Design and Synthesis of Novel β-Naphthol Dithiocarbamate Hybrids: A Convergent Multifaceted Approach Towards AChE and Amyloid-β Inhibition for Alzheimer's Disease.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911467/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42911292",
+        "title": "Cannabidiol Regulates Amyloid-β Plaque Deposition and Astrogliosis in the 5xFAD Transgenic Mouse Model.",
+        "journal": "Journal of molecular neuroscience : MN",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911292/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42910516",
+        "title": "Purine metabolism disruption links pathology and cognitive decline in Alzheimer's disease.",
+        "journal": "JCI insight",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42910516/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42909691",
+        "title": "Glutamate, Immune Cells and Alzheimer's Disease: An Attempt to Link the Triad.",
+        "journal": "Cellular and molecular neurobiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42909691/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42909680",
+        "title": "Cannabidiol in Alzheimer's disease: evidence-weighted molecular mechanisms and translational challenges.",
+        "journal": "Molecular biology reports",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42909680/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42909646",
+        "title": "Tau A152T risk variant drives distinct cell type transcriptional signatures in AD and PSP.",
+        "journal": "Acta neuropathologica",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42909646/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42909513",
+        "title": "APOE ε4 accelerates plasma p-tau217 trajectory: a Bayesian joint longitudinal analysis of ADNI.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42909513/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42908099",
         "title": "Cerebral blood flow as a biomarker of resilience in cognitively unimpaired APOE ɛ4 carriers.",
         "journal": "Alzheimer's &amp; dementia : the journal",
@@ -126,79 +196,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42908099/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42907771",
-        "title": "Whole-transcriptome sequencing reveals Alzheimer's disease-associated ceRNA regulatory networks and downstream pathways.",
-        "journal": "BMC neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42907771/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42905554",
-        "title": "Translational control of microglial metabolism, inflammatory responses, and survival by the eIF4E-binding proteins.",
-        "journal": "Proceedings of the National Academy of S",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42905554/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42905283",
-        "title": "Clinical performance and decision thresholds of an automated plasma p-tau217 assay for amyloid pathology in a Taiwanese memory clinic.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42905283/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42905237",
-        "title": "Osteoporosis and Alzheimer's Disease: The Role of Sclerostin.",
-        "journal": "Current osteoporosis reports",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42905237/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42905162",
-        "title": "Serum p-tau181 and p-tau217 levels in adolescents and adults with 5q spinal muscular atrophy.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42905162/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42904643",
-        "title": "Indolizine-Based Small-Molecule Fluorescent Probes for Ex Vivo Imaging of Amyloid-β Plaques.",
-        "journal": "ACS chemical neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42904643/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42904641",
-        "title": "Aβ-42 Side Chain Deamidation at Q15 or N27 Modulates Protein Aggregation and Alters Microglial Cytokines and CD68.",
-        "journal": "ACS chemical neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42904641/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42913444",
+        "title": "Blood-Based Biomarkers as Predictors of All-Cause Dementia: A 13-Year Follow-Up in the Whitehall II Cohort Study.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42913444/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42911504",
+        "title": "Cerebrospinal Fluid Biomarker Ratio Concordance with Amyloid Positron-Emission Tomography: A Diagnostic Test Accuracy Meta-analysis.",
+        "journal": "Neurology and therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911504/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42911238",
+        "title": "TSPO-PET binding in vivo reflects increased phagocytic microglia at post mortem in people with frontotemporal dementia.",
+        "journal": "Acta neuropathologica",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911238/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42911044",
+        "title": "Paratonia is inversely correlated to premotor areas perfusion.",
+        "journal": "Neuroreport",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911044/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42909513",
+        "title": "APOE ε4 accelerates plasma p-tau217 trajectory: a Bayesian joint longitudinal analysis of ADNI.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42909513/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42908099",
         "title": "Cerebral blood flow as a biomarker of resilience in cognitively unimpaired APOE ɛ4 carriers.",
@@ -228,59 +278,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42902436/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42901819",
-        "title": "Cerebrospinal fluid amyloid and neurodegeneration biomarkers in the diagnosis and prognosis of amyotrophic lateral sclerosis: a multicohort observational study.",
-        "journal": "EBioMedicine",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42901819/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42901167",
-        "title": "More than just accuracy: A pathway-level framework for implementing blood and digital biomarkers for Alzheimer's disease care.",
-        "journal": "Neuron",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42901167/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42899313",
-        "title": "Plasma Phosphorylated Tau 217 Reshapes Diagnostic Classification in a Real-World Memory Clinic Cohort.",
-        "journal": "Alzheimer disease and associated disorde",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42899313/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42897700",
-        "title": "A Two-Stage Plasma Biomarker Algorithm Reduces Amyloid PET Use and the p-Tau217 Gray Zone.",
-        "journal": "Annals of clinical and translational neu",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42897700/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42897611",
-        "title": "Exercise promotes lipophagy and mitigates cognitive impairment in Alzheimer's disease through downregulating microglial TMEM9.",
-        "journal": "Translational neurodegeneration",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42897611/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42911872",
+        "title": "Exercise-based cardiac rehabilitation after stroke and the risk of incident dementia: an observational study from a global federated network.",
+        "journal": "European stroke journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911872/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42911262",
+        "title": "Glial-specific polygenic risk and mediterranean diet impact cognitive performance and dementia-related outcomes in the elderly.",
+        "journal": "European archives of psychiatry and clin",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911262/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42911078",
+        "title": "Clusters of modifiable dementia risk factors at mid-life and late-life and their association with incident dementia: A prospective cohort study of 246,968 adults.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42911078/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42910638",
+        "title": "Outdoor extreme heat-related dementia risk and the role of socioeconomic disparities: evidence from 20 years of data on US older adults.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42910638/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42909304",
         "title": "Joint modeling approaches for predicting conversion from mild cognitive impairment to Alzheimer's disease: A systematic review (1999-2025).",
@@ -318,46 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42904574/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42903540",
-        "title": "Vitamin D deficiency and oral health in the Middle East and North Africa (MENA): A public health perspective.",
-        "journal": "Journal of Taibah University Medical Sci",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42903540/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42902204",
-        "title": "Independent, joint, and temporal associations of social, intellectual, and physical leisure activities with cognitive decline in older Chinese adults: a longitudinal analysis from CHARLS.",
-        "journal": "BMC geriatrics",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42902204/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42901262",
-        "title": "Sex-divergent neurovascular and cognitive effects of chronic cerebral hypoperfusion.",
-        "journal": "Experimental neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42901262/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42900430",
-        "title": "Opioid and Gabapentinoid Prescribing in Older Adults with Dementia Before and After the 2016 CDC Opioid Prescribing Guideline.",
-        "journal": "Journal of general internal medicine",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42900430/",
         "zh": "",
         "evidence": "OTHER"
       }
