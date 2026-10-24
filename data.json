@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T03:10:56.557376Z",
+  "updated": "2026-10-24T15:21:37.739500Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42918974",
+        "title": "Gut-brain axis in Alzheimer's disease: neuroinflammatory mechanisms and immunopharmacological interventions.",
+        "journal": "Inflammopharmacology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42918974/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42907679",
         "title": "Real-world safety and efficacy of lecanemab in the treatment of Alzheimer's disease: a systematic review and meta-analysis.",
@@ -104,19 +114,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42885677/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42875639",
-        "title": "Targeting the P2X7 receptor in Alzheimer's disease: mechanistic insights and emerging therapeutic strategies.",
-        "journal": "Purinergic signalling",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42875639/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42919470",
+        "title": "Multimodal Neuroimaging and Behavioral Characterization of Aged Female APOE4 Knock-In Rats Reveals a Preclinical Alzheimer's Disease Phenotype.",
+        "journal": "Genes, brain, and behavior",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42919470/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42918778",
+        "title": "Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42918778/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42916678",
+        "title": "Towards Improved P2X7R Cellular Models for Alzheimer's Disease Drug Discovery.",
+        "journal": "ACS chemical neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42916678/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42915573",
+        "title": "The \"Glyco-Remodeling\" Hypothesis in Alzheimer's Disease: Linking Protein N-Glycosylation to Pathogenesis and Translation.",
+        "journal": "ACS chemical neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42915573/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42915339",
+        "title": "Theoretical Investigation on the Mechanism of Alzheimer's Disease Detection through Firefly Bioluminescence.",
+        "journal": "The journal of physical chemistry. B",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42915339/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42911467",
         "title": "Design and Synthesis of Novel β-Naphthol Dithiocarbamate Hybrids: A Convergent Multifaceted Approach Towards AChE and Amyloid-β Inhibition for Alzheimer's Disease.",
@@ -146,59 +196,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42910516/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42909691",
-        "title": "Glutamate, Immune Cells and Alzheimer's Disease: An Attempt to Link the Triad.",
-        "journal": "Cellular and molecular neurobiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42909691/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42909680",
-        "title": "Cannabidiol in Alzheimer's disease: evidence-weighted molecular mechanisms and translational challenges.",
-        "journal": "Molecular biology reports",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42909680/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42909646",
-        "title": "Tau A152T risk variant drives distinct cell type transcriptional signatures in AD and PSP.",
-        "journal": "Acta neuropathologica",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42909646/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42909513",
-        "title": "APOE ε4 accelerates plasma p-tau217 trajectory: a Bayesian joint longitudinal analysis of ADNI.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42909513/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42908099",
-        "title": "Cerebral blood flow as a biomarker of resilience in cognitively unimpaired APOE ɛ4 carriers.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42908099/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42918778",
+        "title": "Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42918778/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42918589",
+        "title": "Plasma p-tau181, Aβ1-42, and GFAP across Alzheimer's disease, mixed-type Alzheimer's disease, mild cognitive impairment, anxiety disorders, and depressive disorders.",
+        "journal": "Brain research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42918589/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42918426",
+        "title": "Neurodegeneration in Sub-Saharan Africa: Intersections of Biological Ageing, Genomic Diversity and the Lifetime Exposome.",
+        "journal": "Ageing research reviews",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42918426/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42913444",
         "title": "Blood-Based Biomarkers as Predictors of All-Cause Dementia: A 13-Year Follow-Up in the Whitehall II Cohort Study.",
@@ -248,39 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42909513/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42908099",
-        "title": "Cerebral blood flow as a biomarker of resilience in cognitively unimpaired APOE ɛ4 carriers.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42908099/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42905283",
-        "title": "Clinical performance and decision thresholds of an automated plasma p-tau217 assay for amyloid pathology in a Taiwanese memory clinic.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42905283/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42902436",
-        "title": "Direction-specific biomarker profiles and clinical significance of plasma p-tau217/amyloid PET discordance in cognitively normal adults.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42902436/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42919470",
+        "title": "Multimodal Neuroimaging and Behavioral Characterization of Aged Female APOE4 Knock-In Rats Reveals a Preclinical Alzheimer's Disease Phenotype.",
+        "journal": "Genes, brain, and behavior",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42919470/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42918426",
+        "title": "Neurodegeneration in Sub-Saharan Africa: Intersections of Biological Ageing, Genomic Diversity and the Lifetime Exposome.",
+        "journal": "Ageing research reviews",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42918426/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42911872",
         "title": "Exercise-based cardiac rehabilitation after stroke and the risk of incident dementia: an observational study from a global federated network.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42908994/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42908879",
-        "title": "Whole genome sequencing identifies genetic variants associated with senescence-accelerated phenotype of OXYS rats.",
-        "journal": "Vavilovskii zhurnal genetiki i selektsii",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42908879/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42904574",
-        "title": "Accelerated Epigenetic Aging in Frontotemporal Dementia Highlights Smoking, Inflammation, and Metabolic Signals.",
-        "journal": "Annals of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42904574/",
         "zh": "",
         "evidence": "OTHER"
       }
