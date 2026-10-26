@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:31:21.116677Z",
+  "updated": "2026-10-26T03:05:58.314050Z",
   "feeds": [
     {
       "id": "drug",
@@ -200,6 +200,16 @@
     ],
     "dx": [
       {
+        "pmid": "42927299",
+        "title": "PET-based molecular imaging in neurodegeneration and dementia: current and emerging radiotracers.",
+        "journal": "Radiology advances",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42927299/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42926842",
         "title": "Analytical performance of a delayed-centrifugation blood collection tube for remote blood biomarker assessment.",
         "journal": "medRxiv : the preprint server for health",
@@ -266,16 +276,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42918589/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42918426",
-        "title": "Neurodegeneration in sub-Saharan Africa: Intersections of biological ageing, genomic diversity and the lifetime exposome.",
-        "journal": "Ageing research reviews",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42918426/",
         "zh": "",
         "evidence": "OTHER"
       }
