@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T03:05:58.314050Z",
+  "updated": "2026-10-26T18:12:24.424026Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "42928420",
+        "title": "Tau extent is associated with lower cognition in Down syndrome-related Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42928420/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42928414",
+        "title": "α-synuclein pathology drives region-specific tau deposition.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42928414/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42925463",
         "title": "Gut Microbiota in Alzheimer's Disease and Healthy Aging: Mechanisms, Prevention Strategies and Healthcare Burden.",
         "journal": "Current nutrition reports",
@@ -174,26 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42916678/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42915573",
-        "title": "The \"Glyco-Remodeling\" Hypothesis in Alzheimer's Disease: Linking Protein N-Glycosylation to Pathogenesis and Translation.",
-        "journal": "ACS chemical neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42915573/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42915339",
-        "title": "Theoretical Investigation on the Mechanism of Alzheimer's Disease Detection through Firefly Bioluminescence.",
-        "journal": "The journal of physical chemistry. B",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42915339/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,26 @@
     ],
     "prev": [
       {
+        "pmid": "42930444",
+        "title": "Association Between Periodontal Disease and Cognitive Impairment: A Systematic Review and Meta-Analysis.",
+        "journal": "Dentistry journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42930444/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42928439",
+        "title": "Blood transcriptomic signatures of vascular risk in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42928439/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42926826",
         "title": "Association between plasma brain-derived p-tau variants and anxiety phenotypes in older adults.",
         "journal": "medRxiv : the preprint server for health",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42925530/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42925463",
-        "title": "Gut Microbiota in Alzheimer's Disease and Healthy Aging: Mechanisms, Prevention Strategies and Healthcare Burden.",
-        "journal": "Current nutrition reports",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42925463/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42925461",
-        "title": "Aerobic physical activity is associated with lower pneumonia and COVID-19 mortality in adults with cognitive impairment.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42925461/",
         "zh": "",
         "evidence": "OTHER"
       }
