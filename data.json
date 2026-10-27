@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T18:12:24.424026Z",
+  "updated": "2026-10-27T03:36:56.359660Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42930485",
+        "title": "Therapeutic Potential of Marine Natural Products Against Alzheimer's Disease: Molecular Mechanisms, Druggability Evaluation and Clinical Translation Barriers.",
+        "journal": "Marine drugs",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42930485/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42929824",
+        "title": "TDP-43 Coincides with Noradrenergic Neurons in Alzheimer's Disease (AD) and Primary Age-Related Tauopathy (PART).",
+        "journal": "Cells",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42929824/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42929814",
+        "title": "Differential Genotypic Effects of HSV-1 Infection on Cognitive Function and Pathology in the 5xFAD Mouse Model.",
+        "journal": "Cells",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42929814/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42928420",
         "title": "Tau extent is associated with lower cognition in Down syndrome-related Alzheimer's disease.",
         "journal": "Alzheimer's &amp; dementia : the journal",
@@ -166,39 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42921695/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42919470",
-        "title": "Multimodal Neuroimaging and Behavioral Characterization of Aged Female APOE4 Knock-In Rats Reveals a Preclinical Alzheimer's Disease Phenotype.",
-        "journal": "Genes, brain, and behavior",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42919470/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42918778",
-        "title": "Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42918778/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42916678",
-        "title": "Towards Improved P2X7R Cellular Models for Alzheimer's Disease Drug Discovery.",
-        "journal": "ACS chemical neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42916678/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42931149",
+        "title": "Fluid Biomarkers for the Antemortem Detection of Chronic Traumatic Encephalopathy: A Critical Review.",
+        "journal": "Neurology international",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42931149/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42927299",
         "title": "PET-based molecular imaging in neurodegeneration and dementia: current and emerging radiotracers.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42918778/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42918589",
-        "title": "Plasma p-tau181, Aβ1-42, and GFAP across Alzheimer's disease, mixed-type Alzheimer's disease, mild cognitive impairment, anxiety disorders, and depressive disorders.",
-        "journal": "Brain research",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42918589/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42930873",
+        "title": "Heart and Brain: Linking Obesity-Related Inflammation, Cardiovascular Disease and Cognitive Function.",
+        "journal": "Journal of cardiovascular development an",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42930873/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42930444",
         "title": "Association Between Periodontal Disease and Cognitive Impairment: A Systematic Review and Meta-Analysis.",
@@ -333,7 +343,7 @@
       },
       {
         "pmid": "42926022",
-        "title": "Cognitive Reserve Reconsidered: Asymmetry Across Proxies Challenges a Domain-General Mechanism.",
+        "title": "Cognitive reserve reconsidered: Asymmetry across proxies challenges a domain-general mechanism.",
         "journal": "Ageing research reviews",
         "year": "2026",
         "month": "10",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42925581/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42925530",
-        "title": "Implementing the National Alzheimer's Coordinating Center Uniform Data Set (v3) within the Diabetes Prevention Program Outcomes Study.",
-        "journal": "Neuroepidemiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42925530/",
         "zh": "",
         "evidence": "OTHER"
       }
