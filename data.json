@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:26:01.030281Z",
+  "updated": "2026-10-28T03:53:34.368817Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,87 +118,97 @@
     ],
     "mech": [
       {
-        "pmid": "42938377",
-        "title": "Multi-Cohort Transcriptomic Integration Identifies Overlapping Immune and Antigen-Presentation Features in Alzheimer's Disease and Hashimoto's Thyroiditis.",
-        "journal": "Genes",
+        "pmid": "42944718",
+        "title": "Alzheimer's genetic risk factor CASS4 controls microglial focal adhesion biology and amyloidosis.",
+        "journal": "The Journal of experimental medicine",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42938377/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42944718/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42936906",
-        "title": "Pathway-specific polygenic risk scores modify the association between amyloid and tau PET accumulation in patients with Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "42944683",
+        "title": "Simpson's Paradox, Amyloid Paradox, and Racial Differences.",
+        "journal": "JAMA network open",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42936906/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42935558",
-        "title": "Sex differences in sleep and memory relationships in older adults at risk for Alzheimer's disease.",
-        "journal": "Frontiers in endocrinology",
+        "pmid": "42943827",
+        "title": "Investigation of Potential Mechanisms of Yerba Santa Compounds Against Alzheimer's Disease.",
+        "journal": "Molecules (Basel, Switzerland)",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42935558/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42943827/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42935328",
-        "title": "[Prospects of application of peptide preparations in therapy of Alzheimer's disease.].",
-        "journal": "Advances in gerontology = Uspekhi geront",
+        "pmid": "42943797",
+        "title": "Natural Compounds and Their Microbiota-Derived Metabolites as Modulators of the Microbiota-Gut-Brain Axis in Alzheimer Disease: Biochemical Mechanisms and Drug Discovery Insights-A Narrative Review.",
+        "journal": "Molecules (Basel, Switzerland)",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42935328/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42943797/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42934641",
-        "title": "Advances in modified anti-Aβ antibodies for the treatment of Alzheimer's disease.",
-        "journal": "BMC medicine",
+        "pmid": "42942573",
+        "title": "The Interplay Between Oophorectomy and Alzheimer's Disease: A Narrative Review.",
+        "journal": "Medicina (Kaunas, Lithuania)",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934641/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42942573/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42934592",
-        "title": "Spectrum of amyloid-related imaging abnormalities associated with aducanumab treatment: a case series report.",
-        "journal": "BMC neurology",
+        "pmid": "42942158",
+        "title": "Safranal, a Natural Neuroprotective Compound, Modulates Plasma Iron Levels, Improves Behavioral Performance, and Demonstrates Dose-Specific Cytoprotection in Alzheimer's Disease Models.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934592/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42942158/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42934178",
-        "title": "Histone Modifications at the Intersection of Aging, Neuroinflammation and Metabolism in Alzheimer's Disease.",
-        "journal": "Aging cell",
+        "pmid": "42942133",
+        "title": "Aluminum Chloride-Induced Planarian Model with Cognitive Impairments Through Neuronal Damage, Neurotransmitter Imbalance, Apoptosis, and Oxidative Stress.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934178/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42942133/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42934106",
-        "title": "[Suanzaoren Decoction inhibits neuroinflammation and alleviates hippocampal neuronal injury in APP/PS1 transgenic mice by regulating the Hippo-YAP pathway].",
-        "journal": "Nan fang yi ke da xue xue bao = Journal ",
+        "pmid": "42942122",
+        "title": "α-Halogenated Curcumins Enhance the Binding Affinity and Induced Structural Alterations to Amyloid-β Protein in Alzheimer's Disease.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934106/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42942122/",
         "zh": "",
         "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42944683",
+        "title": "Simpson's Paradox, Amyloid Paradox, and Racial Differences.",
+        "journal": "JAMA network open",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42939332",
         "title": "Age-Stratified Serum Biomarkers for Discriminating Clinically Defined Cognitive Impairment in Neurological Inpatients: A Cross-Sectional Study.",
@@ -268,19 +278,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42926842/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42926809",
-        "title": "Plasma eMTBR-tau as a robust biomarker for Alzheimer's disease tangle pathology up to 10 years before death.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42926809/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42945950",
+        "title": "Amygdala vulnerability in Pick disease with discrete frontotemporal dementia syndromes.",
+        "journal": "Brain pathology (Zurich, Switzerland)",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42945950/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42944764",
+        "title": "Metformin Preserves Regional Brain Glucose Uptake, Structure, and Functional Connectivity in Adults with Insulin Resistance.",
+        "journal": "The Journal of clinical investigation",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42944764/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42944683",
+        "title": "Simpson's Paradox, Amyloid Paradox, and Racial Differences.",
+        "journal": "JAMA network open",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42942883",
+        "title": "Impact of GLP-1 Receptor Agonists on Cognitive Performance in Adults at Risk of Alzheimer's Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "journal": "Nutrients",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42942883/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42942573",
         "title": "The Interplay Between Oophorectomy and Alzheimer's Disease: A Narrative Review.",
@@ -320,49 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42936341/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42934480",
-        "title": "Motoric Cognitive Risk Syndrome as a Predementia Marker: Insights From a Bibliometric and Visual Analysis.",
-        "journal": "The European journal of neuroscience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934480/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42934475",
-        "title": "How well do dementia risk scores predict dementia? A systematic review and meta-analysis.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934475/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42934351",
-        "title": "Admission Dysphagia Screening and Hospital-Acquired Aspiration Pneumonia in General Wards: A Retrospective Cohort Study.",
-        "journal": "Journal of general internal medicine",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934351/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42930873",
-        "title": "Heart and Brain: Linking Obesity-Related Inflammation, Cardiovascular Disease and Cognitive Function.",
-        "journal": "Journal of cardiovascular development an",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42930873/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42939748",
+        "title": "Deubiquitinating Enzymes in Alzheimer's Disease: From Protein Homeostasis to Diverse Pathological Processes.",
+        "journal": "Biomolecules",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42939748/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42925463",
         "title": "Gut Microbiota in Alzheimer's Disease and Healthy Aging: Mechanisms, Prevention Strategies and Healthcare Burden.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42840727/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42785906",
-        "title": "Circulating biochemical signatures of neurodegeneration in Alzheimer's disease.",
-        "journal": "International review of neurobiology",
-        "year": "2026",
-        "month": "09",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42785906/",
         "zh": "",
         "evidence": "OTHER"
       }
