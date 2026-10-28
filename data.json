@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T03:53:34.368817Z",
+  "updated": "2026-10-28T17:52:41.769853Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,26 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42947278",
+        "title": "Caregiver positivity as a psychosocial modifier of lecanemab-related outcomes in Alzheimer's disease: A multicenter longitudinal study in China.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947278/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42947268",
+        "title": "Cost-effectiveness of lecanemab for early Alzheimer's disease in China.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947268/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42942801",
         "title": "A Systematic Review of Complement-Targeting Therapies for Geographic Atrophy: Insights into Advanced Drug Delivery Systems and Gene-Based Approaches.",
@@ -94,29 +114,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42907679/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42890838",
-        "title": "GLP-1 receptor agonists in Alzheimer's disease and MCI: a meta-analysis.",
-        "journal": "Alzheimer's &amp; dementia (New York, N.",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42890838/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42890315",
-        "title": "Lecanemab-Monoclonal Antibodies for the Treatment of Early Alzheimer's Disease.",
-        "journal": "The Journal of pharmacy technology : jPT",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42890315/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42947251",
+        "title": "Plasma β-synuclein associates with hippocampal synaptic density measured with [11C]UCB-J PET and plasma tau markers in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947251/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42947225",
+        "title": "Short-interval variability and test-retest reliability of Alzheimer's disease plasma biomarkers in a clinically heterogenous cohort.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947225/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42944718",
         "title": "Alzheimer's genetic risk factor CASS4 controls microglial focal adhesion biology and amyloidosis.",
@@ -176,29 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42942158/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42942133",
-        "title": "Aluminum Chloride-Induced Planarian Model with Cognitive Impairments Through Neuronal Damage, Neurotransmitter Imbalance, Apoptosis, and Oxidative Stress.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42942133/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42942122",
-        "title": "α-Halogenated Curcumins Enhance the Binding Affinity and Induced Structural Alterations to Amyloid-β Protein in Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42942122/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42947251",
+        "title": "Plasma β-synuclein associates with hippocampal synaptic density measured with [11C]UCB-J PET and plasma tau markers in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947251/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42947225",
+        "title": "Short-interval variability and test-retest reliability of Alzheimer's disease plasma biomarkers in a clinically heterogenous cohort.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947225/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42944683",
         "title": "Simpson's Paradox, Amyloid Paradox, and Racial Differences.",
@@ -258,29 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42931149/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42927299",
-        "title": "PET-based molecular imaging in neurodegeneration and dementia: current and emerging radiotracers.",
-        "journal": "Radiology advances",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42927299/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42926842",
-        "title": "Analytical performance of a delayed-centrifugation blood collection tube for remote blood biomarker assessment.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42926842/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42949428",
+        "title": "Electroconvulsive Therapy and the Long-Term Risk of Dementia: Conceptual Issues, Methodological Issues, and Recent Findings.",
+        "journal": "The Journal of clinical psychiatry",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42949428/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42948654",
+        "title": "Exercise and white matter hyperintensities: a randomized clinical trial.",
+        "journal": "Brain communications",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42948654/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42947097",
+        "title": "Menopause and Alzheimer's disease: can hormone replacement therapy modify the risk? A narrative review.",
+        "journal": "BMC women's health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947097/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42945950",
         "title": "Amygdala vulnerability in Pick disease with discrete frontotemporal dementia syndromes.",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42942573/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42941970",
-        "title": "HDL Functionality, Cholesterol-Related Biomarkers and Incidence of Dementia: A Case-Cohort Study in Older Adults at High Cardiovascular Risk.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42941970/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42939380",
-        "title": "Cerebral Hemodynamic Patterns in People with Subjective Cognitive Decline: A Systematic Review Based on Functional Near-Infrared Spectroscopy.",
-        "journal": "Brain sciences",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42939380/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42936341",
-        "title": "The unequal cognitive consequences of social disconnection: mechanisms, modifiers and opportunities for dementia prevention.",
-        "journal": "Frontiers in psychiatry",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42936341/",
         "zh": "",
         "evidence": "OTHER"
       }
