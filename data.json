@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T04:16:40.323504Z",
+  "updated": "2026-10-29T18:00:10.489196Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42951976",
+        "title": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
+        "journal": "Nature",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42951976/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42947278",
         "title": "Caregiver positivity as a psychosocial modifier of lecanemab-related outcomes in Alzheimer's disease: A multicenter longitudinal study in China.",
@@ -104,19 +114,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42918974/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42907679",
-        "title": "Real-world safety and efficacy of lecanemab in the treatment of Alzheimer's disease: a systematic review and meta-analysis.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42907679/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42952140",
+        "title": "EEG-based brain effective and functional connectivity predict PET-defined amyloid positivity in cognitively normal individuals.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42952140/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42951564",
+        "title": "Optoelectronically synergized MoS2 field-effect transistor sensor for the detection of Alzheimer's disease biomarker Aβ42.",
+        "journal": "Analytica chimica acta",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42951564/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42951505",
+        "title": "CCA, a cassane diterpene from Caesalpinia bonduc ameliorates cognition impairment in Alzheimer's disease mice by regulating neuroinflammation and autophagy.",
+        "journal": "Chinese journal of natural medicines",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42951505/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42947251",
         "title": "Plasma β-synuclein associates with hippocampal synaptic density measured with [11C]UCB-J PET and plasma tau markers in Alzheimer's disease.",
@@ -166,39 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42943827/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42943797",
-        "title": "Natural Compounds and Their Microbiota-Derived Metabolites as Modulators of the Microbiota-Gut-Brain Axis in Alzheimer Disease: Biochemical Mechanisms and Drug Discovery Insights-A Narrative Review.",
-        "journal": "Molecules (Basel, Switzerland)",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42943797/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42942573",
-        "title": "The Interplay Between Oophorectomy and Alzheimer's Disease: A Narrative Review.",
-        "journal": "Medicina (Kaunas, Lithuania)",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42942573/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42942158",
-        "title": "Safranal, a Natural Neuroprotective Compound, Modulates Plasma Iron Levels, Improves Behavioral Performance, and Demonstrates Dose-Specific Cytoprotection in Alzheimer's Disease Models.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42942158/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42952140",
+        "title": "EEG-based brain effective and functional connectivity predict PET-defined amyloid positivity in cognitively normal individuals.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42952140/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42952081",
+        "title": "MXene-Protein Corona Interfaces for Molecular Profiling of Alzheimer's Disease.",
+        "journal": "ACS applied bio materials",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42952081/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42947251",
         "title": "Plasma β-synuclein associates with hippocampal synaptic density measured with [11C]UCB-J PET and plasma tau markers in Alzheimer's disease.",
@@ -256,26 +276,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42934864/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42934846",
-        "title": "Real-world clinical, biomarker, and imaging outcomes of lecanemab in Alzheimer's disease: a multicenter longitudinal cohort study in Jiangsu, China.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934846/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42931149",
-        "title": "Fluid Biomarkers for the Antemortem Detection of Chronic Traumatic Encephalopathy: A Critical Review.",
-        "journal": "Neurology international",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42931149/",
         "zh": "",
         "evidence": "OTHER"
       }
