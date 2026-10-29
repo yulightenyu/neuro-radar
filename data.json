@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:52:41.769853Z",
+  "updated": "2026-10-29T04:16:40.323504Z",
   "feeds": [
     {
       "id": "drug",
@@ -282,6 +282,36 @@
     ],
     "prev": [
       {
+        "pmid": "42950853",
+        "title": "Predicting Future Long-Term Care Dependency with Explainable Artificial Intelligence Using Administrative Healthcare Data.",
+        "journal": "The Kobe journal of medical sciences",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42950853/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42950712",
+        "title": "Sex-specific associations between Mediterranean Diet Score and long-term risk of mortality, dementia and other chronic diseases. 20-year evidence from a Swedish population study of 70-year old individuals.",
+        "journal": "The journal of nutrition, health &amp; a",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42950712/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42950073",
+        "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multi-Layered Deconstruction Using Global Burden of Disease Study 2023.",
+        "journal": "Neuroepidemiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42950073/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42949428",
         "title": "Electroconvulsive Therapy and the Long-Term Risk of Dementia: Conceptual Issues, Methodological Issues, and Recent Findings.",
         "journal": "The Journal of clinical psychiatry",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42944764/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42944683",
-        "title": "Simpson's Paradox, Amyloid Paradox, and Racial Differences.",
-        "journal": "JAMA network open",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42942883",
-        "title": "Impact of GLP-1 Receptor Agonists on Cognitive Performance in Adults at Risk of Alzheimer's Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42942883/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42942573",
-        "title": "The Interplay Between Oophorectomy and Alzheimer's Disease: A Narrative Review.",
-        "journal": "Medicina (Kaunas, Lithuania)",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42942573/",
         "zh": "",
         "evidence": "OTHER"
       }
