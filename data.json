@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T04:16:35.254680Z",
+  "updated": "2026-10-30T17:42:01.802185Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,76 @@
     ],
     "mech": [
       {
+        "pmid": "42958467",
+        "title": "LncRNA FBXL19-AS1 regulates the miR-650/ITGB3 axis to drive pathological progression in Alzheimer's Disease.",
+        "journal": "Hereditas",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42958467/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42958434",
+        "title": "Neuropathological and vascular determinants of cerebral amyloid angiopathy risk: evidence from the NACC cohort.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42958434/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42958401",
+        "title": "Target-area dosimetry-guided photobiomodulation improves pathology and cognitive function in APPswe/PS1dE9 mice.",
+        "journal": "Journal of translational medicine",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42958401/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42958309",
+        "title": "A prospective observational study measuring the stability of plasma pTau181 using the Elecsys Phospho-Tau (181P) plasma immunoassay for early detection of Alzheimer's disease.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42958309/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42957973",
+        "title": "ARRDC4 drives Tau pathology via USP14-mediated deubiquitination and acts as a novel therapeutic target in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42957973/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42957970",
+        "title": "APOE ε4 gene dose drives a canonical and predictable topography of amyloid deposition.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42957970/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42957838",
+        "title": "Glymphatic Dysfunction as a Multisystem Pathway Linking Systemic Health Conditions to Alzheimer's Disease: Mechanisms, Risk Factors, and Therapeutic Opportunities.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42957838/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42956044",
         "title": "Understanding Glymphatic's Role In Proteinopathies (GRIP): A single centre case-control study protocol.",
         "journal": "PloS one",
@@ -126,79 +196,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42956044/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42953588",
-        "title": "TREM2 Signaling and Alzheimer's Disease: Experimental Modulators, Progress, and Challenges.",
-        "journal": "Drug design, development and therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42953588/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42952670",
-        "title": "Peripheral hematological inflammatory signatures in the amyloid-defined Alzheimer's disease continuum: associations with disease stage, cognitive function, and astroglial activation.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42952670/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42952140",
-        "title": "EEG-based brain effective and functional connectivity predict PET-defined amyloid positivity in cognitively normal individuals.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42952140/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42951564",
-        "title": "Optoelectronically synergized MoS2 field-effect transistor sensor for the detection of Alzheimer's disease biomarker Aβ42.",
-        "journal": "Analytica chimica acta",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42951564/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42951505",
-        "title": "CCA, a cassane diterpene from Caesalpinia bonduc ameliorates cognition impairment in Alzheimer's disease mice by regulating neuroinflammation and autophagy.",
-        "journal": "Chinese journal of natural medicines",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42951505/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42947251",
-        "title": "Plasma β-synuclein associates with hippocampal synaptic density measured with [11C]UCB-J PET and plasma tau markers in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42947251/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42947225",
-        "title": "Short-interval variability and test-retest reliability of Alzheimer's disease plasma biomarkers in a clinically heterogenous cohort.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42947225/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42959066",
+        "title": "Serum neuron-derived extracellular vesicle mitochondrial DNA as a potential biomarker for mild cognitive impairment due to AD.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42959066/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42957985",
+        "title": "Total salvianolic acids protect APP/PS1 mice from Alzheimer's disease by attenuating neuroinflammation through hippocampal lipid regulation.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42957985/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42957617",
+        "title": "Improving the Diagnostic Accuracy of Plasma Alzheimer's Disease Biomarkers With Objective and Subjective Cognitive Screening.",
+        "journal": "Annals of clinical and translational neu",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42957617/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42957394",
         "title": "PET for Evaluation of Neurologic Diseases: Part one: Neurodegenerative Diseases.",
@@ -248,39 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42947251/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42947225",
-        "title": "Short-interval variability and test-retest reliability of Alzheimer's disease plasma biomarkers in a clinically heterogenous cohort.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42947225/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42944683",
-        "title": "Simpson's Paradox, Amyloid Paradox, and Racial Differences.",
-        "journal": "JAMA network open",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42939332",
-        "title": "Age-Stratified Serum Biomarkers for Discriminating Clinically Defined Cognitive Impairment in Neurological Inpatients: A Cross-Sectional Study.",
-        "journal": "Brain sciences",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42939332/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42960263",
+        "title": "Clustering of Cardiovascular Risk Factors in Midlife Forms Trajectories That Affect Heart Aging Biomarker and Incidence of Cardiovascular Disease.",
+        "journal": "Mayo Clinic proceedings. Digital health",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42960263/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42958309",
+        "title": "A prospective observational study measuring the stability of plasma pTau181 using the Elecsys Phospho-Tau (181P) plasma immunoassay for early detection of Alzheimer's disease.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42958309/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42957639",
+        "title": "Artificial intelligence applications in microbiota-gut-brain axis research: Implications for Alzheimer's disease.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42957639/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42954775",
         "title": "Gene-by-Sleep Duration Interaction for Glycemic Traits in More Than 480,000 Individuals.",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42950712/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42950073",
-        "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multi-Layered Deconstruction Using Global Burden of Disease Study 2023.",
-        "journal": "Neuroepidemiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42950073/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42949428",
-        "title": "Electroconvulsive Therapy and the Long-Term Risk of Dementia: Conceptual Issues, Methodological Issues, and Recent Findings.",
-        "journal": "The Journal of clinical psychiatry",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42949428/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42948654",
-        "title": "Exercise and white matter hyperintensities: a randomized clinical trial.",
-        "journal": "Brain communications",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42948654/",
         "zh": "",
         "evidence": "OTHER"
       }
