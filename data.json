@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:00:10.489196Z",
+  "updated": "2026-10-30T04:16:35.254680Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42956044",
+        "title": "Understanding Glymphatic's Role In Proteinopathies (GRIP): A single centre case-control study protocol.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42956044/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42953588",
+        "title": "TREM2 Signaling and Alzheimer's Disease: Experimental Modulators, Progress, and Challenges.",
+        "journal": "Drug design, development and therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42953588/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42952670",
+        "title": "Peripheral hematological inflammatory signatures in the amyloid-defined Alzheimer's disease continuum: associations with disease stage, cognitive function, and astroglial activation.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42952670/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42952140",
         "title": "EEG-based brain effective and functional connectivity predict PET-defined amyloid positivity in cognitively normal individuals.",
         "journal": "Alzheimer's &amp; dementia : the journal",
@@ -166,39 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42947225/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42944718",
-        "title": "Alzheimer's genetic risk factor CASS4 controls microglial focal adhesion biology and amyloidosis.",
-        "journal": "The Journal of experimental medicine",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42944718/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42944683",
-        "title": "Simpson's Paradox, Amyloid Paradox, and Racial Differences.",
-        "journal": "JAMA network open",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42943827",
-        "title": "Investigation of Potential Mechanisms of Yerba Santa Compounds Against Alzheimer's Disease.",
-        "journal": "Molecules (Basel, Switzerland)",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42943827/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42957394",
+        "title": "PET for Evaluation of Neurologic Diseases: Part one: Neurodegenerative Diseases.",
+        "journal": "Radiologic clinics of North America",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42957394/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42952670",
+        "title": "Peripheral hematological inflammatory signatures in the amyloid-defined Alzheimer's disease continuum: associations with disease stage, cognitive function, and astroglial activation.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42952670/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42952140",
         "title": "EEG-based brain effective and functional connectivity predict PET-defined amyloid positivity in cognitively normal individuals.",
@@ -258,29 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42939332/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42935659",
-        "title": "Symmetric Centipolar Normalized Score (SCeNS): A standardization framework for fluid marker cross-comparability in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42935659/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42934864",
-        "title": "Phase 3 randomized trial of latozinemab in frontotemporal dementia due to GRN mutations.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934864/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42954775",
+        "title": "Gene-by-Sleep Duration Interaction for Glycemic Traits in More Than 480,000 Individuals.",
+        "journal": "Diabetes",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42954775/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42953974",
+        "title": "Alzheimer's pathology mediates arteriolosclerosis and cerebral amyloid angiopathy associations with cognition.",
+        "journal": "Brain : a journal of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42953974/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42953343",
+        "title": "Mediterranean Diet Adherence and Cognitive Function in Older Adults: Heterogeneity in the Association Across BMI Categories.",
+        "journal": "International journal of endocrinology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42953343/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42950853",
         "title": "Predicting Future Long-Term Care Dependency with Explainable Artificial Intelligence Using Administrative Healthcare Data.",
@@ -330,39 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42948654/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42947097",
-        "title": "Menopause and Alzheimer's disease: can hormone replacement therapy modify the risk? A narrative review.",
-        "journal": "BMC women's health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42947097/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42945950",
-        "title": "Amygdala vulnerability in Pick disease with discrete frontotemporal dementia syndromes.",
-        "journal": "Brain pathology (Zurich, Switzerland)",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42945950/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42944764",
-        "title": "Metformin Preserves Regional Brain Glucose Uptake, Structure, and Functional Connectivity in Adults with Insulin Resistance.",
-        "journal": "The Journal of clinical investigation",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42944764/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42953588",
+        "title": "TREM2 Signaling and Alzheimer's Disease: Experimental Modulators, Progress, and Challenges.",
+        "journal": "Drug design, development and therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42953588/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42939748",
         "title": "Deubiquitinating Enzymes in Alzheimer's Disease: From Protein Homeostasis to Diverse Pathological Processes.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42844735/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42840727",
-        "title": "Dysregulated mRNA Translation in Alzheimer's Disease: Mechanisms, Therapeutic Opportunities, and Challenges for Clinical Translation.",
-        "journal": "Clinical interventions in aging",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42840727/",
         "zh": "",
         "evidence": "OTHER"
       }
