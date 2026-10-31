@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:42:01.802185Z",
+  "updated": "2026-10-31T03:57:26.764973Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42961631",
+        "title": "Cost-Effectiveness Analysis of Disease-Modifying Therapies for Early Alzheimer's Disease in China.",
+        "journal": "Neurology and therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42961631/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42951976",
         "title": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
@@ -102,16 +112,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42934592/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42918974",
-        "title": "Gut-brain axis in Alzheimer's disease: neuroinflammatory mechanisms and immunopharmacological interventions.",
-        "journal": "Inflammopharmacology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42918974/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "42963006",
+        "title": "Sex-Specific Classification Models for Cognitive Function in Cerebral Small Vessel Disease Based on MRE and Machine Learning.",
+        "journal": "Brain research bulletin",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42963006/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42960263",
         "title": "Clustering of Cardiovascular Risk Factors in Midlife Forms Trajectories That Affect Heart Aging Biomarker and Incidence of Cardiovascular Disease.",
         "journal": "Mayo Clinic proceedings. Digital health",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42950853/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42950712",
-        "title": "Sex-specific associations between Mediterranean Diet Score and long-term risk of mortality, dementia and other chronic diseases. 20-year evidence from a Swedish population study of 70-year old individuals.",
-        "journal": "The journal of nutrition, health &amp; a",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42950712/",
         "zh": "",
         "evidence": "OTHER"
       }
