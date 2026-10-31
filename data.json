@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:57:26.764973Z",
+  "updated": "2026-10-31T16:47:21.679457Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42963336",
+        "title": "Polygenic risk scores for LATE-neuropathologic change: Implications for clinical utility.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42963336/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42958467",
         "title": "LncRNA FBXL19-AS1 regulates the miR-650/ITGB3 axis to drive pathological progression in Alzheimer's Disease.",
         "journal": "Hereditas",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42957838/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42956044",
-        "title": "Understanding Glymphatic's Role In Proteinopathies (GRIP): A single centre case-control study protocol.",
-        "journal": "PloS one",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42956044/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,36 @@
     ],
     "prev": [
       {
+        "pmid": "42963588",
+        "title": "Stroke-CORE: master study protocol of the national cohort of the specialty network stroke within the network university medicine in Germany.",
+        "journal": "Neurological research and practice",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42963588/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42963367",
+        "title": "Mitochondrial complex IV disruption is a detrimental pathology conferring ssusceptibility to alzheimer's disease.",
+        "journal": "Molecular psychiatry",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42963367/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42963327",
+        "title": "Retinal microvasculature alterations are associated with mild behavioral impairment in Southeast Asian dementia-free older adults.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42963327/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42963006",
         "title": "Sex-Specific Classification Models for Cognitive Function in Cerebral Small Vessel Disease Based on MRE and Machine Learning.",
         "journal": "Brain research bulletin",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42954775/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42953974",
-        "title": "Alzheimer's pathology mediates arteriolosclerosis and cerebral amyloid angiopathy associations with cognition.",
-        "journal": "Brain : a journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42953974/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42953343",
-        "title": "Mediterranean Diet Adherence and Cognitive Function in Older Adults: Heterogeneity in the Association Across BMI Categories.",
-        "journal": "International journal of endocrinology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42953343/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42950853",
-        "title": "Predicting Future Long-Term Care Dependency with Explainable Artificial Intelligence Using Administrative Healthcare Data.",
-        "journal": "The Kobe journal of medical sciences",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42950853/",
         "zh": "",
         "evidence": "OTHER"
       }
