@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:47:21.679457Z",
+  "updated": "2026-11-01T04:13:41.817350Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42965692",
+        "title": "ESR Essentials: susceptibility-weighted imaging-practice recommendations by the European Society for Magnetic Resonance in Medicine and Biology.",
+        "journal": "European radiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965692/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42961631",
         "title": "Cost-Effectiveness Analysis of Disease-Modifying Therapies for Early Alzheimer's Disease in China.",
@@ -104,19 +114,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42934846/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42934592",
-        "title": "Spectrum of amyloid-related imaging abnormalities associated with aducanumab treatment: a case series report.",
-        "journal": "BMC neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42934592/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42965728",
+        "title": "Intracerebral Administration of a Novel, Bioactive Peptide Induces a Biochemical Profile in Rat Brain Reminiscent of Alzheimer's Disease.",
+        "journal": "Neurochemical research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965728/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42965717",
+        "title": "Revealing Pharmacological Target for Comorbid Epilepsy in Alzheimer's Disease: Neurochemical Insights from STZ Mice.",
+        "journal": "Neurochemical research",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965717/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42965704",
+        "title": "Leveraging immunoprecipitation mass spectrometry and neuropathology to identify the clinical value of different blood tau species in Alzheimer's disease.",
+        "journal": "Journal of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965704/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42965095",
+        "title": "Rapidly Progressive Alzheimer's Disease: Candidate Mechanisms and Diagnostic Challenges.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965095/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42963336",
         "title": "Polygenic risk scores for LATE-neuropathologic change: Implications for clinical utility.",
@@ -156,49 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42958401/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42958309",
-        "title": "A prospective observational study measuring the stability of plasma pTau181 using the Elecsys Phospho-Tau (181P) plasma immunoassay for early detection of Alzheimer's disease.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42958309/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42957973",
-        "title": "ARRDC4 drives Tau pathology via USP14-mediated deubiquitination and acts as a novel therapeutic target in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42957973/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42957970",
-        "title": "APOE ε4 gene dose drives a canonical and predictable topography of amyloid deposition.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42957970/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42957838",
-        "title": "Glymphatic Dysfunction as a Multisystem Pathway Linking Systemic Health Conditions to Alzheimer's Disease: Mechanisms, Risk Factors, and Therapeutic Opportunities.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42957838/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42965704",
+        "title": "Leveraging immunoprecipitation mass spectrometry and neuropathology to identify the clinical value of different blood tau species in Alzheimer's disease.",
+        "journal": "Journal of neurology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965704/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42965095",
+        "title": "Rapidly Progressive Alzheimer's Disease: Candidate Mechanisms and Diagnostic Challenges.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965095/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42959066",
         "title": "Serum neuron-derived extracellular vesicle mitochondrial DNA as a potential biomarker for mild cognitive impairment due to AD.",
@@ -256,26 +276,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42952140/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42952081",
-        "title": "MXene-Protein Corona Interfaces for Molecular Profiling of Alzheimer's Disease.",
-        "journal": "ACS applied bio materials",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42952081/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42947251",
-        "title": "Plasma β-synuclein associates with hippocampal synaptic density measured with [11C]UCB-J PET and plasma tau markers in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42947251/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -364,6 +364,16 @@
     ],
     "intro": [
       {
+        "pmid": "42965095",
+        "title": "Rapidly Progressive Alzheimer's Disease: Candidate Mechanisms and Diagnostic Challenges.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965095/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42953588",
         "title": "TREM2 Signaling and Alzheimer's Disease: Experimental Modulators, Progress, and Challenges.",
         "journal": "Drug design, development and therapy",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42850455/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42844735",
-        "title": "Alzheimer's disease and olfactory dysfunction: A 20-year systematic bibliometric and genomic analysis.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42844735/",
         "zh": "",
         "evidence": "OTHER"
       }
