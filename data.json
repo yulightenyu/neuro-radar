@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T04:16:43.020641Z",
+  "updated": "2026-11-02T21:22:51.220220Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,82 +118,82 @@
     ],
     "mech": [
       {
-        "pmid": "42967243",
-        "title": "Targeting RIPK1-NF-κB crosstalk: A novel perspective on necroptosis in Alzheimer's Disease.",
-        "journal": "Molecular biology reports",
+        "pmid": "42969854",
+        "title": "ADInteractome: discovering Alzheimer's disease-associated gene interactions from single-nucleus RNA-seq data through neural interaction states.",
+        "journal": "Briefings in bioinformatics",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42967243/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42969854/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42965728",
-        "title": "Intracerebral Administration of a Novel, Bioactive Peptide Induces a Biochemical Profile in Rat Brain Reminiscent of Alzheimer's Disease.",
-        "journal": "Neurochemical research",
+        "pmid": "42969705",
+        "title": "Proteomics Reveals Blood-Brain Barrier Membrane Protein Remodeling in Amyloid-β Pathology.",
+        "journal": "Molecular pharmaceutics",
         "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42965728/",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42969705/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42965717",
-        "title": "Revealing Pharmacological Target for Comorbid Epilepsy in Alzheimer's Disease: Neurochemical Insights from STZ Mice.",
-        "journal": "Neurochemical research",
+        "pmid": "42969693",
+        "title": "Iron Boride Nanostructures as Oral Acid-Responsive Hydrogen Donors for Alzheimer's Disease Therapy.",
+        "journal": "Molecular pharmaceutics",
         "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42965717/",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42969693/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42965704",
-        "title": "Leveraging immunoprecipitation mass spectrometry and neuropathology to identify the clinical value of different blood tau species in Alzheimer's disease.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42965704/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42965095",
-        "title": "Rapidly Progressive Alzheimer's Disease: Candidate Mechanisms and Diagnostic Challenges.",
+        "pmid": "42968820",
+        "title": "Language Impairment in Alzheimer's Disease: An Updated Narrative Review of Digital Assessment, Social Interventions, and Medical Treatment, 2016-2026.",
         "journal": "Clinical interventions in aging",
         "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42965095/",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42968820/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42963336",
-        "title": "Polygenic risk scores for LATE-neuropathologic change: Implications for clinical utility.",
+        "pmid": "42968523",
+        "title": "Beyond the Microbial Hypothesis: Shared Genetic, Osteoimmune and Vascular Mechanisms in the Oral-Brain Axis Linking Periodontitis and Alzheimer's Disease.",
+        "journal": "The European journal of neuroscience",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42968523/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42968096",
+        "title": "Impact of heat-induced retrieval methods on silver staining for detecting senile plaques of Alzheimer's disease in human brain tissue sections.",
+        "journal": "Diagnostic pathology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42968096/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42967602",
+        "title": "Association of neighborhood deprivation with Alzheimer's disease pathology, brain structure, and cognition by race and ethnicity, sex, and APOE ε4 status.",
         "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42963336/",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42967602/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42958467",
-        "title": "LncRNA FBXL19-AS1 regulates the miR-650/ITGB3 axis to drive pathological progression in Alzheimer's Disease.",
-        "journal": "Hereditas",
+        "pmid": "42967588",
+        "title": "Chronic kidney disease and blood-based biomarkers of Alzheimer's disease: the brain in kidney disease study.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42958467/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42958434",
-        "title": "Neuropathological and vascular determinants of cerebral amyloid angiopathy risk: evidence from the NACC cohort.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42958434/",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42967588/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,26 @@
     ],
     "prev": [
       {
+        "pmid": "42969380",
+        "title": "Joint associations of handgrip strength and chair-stand performance with motoric cognitive risk syndrome in older adults.",
+        "journal": "The journals of gerontology. Series A, B",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42969380/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42968143",
+        "title": "Association of platelet count with incident motoric cognitive risk syndrome among Chinese adults aged 60 years or older: a national prospective cohort study.",
+        "journal": "Thrombosis journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42968143/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42963588",
         "title": "Stroke-CORE: master study protocol of the national cohort of the specialty network stroke within the network university medicine in Germany.",
         "journal": "Neurological research and practice",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42958309/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42957639",
-        "title": "Artificial intelligence applications in microbiota-gut-brain axis research: Implications for Alzheimer's disease.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42957639/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42954775",
-        "title": "Gene-by-Sleep Duration Interaction for Glycemic Traits in More Than 480,000 Individuals.",
-        "journal": "Diabetes",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42954775/",
         "zh": "",
         "evidence": "OTHER"
       }
