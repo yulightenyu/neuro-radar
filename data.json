@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T21:22:51.220220Z",
+  "updated": "2026-11-03T05:14:59.781991Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42970748",
+        "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42970748/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42969854",
         "title": "ADInteractome: discovering Alzheimer's disease-associated gene interactions from single-nucleus RNA-seq data through neural interaction states.",
         "journal": "Briefings in bioinformatics",
@@ -186,19 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42967602/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42967588",
-        "title": "Chronic kidney disease and blood-based biomarkers of Alzheimer's disease: the brain in kidney disease study.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42967588/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42970748",
+        "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42970748/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42970319",
+        "title": "Baseline Physical Frailty Predicts Clinical Outcomes During Lecanemab Therapy in Early Alzheimer's Disease: A Prospective Real-World Cohort Study.",
+        "journal": "Aging and disease",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42970319/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42965704",
         "title": "Leveraging immunoprecipitation mass spectrometry and neuropathology to identify the clinical value of different blood tau species in Alzheimer's disease.",
@@ -258,29 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42957394/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42952670",
-        "title": "Peripheral hematological inflammatory signatures in the amyloid-defined Alzheimer's disease continuum: associations with disease stage, cognitive function, and astroglial activation.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42952670/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42952140",
-        "title": "EEG-based brain effective and functional connectivity predict PET-defined amyloid positivity in cognitively normal individuals.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42952140/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42971235",
+        "title": "Efficacy and safety of statin discontinuation in patients 65 years and older according to frailty status: a population-wide retrospective cohort study in England using Clinical Practice Research Datalink data.",
+        "journal": "The lancet. Healthy longevity",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42971235/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42971073",
+        "title": "Comparative Population Impact of Oral Health and Established Modifiable Risk Factors for Dementia: A 9-Year Population-Based Cohort Study.",
+        "journal": "Journal of the American Medical Director",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42971073/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42969380",
         "title": "Joint associations of handgrip strength and chair-stand performance with motoric cognitive risk syndrome in older adults.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42963006/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42960263",
-        "title": "Clustering of Cardiovascular Risk Factors in Midlife Forms Trajectories That Affect Heart Aging Biomarker and Incidence of Cardiovascular Disease.",
-        "journal": "Mayo Clinic proceedings. Digital health",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42960263/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42958309",
-        "title": "A prospective observational study measuring the stability of plasma pTau181 using the Elecsys Phospho-Tau (181P) plasma immunoassay for early detection of Alzheimer's disease.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42958309/",
         "zh": "",
         "evidence": "OTHER"
       }
