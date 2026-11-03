@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T05:14:59.781991Z",
+  "updated": "2026-11-03T19:00:38.972632Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42974248",
+        "title": "Cancer-Alzheimer inverse comorbidity from epidemiology to protein self-assembly.",
+        "journal": "Frontiers in endocrinology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42974248/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42974031",
+        "title": "Utility of extracellular vesicles in the diagnosis of central nervous system diseases.",
+        "journal": "Frontiers in neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42974031/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42973250",
+        "title": "[Cerebral amyloid angiopathy].",
+        "journal": "Zhurnal nevrologii i psikhiatrii imeni S",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42973250/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42970748",
         "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
         "journal": "Neurology",
@@ -166,39 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42968820/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42968523",
-        "title": "Beyond the Microbial Hypothesis: Shared Genetic, Osteoimmune and Vascular Mechanisms in the Oral-Brain Axis Linking Periodontitis and Alzheimer's Disease.",
-        "journal": "The European journal of neuroscience",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42968523/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42968096",
-        "title": "Impact of heat-induced retrieval methods on silver staining for detecting senile plaques of Alzheimer's disease in human brain tissue sections.",
-        "journal": "Diagnostic pathology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42968096/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42967602",
-        "title": "Association of neighborhood deprivation with Alzheimer's disease pathology, brain structure, and cognition by race and ethnicity, sex, and APOE ε4 status.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42967602/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42973291",
+        "title": "Artificial Intelligence-integrated Multimodal Neural Biomarkers for Early Risk Stratification in Preclinical Alzheimer's Disease.",
+        "journal": "Current neurovascular research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42973291/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42970748",
         "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
@@ -268,19 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42957617/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42957394",
-        "title": "PET for Evaluation of Neurologic Diseases: Part one: Neurodegenerative Diseases.",
-        "journal": "Radiologic clinics of North America",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42957394/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42973746",
+        "title": "Socio-clinical profiles and life satisfaction (LS) in individuals with emerging cognitive disorders (MCI or iSCCs) a multicenter cross-sectional study in French university-affiliated memory clinics.",
+        "journal": "Journal of public health research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42973746/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42973658",
+        "title": "Dementia knowledge, risk reduction awareness, misconceptions, and stigma in Kuwait: a cross-sectional study.",
+        "journal": "Frontiers in public health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42973658/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42971235",
         "title": "Efficacy and safety of statin discontinuation in patients 65 years and older according to frailty status: a population-wide retrospective cohort study in England using Clinical Practice Research Datalink data.",
@@ -336,33 +356,23 @@
         "title": "Mitochondrial complex IV disruption is a detrimental pathology conferring ssusceptibility to alzheimer's disease.",
         "journal": "Molecular psychiatry",
         "year": "2026",
-        "month": "10",
+        "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42963367/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42963327",
-        "title": "Retinal microvasculature alterations are associated with mild behavioral impairment in Southeast Asian dementia-free older adults.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42963327/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42963006",
-        "title": "Sex-Specific Classification Models for Cognitive Function in Cerebral Small Vessel Disease Based on MRE and Machine Learning.",
-        "journal": "Brain research bulletin",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42963006/",
         "zh": "",
         "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42973248",
+        "title": "[Modifiable risk factors for Alzheimer's disease].",
+        "journal": "Zhurnal nevrologii i psikhiatrii imeni S",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42973248/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42965095",
         "title": "Rapidly Progressive Alzheimer's Disease: Candidate Mechanisms and Diagnostic Challenges.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42863225/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42850455",
-        "title": "Organizing healthcare delivery in the era of disease-modifying therapies for Alzheimer's Disease: an Italian RAND/UCLA consensus.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42850455/",
         "zh": "",
         "evidence": "OTHER"
       }
