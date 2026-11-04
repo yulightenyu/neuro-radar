@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T19:00:38.972632Z",
+  "updated": "2026-11-04T04:44:48.896780Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "42976132",
+        "title": "Unveiling the neuroinflammatory potential of aspartame in Alzheimer's disease: A comprehensive network toxicology and experimental validation approach.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42976132/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42975926",
+        "title": "Hepatocyte-derived exosomal miR-122 mediates liver-to-brain crosstalk and neuroinflammation in alcohol-exposed Alzheimer's disease mice.",
+        "journal": "Proceedings of the National Academy of S",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42975926/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42975760",
+        "title": "Exploring the neuroprotective potential of trigonelline as a multitarget therapeutic candidate for Alzheimer's disease: network pharmacology, molecular docking, molecular dynamics, DFT analysis and in vitro studies.",
+        "journal": "Journal of molecular modeling",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42975760/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42974248",
         "title": "Cancer-Alzheimer inverse comorbidity from epidemiology to protein self-assembly.",
         "journal": "Frontiers in endocrinology",
@@ -164,36 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42969854/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42969705",
-        "title": "Proteomics Reveals Blood-Brain Barrier Membrane Protein Remodeling in Amyloid-β Pathology.",
-        "journal": "Molecular pharmaceutics",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42969705/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42969693",
-        "title": "Iron Boride Nanostructures as Oral Acid-Responsive Hydrogen Donors for Alzheimer's Disease Therapy.",
-        "journal": "Molecular pharmaceutics",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42969693/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42968820",
-        "title": "Language Impairment in Alzheimer's Disease: An Updated Narrative Review of Digital Assessment, Social Interventions, and Medical Treatment, 2016-2026.",
-        "journal": "Clinical interventions in aging",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42968820/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "42976393",
+        "title": "The healthcare cost of multimorbidity in older patients with atrial fibrillation: A retrospective cohort study in an Italian local health unit.",
+        "journal": "Health policy (Amsterdam, Netherlands)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42976393/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42973746",
         "title": "Socio-clinical profiles and life satisfaction (LS) in individuals with emerging cognitive disorders (MCI or iSCCs) a multicenter cross-sectional study in French university-affiliated memory clinics.",
         "journal": "Journal of public health research",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42963588/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42963367",
-        "title": "Mitochondrial complex IV disruption is a detrimental pathology conferring ssusceptibility to alzheimer's disease.",
-        "journal": "Molecular psychiatry",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42963367/",
         "zh": "",
         "evidence": "OTHER"
       }
