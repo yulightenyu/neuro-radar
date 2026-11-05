@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T04:58:56.822651Z",
+  "updated": "2026-11-05T19:28:33.860064Z",
   "feeds": [
     {
       "id": "drug",
@@ -34,10 +34,415 @@
     }
   ],
   "items": {
-    "drug": [],
-    "mech": [],
-    "dx": [],
-    "prev": [],
-    "intro": []
+    "drug": [
+      {
+        "pmid": "42979167",
+        "title": "Emerging and Repurposed Immune System Modulators for Alzheimer's Disease.",
+        "journal": "Drug design, development and therapy",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42979167/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42965692",
+        "title": "ESR Essentials: susceptibility-weighted imaging-practice recommendations by the European Society for Magnetic Resonance in Medicine and Biology.",
+        "journal": "European radiology",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965692/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42961631",
+        "title": "Cost-Effectiveness Analysis of Disease-Modifying Therapies for Early Alzheimer's Disease in China.",
+        "journal": "Neurology and therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42961631/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42951976",
+        "title": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
+        "journal": "Nature",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42951976/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42947278",
+        "title": "Caregiver positivity as a psychosocial modifier of lecanemab-related outcomes in Alzheimer's disease: A multicenter longitudinal study in China.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947278/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42947268",
+        "title": "Cost-effectiveness of lecanemab for early Alzheimer's disease in China.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42947268/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42942801",
+        "title": "A Systematic Review of Complement-Targeting Therapies for Geographic Atrophy: Insights into Advanced Drug Delivery Systems and Gene-Based Approaches.",
+        "journal": "Pharmaceutics",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42942801/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42941873",
+        "title": "Peptides and Peptide Analogues Targeting Acetylcholinesterase-Associated Mechanisms in Alzheimer's Disease and Dementias: Evidence Gaps, Design Strategies, and Translational Perspectives.",
+        "journal": "International journal of molecular scien",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42941873/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "mech": [
+      {
+        "pmid": "42985938",
+        "title": "On the Need to Revise the Amyloid Cascade Hypothesis.",
+        "journal": "Chembiochem : a European journal of chem",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42985938/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42984379",
+        "title": "Mechanistic understanding of the role of the lung-brain axis in the pathogenesis of PM2.5-induced Alzheimer's disease.",
+        "journal": "Clinical science (London, England : 1979",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42984379/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42984124",
+        "title": "Intrathecal Transplantation of Human Umbilical Cord-Derived MSCs Outperforms Intravenous Administration in Attenuating Pathology and Cognitive Deficits in Alzheimer's Disease Mice.",
+        "journal": "CNS neuroscience &amp; therapeutics",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42984124/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42982855",
+        "title": "APOE2 attenuates APOE4-associated amyloid pathology and related toxicity in a mouse model of Alzheimer's disease.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42982855/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42982755",
+        "title": "Locus coeruleus microstructural integrity and sleep disruption in the context of Alzheimer's disease pathology.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42982755/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42982748",
+        "title": "Validation of plasma biomarker immunoassay-based models for predicting brain amyloid positivity in cognitively impaired individuals.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42982748/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42982738",
+        "title": "Stable episodic memory and higher education do not influence the rate of Alzheimer's disease pathology as measured by plasma p-tau217.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42982738/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42981558",
+        "title": "Reproductive Lifespan and Hormonal Therapy in Relation to Later-Life Neurovascular Health in Community-Dwelling Older Women.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42981558/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "dx": [
+      {
+        "pmid": "42985912",
+        "title": "Matrix Matters: Head-To-Head Concordance of Serum and Plasma for NULISAseq CNS Disease Panel.",
+        "journal": "Journal of neurochemistry",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42985912/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42982748",
+        "title": "Validation of plasma biomarker immunoassay-based models for predicting brain amyloid positivity in cognitively impaired individuals.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42982748/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42982738",
+        "title": "Stable episodic memory and higher education do not influence the rate of Alzheimer's disease pathology as measured by plasma p-tau217.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42982738/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42981430",
+        "title": "Distinct tau PET dynamics in early versus late age-of-onset Alzheimer's disease.",
+        "journal": "Science translational medicine",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42981430/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42980691",
+        "title": "Progress towards improving mouse models for preclinical testing of treatments for Alzheimer's disease.",
+        "journal": "Mammalian genome : official journal of t",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42980691/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42977753",
+        "title": "Vasomechanic treatment is associated with increased efflux of human brain proteins.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42977753/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42973291",
+        "title": "Artificial Intelligence-integrated Multimodal Neural Biomarkers for Early Risk Stratification in Preclinical Alzheimer's Disease.",
+        "journal": "Current neurovascular research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42973291/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42970748",
+        "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42970748/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "prev": [
+      {
+        "pmid": "42985910",
+        "title": "Childhood Trauma and APOEε4 Are Associated With Patterns of Developmental Frontal Alpha Connectivity, Posttraumatic Stress, and Alcohol-Related Outcomes.",
+        "journal": "Genes, brain, and behavior",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42985910/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42982348",
+        "title": "Statin use and depression in older adults: a target trial emulation with implication for prevention and long-term management.",
+        "journal": "Journal of affective disorders",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42982348/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42981611",
+        "title": "Long-term sequelae of transient global amnesia: A systematic review and meta-analysis.",
+        "journal": "Clinical neurology and neurosurgery",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42981611/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42981415",
+        "title": "A functional connectome identifies vulnerability to cognitive decline and Alzheimer's disease progression.",
+        "journal": "Science advances",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42981415/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42978818",
+        "title": "Predicting mild cognitive impairment from simulated driving performance: A preliminary investigation.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42978818/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42978662",
+        "title": "Automated temporal analysis reveals stress-induced protracted feeding regulated by mesolimbic dopamine in mice.",
+        "journal": "Frontiers in neuroscience",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42978662/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42978421",
+        "title": "Cerebral amyloid PET in obstructive sleep apnoea: a systematic review and exploratory meta-analysis.",
+        "journal": "Nuclear medicine communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42978421/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42976393",
+        "title": "The healthcare cost of multimorbidity in older patients with atrial fibrillation: A retrospective cohort study in an Italian local health unit.",
+        "journal": "Health policy (Amsterdam, Netherlands)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42976393/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ],
+    "intro": [
+      {
+        "pmid": "42980983",
+        "title": "Neuropharmacological effects of Salvia officinalis: molecular mechanisms, preclinical evidence, and clinical potential.",
+        "journal": "Molecular biology reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42980983/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42980874",
+        "title": "A narrative review of rare variants in Alzheimer's disease: diverse populations inform diverse mechanisms.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42980874/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42979167",
+        "title": "Emerging and Repurposed Immune System Modulators for Alzheimer's Disease.",
+        "journal": "Drug design, development and therapy",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42979167/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42973248",
+        "title": "[Modifiable risk factors for Alzheimer's disease].",
+        "journal": "Zhurnal nevrologii i psikhiatrii imeni S",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42973248/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42965095",
+        "title": "Rapidly Progressive Alzheimer's Disease: Candidate Mechanisms and Diagnostic Challenges.",
+        "journal": "Clinical interventions in aging",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42965095/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42953588",
+        "title": "TREM2 Signaling and Alzheimer's Disease: Experimental Modulators, Progress, and Challenges.",
+        "journal": "Drug design, development and therapy",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42953588/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42939748",
+        "title": "Deubiquitinating Enzymes in Alzheimer's Disease: From Protein Homeostasis to Diverse Pathological Processes.",
+        "journal": "Biomolecules",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42939748/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42925463",
+        "title": "Gut Microbiota in Alzheimer's Disease and Healthy Aging: Mechanisms, Prevention Strategies and Healthcare Burden.",
+        "journal": "Current nutrition reports",
+        "year": "2026",
+        "month": "10",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42925463/",
+        "zh": "",
+        "evidence": "OTHER"
+      }
+    ]
   }
 }
