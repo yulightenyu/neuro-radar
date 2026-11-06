@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T04:59:18.926402Z",
+  "updated": "2026-11-06T18:51:51.520342Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42988979",
+        "title": "Amyloid PET is a cost-effective exam to monitor Donanemab treatment in Alzheimer's disease.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42988979/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42979167",
         "title": "Emerging and Repurposed Immune System Modulators for Alzheimer's Disease.",
@@ -104,19 +114,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42942801/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42941873",
-        "title": "Peptides and Peptide Analogues Targeting Acetylcholinesterase-Associated Mechanisms in Alzheimer's Disease and Dementias: Evidence Gaps, Design Strategies, and Translational Perspectives.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42941873/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42992898",
+        "title": "Mapping the Landscape of Tau Post-translational Modifications and Kinase-Specific Phosphorylation Signatures by Orthogonal CZE-MS/MS and NanoRPLC-MS/MS.",
+        "journal": "Journal of proteome research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42992898/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42992893",
+        "title": "Brain Region-Specific Peptide and Proteomic Signatures Inform Alzheimer's Disease Biomarker Panels.",
+        "journal": "Journal of proteome research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42992893/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42992662",
+        "title": "Age-linked biological context shapes adaptive immunity in Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42992662/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42989710",
+        "title": "Push-pull hypothesis of Alzheimer's disease.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42989710/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42989530",
+        "title": "Disease progression in probable limbic-predominant age-related TDP-43 encephalopathy.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42989530/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42988805",
+        "title": "Exploring the relationship between methylation of the cortisol receptor genes and brain and cognitive outcomes in individuals with elevated amyloid-β.",
+        "journal": "Translational psychiatry",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42988805/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42987245",
         "title": "Association of LATE-NC With Neuropathologic Lesions and Cognitive Abilities: A Population-Based Autopsy Study.",
@@ -136,69 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42986976/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42986540",
-        "title": "7-Hydroxyflavone Attenuates Amyloid-β-Induced Alzheimer's Disease-Like Pathology Through Modulation of ROS/NLRP3 Inflammasome Signaling.",
-        "journal": "Neurochemical research",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42986540/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42986483",
-        "title": "Astrocytic endoplasmic reticulum stress as an amplifier of neuroinflammation and neurodegeneration in Alzheimer's disease: a narrative review.",
-        "journal": "Immunologic research",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42986483/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42985938",
-        "title": "On the Need to Revise the Amyloid Cascade Hypothesis.",
-        "journal": "Chembiochem : a European journal of chem",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42985938/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42984379",
-        "title": "Mechanistic understanding of the role of the lung-brain axis in the pathogenesis of PM2.5-induced Alzheimer's disease.",
-        "journal": "Clinical science (London, England : 1979",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42984379/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42984124",
-        "title": "Intrathecal Transplantation of Human Umbilical Cord-Derived MSCs Outperforms Intravenous Administration in Attenuating Pathology and Cognitive Deficits in Alzheimer's Disease Mice.",
-        "journal": "CNS neuroscience &amp; therapeutics",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42984124/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42982855",
-        "title": "APOE2 attenuates APOE4-associated amyloid pathology and related toxicity in a mouse model of Alzheimer's disease.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42982855/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42988979",
+        "title": "Amyloid PET is a cost-effective exam to monitor Donanemab treatment in Alzheimer's disease.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42988979/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42986928",
         "title": "An Electrochemiluminescence Biosensing Platform Based on a Hydrogel-AAO Nanochannel Membrane for GFAP Detection.",
@@ -268,19 +278,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42977753/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42973291",
-        "title": "Artificial Intelligence-integrated Multimodal Neural Biomarkers for Early Risk Stratification in Preclinical Alzheimer's Disease.",
-        "journal": "Current neurovascular research",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42973291/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42992391",
+        "title": "Association of the Geriatric Nutritional Risk Index with incident cognitive impairment and longitudinal cognitive trajectories in older adults.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42992391/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42991179",
+        "title": "Modifiable risk factors for mild cognitive impairment: Insights from a 7-year follow-up cohort study among Shanghai community-dwelling older adults.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42991179/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42989317",
+        "title": "Correction: Explaining the association between social and lifestyle factors and cognitive functions: a pathway analysis in the Memento cohort.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42989317/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42989128",
+        "title": "Disease susceptibility and risk of dementia in patients with chronic kidney disease: a prospective cohort study based on UK Biobank.",
+        "journal": "BMC neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42989128/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42988805",
+        "title": "Exploring the relationship between methylation of the cortisol receptor genes and brain and cognitive outcomes in individuals with elevated amyloid-β.",
+        "journal": "Translational psychiatry",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42988805/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42987451",
         "title": "Incidence, Temporal Trends, and Associated Characteristics of Hip Fracture in Long-Term Care Residents: A Population-Based Cohort Study in British Columbia.",
@@ -308,56 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42986431/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42985910",
-        "title": "Childhood Trauma and APOEε4 Are Associated With Patterns of Developmental Frontal Alpha Connectivity, Posttraumatic Stress, and Alcohol-Related Outcomes.",
-        "journal": "Genes, brain, and behavior",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42985910/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42982348",
-        "title": "Statin use and depression in older adults: a target trial emulation with implication for prevention and long-term management.",
-        "journal": "Journal of affective disorders",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42982348/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42981611",
-        "title": "Long-term sequelae of transient global amnesia: A systematic review and meta-analysis.",
-        "journal": "Clinical neurology and neurosurgery",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42981611/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42981415",
-        "title": "A functional connectome identifies vulnerability to cognitive decline and Alzheimer's disease progression.",
-        "journal": "Science advances",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42981415/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42978818",
-        "title": "Predicting mild cognitive impairment from simulated driving performance: A preliminary investigation.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42978818/",
         "zh": "",
         "evidence": "OTHER"
       }
