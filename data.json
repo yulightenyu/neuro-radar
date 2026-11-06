@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:28:33.860064Z",
+  "updated": "2026-11-06T04:59:18.926402Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,46 @@
     ],
     "mech": [
       {
+        "pmid": "42987245",
+        "title": "Association of LATE-NC With Neuropathologic Lesions and Cognitive Abilities: A Population-Based Autopsy Study.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42987245/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42986976",
+        "title": "Obesity pharmacotherapies and cognition.",
+        "journal": "Science (New York, N.Y.)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42986976/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42986540",
+        "title": "7-Hydroxyflavone Attenuates Amyloid-β-Induced Alzheimer's Disease-Like Pathology Through Modulation of ROS/NLRP3 Inflammasome Signaling.",
+        "journal": "Neurochemical research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42986540/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42986483",
+        "title": "Astrocytic endoplasmic reticulum stress as an amplifier of neuroinflammation and neurodegeneration in Alzheimer's disease: a narrative review.",
+        "journal": "Immunologic research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42986483/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42985938",
         "title": "On the Need to Revise the Amyloid Cascade Hypothesis.",
         "journal": "Chembiochem : a European journal of chem",
@@ -156,49 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42982855/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42982755",
-        "title": "Locus coeruleus microstructural integrity and sleep disruption in the context of Alzheimer's disease pathology.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42982755/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42982748",
-        "title": "Validation of plasma biomarker immunoassay-based models for predicting brain amyloid positivity in cognitively impaired individuals.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42982748/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42982738",
-        "title": "Stable episodic memory and higher education do not influence the rate of Alzheimer's disease pathology as measured by plasma p-tau217.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42982738/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42981558",
-        "title": "Reproductive Lifespan and Hormonal Therapy in Relation to Later-Life Neurovascular Health in Community-Dwelling Older Women.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42981558/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42986928",
+        "title": "An Electrochemiluminescence Biosensing Platform Based on a Hydrogel-AAO Nanochannel Membrane for GFAP Detection.",
+        "journal": "ACS sensors",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42986928/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42985912",
         "title": "Matrix Matters: Head-To-Head Concordance of Serum and Plasma for NULISAseq CNS Disease Panel.",
@@ -268,19 +278,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42973291/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42970748",
-        "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42970748/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42987451",
+        "title": "Incidence, Temporal Trends, and Associated Characteristics of Hip Fracture in Long-Term Care Residents: A Population-Based Cohort Study in British Columbia.",
+        "journal": "Journal of the American Medical Director",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42987451/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42987192",
+        "title": "Long-Term Mortality in Sepsis Survivors: A Population-Based Study During 15 Years.",
+        "journal": "Critical care medicine",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42987192/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42986431",
+        "title": "Inherited cardiovascular risk and its impact on healthspan and lifespan.",
+        "journal": "Herz",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42986431/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42985910",
         "title": "Childhood Trauma and APOEε4 Are Associated With Patterns of Developmental Frontal Alpha Connectivity, Posttraumatic Stress, and Alcohol-Related Outcomes.",
@@ -330,39 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42978818/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42978662",
-        "title": "Automated temporal analysis reveals stress-induced protracted feeding regulated by mesolimbic dopamine in mice.",
-        "journal": "Frontiers in neuroscience",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42978662/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42978421",
-        "title": "Cerebral amyloid PET in obstructive sleep apnoea: a systematic review and exploratory meta-analysis.",
-        "journal": "Nuclear medicine communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42978421/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42976393",
-        "title": "The healthcare cost of multimorbidity in older patients with atrial fibrillation: A retrospective cohort study in an Italian local health unit.",
-        "journal": "Health policy (Amsterdam, Netherlands)",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42976393/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "42986976",
+        "title": "Obesity pharmacotherapies and cognition.",
+        "journal": "Science (New York, N.Y.)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42986976/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42980983",
         "title": "Neuropharmacological effects of Salvia officinalis: molecular mechanisms, preclinical evidence, and clinical potential.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42939748/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42925463",
-        "title": "Gut Microbiota in Alzheimer's Disease and Healthy Aging: Mechanisms, Prevention Strategies and Healthcare Burden.",
-        "journal": "Current nutrition reports",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42925463/",
         "zh": "",
         "evidence": "OTHER"
       }
