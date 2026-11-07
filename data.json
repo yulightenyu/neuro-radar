@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T18:51:51.520342Z",
+  "updated": "2026-11-07T04:32:12.527817Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "42993331",
+        "title": "Evaluation of the effect of p38γ gene delivery using exosomes derived from mesenchymal stem cells on Alzheimer's rat model.",
+        "journal": "Molecular biology reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42993331/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42992898",
         "title": "Mapping the Landscape of Tau Post-translational Modifications and Kinase-Specific Phosphorylation Signatures by Orthogonal CZE-MS/MS and NanoRPLC-MS/MS.",
         "journal": "Journal of proteome research",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42987245/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42986976",
-        "title": "Obesity pharmacotherapies and cognition.",
-        "journal": "Science (New York, N.Y.)",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42986976/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "42994375",
+        "title": "Paradoxical ethnic differences in prevalence of vascular risk factors versus extracranial atherosclerotic disease in TIA/stroke patients in the United Kingdom: Population-based study and meta-analysis.",
+        "journal": "Journal of the neurological sciences",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42994375/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42992391",
         "title": "Association of the Geriatric Nutritional Risk Index with incident cognitive impairment and longitudinal cognitive trajectories in older adults.",
         "journal": "Journal of Alzheimer's disease : JAD",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42987192/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42986431",
-        "title": "Inherited cardiovascular risk and its impact on healthspan and lifespan.",
-        "journal": "Herz",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42986431/",
         "zh": "",
         "evidence": "OTHER"
       }
