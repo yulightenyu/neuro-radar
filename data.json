@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T04:32:12.527817Z",
+  "updated": "2026-11-07T17:23:54.397727Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,26 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "42995156",
+        "title": "Lecanemab in Singapore: Appropriate use recommendations for early Alzheimer's disease.",
+        "journal": "Annals of the Academy of Medicine, Singa",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42995156/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42994417",
+        "title": "[Donanemab in Early Symptomatic Alzheimer's Disease: Navigating Divergent Evidence Standards Between Regulatory Approval and Added-Benefit Assessment (AMNOG)].",
+        "journal": "Fortschritte der Neurologie-Psychiatrie",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42994417/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42988979",
         "title": "Amyloid PET is a cost-effective exam to monitor Donanemab treatment in Alzheimer's disease.",
@@ -94,29 +114,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42947278/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42947268",
-        "title": "Cost-effectiveness of lecanemab for early Alzheimer's disease in China.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42947268/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42942801",
-        "title": "A Systematic Review of Complement-Targeting Therapies for Geographic Atrophy: Insights into Advanced Drug Delivery Systems and Gene-Based Approaches.",
-        "journal": "Pharmaceutics",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42942801/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "42994843",
+        "title": "Neurological and systemic adverse event reporting patterns for lecanemab: A global WHO VigiAccess analysis.",
+        "journal": "Medicine",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42994843/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42993331",
         "title": "Evaluation of the effect of p38γ gene delivery using exosomes derived from mesenchymal stem cells on Alzheimer's rat model.",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42988805/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42987245",
-        "title": "Association of LATE-NC With Neuropathologic Lesions and Cognitive Abilities: A Population-Based Autopsy Study.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42987245/",
         "zh": "",
         "evidence": "OTHER"
       }
