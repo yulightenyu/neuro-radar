@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T04:18:39.396933Z",
+  "updated": "2026-11-08T17:35:38.522244Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "42999037",
+        "title": "Gut microbiome depletion aggravates glial-mediated Alzheimer's disease pathology through inflammatory, metabolic, and proteostatic dysregulation.",
+        "journal": "Gut microbes",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42999037/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42995462",
+        "title": "Glycogen Synthase Kinase-3β as a Central Regulator of Alzheimer's Disease: Mechanistic Insights and Therapeutic Perspectives.",
+        "journal": "The European journal of neuroscience",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42995462/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42994843",
         "title": "Neurological and systemic adverse event reporting patterns for lecanemab: A global WHO VigiAccess analysis.",
         "journal": "Medicine",
@@ -176,29 +196,79 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42989710/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42989530",
-        "title": "Disease progression in probable limbic-predominant age-related TDP-43 encephalopathy.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42989530/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42988805",
-        "title": "Exploring the relationship between methylation of the cortisol receptor genes and brain and cognitive outcomes in individuals with elevated amyloid-β.",
-        "journal": "Translational psychiatry",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42988805/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "42999263",
+        "title": "Alzheimer's disease blood-based biomarkers in the Boston Latino Aging Study (BLAST): Associations with cognition and depressive symptoms.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42999263/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996798",
+        "title": "Blood TRPC6 mRNA as a biomarker for Alzheimer's disease: a nationwide, multicenter study in China.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996798/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996339",
+        "title": "α-Synuclein Seed Amplification Status Modifies the Relationship Between Plasma p-tau217, Amyloid and Fibrillar Tau.",
+        "journal": "Research square",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996339/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996235",
+        "title": "Genetic Architecture of Plasma Amyloid and Tau Biomarkers in the Amish.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996235/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996221",
+        "title": "Alzheimer's disease blood biomarkers reveal proteomic modules of disease progression.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996221/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996153",
+        "title": "Plasma Proteomic Correlates of Cognitive Function in Older Adults From Central Africa.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996153/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996082",
+        "title": "Plasma biomarkers and incident clinical stage progression in the specialized memory clinic: a longitudinal study.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996082/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42988979",
         "title": "Amyloid PET is a cost-effective exam to monitor Donanemab treatment in Alzheimer's disease.",
@@ -208,79 +278,79 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42988979/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42986928",
-        "title": "An Electrochemiluminescence Biosensing Platform Based on a Hydrogel-AAO Nanochannel Membrane for GFAP Detection.",
-        "journal": "ACS sensors",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42986928/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42985912",
-        "title": "Matrix Matters: Head-To-Head Concordance of Serum and Plasma for NULISAseq CNS Disease Panel.",
-        "journal": "Journal of neurochemistry",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42985912/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42982748",
-        "title": "Validation of plasma biomarker immunoassay-based models for predicting brain amyloid positivity in cognitively impaired individuals.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42982748/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42982738",
-        "title": "Stable episodic memory and higher education do not influence the rate of Alzheimer's disease pathology as measured by plasma p-tau217.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42982738/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42981430",
-        "title": "Distinct tau PET dynamics in early versus late age-of-onset Alzheimer's disease.",
-        "journal": "Science translational medicine",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42981430/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42980691",
-        "title": "Progress towards improving mouse models for preclinical testing of treatments for Alzheimer's disease.",
-        "journal": "Mammalian genome : official journal of t",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42980691/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42977753",
-        "title": "Vasomechanic treatment is associated with increased efflux of human brain proteins.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42977753/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "42998720",
+        "title": "Cognitive leisure activity and incident dementia among older adults with diabetes: a 5-year prospective cohort study.",
+        "journal": "Diabetes &amp; metabolism",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42998720/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42998363",
+        "title": "Engagement in Meaningful Activities and Cognitive Impairment Among Community-Dwelling Older Adults.",
+        "journal": "Journal of the American Medical Director",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42998363/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42998120",
+        "title": "GLP-1 receptor agonist use in patients with minor stroke is associated with lower risk of post-stroke dementia.",
+        "journal": "Journal of neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42998120/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996801",
+        "title": "Global, regional, and national burden of anxiety-related Alzheimer's disease and Alzheimer's-related dementias among older adults from 1995 to 2021: A comparative risk assessment study.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996801/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996786",
+        "title": "Association of Cognitive Reserve and Chronic Disease Comorbidity with the Risk of Progression from Subjective Cognitive Decline to Objective Cognitive Impairment: A Cohort Study Among Chinese Community-Dwelling Older Adults.",
+        "journal": "Neuropsychiatric disease and treatment",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996786/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42996484",
+        "title": "Faecalibacterium prausnitzii in neurological disorders: mechanistic links and therapeutic potential along the microbiota-gut-brain axis.",
+        "journal": "Frontiers in microbiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42996484/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "42995191",
+        "title": "Applicability of cognitive decline risk scores in a high socioeconomic preventive medicine cohort.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/42995191/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42994375",
         "title": "Paradoxical ethnic differences in prevalence of vascular risk factors versus extracranial atherosclerotic disease in TIA/stroke patients in the United Kingdom: Population-based study and meta-analysis.",
@@ -288,76 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42994375/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42992391",
-        "title": "Association of the Geriatric Nutritional Risk Index with incident cognitive impairment and longitudinal cognitive trajectories in older adults.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42992391/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42991179",
-        "title": "Modifiable risk factors for mild cognitive impairment: Insights from a 7-year follow-up cohort study among Shanghai community-dwelling older adults.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42991179/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42989317",
-        "title": "Correction: Explaining the association between social and lifestyle factors and cognitive functions: a pathway analysis in the Memento cohort.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42989317/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42989128",
-        "title": "Disease susceptibility and risk of dementia in patients with chronic kidney disease: a prospective cohort study based on UK Biobank.",
-        "journal": "BMC neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42989128/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42988805",
-        "title": "Exploring the relationship between methylation of the cortisol receptor genes and brain and cognitive outcomes in individuals with elevated amyloid-β.",
-        "journal": "Translational psychiatry",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42988805/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42987451",
-        "title": "Incidence, Temporal Trends, and Associated Characteristics of Hip Fracture in Long-Term Care Residents: A Population-Based Cohort Study in British Columbia.",
-        "journal": "Journal of the American Medical Director",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42987451/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42987192",
-        "title": "Long-Term Mortality in Sepsis Survivors: A Population-Based Study During 15 Years.",
-        "journal": "Critical care medicine",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42987192/",
         "zh": "",
         "evidence": "OTHER"
       }
