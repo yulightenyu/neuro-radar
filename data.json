@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:35:38.522244Z",
+  "updated": "2026-11-09T04:32:56.464975Z",
   "feeds": [
     {
       "id": "drug",
@@ -200,6 +200,16 @@
     ],
     "dx": [
       {
+        "pmid": "43000116",
+        "title": "Biomarkers in Patients With Acute Ischaemic Stroke Undergoing Thrombectomy Compared With Controls: A Pilot Study.",
+        "journal": "Acta anaesthesiologica Scandinavica",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43000116/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42999263",
         "title": "Alzheimer's disease blood-based biomarkers in the Boston Latino Aging Study (BLAST): Associations with cognition and depressive symptoms.",
         "journal": "medRxiv : the preprint server for health",
@@ -266,16 +276,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42996082/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42988979",
-        "title": "Amyloid PET is a cost-effective exam to monitor Donanemab treatment in Alzheimer's disease.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42988979/",
         "zh": "",
         "evidence": "OTHER"
       }
