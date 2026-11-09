@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T04:32:56.464975Z",
+  "updated": "2026-11-09T21:55:02.472166Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43000408",
+        "title": "A randomized, placebo-controlled, double blind Phase 1 trial of the Aβ vaccine, AV-1959R, in non-cognitively impaired participants: prelude for secondary preventive therapy in preclinical AD.",
+        "journal": "Molecular neurodegeneration",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43000408/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "42999037",
         "title": "Gut microbiome depletion aggravates glial-mediated Alzheimer's disease pathology through inflammatory, metabolic, and proteostatic dysregulation.",
         "journal": "Gut microbes",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42992662/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42989710",
-        "title": "Push-pull hypothesis of Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42989710/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43000492",
+        "title": "Plasma-derived hyperhomocysteinemia, PGAM5, and oligomeric α-synuclein as a biomarker panel for idiopathic Parkinson's disease.",
+        "journal": "Neurological sciences : official journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43000492/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43000116",
         "title": "Biomarkers in Patients With Acute Ischaemic Stroke Undergoing Thrombectomy Compared With Controls: A Pilot Study.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42996153/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996082",
-        "title": "Plasma biomarkers and incident clinical stage progression in the specialized memory clinic: a longitudinal study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996082/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43001258",
+        "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
+        "journal": "Aging brain",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43001258/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42998720",
         "title": "Cognitive leisure activity and incident dementia among older adults with diabetes: a 5-year prospective cohort study.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42995191/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42994375",
-        "title": "Paradoxical ethnic differences in prevalence of vascular risk factors versus extracranial atherosclerotic disease in TIA/stroke patients in the United Kingdom: Population-based study and meta-analysis.",
-        "journal": "Journal of the neurological sciences",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42994375/",
         "zh": "",
         "evidence": "OTHER"
       }
