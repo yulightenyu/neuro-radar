@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:55:02.472166Z",
+  "updated": "2026-11-10T05:52:23.380707Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "43003069",
+        "title": "Lymphangiopathy in Cerebral Amyloid Angiopathy and Alzheimer's Disease?",
+        "journal": "Lymphology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43003069/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43002725",
+        "title": "Effects of Supplementation With Genistein on the Progression of Cognitive Decline in Patients With Mild Cognitive Impairment Due to Alzheimer Disease: Protocol for a Randomized Controlled Trial.",
+        "journal": "JMIR research protocols",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43002725/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43002276",
+        "title": "Sensitive detection of amyloid-β42 using a graphitic carbon nitride-boosted electrochemical peptide biosensor.",
+        "journal": "Mikrochimica acta",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43002276/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43000408",
         "title": "A randomized, placebo-controlled, double blind Phase 1 trial of the Aβ vaccine, AV-1959R, in non-cognitively impaired participants: prelude for secondary preventive therapy in preclinical AD.",
         "journal": "Molecular neurodegeneration",
@@ -164,36 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42993331/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42992898",
-        "title": "Mapping the Landscape of Tau Post-translational Modifications and Kinase-Specific Phosphorylation Signatures by Orthogonal CZE-MS/MS and NanoRPLC-MS/MS.",
-        "journal": "Journal of proteome research",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42992898/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42992893",
-        "title": "Brain Region-Specific Peptide and Proteomic Signatures Inform Alzheimer's Disease Biomarker Panels.",
-        "journal": "Journal of proteome research",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42992893/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42992662",
-        "title": "Age-linked biological context shapes adaptive immunity in Alzheimer's disease.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42992662/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "43002489",
+        "title": "Decoding the Drivers of Alzheimer's Disease and Other Dementias Mortality in Asia, 1990-2023: A Global Burden of Diseases Study 2023.",
+        "journal": "Neuroepidemiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43002489/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43001258",
         "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
         "journal": "Aging brain",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42996484/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42995191",
-        "title": "Applicability of cognitive decline risk scores in a high socioeconomic preventive medicine cohort.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42995191/",
         "zh": "",
         "evidence": "OTHER"
       }
