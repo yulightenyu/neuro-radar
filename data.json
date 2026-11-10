@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T05:52:23.380707Z",
+  "updated": "2026-11-10T19:17:10.005395Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "43005561",
+        "title": "Microglia in Alzheimer's disease: from pathogenic mechanisms to therapeutic targeting.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43005561/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42995156",
         "title": "Lecanemab in Singapore: Appropriate use recommendations for early Alzheimer's disease.",
@@ -104,96 +114,86 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42951976/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42947278",
-        "title": "Caregiver positivity as a psychosocial modifier of lecanemab-related outcomes in Alzheimer's disease: A multicenter longitudinal study in China.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42947278/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
       {
-        "pmid": "43003069",
-        "title": "Lymphangiopathy in Cerebral Amyloid Angiopathy and Alzheimer's Disease?",
-        "journal": "Lymphology",
+        "pmid": "43006195",
+        "title": "Peptide Self-Assembly: Insights From Functional Short Peptides, Amyloid-β, and Gluten Peptides.",
+        "journal": "Journal of peptide science : an official",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43003069/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43006195/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43002725",
-        "title": "Effects of Supplementation With Genistein on the Progression of Cognitive Decline in Patients With Mild Cognitive Impairment Due to Alzheimer Disease: Protocol for a Randomized Controlled Trial.",
-        "journal": "JMIR research protocols",
+        "pmid": "43006157",
+        "title": "HDAC7 Scaffolds GSK3β-Tau Interaction to Drive GSK3β Activation and Tau Pathology.",
+        "journal": "Aging cell",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43002725/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43006157/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43002276",
-        "title": "Sensitive detection of amyloid-β42 using a graphitic carbon nitride-boosted electrochemical peptide biosensor.",
-        "journal": "Mikrochimica acta",
+        "pmid": "43005561",
+        "title": "Microglia in Alzheimer's disease: from pathogenic mechanisms to therapeutic targeting.",
+        "journal": "Frontiers in immunology",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43002276/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43005561/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43000408",
-        "title": "A randomized, placebo-controlled, double blind Phase 1 trial of the Aβ vaccine, AV-1959R, in non-cognitively impaired participants: prelude for secondary preventive therapy in preclinical AD.",
-        "journal": "Molecular neurodegeneration",
+        "pmid": "43005418",
+        "title": "Chronic neuropeptide S treatment improves sleep architecture and reduces Aβ-related pathology in APP/PS1 mice.",
+        "journal": "Frontiers in neurology",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43000408/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43005418/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42999037",
-        "title": "Gut microbiome depletion aggravates glial-mediated Alzheimer's disease pathology through inflammatory, metabolic, and proteostatic dysregulation.",
-        "journal": "Gut microbes",
+        "pmid": "43005040",
+        "title": "Mitochondrial Dysfunction and Bioenergetic Failure at the Amyloid-Tau-Metal Interface: An Integrative Model of Alzheimer Disease Pathogenesis.",
+        "journal": "The Yale journal of biology and medicine",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42999037/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43005040/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42995462",
-        "title": "Glycogen Synthase Kinase-3β as a Central Regulator of Alzheimer's Disease: Mechanistic Insights and Therapeutic Perspectives.",
-        "journal": "The European journal of neuroscience",
+        "pmid": "43004463",
+        "title": "Effects of sexual differentiation and APOE genotype on the development of Alzheimer-related pathology in female EFAD mice.",
+        "journal": "Biology of sex differences",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42995462/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43004463/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42994843",
-        "title": "Neurological and systemic adverse event reporting patterns for lecanemab: A global WHO VigiAccess analysis.",
-        "journal": "Medicine",
+        "pmid": "43003846",
+        "title": "Two functionally distinct amyloid-β intermediates link aggregation pathways to pathology in Alzheimer's disease.",
+        "journal": "Nature communications",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42994843/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43003846/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "42993331",
-        "title": "Evaluation of the effect of p38γ gene delivery using exosomes derived from mesenchymal stem cells on Alzheimer's rat model.",
-        "journal": "Molecular biology reports",
+        "pmid": "43003834",
+        "title": "Serine-65 phosphorylated ubiquitin associates with soluble tau and seeding activity in Alzheimer's disease.",
+        "journal": "Nature communications",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42993331/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43003834/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,26 @@
     ],
     "prev": [
       {
+        "pmid": "43005453",
+        "title": "Statistical efficiency of outcome measures for secondary prevention trials in Alzheimer's disease: Evidence from the A4 trial.",
+        "journal": "Alzheimer's &amp; dementia (New York, N.",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43005453/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43005448",
+        "title": "Circulating osteocalcin and incident dementia in the UK Biobank: a prospective cohort and exploratory multi-omics analysis.",
+        "journal": "Frontiers in aging neuroscience",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43005448/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43002489",
         "title": "Decoding the Drivers of Alzheimer's Disease and Other Dementias Mortality in Asia, 1990-2023: A Global Burden of Diseases Study 2023.",
         "journal": "Neuroepidemiology",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42996801/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996786",
-        "title": "Association of Cognitive Reserve and Chronic Disease Comorbidity with the Risk of Progression from Subjective Cognitive Decline to Objective Cognitive Impairment: A Cohort Study Among Chinese Community-Dwelling Older Adults.",
-        "journal": "Neuropsychiatric disease and treatment",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996786/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996484",
-        "title": "Faecalibacterium prausnitzii in neurological disorders: mechanistic links and therapeutic potential along the microbiota-gut-brain axis.",
-        "journal": "Frontiers in microbiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996484/",
         "zh": "",
         "evidence": "OTHER"
       }
