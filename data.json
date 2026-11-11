@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:17:10.005395Z",
+  "updated": "2026-11-11T04:36:44.396090Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43007767",
+        "title": "Chirality-Functionalized Covalent Organic Frameworks for Enantioselective Neuroprotection with Restored Neuroactive Signaling in Alzheimer's Disease.",
+        "journal": "ACS nano",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43007767/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43006195",
         "title": "Peptide Self-Assembly: Insights From Functional Short Peptides, Amyloid-β, and Gluten Peptides.",
         "journal": "Journal of peptide science : an official",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43003846/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43003834",
-        "title": "Serine-65 phosphorylated ubiquitin associates with soluble tau and seeding activity in Alzheimer's disease.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43003834/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "43008810",
+        "title": "Longitudinal Changes in Physical Performance with Metabolic Dysfunction-Associated Steatotic Liver Disease and Coronary Artery Disease.",
+        "journal": "Experimental and clinical endocrinology ",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43008810/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43005453",
         "title": "Statistical efficiency of outcome measures for secondary prevention trials in Alzheimer's disease: Evidence from the A4 trial.",
         "journal": "Alzheimer's &amp; dementia (New York, N.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42998120/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996801",
-        "title": "Global, regional, and national burden of anxiety-related Alzheimer's disease and Alzheimer's-related dementias among older adults from 1995 to 2021: A comparative risk assessment study.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996801/",
         "zh": "",
         "evidence": "OTHER"
       }
