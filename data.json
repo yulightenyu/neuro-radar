@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T04:36:44.396090Z",
+  "updated": "2026-11-11T19:13:59.363731Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,56 @@
     ],
     "mech": [
       {
+        "pmid": "43012695",
+        "title": "Isovitexin Attenuates Aβ-Induced Neurotoxicity by Activating SKN-1/Nrf2 Signaling and Suppressing Ferroptosis in Caenorhabditis elegans Models of Alzheimer's Disease.",
+        "journal": "Journal of agricultural and food chemist",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43012695/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43010397",
+        "title": "A pKa-Guided BBB-Permeable NIR Fluorescent Probe for Tracking Lipid Droplets in Microglia with Neuroinflammation and Alzheimer's Disease.",
+        "journal": "Analytical chemistry",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43010397/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43010136",
+        "title": "Diabetes mellitus is associated with altered Alzheimer's disease pathology.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43010136/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43010123",
+        "title": "AI-Integrated multimodal neuroimaging in Alzheimer's disease: toward biologically informed precision diagnostics.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43010123/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43010096",
+        "title": "Raman spectroscopic identification of biochemical alterations in Alzheimer's disease brain tissue.",
+        "journal": "Acta neuropathologica communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43010096/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43007767",
         "title": "Chirality-Functionalized Covalent Organic Frameworks for Enantioselective Neuroprotection with Restored Neuroactive Signaling in Alzheimer's Disease.",
         "journal": "ACS nano",
@@ -146,59 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43006157/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43005561",
-        "title": "Microglia in Alzheimer's disease: from pathogenic mechanisms to therapeutic targeting.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43005561/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43005418",
-        "title": "Chronic neuropeptide S treatment improves sleep architecture and reduces Aβ-related pathology in APP/PS1 mice.",
-        "journal": "Frontiers in neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43005418/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43005040",
-        "title": "Mitochondrial Dysfunction and Bioenergetic Failure at the Amyloid-Tau-Metal Interface: An Integrative Model of Alzheimer Disease Pathogenesis.",
-        "journal": "The Yale journal of biology and medicine",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43005040/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43004463",
-        "title": "Effects of sexual differentiation and APOE genotype on the development of Alzheimer-related pathology in female EFAD mice.",
-        "journal": "Biology of sex differences",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43004463/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43003846",
-        "title": "Two functionally distinct amyloid-β intermediates link aggregation pathways to pathology in Alzheimer's disease.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43003846/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43010136",
+        "title": "Diabetes mellitus is associated with altered Alzheimer's disease pathology.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43010136/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43000492",
         "title": "Plasma-derived hyperhomocysteinemia, PGAM5, and oligomeric α-synuclein as a biomarker panel for idiopathic Parkinson's disease.",
@@ -268,19 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42996221/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996153",
-        "title": "Plasma Proteomic Correlates of Cognitive Function in Older Adults From Central Africa.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996153/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43011091",
+        "title": "Antiprotozoal drug exposure and reduced long-term mortality and morbidity: a multi-cohort pharmacoepidemiologic study.",
+        "journal": "Frontiers in pharmacology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43011091/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43010999",
+        "title": "Fetal Alcohol Spectrum Disorder as a Potential Early-Life Risk Factor for Dementia: A Life-Course Perspective.",
+        "journal": "Dementia and neurocognitive disorders",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43010999/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43008810",
         "title": "Longitudinal Changes in Physical Performance with Metabolic Dysfunction-Associated Steatotic Liver Disease and Coronary Artery Disease.",
@@ -340,29 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42998720/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42998363",
-        "title": "Engagement in Meaningful Activities and Cognitive Impairment Among Community-Dwelling Older Adults.",
-        "journal": "Journal of the American Medical Director",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42998363/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42998120",
-        "title": "GLP-1 receptor agonist use in patients with minor stroke is associated with lower risk of post-stroke dementia.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42998120/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "43010123",
+        "title": "AI-Integrated multimodal neuroimaging in Alzheimer's disease: toward biologically informed precision diagnostics.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43010123/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "42986976",
         "title": "Obesity pharmacotherapies and cognition.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42953588/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42939748",
-        "title": "Deubiquitinating Enzymes in Alzheimer's Disease: From Protein Homeostasis to Diverse Pathological Processes.",
-        "journal": "Biomolecules",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42939748/",
         "zh": "",
         "evidence": "OTHER"
       }
