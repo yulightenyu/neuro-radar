@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:13:59.363731Z",
+  "updated": "2026-11-12T05:40:35.267769Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43013788",
+        "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43013788/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43012695",
         "title": "Isovitexin Attenuates Aβ-Induced Neurotoxicity by Activating SKN-1/Nrf2 Signaling and Suppressing Ferroptosis in Caenorhabditis elegans Models of Alzheimer's Disease.",
         "journal": "Journal of agricultural and food chemist",
@@ -186,19 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43006195/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43006157",
-        "title": "HDAC7 Scaffolds GSK3β-Tau Interaction to Drive GSK3β Activation and Tau Pathology.",
-        "journal": "Aging cell",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43006157/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43013788",
+        "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43013788/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43013232",
+        "title": "Multidimensional 24-h activity patterns in relation to cognition and Alzheimer's disease plasma biomarkers: a cross-sectional study.",
+        "journal": "GeroScience",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43013232/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43010136",
         "title": "Diabetes mellitus is associated with altered Alzheimer's disease pathology.",
@@ -258,29 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42996339/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996235",
-        "title": "Genetic Architecture of Plasma Amyloid and Tau Biomarkers in the Amish.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996235/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996221",
-        "title": "Alzheimer's disease blood biomarkers reveal proteomic modules of disease progression.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996221/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43013474",
+        "title": "Potentially modifiable mediators of the association between child abuse and dementia.",
+        "journal": "European journal of psychotraumatology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43013474/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43013309",
+        "title": "Avoidable Mortality in Adults With Down Syndrome or With Other Intellectual Disabilities.",
+        "journal": "JAMA network open",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43013309/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43011091",
         "title": "Antiprotozoal drug exposure and reduced long-term mortality and morbidity: a multi-cohort pharmacoepidemiologic study.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43002489/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43001258",
-        "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
-        "journal": "Aging brain",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43001258/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42998720",
-        "title": "Cognitive leisure activity and incident dementia among older adults with diabetes: a 5-year prospective cohort study.",
-        "journal": "Diabetes &amp; metabolism",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42998720/",
         "zh": "",
         "evidence": "OTHER"
       }
