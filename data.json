@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:40:35.267769Z",
+  "updated": "2026-11-12T19:31:11.170680Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,66 @@
     ],
     "mech": [
       {
+        "pmid": "43017342",
+        "title": "Noncoding RNA control of neuroinflammation in Alzheimer's disease: from immune cell states to precision therapeutics.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43017342/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43016269",
+        "title": "Glymphatic Dysfunction in Alzheimer's Disease: Mechanisms, Biomarkers, and Emerging Therapeutic Perspectives.",
+        "journal": "Current aging science",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43016269/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43016268",
+        "title": "Animal and Cell Models in Alzheimer's and Parkinson's Disease: Current Innovations Reviewed.",
+        "journal": "Current aging science",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43016268/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43015898",
+        "title": "Network connectivity and amyloid-β align with tau in atypical Alzheimer disease subtypes.",
+        "journal": "Alzheimer's research &amp; therapy",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43015898/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43015837",
+        "title": "A peripheral proteomic signature of Alzheimer's disease is identified in the plasma extracellular vesicles of mild cognitive impairment patients from a memory clinic: the BIOPEXAL study.",
+        "journal": "Journal of nanobiotechnology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43015837/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43015247",
+        "title": "Targeting peripheral cathepsin E restricts CD8+ T-cell neuroinvasion and ameliorates Alzheimer's disease pathology.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43015247/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43013788",
         "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
         "journal": "Neurology",
@@ -134,66 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43012695/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43010397",
-        "title": "A pKa-Guided BBB-Permeable NIR Fluorescent Probe for Tracking Lipid Droplets in Microglia with Neuroinflammation and Alzheimer's Disease.",
-        "journal": "Analytical chemistry",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43010397/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43010136",
-        "title": "Diabetes mellitus is associated with altered Alzheimer's disease pathology.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43010136/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43010123",
-        "title": "AI-Integrated multimodal neuroimaging in Alzheimer's disease: toward biologically informed precision diagnostics.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43010123/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43010096",
-        "title": "Raman spectroscopic identification of biochemical alterations in Alzheimer's disease brain tissue.",
-        "journal": "Acta neuropathologica communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43010096/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43007767",
-        "title": "Chirality-Functionalized Covalent Organic Frameworks for Enantioselective Neuroprotection with Restored Neuroactive Signaling in Alzheimer's Disease.",
-        "journal": "ACS nano",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43007767/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43006195",
-        "title": "Peptide Self-Assembly: Insights From Functional Short Peptides, Amyloid-β, and Gluten Peptides.",
-        "journal": "Journal of peptide science : an official",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43006195/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,36 @@
     ],
     "prev": [
       {
+        "pmid": "43017556",
+        "title": "Microbiome-targeted strategies for Alzheimer's disease: multi-omics signatures, mechanistic links, and intervention evidence.",
+        "journal": "Frontiers in microbiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43017556/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43016785",
+        "title": "Modifiable dementia risk factors and socioeconomic differences in a diverse aging cohort.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43016785/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43015924",
+        "title": "Prospective associations between diet quality, frailty and incident cognitive impairment in the health and retirement study.",
+        "journal": "BMC global and public health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43015924/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43013474",
         "title": "Potentially modifiable mediators of the association between child abuse and dementia.",
         "journal": "European journal of psychotraumatology",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43008810/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43005453",
-        "title": "Statistical efficiency of outcome measures for secondary prevention trials in Alzheimer's disease: Evidence from the A4 trial.",
-        "journal": "Alzheimer's &amp; dementia (New York, N.",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43005453/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43005448",
-        "title": "Circulating osteocalcin and incident dementia in the UK Biobank: a prospective cohort and exploratory multi-omics analysis.",
-        "journal": "Frontiers in aging neuroscience",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43005448/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43002489",
-        "title": "Decoding the Drivers of Alzheimer's Disease and Other Dementias Mortality in Asia, 1990-2023: A Global Burden of Diseases Study 2023.",
-        "journal": "Neuroepidemiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43002489/",
         "zh": "",
         "evidence": "OTHER"
       }
