@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:57:30.998059Z",
+  "updated": "2026-11-13T19:11:08.414182Z",
   "feeds": [
     {
       "id": "drug",
@@ -110,13 +110,53 @@
         "title": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
         "journal": "Nature",
         "year": "2026",
-        "month": "10",
+        "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42951976/",
         "zh": "",
         "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "43023262",
+        "title": "Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).",
+        "journal": "International journal of molecular medic",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43023262/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43022642",
+        "title": "Physical activity in preclinical Alzheimer disease: current evidence and implications for multimodal longitudinal research.",
+        "journal": "Frontiers in neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43022642/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43021380",
+        "title": "Disentangling the role of adaptive immunity in Alzheimer's disease.",
+        "journal": "Molecular neurodegeneration",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43021380/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43021327",
+        "title": "Ethionamide preconditioning enhances the therapeutic efficacy of human mesenchymal stromal cells in an Alzheimer's disease model.",
+        "journal": "Stem cell research &amp; therapy",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43021327/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43019495",
         "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
@@ -156,49 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43019187/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43018845",
-        "title": "Precision Neurology in Alzheimer's Disease: Genomics to Drug Optimization for Effective Therapeutic Intervention.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43018845/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43018660",
-        "title": "Epigenetic regulation of the complement system in age-related chronic inflammation: mechanisms and therapeutic prospects.",
-        "journal": "Molecular biology reports",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43018660/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43017342",
-        "title": "Noncoding RNA control of neuroinflammation in Alzheimer's disease: from immune cell states to precision therapeutics.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43017342/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43016269",
-        "title": "Glymphatic Dysfunction in Alzheimer's Disease: Mechanisms, Biomarkers, and Emerging Therapeutic Perspectives.",
-        "journal": "Current aging science",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43016269/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43023339",
+        "title": "Multimodal neuroimaging in Alzheimer's disease: A practical, case-illustrated review of quantitative MRI and molecular PET.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43023339/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43019495",
         "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
@@ -268,19 +278,69 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42999263/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996798",
-        "title": "Blood TRPC6 mRNA as a biomarker for Alzheimer's disease: a nationwide, multicenter study in China.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996798/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43023262",
+        "title": "Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).",
+        "journal": "International journal of molecular medic",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43023262/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43022642",
+        "title": "Physical activity in preclinical Alzheimer disease: current evidence and implications for multimodal longitudinal research.",
+        "journal": "Frontiers in neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43022642/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43022613",
+        "title": "Geriatric firearm injuries presenting to Level I trauma centers in St. Louis from 2016 to 2023: A multi-site observational cohort study.",
+        "journal": "JEM reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43022613/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43022134",
+        "title": "Association between statin therapy and dementia risk: evidence from All of Us and UK Biobank with coenzyme Q7-related mediation analysis.",
+        "journal": "Frontiers in pharmacology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43022134/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43021542",
+        "title": "Periodontitis as a Modifiable Risk Factor for Dementia: Mechanistic Pathways Linking Oral Inflammation to Neurodegeneration.",
+        "journal": "The Canadian journal of neurological sci",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43021542/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43021103",
+        "title": "Clinical characterization in a population of latin-American older adults using the frontotemporal dementia assessment scale: an observational study.",
+        "journal": "BMC geriatrics",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43021103/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43019382",
         "title": "Blood lipoprotein remodelling after non-severe paediatric burns: A longitudinal analysis beyond the acute phase.",
@@ -300,69 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43019331/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43019187",
-        "title": "Peripheral DNA methylation of candidate Alzheimer's disease risk genes and its associations with cognition, brain volume and amyloid-β burden.",
-        "journal": "Scientific reports",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019187/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43019165",
-        "title": "Association of Accelerated Biological Age in Midlife with Cardiovascular Events, Dementia, and All-Cause Mortality in the Framingham Offspring Study.",
-        "journal": "Scientific reports",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019165/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43017556",
-        "title": "Microbiome-targeted strategies for Alzheimer's disease: multi-omics signatures, mechanistic links, and intervention evidence.",
-        "journal": "Frontiers in microbiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43017556/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43016785",
-        "title": "Modifiable dementia risk factors and socioeconomic differences in a diverse aging cohort.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43016785/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43015924",
-        "title": "Prospective associations between diet quality, frailty and incident cognitive impairment in the health and retirement study.",
-        "journal": "BMC global and public health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43015924/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43013474",
-        "title": "Potentially modifiable mediators of the association between child abuse and dementia.",
-        "journal": "European journal of psychotraumatology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43013474/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "43021380",
+        "title": "Disentangling the role of adaptive immunity in Alzheimer's disease.",
+        "journal": "Molecular neurodegeneration",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43021380/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43010123",
         "title": "AI-Integrated multimodal neuroimaging in Alzheimer's disease: toward biologically informed precision diagnostics.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "10",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42965095/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42953588",
-        "title": "TREM2 Signaling and Alzheimer's Disease: Experimental Modulators, Progress, and Challenges.",
-        "journal": "Drug design, development and therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42953588/",
         "zh": "",
         "evidence": "OTHER"
       }
