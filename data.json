@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:31:11.170680Z",
+  "updated": "2026-11-13T04:57:30.998059Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,66 @@
     ],
     "mech": [
       {
+        "pmid": "43019495",
+        "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43019413",
+        "title": "The sideshow.",
+        "journal": "Science (New York, N.Y.)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019413/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43019193",
+        "title": "Hearing loss drives region-specific amyloid accumulation along the auditory pathway in female 5xFAD mice.",
+        "journal": "Scientific reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019193/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43019187",
+        "title": "Peripheral DNA methylation of candidate Alzheimer's disease risk genes and its associations with cognition, brain volume and amyloid-β burden.",
+        "journal": "Scientific reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019187/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43018845",
+        "title": "Precision Neurology in Alzheimer's Disease: Genomics to Drug Optimization for Effective Therapeutic Intervention.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43018845/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43018660",
+        "title": "Epigenetic regulation of the complement system in age-related chronic inflammation: mechanisms and therapeutic prospects.",
+        "journal": "Molecular biology reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43018660/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43017342",
         "title": "Noncoding RNA control of neuroinflammation in Alzheimer's disease: from immune cell states to precision therapeutics.",
         "journal": "Frontiers in immunology",
@@ -136,69 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43016269/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43016268",
-        "title": "Animal and Cell Models in Alzheimer's and Parkinson's Disease: Current Innovations Reviewed.",
-        "journal": "Current aging science",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43016268/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43015898",
-        "title": "Network connectivity and amyloid-β align with tau in atypical Alzheimer disease subtypes.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43015898/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43015837",
-        "title": "A peripheral proteomic signature of Alzheimer's disease is identified in the plasma extracellular vesicles of mild cognitive impairment patients from a memory clinic: the BIOPEXAL study.",
-        "journal": "Journal of nanobiotechnology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43015837/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43015247",
-        "title": "Targeting peripheral cathepsin E restricts CD8+ T-cell neuroinvasion and ameliorates Alzheimer's disease pathology.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43015247/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43013788",
-        "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43013788/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43012695",
-        "title": "Isovitexin Attenuates Aβ-Induced Neurotoxicity by Activating SKN-1/Nrf2 Signaling and Suppressing Ferroptosis in Caenorhabditis elegans Models of Alzheimer's Disease.",
-        "journal": "Journal of agricultural and food chemist",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43012695/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43019495",
+        "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43013788",
         "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
@@ -268,19 +278,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42996798/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42996339",
-        "title": "α-Synuclein Seed Amplification Status Modifies the Relationship Between Plasma p-tau217, Amyloid and Fibrillar Tau.",
-        "journal": "Research square",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42996339/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43019382",
+        "title": "Blood lipoprotein remodelling after non-severe paediatric burns: A longitudinal analysis beyond the acute phase.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019382/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43019331",
+        "title": "A prospective longitudinal population-based cohort study of non-communicable diseases (NCDs) in Ghana, India, and Nepal (The GIN NCDs Study): A study protocol.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019331/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43019187",
+        "title": "Peripheral DNA methylation of candidate Alzheimer's disease risk genes and its associations with cognition, brain volume and amyloid-β burden.",
+        "journal": "Scientific reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019187/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43019165",
+        "title": "Association of Accelerated Biological Age in Midlife with Cardiovascular Events, Dementia, and All-Cause Mortality in the Framingham Offspring Study.",
+        "journal": "Scientific reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43019165/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43017556",
         "title": "Microbiome-targeted strategies for Alzheimer's disease: multi-omics signatures, mechanistic links, and intervention evidence.",
@@ -318,46 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43013474/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43013309",
-        "title": "Avoidable Mortality in Adults With Down Syndrome or With Other Intellectual Disabilities.",
-        "journal": "JAMA network open",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43013309/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43011091",
-        "title": "Antiprotozoal drug exposure and reduced long-term mortality and morbidity: a multi-cohort pharmacoepidemiologic study.",
-        "journal": "Frontiers in pharmacology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43011091/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43010999",
-        "title": "Fetal Alcohol Spectrum Disorder as a Potential Early-Life Risk Factor for Dementia: A Life-Course Perspective.",
-        "journal": "Dementia and neurocognitive disorders",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43010999/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43008810",
-        "title": "Longitudinal Changes in Physical Performance with Metabolic Dysfunction-Associated Steatotic Liver Disease and Coronary Artery Disease.",
-        "journal": "Experimental and clinical endocrinology ",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43008810/",
         "zh": "",
         "evidence": "OTHER"
       }
