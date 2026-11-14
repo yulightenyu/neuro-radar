@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T04:51:08.206633Z",
+  "updated": "2026-11-14T17:38:57.784251Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,87 +118,117 @@
     ],
     "mech": [
       {
-        "pmid": "43024710",
-        "title": "Single-nucleus multiomic profiling uncovers epigenetic dysregulation driving hippocampal vulnerability in Alzheimer's disease.",
-        "journal": "Science advances",
+        "pmid": "43030219",
+        "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
+        "journal": "Nutrients",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43024710/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43030219/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43024124",
-        "title": "PPARγ at the Nexus of Lipid Metabolism and Neuroinflammation in Alzheimer's Disease: A Longitudinal Multi-omics Analysis.",
-        "journal": "Journal of molecular neuroscience : MN",
+        "pmid": "43028256",
+        "title": "Single-Chain Variable Fragments Targeting Plasma Exosome Amyloid-β Peptide Subtypes for Diagnosis of Alzheimer's Disease.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43024124/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43028256/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43023262",
-        "title": "Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).",
-        "journal": "International journal of molecular medic",
+        "pmid": "43028204",
+        "title": "Current Possible Newer Pharmacological Treatment Options for Alzheimer's Disease.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43023262/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43028204/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43022642",
-        "title": "Physical activity in preclinical Alzheimer disease: current evidence and implications for multimodal longitudinal research.",
-        "journal": "Frontiers in neurology",
+        "pmid": "43028171",
+        "title": "Pantethine and Neurodegeneration: A Coenzyme A-Centered Framework Linking Metabolism, Neuroinflammation, and Mitochondrial Dysfunction.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43022642/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43028171/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43021380",
-        "title": "Disentangling the role of adaptive immunity in Alzheimer's disease.",
-        "journal": "Molecular neurodegeneration",
+        "pmid": "43028125",
+        "title": "Genotype-Associated Molecular Phenotypes Across Brain and Gut Compartments in Male 5xFAD Mice: Shared Latent Structure and the Limits of Individual-Level Inference.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43021380/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43028125/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43021327",
-        "title": "Ethionamide preconditioning enhances the therapeutic efficacy of human mesenchymal stromal cells in an Alzheimer's disease model.",
-        "journal": "Stem cell research &amp; therapy",
+        "pmid": "43027915",
+        "title": "A Comparative Analysis of Microglial and Astrocyte Transplantation in an Amyloid-Induced Rat for Alzheimer's Disease.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43021327/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43027915/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43019495",
-        "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
-        "journal": "Neurology",
+        "pmid": "43027364",
+        "title": "Cross-Species and Cell-Type-Specific H3K27ac Dynamics Link Brain Aging to Alzheimer's Disease Genes.",
+        "journal": "Cells",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43027364/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43019413",
-        "title": "The sideshow.",
-        "journal": "Science (New York, N.Y.)",
+        "pmid": "43027279",
+        "title": "Effects of Interleukin-6 Dysregulation in a Mouse Model of Alzheimer's Disease: Unraveling Complexity Beyond Amyloidosis.",
+        "journal": "Cells",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019413/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43027279/",
         "zh": "",
         "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43028125",
+        "title": "Genotype-Associated Molecular Phenotypes Across Brain and Gut Compartments in Male 5xFAD Mice: Shared Latent Structure and the Limits of Individual-Level Inference.",
+        "journal": "International journal of molecular scien",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43028125/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43027915",
+        "title": "A Comparative Analysis of Microglial and Astrocyte Transplantation in an Amyloid-Induced Rat for Alzheimer's Disease.",
+        "journal": "International journal of molecular scien",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43027915/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43026196",
+        "title": "Prognostic value of plasma brain-derived phosphorylated Tau.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43026196/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43023339",
         "title": "Multimodal neuroimaging in Alzheimer's disease: A practical, case-illustrated review of quantitative MRI and molecular PET.",
@@ -248,39 +278,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43010136/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43000492",
-        "title": "Plasma-derived hyperhomocysteinemia, PGAM5, and oligomeric α-synuclein as a biomarker panel for idiopathic Parkinson's disease.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43000492/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43000116",
-        "title": "Biomarkers in Patients With Acute Ischaemic Stroke Undergoing Thrombectomy Compared With Controls: A Pilot Study.",
-        "journal": "Acta anaesthesiologica Scandinavica",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43000116/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42999263",
-        "title": "Alzheimer's disease blood-based biomarkers in the Boston Latino Aging Study (BLAST): Associations with cognition and depressive symptoms.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42999263/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43030397",
+        "title": "A Three-Item Oral Function Impairment Score Is Associated with White Matter, but Not Gray Matter, Volume Ratio in Older Adults: A Cross-Sectional Study.",
+        "journal": "Journal of clinical medicine",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43030397/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43030219",
+        "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
+        "journal": "Nutrients",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43030219/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43027279",
+        "title": "Effects of Interleukin-6 Dysregulation in a Mouse Model of Alzheimer's Disease: Unraveling Complexity Beyond Amyloidosis.",
+        "journal": "Cells",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43027279/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43025039",
+        "title": "Effects of sustained moderate to vigorous physical activity on late-life cognitive function: A target trial emulation study.",
+        "journal": "Maturitas",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43025039/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43024970",
+        "title": "Machine learning reveals pre-treatment deficit accumulation as a predictor of persistent cancer-related fatigue: The Thinking and Living with Cancer longitudinal cohort study.",
+        "journal": "Journal of geriatric oncology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43024970/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43024373",
         "title": "Association between the Frequency of Individual Outdoor Activity and Risk of Incident Dementia in an Elderly Population in China: A National Cohort Study.",
@@ -310,59 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43023262/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43022642",
-        "title": "Physical activity in preclinical Alzheimer disease: current evidence and implications for multimodal longitudinal research.",
-        "journal": "Frontiers in neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43022642/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43022613",
-        "title": "Geriatric firearm injuries presenting to Level I trauma centers in St. Louis from 2016 to 2023: A multi-site observational cohort study.",
-        "journal": "JEM reports",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43022613/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43022134",
-        "title": "Association between statin therapy and dementia risk: evidence from All of Us and UK Biobank with coenzyme Q7-related mediation analysis.",
-        "journal": "Frontiers in pharmacology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43022134/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43021542",
-        "title": "Periodontitis as a Modifiable Risk Factor for Dementia: Mechanistic Pathways Linking Oral Inflammation to Neurodegeneration.",
-        "journal": "The Canadian journal of neurological sci",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43021542/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43021103",
-        "title": "Clinical characterization in a population of latin-American older adults using the frontotemporal dementia assessment scale: an observational study.",
-        "journal": "BMC geriatrics",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43021103/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "43030106",
+        "title": "A Scoping Review of Creatine Supplementation in Alzheimer's Disease: Evidence from Preclinical and Clinical Studies.",
+        "journal": "Nutrients",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43030106/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43024124",
         "title": "PPARγ at the Nexus of Lipid Metabolism and Neuroinflammation in Alzheimer's Disease: A Longitudinal Multi-omics Analysis.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42979167/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42973248",
-        "title": "[Modifiable risk factors for Alzheimer's disease].",
-        "journal": "Zhurnal nevrologii i psikhiatrii imeni S",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42973248/",
         "zh": "",
         "evidence": "OTHER"
       }
