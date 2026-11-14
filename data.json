@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:11:08.414182Z",
+  "updated": "2026-11-14T04:51:08.206633Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "43024710",
+        "title": "Single-nucleus multiomic profiling uncovers epigenetic dysregulation driving hippocampal vulnerability in Alzheimer's disease.",
+        "journal": "Science advances",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43024710/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43024124",
+        "title": "PPARγ at the Nexus of Lipid Metabolism and Neuroinflammation in Alzheimer's Disease: A Longitudinal Multi-omics Analysis.",
+        "journal": "Journal of molecular neuroscience : MN",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43024124/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43023262",
         "title": "Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).",
         "journal": "International journal of molecular medic",
@@ -174,26 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43019413/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43019193",
-        "title": "Hearing loss drives region-specific amyloid accumulation along the auditory pathway in female 5xFAD mice.",
-        "journal": "Scientific reports",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019193/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43019187",
-        "title": "Peripheral DNA methylation of candidate Alzheimer's disease risk genes and its associations with cognition, brain volume and amyloid-β burden.",
-        "journal": "Scientific reports",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019187/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,26 @@
     ],
     "prev": [
       {
+        "pmid": "43024373",
+        "title": "Association between the Frequency of Individual Outdoor Activity and Risk of Incident Dementia in an Elderly Population in China: A National Cohort Study.",
+        "journal": "Neuroepidemiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43024373/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43024096",
+        "title": "Depressive symptom dimensions, physical activity, and incident dementia: a longitudinal analysis of three international cohorts.",
+        "journal": "European archives of psychiatry and clin",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43024096/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43023262",
         "title": "Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).",
         "journal": "International journal of molecular medic",
@@ -340,29 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43021103/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43019382",
-        "title": "Blood lipoprotein remodelling after non-severe paediatric burns: A longitudinal analysis beyond the acute phase.",
-        "journal": "PloS one",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019382/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43019331",
-        "title": "A prospective longitudinal population-based cohort study of non-communicable diseases (NCDs) in Ghana, India, and Nepal (The GIN NCDs Study): A study protocol.",
-        "journal": "PloS one",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019331/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "43024124",
+        "title": "PPARγ at the Nexus of Lipid Metabolism and Neuroinflammation in Alzheimer's Disease: A Longitudinal Multi-omics Analysis.",
+        "journal": "Journal of molecular neuroscience : MN",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43024124/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43021380",
         "title": "Disentangling the role of adaptive immunity in Alzheimer's disease.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42973248/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42965095",
-        "title": "Rapidly Progressive Alzheimer's Disease: Candidate Mechanisms and Diagnostic Challenges.",
-        "journal": "Clinical interventions in aging",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42965095/",
         "zh": "",
         "evidence": "OTHER"
       }
