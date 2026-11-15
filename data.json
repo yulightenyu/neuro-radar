@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T04:42:35.802333Z",
+  "updated": "2026-11-15T18:28:10.734422Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43034879",
+        "title": "Elevated Phosphorylated Tau and Amyloid-Beta 42 in Sleep Apnoea: Evidence From a Systematic Review and Meta-Analysis.",
+        "journal": "BioMed research international",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43034879/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43030219",
         "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
         "journal": "Nutrients",
@@ -186,19 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43027364/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43027279",
-        "title": "Effects of Interleukin-6 Dysregulation in a Mouse Model of Alzheimer's Disease: Unraveling Complexity Beyond Amyloidosis.",
-        "journal": "Cells",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43027279/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43034879",
+        "title": "Elevated Phosphorylated Tau and Amyloid-Beta 42 in Sleep Apnoea: Evidence From a Systematic Review and Meta-Analysis.",
+        "journal": "BioMed research international",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43034879/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43034373",
+        "title": "Plasma biomarker signatures in patients with rapidly progressive dementia.",
+        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43034373/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43028125",
         "title": "Genotype-Associated Molecular Phenotypes Across Brain and Gut Compartments in Male 5xFAD Mice: Shared Latent Structure and the Limits of Individual-Level Inference.",
@@ -256,26 +276,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43013788/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43013232",
-        "title": "Multidimensional 24-h activity patterns in relation to cognition and Alzheimer's disease plasma biomarkers: a cross-sectional study.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43013232/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43010136",
-        "title": "Diabetes mellitus is associated with altered Alzheimer's disease pathology.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43010136/",
         "zh": "",
         "evidence": "OTHER"
       }
