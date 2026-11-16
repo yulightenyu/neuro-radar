@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T04:39:22.316919Z",
+  "updated": "2026-11-16T21:37:38.637049Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,46 @@
     ],
     "mech": [
       {
+        "pmid": "43037040",
+        "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part II: Emerging blood biomarkers, prospects and current limitations].",
+        "journal": "Annales de biologie clinique",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43037040/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43035714",
+        "title": "Inflammation-associated serum amyloid A amplifies amyloid-β-driven oxidative stress and microglial activation.",
+        "journal": "Journal of neuroinflammation",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43035714/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43035602",
+        "title": "Increase in IgM Autoantibodies to Aβ1-42 in Plasma of Men with Alzheimer's disease.",
+        "journal": "Doklady biological sciences : proceeding",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43035602/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43035596",
+        "title": "Tetrapeptide НАЕЕ Inhibits the Toxic Effect of Beta-Amyloid on NEURO2A Neuroblastoma Cells.",
+        "journal": "Doklady biological sciences : proceeding",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43035596/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43034879",
         "title": "Elevated Phosphorylated Tau and Amyloid-Beta 42 in Sleep Apnoea: Evidence From a Systematic Review and Meta-Analysis.",
         "journal": "BioMed research international",
@@ -156,49 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43028204/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43028171",
-        "title": "Pantethine and Neurodegeneration: A Coenzyme A-Centered Framework Linking Metabolism, Neuroinflammation, and Mitochondrial Dysfunction.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43028171/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43028125",
-        "title": "Genotype-Associated Molecular Phenotypes Across Brain and Gut Compartments in Male 5xFAD Mice: Shared Latent Structure and the Limits of Individual-Level Inference.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43028125/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43027915",
-        "title": "A Comparative Analysis of Microglial and Astrocyte Transplantation in an Amyloid-Induced Rat for Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43027915/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43027364",
-        "title": "Cross-Species and Cell-Type-Specific H3K27ac Dynamics Link Brain Aging to Alzheimer's Disease Genes.",
-        "journal": "Cells",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43027364/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43037040",
+        "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part II: Emerging blood biomarkers, prospects and current limitations].",
+        "journal": "Annales de biologie clinique",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43037040/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43034879",
         "title": "Elevated Phosphorylated Tau and Amyloid-Beta 42 in Sleep Apnoea: Evidence From a Systematic Review and Meta-Analysis.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43013788",
-        "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43013788/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43037594",
+        "title": "Cerebello-extracerebellar connectivity and relative FDG uptake in relation to Alzheimer biomarkers and cognitive trajectories.",
+        "journal": "The neuroradiology journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43037594/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43030397",
         "title": "A Three-Item Oral Function Impairment Score Is Associated with White Matter, but Not Gray Matter, Volume Ratio in Older Adults: A Cross-Sectional Study.",
@@ -350,19 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43024096/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43023262",
-        "title": "Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).",
-        "journal": "International journal of molecular medic",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43023262/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "43035305",
+        "title": "[Research progress on early biomarkers of Alzheimer's disease].",
+        "journal": "Zhonghua yu fang yi xue za zhi [Chinese ",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43035305/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43030106",
         "title": "A Scoping Review of Creatine Supplementation in Alzheimer's Disease: Evidence from Preclinical and Clinical Studies.",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42980874/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42979167",
-        "title": "Emerging and Repurposed Immune System Modulators for Alzheimer's Disease.",
-        "journal": "Drug design, development and therapy",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42979167/",
         "zh": "",
         "evidence": "OTHER"
       }
