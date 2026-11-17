@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:25:29.692465Z",
+  "updated": "2026-11-17T20:27:14.576515Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "43040625",
+        "title": "Two new blood tests for Alzheimer's disease.",
+        "journal": "The Medical letter on drugs and therapeu",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43040625/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43005561",
         "title": "Microglia in Alzheimer's disease: from pathogenic mechanisms to therapeutic targeting.",
@@ -104,19 +114,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42961631/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42951976",
-        "title": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
-        "journal": "Nature",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42951976/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "43042906",
+        "title": "Amyloid-β42 Drives Collagen-Independent Activation of Discoidin Domain Receptor 2 in Alzheimer's Disease.",
+        "journal": "Biochemistry",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43042906/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43042652",
+        "title": "Scanning X-ray microdiffraction studies of protein accumulation and tissue loss in thin sections of human brain tissue in Alzheimer's disease.",
+        "journal": "Scientific reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43042652/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43039924",
+        "title": "APOE ε4 carriership status enhances age-related changes in Alzheimer's disease plasma biomarkers concentrations.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43039924/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43039835",
         "title": "[Mechanism of acupuncture at governor vessel acupoints in improving cognitive dysfunction in AD mice based on complement C1q-mediated microglial synaptic phagocytosis].",
@@ -166,39 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43035602/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43035596",
-        "title": "Tetrapeptide НАЕЕ Inhibits the Toxic Effect of Beta-Amyloid on NEURO2A Neuroblastoma Cells.",
-        "journal": "Doklady biological sciences : proceeding",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43035596/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43034879",
-        "title": "Elevated Phosphorylated Tau and Amyloid-Beta 42 in Sleep Apnoea: Evidence From a Systematic Review and Meta-Analysis.",
-        "journal": "BioMed research international",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43034879/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43030219",
-        "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43030219/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43040622",
+        "title": "Diagnostic performance of blood-based biomarker thresholds and ratios across the cognitive continuum in a diverse South Asian cohort.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43040622/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43039924",
+        "title": "APOE ε4 carriership status enhances age-related changes in Alzheimer's disease plasma biomarkers concentrations.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43039924/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43038490",
         "title": "APOE Genotype and Amyloid PET in People With Mild Cognitive Impairment or Dementia: Results from Clinical Practice.",
@@ -258,29 +278,49 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43034373/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43028125",
-        "title": "Genotype-Associated Molecular Phenotypes Across Brain and Gut Compartments in Male 5xFAD Mice: Shared Latent Structure and the Limits of Individual-Level Inference.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43028125/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43027915",
-        "title": "A Comparative Analysis of Microglial and Astrocyte Transplantation in an Amyloid-Induced Rat for Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43027915/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43043358",
+        "title": "Global, regional, and national burden of Alzheimer's disease and other dementias with a focus on populations aged 40 years and older, 1990-2023, and projections to 2040: a systematic analysis based on the Global Burden of Disease Study 2023.",
+        "journal": "Neuroepidemiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43043358/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43042659",
+        "title": "Menopausal Hormone Therapy History is Associated with Improved Postoperative Ambulatory Recovery in Postmenopausal Women with Hip Fragility Fractures.",
+        "journal": "Journal of orthopaedic trauma",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43042659/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43041805",
+        "title": "Impact of Cognitive Remediation Combined With Transcranial Direct Current Stimulation on Gray Matter Macrostructure and Microstructure in Older Adults at Risk for Alzheimer's Dementia.",
+        "journal": "Biological psychiatry global open scienc",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43041805/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43040576",
+        "title": "Genome-wide association and multi-omics analysis of sporadic Creutzfeldt-Jakob disease in a Chinese population.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43040576/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43038905",
         "title": "Social frailty and its association with incident cognitive impairment among older U.S. adults: neurodegenerative biomarkers and mediators.",
@@ -318,46 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43030397/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43030219",
-        "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
-        "journal": "Nutrients",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43030219/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43027279",
-        "title": "Effects of Interleukin-6 Dysregulation in a Mouse Model of Alzheimer's Disease: Unraveling Complexity Beyond Amyloidosis.",
-        "journal": "Cells",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43027279/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43025039",
-        "title": "Effects of sustained moderate to vigorous physical activity on late-life cognitive function: A target trial emulation study.",
-        "journal": "Maturitas",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43025039/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43024970",
-        "title": "Machine learning reveals pre-treatment deficit accumulation as a predictor of persistent cancer-related fatigue: The Thinking and Living with Cancer longitudinal cohort study.",
-        "journal": "Journal of geriatric oncology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43024970/",
         "zh": "",
         "evidence": "OTHER"
       }
