@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:37:38.637049Z",
+  "updated": "2026-11-17T06:25:29.692465Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "43039835",
+        "title": "[Mechanism of acupuncture at governor vessel acupoints in improving cognitive dysfunction in AD mice based on complement C1q-mediated microglial synaptic phagocytosis].",
+        "journal": "Zhongguo zhen jiu = Chinese acupuncture ",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43039835/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43037788",
+        "title": "The emerging role of microglial TREM2 in Alzheimer's Disease: pathogenesis and therapeutic implications.",
+        "journal": "Molecular biology reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43037788/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43037040",
         "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part II: Emerging blood biomarkers, prospects and current limitations].",
         "journal": "Annales de biologie clinique",
@@ -176,29 +196,39 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43030219/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43028256",
-        "title": "Single-Chain Variable Fragments Targeting Plasma Exosome Amyloid-β Peptide Subtypes for Diagnosis of Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43028256/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43028204",
-        "title": "Current Possible Newer Pharmacological Treatment Options for Alzheimer's Disease.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43028204/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43038490",
+        "title": "APOE Genotype and Amyloid PET in People With Mild Cognitive Impairment or Dementia: Results from Clinical Practice.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038490/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43038487",
+        "title": "Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038487/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43037989",
+        "title": "Absolute Risk of Progression to Cognitive Impairment Based on Plasma Phosphorylated Tau 217, Age, Sex, and APOE ε4.",
+        "journal": "JAMA neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43037989/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43037040",
         "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part II: Emerging blood biomarkers, prospects and current limitations].",
@@ -248,39 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43027915/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43026196",
-        "title": "Prognostic value of plasma brain-derived phosphorylated Tau.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43026196/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43023339",
-        "title": "Multimodal neuroimaging in Alzheimer's disease: A practical, case-illustrated review of quantitative MRI and molecular PET.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43023339/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43019495",
-        "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43038905",
+        "title": "Social frailty and its association with incident cognitive impairment among older U.S. adults: neurodegenerative biomarkers and mediators.",
+        "journal": "The journal of nutrition, health &amp; a",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43038905/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43037808",
+        "title": "What Do Australian Children and Adolescents Eat? A Systematic Review of Dietary Patterns and Adverse Health and Cognitive Outcomes.",
+        "journal": "Current nutrition reports",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43037808/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43037594",
         "title": "Cerebello-extracerebellar connectivity and relative FDG uptake in relation to Alzheimer biomarkers and cognitive trajectories.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43024970/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43024373",
-        "title": "Association between the Frequency of Individual Outdoor Activity and Risk of Incident Dementia in an Elderly Population in China: A National Cohort Study.",
-        "journal": "Neuroepidemiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43024373/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43024096",
-        "title": "Depressive symptom dimensions, physical activity, and incident dementia: a longitudinal analysis of three international cohorts.",
-        "journal": "European archives of psychiatry and clin",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43024096/",
         "zh": "",
         "evidence": "OTHER"
       }
