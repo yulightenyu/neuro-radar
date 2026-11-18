@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:27:14.576515Z",
+  "updated": "2026-11-18T05:49:50.052174Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "43043965",
+        "title": "Integrating large-scale serum baseline metabolomics and APOE ε4 genotype status for the non-invasive detection of Alzheimer's disease in the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43043965/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43043697",
+        "title": "Intranasal delivery of a ROS-activatable myeloperoxidase inhibitor alleviates Alzheimer's-like symptoms and pathology.",
+        "journal": "Proceedings of the National Academy of S",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43043697/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43043510",
+        "title": "Dietary and endogenous fructose metabolism in Alzheimer's disease: a critical review of mechanistic, preclinical, and epidemiological evidence.",
+        "journal": "Metabolic brain disease",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43043510/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43042906",
         "title": "Amyloid-β42 Drives Collagen-Independent Activation of Discoidin Domain Receptor 2 in Alzheimer's Disease.",
         "journal": "Biochemistry",
@@ -166,39 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43037788/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43037040",
-        "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part II: Emerging blood biomarkers, prospects and current limitations].",
-        "journal": "Annales de biologie clinique",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43037040/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43035714",
-        "title": "Inflammation-associated serum amyloid A amplifies amyloid-β-driven oxidative stress and microglial activation.",
-        "journal": "Journal of neuroinflammation",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43035714/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43035602",
-        "title": "Increase in IgM Autoantibodies to Aβ1-42 in Plasma of Men with Alzheimer's disease.",
-        "journal": "Doklady biological sciences : proceeding",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43035602/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43043965",
+        "title": "Integrating large-scale serum baseline metabolomics and APOE ε4 genotype status for the non-invasive detection of Alzheimer's disease in the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43043965/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43040622",
         "title": "Diagnostic performance of blood-based biomarker thresholds and ratios across the cognitive continuum in a diverse South Asian cohort.",
@@ -268,19 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43034879/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43034373",
-        "title": "Plasma biomarker signatures in patients with rapidly progressive dementia.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43034373/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43044707",
+        "title": "Association between Physical Function and Incidence of Atrial Fibrillation: The Atherosclerosis Risk in Communities (ARIC) Study.",
+        "journal": "American heart journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43044707/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43044225",
+        "title": "Loneliness exposure groups and 20-year dementia risk: a longitudinal population-based study.",
+        "journal": "Aging &amp; mental health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43044225/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43043358",
         "title": "Global, regional, and national burden of Alzheimer's disease and other dementias with a focus on populations aged 40 years and older, 1990-2023, and projections to 2040: a systematic analysis based on the Global Burden of Disease Study 2023.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43037808/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43037594",
-        "title": "Cerebello-extracerebellar connectivity and relative FDG uptake in relation to Alzheimer biomarkers and cognitive trajectories.",
-        "journal": "The neuroradiology journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43037594/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43030397",
-        "title": "A Three-Item Oral Function Impairment Score Is Associated with White Matter, but Not Gray Matter, Volume Ratio in Older Adults: A Cross-Sectional Study.",
-        "journal": "Journal of clinical medicine",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43030397/",
         "zh": "",
         "evidence": "OTHER"
       }
