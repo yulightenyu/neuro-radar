@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:49:50.052174Z",
+  "updated": "2026-11-18T19:57:03.018250Z",
   "feeds": [
     {
       "id": "drug",
@@ -200,6 +200,36 @@
     ],
     "dx": [
       {
+        "pmid": "43049195",
+        "title": "Digital Delivery of Apolipoprotein E Genotype and Phosphorylated Tau 217 Results: The eSMARTER Randomized Clinical Trial.",
+        "journal": "JAMA neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43049195/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43048885",
+        "title": "Circular RNAs as emerging multi-pathway blood-based biomarkers for Alzheimer's disease: Clinical need, biological rationale, and translational considerations.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43048885/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43046597",
+        "title": "Capillary brain-derived p-tau217 for remote triaging of Alzheimer's disease pathology: Clinical performance in a CLIA/CAP-certified laboratory.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046597/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43043965",
         "title": "Integrating large-scale serum baseline metabolomics and APOE ε4 genotype status for the non-invasive detection of Alzheimer's disease in the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort.",
         "journal": "PloS one",
@@ -248,39 +278,79 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43038487/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43037989",
-        "title": "Absolute Risk of Progression to Cognitive Impairment Based on Plasma Phosphorylated Tau 217, Age, Sex, and APOE ε4.",
-        "journal": "JAMA neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43037989/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43037040",
-        "title": "[The blood biomarker breakthrough in Alzheimer's disease: what applications in 2026? Part II: Emerging blood biomarkers, prospects and current limitations].",
-        "journal": "Annales de biologie clinique",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43037040/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43034879",
-        "title": "Elevated Phosphorylated Tau and Amyloid-Beta 42 in Sleep Apnoea: Evidence From a Systematic Review and Meta-Analysis.",
-        "journal": "BioMed research international",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43034879/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43048343",
+        "title": "Artificial intelligence for predicting chronicity, relapse, and zoonotic risk in brucellosis: toward a one health closed-loop decision-making framework.",
+        "journal": "Frontiers in public health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43048343/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43047645",
+        "title": "Apolipoprotein ε4-allele as predictor of outcome in radiotherapy-treated childhood brain tumor survivors.",
+        "journal": "Neuro-oncology practice",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43047645/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43047550",
+        "title": "From silos to shared plans: A complex intervention development and specification study of the GAPA digital infrastructure for cross-organisational oralhealth care planning in home care.",
+        "journal": "Digital health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43047550/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43046601",
+        "title": "Sleep-cognition associations change direction with proximity to dementia diagnosis.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046601/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43046597",
+        "title": "Capillary brain-derived p-tau217 for remote triaging of Alzheimer's disease pathology: Clinical performance in a CLIA/CAP-certified laboratory.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046597/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43046580",
+        "title": "Apolipoprotein E genotype, PET and MRI biomarkers, and vascular risk: A multi-modal investigation of memory performance in US POINTER.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046580/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43045795",
+        "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries.",
+        "journal": "Nature medicine",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43045795/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43044707",
         "title": "Association between Physical Function and Incidence of Atrial Fibrillation: The Atherosclerosis Risk in Communities (ARIC) Study.",
@@ -288,76 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43044707/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43044225",
-        "title": "Loneliness exposure groups and 20-year dementia risk: a longitudinal population-based study.",
-        "journal": "Aging &amp; mental health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43044225/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43043358",
-        "title": "Global, regional, and national burden of Alzheimer's disease and other dementias with a focus on populations aged 40 years and older, 1990-2023, and projections to 2040: a systematic analysis based on the Global Burden of Disease Study 2023.",
-        "journal": "Neuroepidemiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43043358/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43042659",
-        "title": "Menopausal Hormone Therapy History is Associated with Improved Postoperative Ambulatory Recovery in Postmenopausal Women with Hip Fragility Fractures.",
-        "journal": "Journal of orthopaedic trauma",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43042659/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43041805",
-        "title": "Impact of Cognitive Remediation Combined With Transcranial Direct Current Stimulation on Gray Matter Macrostructure and Microstructure in Older Adults at Risk for Alzheimer's Dementia.",
-        "journal": "Biological psychiatry global open scienc",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43041805/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43040576",
-        "title": "Genome-wide association and multi-omics analysis of sporadic Creutzfeldt-Jakob disease in a Chinese population.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43040576/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43038905",
-        "title": "Social frailty and its association with incident cognitive impairment among older U.S. adults: neurodegenerative biomarkers and mediators.",
-        "journal": "The journal of nutrition, health &amp; a",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43038905/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43037808",
-        "title": "What Do Australian Children and Adolescents Eat? A Systematic Review of Dietary Patterns and Adverse Health and Cognitive Outcomes.",
-        "journal": "Current nutrition reports",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43037808/",
         "zh": "",
         "evidence": "OTHER"
       }
