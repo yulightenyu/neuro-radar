@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:57:03.018250Z",
+  "updated": "2026-11-19T05:49:52.391789Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,82 +118,82 @@
     ],
     "mech": [
       {
-        "pmid": "43043965",
-        "title": "Integrating large-scale serum baseline metabolomics and APOE ε4 genotype status for the non-invasive detection of Alzheimer's disease in the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort.",
-        "journal": "PloS one",
+        "pmid": "43051699",
+        "title": "[Research progress on the neuro-endocrine-immune regulatory mechanism of acupuncture in the treatment of Alzheimer's disease].",
+        "journal": "Zhen ci yan jiu = Acupuncture research",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43043965/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43051699/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43043697",
-        "title": "Intranasal delivery of a ROS-activatable myeloperoxidase inhibitor alleviates Alzheimer's-like symptoms and pathology.",
+        "pmid": "43050315",
+        "title": "Galectin-3 links microglial neuroinflammation to Aβ aggregation and lysosomal processing.",
         "journal": "Proceedings of the National Academy of S",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43043697/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43050315/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43043510",
-        "title": "Dietary and endogenous fructose metabolism in Alzheimer's disease: a critical review of mechanistic, preclinical, and epidemiological evidence.",
-        "journal": "Metabolic brain disease",
+        "pmid": "43048173",
+        "title": "Interferon-induced transmembrane protein 3 (IFITM3) as a neuroimmune regulator in Alzheimer's disease: emerging roles in astrocyte activation and pathological signaling.",
+        "journal": "Frontiers in immunology",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43043510/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43048173/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43042906",
-        "title": "Amyloid-β42 Drives Collagen-Independent Activation of Discoidin Domain Receptor 2 in Alzheimer's Disease.",
-        "journal": "Biochemistry",
+        "pmid": "43046858",
+        "title": "A Mito-CoQ10-TPP Nanocarrier Hybrid Enhances the Therapeutic Efficacy of Mitochondrial Transplantation in Alzheimer's Disease.",
+        "journal": "ACS chemical neuroscience",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43042906/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046858/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43042652",
-        "title": "Scanning X-ray microdiffraction studies of protein accumulation and tissue loss in thin sections of human brain tissue in Alzheimer's disease.",
-        "journal": "Scientific reports",
+        "pmid": "43046855",
+        "title": "Aβ Aggregate-Gated Ratiometric Probe Reveals Peri-Plaque Acidification Arising from Lysosomal Dysfunction in Alzheimer's Disease.",
+        "journal": "ACS chemical neuroscience",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43042652/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046855/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43039924",
-        "title": "APOE ε4 carriership status enhances age-related changes in Alzheimer's disease plasma biomarkers concentrations.",
-        "journal": "Nature communications",
+        "pmid": "43046622",
+        "title": "Pericyte PDGFR-β deficiency contributes to Aβ pathology through impaired glymphatic transport and altered AQP-4 localization.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43039924/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046622/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43039835",
-        "title": "[Mechanism of acupuncture at governor vessel acupoints in improving cognitive dysfunction in AD mice based on complement C1q-mediated microglial synaptic phagocytosis].",
-        "journal": "Zhongguo zhen jiu = Chinese acupuncture ",
+        "pmid": "43046619",
+        "title": "Network architecture of sleep, biomarkers, and cognition: Rapid eye movement sleep latency as a cross-domain connector.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43039835/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046619/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43037788",
-        "title": "The emerging role of microglial TREM2 in Alzheimer's Disease: pathogenesis and therapeutic implications.",
-        "journal": "Molecular biology reports",
+        "pmid": "43046597",
+        "title": "Capillary brain-derived p-tau217 for remote triaging of Alzheimer's disease pathology: Clinical performance in a CLIA/CAP-certified laboratory.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43037788/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43046597/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,66 @@
     ],
     "prev": [
       {
+        "pmid": "43052179",
+        "title": "Association of Newer Glucose-Lowering Medications and Phenoconversion From REM Sleep Behaviour Disorder to Parkinsonian Disorders in Older Adults with Type 2 Diabetes.",
+        "journal": "Journal of sleep research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052179/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43050640",
+        "title": "Statins for the Prevention of Dementia Among Older Male United States Veterans: A Target Trial Emulation.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43050640/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43050399",
+        "title": "The global burden of Alzheimer's disease and related dementias: New public health intervention targets driven by the long-term impact of COVID-19 and sex and age differences.",
+        "journal": "PloS one",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43050399/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43050191",
+        "title": "Prevalence of Chronic Traumatic Encephalopathy Without Contact Sport Repetitive Head Impact Exposure: A Systematic Review and Meta-Analysis.",
+        "journal": "JAMA network open",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43050191/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43050188",
+        "title": "Sleep-Wake Cycle Profiles and Incident Dementia and Cognitive Decline in Older Adults.",
+        "journal": "JAMA network open",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43050188/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43049898",
+        "title": "Thirteen-month real-world effectiveness and safety of lecanemab in Chinese patients with Alzheimer's disease: integrating objective clinical outcomes and caregiver-reported experiences.",
+        "journal": "Journal of neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43049898/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43048343",
         "title": "Artificial intelligence for predicting chronicity, relapse, and zoonotic risk in brucellosis: toward a one health closed-loop decision-making framework.",
         "journal": "Frontiers in public health",
@@ -300,69 +360,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43047645/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43047550",
-        "title": "From silos to shared plans: A complex intervention development and specification study of the GAPA digital infrastructure for cross-organisational oralhealth care planning in home care.",
-        "journal": "Digital health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43047550/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43046601",
-        "title": "Sleep-cognition associations change direction with proximity to dementia diagnosis.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046601/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43046597",
-        "title": "Capillary brain-derived p-tau217 for remote triaging of Alzheimer's disease pathology: Clinical performance in a CLIA/CAP-certified laboratory.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046597/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43046580",
-        "title": "Apolipoprotein E genotype, PET and MRI biomarkers, and vascular risk: A multi-modal investigation of memory performance in US POINTER.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046580/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43045795",
-        "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries.",
-        "journal": "Nature medicine",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43045795/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43044707",
-        "title": "Association between Physical Function and Incidence of Atrial Fibrillation: The Atherosclerosis Risk in Communities (ARIC) Study.",
-        "journal": "American heart journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43044707/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "intro": [
+      {
+        "pmid": "43048173",
+        "title": "Interferon-induced transmembrane protein 3 (IFITM3) as a neuroimmune regulator in Alzheimer's disease: emerging roles in astrocyte activation and pathological signaling.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43048173/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43035305",
         "title": "[Research progress on early biomarkers of Alzheimer's disease].",
@@ -430,16 +440,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/42980983/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42980874",
-        "title": "A narrative review of rare variants in Alzheimer's disease: diverse populations inform diverse mechanisms.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42980874/",
         "zh": "",
         "evidence": "OTHER"
       }
