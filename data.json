@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T05:49:52.391789Z",
+  "updated": "2026-11-19T19:56:03.317118Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,87 +118,107 @@
     ],
     "mech": [
       {
-        "pmid": "43051699",
-        "title": "[Research progress on the neuro-endocrine-immune regulatory mechanism of acupuncture in the treatment of Alzheimer's disease].",
-        "journal": "Zhen ci yan jiu = Acupuncture research",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43051699/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43050315",
-        "title": "Galectin-3 links microglial neuroinflammation to Aβ aggregation and lysosomal processing.",
-        "journal": "Proceedings of the National Academy of S",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43050315/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43048173",
-        "title": "Interferon-induced transmembrane protein 3 (IFITM3) as a neuroimmune regulator in Alzheimer's disease: emerging roles in astrocyte activation and pathological signaling.",
+        "pmid": "43053935",
+        "title": "Timing of global C1q deletion differentially regulates cognition and pathology in a mouse model of Alzheimer's disease.",
         "journal": "Frontiers in immunology",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43048173/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43053935/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43046858",
-        "title": "A Mito-CoQ10-TPP Nanocarrier Hybrid Enhances the Therapeutic Efficacy of Mitochondrial Transplantation in Alzheimer's Disease.",
-        "journal": "ACS chemical neuroscience",
+        "pmid": "43053222",
+        "title": "Neuron-enriched STAT4 shapes time- and context-dependent neuronal outcomes in Alzheimer's disease.",
+        "journal": "Translational neurodegeneration",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046858/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43053222/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43046855",
-        "title": "Aβ Aggregate-Gated Ratiometric Probe Reveals Peri-Plaque Acidification Arising from Lysosomal Dysfunction in Alzheimer's Disease.",
-        "journal": "ACS chemical neuroscience",
+        "pmid": "43053204",
+        "title": "Neurobiological correlates of longitudinal grey matter volume changes in preclinical Alzheimer's disease.",
+        "journal": "Molecular neurodegeneration",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046855/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43053204/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43046622",
-        "title": "Pericyte PDGFR-β deficiency contributes to Aβ pathology through impaired glymphatic transport and altered AQP-4 localization.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "43052842",
+        "title": "The diagnostic and therapeutic potential of palmitoylation-related genes in Alzheimer's disease.",
+        "journal": "BMC neurology",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046622/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052842/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43046619",
-        "title": "Network architecture of sleep, biomarkers, and cognition: Rapid eye movement sleep latency as a cross-domain connector.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "43052726",
+        "title": "Alzheimer's disease and cancer as opposing failures of APP signaling network homeostasis: from pleiotropic components to multi-target therapeutics.",
+        "journal": "Molecular medicine (Cambridge, Mass.)",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046619/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052726/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43046597",
-        "title": "Capillary brain-derived p-tau217 for remote triaging of Alzheimer's disease pathology: Clinical performance in a CLIA/CAP-certified laboratory.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "43052627",
+        "title": "Astrocytic Gq Signaling in Mice Enhances Glial Engagement With Amyloid Plaques and Promotes Plaque Clearance In Vivo.",
+        "journal": "Glia",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046597/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052627/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43052338",
+        "title": "Theta: a multivariate normative statistic applied to amyloid β panel data in familial Alzheimer's disease.",
+        "journal": "NPJ systems biology and applications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052338/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43052305",
+        "title": "Stenotrophomonas maltophilia alleviates Alzheimer's disease model phenotype by inhibiting Aβ aggregation via autophagy.",
+        "journal": "NPJ biofilms and microbiomes",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052305/",
         "zh": "",
         "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43052398",
+        "title": "Comparing plasma p-tau217 and plasma p-tau217/Aβ42 with CSF biomarkers for assessing Alzheimer's disease pathology.",
+        "journal": "Nature aging",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052398/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43052277",
+        "title": "Plasma eMTBR-tau243 and p-tau205 as T2 biomarkers for biological staging and prognosis in Alzheimer's disease.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052277/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43049195",
         "title": "Digital Delivery of Apolipoprotein E Genotype and Phosphorylated Tau 217 Results: The eSMARTER Randomized Clinical Trial.",
@@ -258,29 +278,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43039924/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43038490",
-        "title": "APOE Genotype and Amyloid PET in People With Mild Cognitive Impairment or Dementia: Results from Clinical Practice.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43038490/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43038487",
-        "title": "Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43038487/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43055138",
+        "title": "Weekly assessments of global cognition using the digital Boston Cognitive Assessment (BoCA): Adherence to protocol, practice effects, and MDC.",
+        "journal": "Applied neuropsychology. Adult",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43055138/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43054852",
+        "title": "The Growing Role of Glucagon-Like Peptide-1 Receptor Agonists in Neuropsychiatry.",
+        "journal": "Clinical pharmacology : advances and app",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43054852/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43053924",
+        "title": "Olea europaea-derived interventions and cognitive outcomes across cognitive aging, mild cognitive impairment, and Alzheimer's disease: a systematic review of controlled clinical studies.",
+        "journal": "Frontiers in nutrition",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43053924/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43053204",
+        "title": "Neurobiological correlates of longitudinal grey matter volume changes in preclinical Alzheimer's disease.",
+        "journal": "Molecular neurodegeneration",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43053204/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43052247",
+        "title": "Exploring healthy aging through preclinical Alzheimer disease in the Knight Alzheimer Research Imaging dataset.",
+        "journal": "Nature communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43052247/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43052179",
         "title": "Association of Newer Glucose-Lowering Medications and Phenoconversion From REM Sleep Behaviour Disorder to Parkinsonian Disorders in Older Adults with Type 2 Diabetes.",
@@ -308,56 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43050399/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43050191",
-        "title": "Prevalence of Chronic Traumatic Encephalopathy Without Contact Sport Repetitive Head Impact Exposure: A Systematic Review and Meta-Analysis.",
-        "journal": "JAMA network open",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43050191/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43050188",
-        "title": "Sleep-Wake Cycle Profiles and Incident Dementia and Cognitive Decline in Older Adults.",
-        "journal": "JAMA network open",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43050188/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43049898",
-        "title": "Thirteen-month real-world effectiveness and safety of lecanemab in Chinese patients with Alzheimer's disease: integrating objective clinical outcomes and caregiver-reported experiences.",
-        "journal": "Journal of neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43049898/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43048343",
-        "title": "Artificial intelligence for predicting chronicity, relapse, and zoonotic risk in brucellosis: toward a one health closed-loop decision-making framework.",
-        "journal": "Frontiers in public health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43048343/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43047645",
-        "title": "Apolipoprotein ε4-allele as predictor of outcome in radiotherapy-treated childhood brain tumor survivors.",
-        "journal": "Neuro-oncology practice",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43047645/",
         "zh": "",
         "evidence": "OTHER"
       }
