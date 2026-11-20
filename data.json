@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T19:56:03.317118Z",
+  "updated": "2026-11-20T05:38:50.308371Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "43056657",
+        "title": "Relative Pericentral Tau Distribution in Cerebral Amyloid Angiopathy Compared With Alzheimer Disease.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43056657/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43055829",
+        "title": "Transplantation of Lhx8/KDM7A/FGF4-induced OM-MSCs-derived neuron-like cells improves neuroinflammation and cognitive impairment in Aβ1-42-induced mouse model.",
+        "journal": "Journal of bioenergetics and biomembrane",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43055829/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43055811",
+        "title": "Whey Protein Hydrolysate Attenuates Spatial Memory Deficits and Alters Hippocampal Keap1/Nrf2/HO-1 in an STZ-Induced Rat Model of Alzheimer's Disease.",
+        "journal": "Neurochemical research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43055811/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43053935",
         "title": "Timing of global C1q deletion differentially regulates cognition and pathology in a mouse model of Alzheimer's disease.",
         "journal": "Frontiers in immunology",
@@ -166,39 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43052726/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43052627",
-        "title": "Astrocytic Gq Signaling in Mice Enhances Glial Engagement With Amyloid Plaques and Promotes Plaque Clearance In Vivo.",
-        "journal": "Glia",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052627/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43052338",
-        "title": "Theta: a multivariate normative statistic applied to amyloid β panel data in familial Alzheimer's disease.",
-        "journal": "NPJ systems biology and applications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052338/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43052305",
-        "title": "Stenotrophomonas maltophilia alleviates Alzheimer's disease model phenotype by inhibiting Aβ aggregation via autophagy.",
-        "journal": "NPJ biofilms and microbiomes",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052305/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43057407",
+        "title": "Baseline diffusion MRI markers of interstitial fluid dynamics are associated with subsequent amyloid conversion in cognitively normal individuals.",
+        "journal": "NeuroImage",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43057407/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43056497",
+        "title": "Plasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle Neuropathology.",
+        "journal": "JAMA",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43056497/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43052398",
         "title": "Comparing plasma p-tau217 and plasma p-tau217/Aβ42 with CSF biomarkers for assessing Alzheimer's disease pathology.",
@@ -258,29 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43043965/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43040622",
-        "title": "Diagnostic performance of blood-based biomarker thresholds and ratios across the cognitive continuum in a diverse South Asian cohort.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43040622/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43039924",
-        "title": "APOE ε4 carriership status enhances age-related changes in Alzheimer's disease plasma biomarkers concentrations.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43039924/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43055867",
+        "title": "Tracer-dependent Within-acquisition Dynamics of Delayed-phase [18F]florbetaben and [18F]flutemetamol PET: Implications for Amyloid Quantification and Acquisition Duration.",
+        "journal": "Molecular imaging and biology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43055867/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43055138",
         "title": "Weekly assessments of global cognition using the digital Boston Cognitive Assessment (BoCA): Adherence to protocol, practice effects, and MDC.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43050640/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43050399",
-        "title": "The global burden of Alzheimer's disease and related dementias: New public health intervention targets driven by the long-term impact of COVID-19 and sex and age differences.",
-        "journal": "PloS one",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43050399/",
         "zh": "",
         "evidence": "OTHER"
       }
