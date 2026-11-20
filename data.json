@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:38:50.308371Z",
+  "updated": "2026-11-20T19:36:07.285121Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,16 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "43058145",
+        "title": "AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia.",
+        "journal": "Scientific data",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43058145/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43040625",
         "title": "Two new blood tests for Alzheimer's disease.",
@@ -104,19 +114,59 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42965692/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42961631",
-        "title": "Cost-Effectiveness Analysis of Disease-Modifying Therapies for Early Alzheimer's Disease in China.",
-        "journal": "Neurology and therapy",
-        "year": "2026",
-        "month": "10",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42961631/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
+      {
+        "pmid": "43061396",
+        "title": "CD8+ T cells drive neuroinflammation and cognitive decline in Alzheimer's disease.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43061396/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43061084",
+        "title": "Shared mechanisms and therapeutic horizons: exploring the potential interplay between benign prostatic hyperplasia/lower urinary tract symptoms and Alzheimer's disease.",
+        "journal": "Frontiers in neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43061084/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43058971",
+        "title": "Ancestry-specific effects of apolipoprotein E on Alzheimer's disease endophenotypes.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43058971/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43058684",
+        "title": "Anacyclus pyrethrum extract improves spatial memory and cognition in a rat model of Alzheimer's disease.",
+        "journal": "BMC complementary medicine and therapies",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43058684/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43058145",
+        "title": "AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia.",
+        "journal": "Scientific data",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43058145/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43056657",
         "title": "Relative Pericentral Tau Distribution in Cerebral Amyloid Angiopathy Compared With Alzheimer Disease.",
@@ -146,59 +196,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43055811/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43053935",
-        "title": "Timing of global C1q deletion differentially regulates cognition and pathology in a mouse model of Alzheimer's disease.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43053935/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43053222",
-        "title": "Neuron-enriched STAT4 shapes time- and context-dependent neuronal outcomes in Alzheimer's disease.",
-        "journal": "Translational neurodegeneration",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43053222/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43053204",
-        "title": "Neurobiological correlates of longitudinal grey matter volume changes in preclinical Alzheimer's disease.",
-        "journal": "Molecular neurodegeneration",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43053204/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43052842",
-        "title": "The diagnostic and therapeutic potential of palmitoylation-related genes in Alzheimer's disease.",
-        "journal": "BMC neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052842/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43052726",
-        "title": "Alzheimer's disease and cancer as opposing failures of APP signaling network homeostasis: from pleiotropic components to multi-target therapeutics.",
-        "journal": "Molecular medicine (Cambridge, Mass.)",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052726/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43061845",
+        "title": "Clinical value of plasma p-tau217 in identifying mild cognitive impairment due to Alzheimer's disease: A comparative multimarker analysis.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43061845/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43060272",
+        "title": "Delayed-centrifugation blood collection tube for remote blood biomarker assessment.",
+        "journal": "medRxiv : the preprint server for health",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43060272/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43057407",
         "title": "Baseline diffusion MRI markers of interstitial fluid dynamics are associated with subsequent amyloid conversion in cognitively normal individuals.",
@@ -258,106 +278,86 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43048885/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43046597",
-        "title": "Capillary brain-derived p-tau217 for remote triaging of Alzheimer's disease pathology: Clinical performance in a CLIA/CAP-certified laboratory.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43046597/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43043965",
-        "title": "Integrating large-scale serum baseline metabolomics and APOE ε4 genotype status for the non-invasive detection of Alzheimer's disease in the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort.",
-        "journal": "PloS one",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43043965/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
       {
-        "pmid": "43055867",
-        "title": "Tracer-dependent Within-acquisition Dynamics of Delayed-phase [18F]florbetaben and [18F]flutemetamol PET: Implications for Amyloid Quantification and Acquisition Duration.",
-        "journal": "Molecular imaging and biology",
+        "pmid": "43060821",
+        "title": "Short-, medium- and long-term sequelae following COVID-19 infection: a network cohort study across multiple Asia-Pacific regions.",
+        "journal": "The Lancet regional health. Western Paci",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43055867/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43060821/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43055138",
-        "title": "Weekly assessments of global cognition using the digital Boston Cognitive Assessment (BoCA): Adherence to protocol, practice effects, and MDC.",
-        "journal": "Applied neuropsychology. Adult",
+        "pmid": "43060647",
+        "title": "Study protocol for evidence-based LIFEstyle interventions for the delay of COgnitive DEcline among Singaporean older adults (LIFECODES): a randomized controlled trial.",
+        "journal": "Frontiers in aging neuroscience",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43055138/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43060647/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43054852",
-        "title": "The Growing Role of Glucagon-Like Peptide-1 Receptor Agonists in Neuropsychiatry.",
-        "journal": "Clinical pharmacology : advances and app",
+        "pmid": "43060269",
+        "title": "Distinct Sex-Associated Phenotypes of Sudden Cardiac Arrest Across Clinical, ECG, and Echocardiographic Domains: Replication in Two Communities and Comparison with the Framingham Heart Study.",
+        "journal": "medRxiv : the preprint server for health",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43054852/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43060269/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43053924",
-        "title": "Olea europaea-derived interventions and cognitive outcomes across cognitive aging, mild cognitive impairment, and Alzheimer's disease: a systematic review of controlled clinical studies.",
-        "journal": "Frontiers in nutrition",
+        "pmid": "43060219",
+        "title": "Disease aging clocks in the plasma proteome stratify risk and track preclinical progression.",
+        "journal": "Research square",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43053924/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43060219/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43053204",
-        "title": "Neurobiological correlates of longitudinal grey matter volume changes in preclinical Alzheimer's disease.",
-        "journal": "Molecular neurodegeneration",
+        "pmid": "43060060",
+        "title": "Joint Longitudinal Hazard Modeling Distinguishes Polygenic Effects on Dementia via Premorbid Cognitive Function and Aging-Related Decline.",
+        "journal": "medRxiv : the preprint server for health",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43053204/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43060060/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43052247",
-        "title": "Exploring healthy aging through preclinical Alzheimer disease in the Knight Alzheimer Research Imaging dataset.",
-        "journal": "Nature communications",
+        "pmid": "43059526",
+        "title": "Joint trajectories of pain and depressive symptoms in relation to repeated cognitive performance: a harmonized longitudinal analysis of four aging cohorts.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052247/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43059526/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43052179",
-        "title": "Association of Newer Glucose-Lowering Medications and Phenoconversion From REM Sleep Behaviour Disorder to Parkinsonian Disorders in Older Adults with Type 2 Diabetes.",
-        "journal": "Journal of sleep research",
+        "pmid": "43058525",
+        "title": "Longitudinal association of social participation with locomotive syndrome among Japanese older adults: a 5-year community-based study.",
+        "journal": "BMC geriatrics",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052179/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43058525/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43050640",
-        "title": "Statins for the Prevention of Dementia Among Older Male United States Veterans: A Target Trial Emulation.",
-        "journal": "Neurology",
+        "pmid": "43058145",
+        "title": "AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia.",
+        "journal": "Scientific data",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43050640/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43058145/",
         "zh": "",
         "evidence": "OTHER"
       }
