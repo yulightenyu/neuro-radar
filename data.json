@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:36:07.285121Z",
+  "updated": "2026-11-21T05:32:08.872424Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43062985",
+        "title": "Natural phytocompounds targeting tau protein: therapeutic potential in Alzheimer's disease.",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43062985/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43061396",
         "title": "CD8+ T cells drive neuroinflammation and cognitive decline in Alzheimer's disease.",
         "journal": "Frontiers in immunology",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43055829/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43055811",
-        "title": "Whey Protein Hydrolysate Attenuates Spatial Memory Deficits and Alters Hippocampal Keap1/Nrf2/HO-1 in an STZ-Induced Rat Model of Alzheimer's Disease.",
-        "journal": "Neurochemical research",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43055811/",
         "zh": "",
         "evidence": "OTHER"
       }
