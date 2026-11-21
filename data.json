@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:32:08.872424Z",
+  "updated": "2026-11-21T18:40:42.606989Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "43065222",
+        "title": "Traditional Chinese Medicine Regulates Microglia for the Treatment of Alzheimer's Disease: A Paradigm Shift From Phenotypic Modulation to Metabolic Reprogramming and Molecular Regulation.",
+        "journal": "Journal of immunology research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43065222/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43064881",
+        "title": "Innate Immunity in the Oral-Brain Axis: Trained Immunity as a Candidate Link Between Periodontitis and Alzheimer's Disease.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43064881/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43062985",
         "title": "Natural phytocompounds targeting tau protein: therapeutic potential in Alzheimer's disease.",
         "journal": "The Journal of pharmacy and pharmacology",
@@ -174,26 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43058145/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43056657",
-        "title": "Relative Pericentral Tau Distribution in Cerebral Amyloid Angiopathy Compared With Alzheimer Disease.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43056657/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43055829",
-        "title": "Transplantation of Lhx8/KDM7A/FGF4-induced OM-MSCs-derived neuron-like cells improves neuroinflammation and cognitive impairment in Aβ1-42-induced mouse model.",
-        "journal": "Journal of bioenergetics and biomembrane",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43055829/",
         "zh": "",
         "evidence": "OTHER"
       }
