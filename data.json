@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T04:57:48.126024Z",
+  "updated": "2026-11-22T19:00:46.669450Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43066855",
+        "title": "Hesperetin Modulates the PINK1/Parkin-Mediated Mitophagy Pathway to Alleviate Cognitive Deficits and Mitochondrial Dysfunction in a Rat Model of Alzheimer's Disease.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43066855/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43065222",
         "title": "Traditional Chinese Medicine Regulates Microglia for the Treatment of Alzheimer's Disease: A Paradigm Shift From Phenotypic Modulation to Metabolic Reprogramming and Molecular Regulation.",
         "journal": "Journal of immunology research",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43058684/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43058145",
-        "title": "AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia.",
-        "journal": "Scientific data",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43058145/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,36 @@
     ],
     "prev": [
       {
+        "pmid": "43066613",
+        "title": "Predictors of Fear of Dementia: A 2-Year Longitudinal Analysis.",
+        "journal": "International journal of aging &amp; hum",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43066613/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43066585",
+        "title": "Prevalence and Associated Factors of Subjective Memory Problems Among Older Adults in Australian Retirement Villages.",
+        "journal": "Australasian journal on ageing",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43066585/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43066480",
+        "title": "Evaluating the Role of Visceral Adiposity in Neurological Disorders: A Systematic Review and Meta-Analysis.",
+        "journal": "Neurosciences (Riyadh, Saudi Arabia)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43066480/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43060821",
         "title": "Short-, medium- and long-term sequelae following COVID-19 infection: a network cohort study across multiple Asia-Pacific regions.",
         "journal": "The Lancet regional health. Western Paci",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43060060/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43059526",
-        "title": "Joint trajectories of pain and depressive symptoms in relation to repeated cognitive performance: a harmonized longitudinal analysis of four aging cohorts.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43059526/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43058525",
-        "title": "Longitudinal association of social participation with locomotive syndrome among Japanese older adults: a 5-year community-based study.",
-        "journal": "BMC geriatrics",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43058525/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43058145",
-        "title": "AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia.",
-        "journal": "Scientific data",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43058145/",
         "zh": "",
         "evidence": "OTHER"
       }
