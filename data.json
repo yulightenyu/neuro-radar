@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T05:39:19.061840Z",
+  "updated": "2026-11-23T23:21:52.316676Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,56 @@
     ],
     "mech": [
       {
+        "pmid": "43071204",
+        "title": "The Lactate Code in Alzheimer's Disease: A Working Framework for Cell- and Substrate-Specific Lactate Signaling in Neuroinflammation and Proteostasis.",
+        "journal": "Cellular and molecular neurobiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43071204/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43070489",
+        "title": "Vitis vinifera L. Flavones Alleviate Alzheimer's Disease by Attenuating Microglial Polarization-Mediated Neuroinflammation and Cognitive Decline.",
+        "journal": "Physiological research",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070489/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43069378",
+        "title": "Higher Serum Dopamine is Associated with Higher CSF Aβ42/40, Lower Amyloid-PET Burden, and Better Cognitive Function Across the Alzheimer's Disease Spectrum.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43069378/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43069356",
+        "title": "Restoration of Cx43-ERp29 interactions rescues Amyloid-β induced gap junction deficits in human astrocytes.",
+        "journal": "Cellular and molecular life sciences : C",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43069356/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43069289",
+        "title": "Topological morphology descriptors reveal sex-dependent changes in microglial morphology across AD neuropathologic change.",
+        "journal": "Acta neuropathologica communications",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43069289/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43066855",
         "title": "Hesperetin Modulates the PINK1/Parkin-Mediated Mitophagy Pathway to Alleviate Cognitive Deficits and Mitochondrial Dysfunction in a Rat Model of Alzheimer's Disease.",
         "journal": "Molecular neurobiology",
@@ -146,59 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43064881/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43062985",
-        "title": "Natural phytocompounds targeting tau protein: therapeutic potential in Alzheimer's disease.",
-        "journal": "The Journal of pharmacy and pharmacology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43062985/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43061396",
-        "title": "CD8+ T cells drive neuroinflammation and cognitive decline in Alzheimer's disease.",
-        "journal": "Frontiers in immunology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43061396/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43061084",
-        "title": "Shared mechanisms and therapeutic horizons: exploring the potential interplay between benign prostatic hyperplasia/lower urinary tract symptoms and Alzheimer's disease.",
-        "journal": "Frontiers in neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43061084/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43058971",
-        "title": "Ancestry-specific effects of apolipoprotein E on Alzheimer's disease endophenotypes.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43058971/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43058684",
-        "title": "Anacyclus pyrethrum extract improves spatial memory and cognition in a rat model of Alzheimer's disease.",
-        "journal": "BMC complementary medicine and therapies",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43058684/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43069378",
+        "title": "Higher Serum Dopamine is Associated with Higher CSF Aβ42/40, Lower Amyloid-PET Burden, and Better Cognitive Function Across the Alzheimer's Disease Spectrum.",
+        "journal": "Molecular neurobiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43069378/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43068741",
         "title": "Benchmarking pTau-217 and pTau-181 blood level determination for the diagnosis ofAlzheimer's Disease in clinical practice.",
@@ -268,19 +278,79 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43052277/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43049195",
-        "title": "Digital Delivery of Apolipoprotein E Genotype and Phosphorylated Tau 217 Results: The eSMARTER Randomized Clinical Trial.",
-        "journal": "JAMA neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43049195/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43071448",
+        "title": "Associations Between Indoor Musty Odors and Sleep Quality and Duration Among Older Adults: Longitudinal Study.",
+        "journal": "JMIR aging",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43071448/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43070912",
+        "title": "Transient Ischemic Attack as a Marker of Coronary Heart Disease: A Population-Based Study.",
+        "journal": "Neuroepidemiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070912/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43070511",
+        "title": "Subjective Word-Finding Complaints in Older Adults: Development and Preliminary Psychometric Evaluation of a Novel Self-Reported Questionnaire.",
+        "journal": "Journal of geriatric psychiatry and neur",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070511/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43070219",
+        "title": "AI-derived retinal vascular metrics and MoCA-B-defined mild cognitive impairment in type 2 diabetes: a community-based cross-sectional study.",
+        "journal": "Annals of medicine",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43070219/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43069826",
+        "title": "Frailty status transitions and chronic diseases incidence: A dual-cohort prospective study.",
+        "journal": "Sage open chronic disease",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43069826/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43069397",
+        "title": "Influence of regional white matter lesion volume differences related to cardiorespiratory fitness on cognition in healthy older adults.",
+        "journal": "GeroScience",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43069397/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43055138",
+        "title": "Weekly assessments of global cognition using the digital Boston Cognitive Assessment (BoCA): Adherence to protocol, practice effects, and MDC.",
+        "journal": "Applied neuropsychology. Adult",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43055138/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43066613",
         "title": "Predictors of Fear of Dementia: A 2-Year Longitudinal Analysis.",
@@ -288,76 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43066613/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43066585",
-        "title": "Prevalence and Associated Factors of Subjective Memory Problems Among Older Adults in Australian Retirement Villages.",
-        "journal": "Australasian journal on ageing",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43066585/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43066480",
-        "title": "Evaluating the Role of Visceral Adiposity in Neurological Disorders: A Systematic Review and Meta-Analysis.",
-        "journal": "Neurosciences (Riyadh, Saudi Arabia)",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43066480/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43060821",
-        "title": "Short-, medium- and long-term sequelae following COVID-19 infection: a network cohort study across multiple Asia-Pacific regions.",
-        "journal": "The Lancet regional health. Western Paci",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43060821/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43060647",
-        "title": "Study protocol for evidence-based LIFEstyle interventions for the delay of COgnitive DEcline among Singaporean older adults (LIFECODES): a randomized controlled trial.",
-        "journal": "Frontiers in aging neuroscience",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43060647/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43060269",
-        "title": "Distinct Sex-Associated Phenotypes of Sudden Cardiac Arrest Across Clinical, ECG, and Echocardiographic Domains: Replication in Two Communities and Comparison with the Framingham Heart Study.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43060269/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43060219",
-        "title": "Disease aging clocks in the plasma proteome stratify risk and track preclinical progression.",
-        "journal": "Research square",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43060219/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43060060",
-        "title": "Joint Longitudinal Hazard Modeling Distinguishes Polygenic Effects on Dementia via Premorbid Cognitive Function and Aging-Related Decline.",
-        "journal": "medRxiv : the preprint server for health",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43060060/",
         "zh": "",
         "evidence": "OTHER"
       }
