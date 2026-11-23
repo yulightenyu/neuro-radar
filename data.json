@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:00:46.669450Z",
+  "updated": "2026-11-23T05:39:19.061840Z",
   "feeds": [
     {
       "id": "drug",
@@ -200,6 +200,16 @@
     ],
     "dx": [
       {
+        "pmid": "43068741",
+        "title": "Benchmarking pTau-217 and pTau-181 blood level determination for the diagnosis ofAlzheimer's Disease in clinical practice.",
+        "journal": "Neurologia",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43068741/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43061845",
         "title": "Clinical value of plasma p-tau217 in identifying mild cognitive impairment due to Alzheimer's disease: A comparative multimarker analysis.",
         "journal": "Journal of Alzheimer's disease : JAD",
@@ -266,16 +276,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43049195/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43048885",
-        "title": "Circular RNAs as emerging multi-pathway blood-based biomarkers for Alzheimer's disease: Clinical need, biological rationale, and translational considerations.",
-        "journal": "Journal of Alzheimer's disease : JAD",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43048885/",
         "zh": "",
         "evidence": "OTHER"
       }
