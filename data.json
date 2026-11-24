@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:21:52.316676Z",
+  "updated": "2026-11-24T08:17:16.388837Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43073050",
+        "title": "Gut bacterial amyloid curli translocation as a major link in the central Aβ progression and cognitive decline in human and mouse models of AD.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43073050/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43071204",
         "title": "The Lactate Code in Alzheimer's Disease: A Working Framework for Cell- and Substrate-Specific Lactate Signaling in Neuroinflammation and Proteostasis.",
         "journal": "Cellular and molecular neurobiology",
@@ -186,19 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43065222/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43064881",
-        "title": "Innate Immunity in the Oral-Brain Axis: Trained Immunity as a Candidate Link Between Periodontitis and Alzheimer's Disease.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43064881/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43072486",
+        "title": "Comparing NfL, GFAP and total tau in tear fluid and plasma from participants with Huntington's disease.",
+        "journal": "Neurobiology of disease",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43072486/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43069378",
         "title": "Higher Serum Dopamine is Associated with Higher CSF Aβ42/40, Lower Amyloid-PET Burden, and Better Cognitive Function Across the Alzheimer's Disease Spectrum.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43052398/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43052277",
-        "title": "Plasma eMTBR-tau243 and p-tau205 as T2 biomarkers for biological staging and prognosis in Alzheimer's disease.",
-        "journal": "Nature communications",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43052277/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43073077",
+        "title": "Heterogeneous reversion patterns of mild cognitive impairment related to body mass index in Chinese communities.",
+        "journal": "Alzheimer's &amp; dementia : the journal",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43073077/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43071448",
         "title": "Associations Between Indoor Musty Odors and Sleep Quality and Duration Among Older Adults: Longitudinal Study.",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43055138/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43066613",
-        "title": "Predictors of Fear of Dementia: A 2-Year Longitudinal Analysis.",
-        "journal": "International journal of aging &amp; hum",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43066613/",
         "zh": "",
         "evidence": "OTHER"
       }
