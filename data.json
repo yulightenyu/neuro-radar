@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:54:40.499764Z",
+  "updated": "2026-11-25T06:54:24.227379Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,36 @@
     ],
     "mech": [
       {
+        "pmid": "43077654",
+        "title": "Neuropathologic Correlates of Cognitive Decline in Community-Dwelling Elders Who Die as Centenarians.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077654/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43077653",
+        "title": "Stage-Dependent Associations of Amyloid Pathology and White Matter Hyperintensities With Cognitive Decline Across the Clinical Continuum.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077653/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43077504",
+        "title": "Glycosaminoglycans in the structures of Aβ42 amyloid fibrils purified from mouse brains.",
+        "journal": "Proceedings of the National Academy of S",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077504/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43076574",
         "title": "Chronic Stress-Triggerable Nanoprodrugs Ameliorate Metabolic Abnormalities Driven by Hypothalamic-Pituitary-Adrenal Axis Dysregulation in Early Alzheimer's Disease.",
         "journal": "ACS nano",
@@ -166,39 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43074554/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43073982",
-        "title": "Transcriptome signatures associated with cognitively unimpaired individuals with pathologically confirmed Alzheimer disease.",
-        "journal": "Alzheimer's research &amp; therapy",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43073982/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43073050",
-        "title": "Gut bacterial amyloid curli translocation as a major link in the central Aβ progression and cognitive decline in human and mouse models of AD.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43073050/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43071204",
-        "title": "The Lactate Code in Alzheimer's Disease: A Working Framework for Cell- and Substrate-Specific Lactate Signaling in Neuroinflammation and Proteostasis.",
-        "journal": "Cellular and molecular neurobiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43071204/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43077653",
+        "title": "Stage-Dependent Associations of Amyloid Pathology and White Matter Hyperintensities With Cognitive Decline Across the Clinical Continuum.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077653/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43073463",
         "title": "Markers of Blood-Brain Barrier Integrity and Neurodegeneration Across Alzheimer's and Non-Alzheimer Neurodegenerative Diseases.",
@@ -268,19 +278,29 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43059849/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43057407",
-        "title": "Baseline diffusion MRI markers of interstitial fluid dynamics are associated with subsequent amyloid conversion in cognitively normal individuals.",
-        "journal": "NeuroImage",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43057407/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43077654",
+        "title": "Neuropathologic Correlates of Cognitive Decline in Community-Dwelling Elders Who Die as Centenarians.",
+        "journal": "Neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077654/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43077023",
+        "title": "Time Course of Inpatient Fall Risk after Antipsychotic Prescription Changes in Older Adults with Dementia: A Retrospective Cohort Study in an Acute Psychogeriatric Setting.",
+        "journal": "Drugs &amp; aging",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43077023/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43076574",
         "title": "Chronic Stress-Triggerable Nanoprodrugs Ameliorate Metabolic Abnormalities Driven by Hypothalamic-Pituitary-Adrenal Axis Dysregulation in Early Alzheimer's Disease.",
@@ -338,26 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43070511/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43070219",
-        "title": "AI-derived retinal vascular metrics and MoCA-B-defined mild cognitive impairment in type 2 diabetes: a community-based cross-sectional study.",
-        "journal": "Annals of medicine",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43070219/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43069826",
-        "title": "Frailty status transitions and chronic diseases incidence: A dual-cohort prospective study.",
-        "journal": "Sage open chronic disease",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43069826/",
         "zh": "",
         "evidence": "OTHER"
       }
