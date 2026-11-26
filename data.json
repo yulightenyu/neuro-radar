@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T06:45:12.411694Z",
+  "updated": "2026-11-26T20:54:23.274671Z",
   "feeds": [
     {
       "id": "drug",
@@ -35,6 +35,26 @@
   ],
   "items": {
     "drug": [
+      {
+        "pmid": "43088962",
+        "title": "Molecular Nuclear Imaging in Neurodegenerative Disorders: Advances in Amyloid and Tau PET, Dopaminergic Imaging, and Emerging Protein-Specific Tracers, 1992-2025.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43088962/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43088424",
+        "title": "Conformation- and Timing-Resolved Effects of Natural Polyphenols on Amyloid-β: An Evidence-Graded Synthesis and Design Considerations.",
+        "journal": "Current issues in molecular biology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43088424/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43081202",
         "title": "Braak stage-specific plasma proteomic signatures in Alzheimer's disease.",
@@ -94,111 +114,131 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/42994417/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "42988979",
-        "title": "Amyloid PET is a cost-effective exam to monitor Donanemab treatment in Alzheimer's disease.",
-        "journal": "Neurological sciences : official journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42988979/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "42979167",
-        "title": "Emerging and Repurposed Immune System Modulators for Alzheimer's Disease.",
-        "journal": "Drug design, development and therapy",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/42979167/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "mech": [
       {
-        "pmid": "43084677",
-        "title": "Spaceflight reshapes Alzheimer's disease-associated molecular programs in human brain organoids.",
-        "journal": "Science advances",
+        "pmid": "43096781",
+        "title": "Isoacteoside Acts as a TLX-Targeting Compound to Stimulate Neurogenesis and Ameliorate Cognitive Impairment in an Aβ-Induced Alzheimer's-Like Rat Model.",
+        "journal": "Aging cell",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43084677/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43096781/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43082760",
-        "title": "Cross-Disease Transcriptomic Analysis Identifies Selective Lysosomal Gene-Expression Patterns in Alzheimer's Disease and Lung Cancer.",
-        "journal": "Cells",
+        "pmid": "43096119",
+        "title": "HSV-1 Peptide Sharing With Drebrin and EGR1: Analysis of Sequence Context, Immune-Epitope Outcomes, and Structural Accessibility for Potential Cross-Reactivity in Alzheimer's Disease.",
+        "journal": "Journal of integrative neuroscience",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43082760/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43096119/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43082704",
-        "title": "Cell-Type-Specific Synthesis and Localization of Lactoferrin in the Brain of an APP/PS1 Mouse Model of Alzheimer's Disease.",
-        "journal": "Cells",
+        "pmid": "43094100",
+        "title": "Potential Role of Amyloid-Beta Accumulation in Skeletal Muscle in Sarcopenia in Ageing and Alzheimer's Disease.",
+        "journal": "Journal of cachexia, sarcopenia and musc",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43082704/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43094100/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43082527",
-        "title": "Fit-Derived Phasor Analysis of Metabolic Signatures of Cerebral Endothelial Dysfunction in Alzheimer's Disease: A Proof-of-Concept Study.",
-        "journal": "Biosensors",
+        "pmid": "43092868",
+        "title": "Exploring Alcoholic Dementia: Integrated Bioinformatics of Alzheimer's Disease and Alcohol Use Disorder with Preliminary EGCG Evaluation.",
+        "journal": "Nutrients",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43082527/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43092868/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43082207",
-        "title": "No clear evidence for relationships of apolipoprotein E genotype with measures of common infections in three UK cohorts.",
-        "journal": "Scientific reports",
+        "pmid": "43092844",
+        "title": "Late D-Chiro-Inositol Treatment Has Limited Effects on Hippocampal Alterations in Aged 3×Tg-AD Mice: Partial Rescue of CA1 Neurons Without Recovery of the Dentate Gyrus-CA3 Circuit.",
+        "journal": "Nutrients",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43082207/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43092844/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43081655",
-        "title": "Eupatilin Mitigates the Neuropathology Induced by Aβ Oligomers/NMDA.",
-        "journal": "CNS neuroscience &amp; therapeutics",
+        "pmid": "43091970",
+        "title": "Metabolite Composition of Stem and Root Extracts of 5-Year-Old Polyscias fruticosa (L.) Harms and Insights into Their Neuroprotective Properties Using Model Systems of Alzheimer's Disease and Neurodegeneration Induced by Toxicants.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43081655/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43091970/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43080064",
-        "title": "Blood proteome profiling of mild cognitive impairment identifies novel biomarkers for multi-pathway Alzheimer's assessment and cognitive decline prediction.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "43091961",
+        "title": "ApoE4 and Psychosis in Neurodegenerative and Non-Neurodegenerative Disease: A Scoping Review.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43080064/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43091961/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43079938",
-        "title": "Integrative single-cell multi-omics of African ancestry Alzheimer's disease brains reveals APOE ε4-dependent effects on glial translation pathways and neuronal synaptic function.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "43091842",
+        "title": "IgG-Mediated Hydrolysis of Neuregulin-1-Derived Peptides in 5xFAD Mice During the Development of Alzheimer's Disease-like Pathology.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43079938/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43091842/",
         "zh": "",
         "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43096312",
+        "title": "Symptom-Guided Blood Biomarker Testing for Alzheimer's Disease.",
+        "journal": "Dementia and geriatric cognitive disorde",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43096312/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43094361",
+        "title": "Longitudinal trajectories of plasma biomarkers, amyloid-β burden and cognitive decline in Alzheimer's disease.",
+        "journal": "Brain : a journal of neurology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43094361/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43088962",
+        "title": "Molecular Nuclear Imaging in Neurodegenerative Disorders: Advances in Amyloid and Tau PET, Dopaminergic Imaging, and Emerging Protein-Specific Tracers, 1992-2025.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43088962/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43087707",
+        "title": "Blood GFAP in Cerebral Small Vessel Disease and Vascular Cognitive Impairment: A Systematic Review of Cognitive Associations, Diagnostic Performance, and Prognostic Evidence.",
+        "journal": "Biomedicines",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43087707/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43081202",
         "title": "Braak stage-specific plasma proteomic signatures in Alzheimer's disease.",
@@ -238,126 +278,86 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43077855/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43077653",
-        "title": "Stage-Dependent Associations of Amyloid Pathology and White Matter Hyperintensities With Cognitive Decline Across the Clinical Continuum.",
-        "journal": "Neurology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43077653/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43073463",
-        "title": "Markers of Blood-Brain Barrier Integrity and Neurodegeneration Across Alzheimer's and Non-Alzheimer Neurodegenerative Diseases.",
-        "journal": "Neurology and therapy",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43073463/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43072486",
-        "title": "Comparing NfL, GFAP and total tau in tear fluid and plasma from participants with Huntington's disease.",
-        "journal": "Neurobiology of disease",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43072486/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43069378",
-        "title": "Higher Serum Dopamine is Associated with Higher CSF Aβ42/40, Lower Amyloid-PET Burden, and Better Cognitive Function Across the Alzheimer's Disease Spectrum.",
-        "journal": "Molecular neurobiology",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43069378/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
       {
-        "pmid": "43085984",
-        "title": "Development and analysis protocol for ORCHARD-Stroke: a multimodal cohort study of infection, systemic inflammation and poststroke dementia.",
-        "journal": "BMJ open",
+        "pmid": "43096992",
+        "title": "Ketamine and psychedelics: A path to Alzheimer's disease prevention?",
+        "journal": "Biomolecules &amp; biomedicine",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085984/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43096992/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43085805",
-        "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multilayered Deconstruction Using Global Burden of Disease Study 2023.",
-        "journal": "Neuroepidemiology",
+        "pmid": "43091853",
+        "title": "Telomeres, Aging and Neurodegenerative Diseases: Molecular Mechanisms, Clinical Evidence and Therapeutic Perspectives.",
+        "journal": "International journal of molecular scien",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085805/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43091853/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43085661",
-        "title": "MIND diet adherence, incident epilepsy, and multi-omics signatures: a prospective cohort study.",
-        "journal": "The American journal of clinical nutriti",
+        "pmid": "43089269",
+        "title": "Diabetes and Brain Health: Cognitive Decline, Dementia Risk, Assessment, Mechanisms, and Clinical Implications-A Narrative Review.",
+        "journal": "Healthcare (Basel, Switzerland)",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43085661/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43089269/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43083809",
-        "title": "Herpes Zoster Vaccination and Dementia Risk: A Systematic Review of Natural Experiments and Cohort Evidence.",
-        "journal": "Vaccines",
+        "pmid": "43089081",
+        "title": "Phagocytic NADPH Oxidase (NOX-2) as a Central Oxidative Effector in Experimental Models of Transportation-Noise-Induced Cardiovascular and Cerebral Disease.",
+        "journal": "Antioxidants (Basel, Switzerland)",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43083809/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43089081/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43080231",
-        "title": "Trajectories of remnant cholesterol and HbA1c-derived estimated triglyceride-glucose index and risk of dementia in people with type 2 diabetes: A 25-year population-based cohort study in New Zealand.",
-        "journal": "Alzheimer's &amp; dementia (Amsterdam, N",
+        "pmid": "43089049",
+        "title": "Blood Plasma Coenzyme Q10 and P-Selectin Are Predictive Factors for Mild Cognitive Dysfunction in Elderly Women.",
+        "journal": "Antioxidants (Basel, Switzerland)",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43080231/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43089049/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43080091",
-        "title": "Explainable Deep Learning Maps Age-Dependent Differences Between Alzheimer's Disease and Healthy Brain Aging.",
-        "journal": "Human brain mapping",
+        "pmid": "43087964",
+        "title": "Longitudinal Non-Pharmacological Neuromodulation and Cognitive Training Across Sequential Intervention Studies in a Participant with Alzheimer's Disease: A 10-Year Single-Participant Analysis.",
+        "journal": "Bioengineering (Basel, Switzerland)",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43080091/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43087964/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43080064",
-        "title": "Blood proteome profiling of mild cognitive impairment identifies novel biomarkers for multi-pathway Alzheimer's assessment and cognitive decline prediction.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
+        "pmid": "43087656",
+        "title": "Cholinesterase Inhibitors in the Management of Canine Cognitive Dysfunction: A Review on the Mechanisms of Action, Current Evidence from Experimental and Clinical Studies, and Future Directions.",
+        "journal": "Animals : an open access journal from MD",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43080064/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43087656/",
         "zh": "",
         "evidence": "OTHER"
       },
       {
-        "pmid": "43079909",
-        "title": "Cruciferous vegetable intake and dementia risk in community-dwelling Japanese people aged 40-74 years: a 13-year cohort study.",
-        "journal": "The British journal of nutrition",
+        "pmid": "43087013",
+        "title": "Associations of energy-adjusted dietary niacin equivalent density with cognitive function and incident dementia: evidence from a large population-based cohort.",
+        "journal": "Nutrition journal",
         "year": "2026",
         "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43079909/",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43087013/",
         "zh": "",
         "evidence": "OTHER"
       }
