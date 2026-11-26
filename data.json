@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T21:01:09.184390Z",
+  "updated": "2026-11-26T06:45:12.411694Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,16 @@
     ],
     "mech": [
       {
+        "pmid": "43084677",
+        "title": "Spaceflight reshapes Alzheimer's disease-associated molecular programs in human brain organoids.",
+        "journal": "Science advances",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43084677/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43082760",
         "title": "Cross-Disease Transcriptomic Analysis Identifies Selective Lysosomal Gene-Expression Patterns in Alzheimer's Disease and Lung Cancer.",
         "journal": "Cells",
@@ -184,16 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43079938/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43079858",
-        "title": "The niacin receptor HCAR2 is protective across early and advanced stages of amyloid pathology.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43079858/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,36 @@
     ],
     "prev": [
       {
+        "pmid": "43085984",
+        "title": "Development and analysis protocol for ORCHARD-Stroke: a multimodal cohort study of infection, systemic inflammation and poststroke dementia.",
+        "journal": "BMJ open",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085984/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43085805",
+        "title": "The Epidemiological Transition of Neurodegenerative Diseases in China: A Multilayered Deconstruction Using Global Burden of Disease Study 2023.",
+        "journal": "Neuroepidemiology",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085805/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43085661",
+        "title": "MIND diet adherence, incident epilepsy, and multi-omics signatures: a prospective cohort study.",
+        "journal": "The American journal of clinical nutriti",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43085661/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43083809",
         "title": "Herpes Zoster Vaccination and Dementia Risk: A Systematic Review of Natural Experiments and Cohort Evidence.",
         "journal": "Vaccines",
@@ -328,36 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43079909/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43079735",
-        "title": "Circulating TIMP2 associates with brain health and lifestyle factors.",
-        "journal": "Alzheimer's &amp; dementia : the journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43079735/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43079464",
-        "title": "Early Amyloid-beta-driven cerebrovascular dysfunction is associated with altered CSF Aβ dynamics and precedes prominent neuronal apoptosis in Alzheimer's disease.",
-        "journal": "Fluids and barriers of the CNS",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43079464/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43079273",
-        "title": "Direct-access model for dysphagia management in community-dwelling older adults: retrospective analysis of 120 patients.",
-        "journal": "BMC geriatrics",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43079273/",
         "zh": "",
         "evidence": "OTHER"
       }
