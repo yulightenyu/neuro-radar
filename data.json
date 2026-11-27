@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:54:23.274671Z",
+  "updated": "2026-11-27T06:37:01.328572Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "43098587",
+        "title": "Mapping Amyloid Networks in Alzheimer's Disease: A High-Order Independent Component Analysis Approach to Gray and White Matter Pathology.",
+        "journal": "Human brain mapping",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43098587/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43097144",
+        "title": "Glymphatic dysfunction links neuropsychiatric symptoms to cognitive decline via neurodegeneration in Alzheimer's disease.",
+        "journal": "European journal of nuclear medicine and",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43097144/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43096781",
         "title": "Isoacteoside Acts as a TLX-Targeting Compound to Stimulate Neurogenesis and Ameliorate Cognitive Impairment in an Aβ-Induced Alzheimer's-Like Rat Model.",
         "journal": "Aging cell",
@@ -176,29 +196,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43091970/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43091961",
-        "title": "ApoE4 and Psychosis in Neurodegenerative and Non-Neurodegenerative Disease: A Scoping Review.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43091961/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43091842",
-        "title": "IgG-Mediated Hydrolysis of Neuregulin-1-Derived Peptides in 5xFAD Mice During the Development of Alzheimer's Disease-like Pathology.",
-        "journal": "International journal of molecular scien",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43091842/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "dx": [
+      {
+        "pmid": "43097483",
+        "title": "A generalizable fit-for-purpose workflow for multiplex targeted mass-spectrometry of protein-based blood biomarkers: validation and clinical application to neurodegenerative diseases in a 400-patient cohort.",
+        "journal": "Clinical chemistry and laboratory medici",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43097483/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43096312",
         "title": "Symptom-Guided Blood Biomarker Testing for Alzheimer's Disease.",
@@ -268,19 +278,19 @@
         "link": "https://pubmed.ncbi.nlm.nih.gov/43079464/",
         "zh": "",
         "evidence": "OTHER"
-      },
-      {
-        "pmid": "43077855",
-        "title": "Surface enhanced Raman scattering and upconversion luminescence dual mode magnetic sandwich immunoassay based on β-NaGdF4:Yb,Er nanoparticles and Au nanobipyramids for sensitive detection of p-tau217.",
-        "journal": "Colloids and surfaces. B, Biointerfaces",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43077855/",
-        "zh": "",
-        "evidence": "OTHER"
       }
     ],
     "prev": [
+      {
+        "pmid": "43097266",
+        "title": "Associations between fruit, vegetable and fish and epigenetic markers of ageing and protein EpiScores in Generation Scotland.",
+        "journal": "GeroScience",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43097266/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
       {
         "pmid": "43096992",
         "title": "Ketamine and psychedelics: A path to Alzheimer's disease prevention?",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43087656/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43087013",
-        "title": "Associations of energy-adjusted dietary niacin equivalent density with cognitive function and incident dementia: evidence from a large population-based cohort.",
-        "journal": "Nutrition journal",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43087013/",
         "zh": "",
         "evidence": "OTHER"
       }
