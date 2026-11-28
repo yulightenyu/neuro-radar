@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T20:39:49.243259Z",
+  "updated": "2026-11-28T06:11:19.376095Z",
   "feeds": [
     {
       "id": "drug",
@@ -118,6 +118,26 @@
     ],
     "mech": [
       {
+        "pmid": "43102606",
+        "title": "Relative tracer delivery from [18F]MK6240 PET imaging as a perfusion-sensitive biomarker across aging and clinically defined cognitive impairment.",
+        "journal": "European journal of nuclear medicine and",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43102606/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
+        "pmid": "43102569",
+        "title": "Interaction effects of nucleus basalis of Meynert atrophy and glymphatic dysfunction with tau deposition across the Alzheimer's disease continuum: a multimodal PET/MR study.",
+        "journal": "European journal of nuclear medicine and",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43102569/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43102296",
         "title": "Detection of Alzheimer's Disease and Related Dementia Biomarkers In Vitreous Humor Using Single-Molecule Array Assays.",
         "journal": "Journal of visualized experiments : JoVE",
@@ -174,26 +194,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43099235/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43098587",
-        "title": "Mapping Amyloid Networks in Alzheimer's Disease: A High-Order Independent Component Analysis Approach to Gray and White Matter Pathology.",
-        "journal": "Human brain mapping",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43098587/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43097144",
-        "title": "Glymphatic dysfunction links neuropsychiatric symptoms to cognitive decline via neurodegeneration in Alzheimer's disease.",
-        "journal": "European journal of nuclear medicine and",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43097144/",
         "zh": "",
         "evidence": "OTHER"
       }
@@ -282,6 +282,16 @@
     ],
     "prev": [
       {
+        "pmid": "43102866",
+        "title": "Mechanisms of mindfulness in early-stage Alzheimer's disease.",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2026",
+        "month": "11",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/43102866/",
+        "zh": "",
+        "evidence": "OTHER"
+      },
+      {
         "pmid": "43101943",
         "title": "Development and external validation of SHARP-WA: A later-life dementia risk prediction model for community-dwelling older women.",
         "journal": "Journal of Alzheimer's disease : JAD",
@@ -348,16 +358,6 @@
         "year": "2026",
         "month": "11",
         "link": "https://pubmed.ncbi.nlm.nih.gov/43100288/",
-        "zh": "",
-        "evidence": "OTHER"
-      },
-      {
-        "pmid": "43097266",
-        "title": "Associations between fruit, vegetable and fish and epigenetic markers of ageing and protein EpiScores in Generation Scotland.",
-        "journal": "GeroScience",
-        "year": "2026",
-        "month": "11",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/43097266/",
         "zh": "",
         "evidence": "OTHER"
       }
